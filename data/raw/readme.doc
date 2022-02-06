@@ -1,0 +1,86 @@
+
+			  DARPA Switchboard
+		    Telephone Conversation Corpus
+				(swb1)
+
+			      Release 2
+			     August, 1997
+
+
+			Disc 1 of 23, Phase 1
+
+The Switchboard-1 Telephone Speech Corpus was originally collected by
+Texas Instruments in 1990-1, under DARPA sponsorship.  The first
+release of the corpus was published by NIST and distributed by the
+LDC in 1992-3.  Since that release, a number of corrections have been
+made to the data files as presented on the original CD-ROM set, and
+all copies of the first pressing have been distributed.
+
+In this new release, assembled and published by the LDC, all known
+errors affecting the original publication of speech files have been
+corrected.  In addition, modifications have been made to the contents
+of the NIST Sphere headers of all speech files, to identify each file
+as being part of the new release, and to make the usage of the
+"sample_count" header field consistent with standard Sphere usage.
+(In particular, the "sample_count" field should reflect the number of
+samples on each channel in the file.  In the initial release, this
+field was improperly set to be the total number of samples in both
+channels of the file; this has been corrected in the new release.)
+
+Each speech file consists of a 1024-byte ASCII-formatted Sphere
+header, followed by 2-channel interleaved mu-law sample data.  The
+mu-law samples represent the actual digital data transmission from the
+telephone service provider (MCI), as captured separately for each side
+of the telephone conversation by an InterVoice RobotOperator
+voice-response system.  Full documentation for the data collection is
+provided together with the transcripts of the conversations, which are
+obtained from the LDC in combination with the CD-ROMs of speech data
+(or separately).
+
+As indicated in the volume-id strings of the CD-ROMs, the collection
+was organized into two "phases"; calls collected in Phase 1 are on the
+first 13 discs of the set, and the Phase 2 calls are on the remaining
+10 discs.  The difference between the two phases involved the average
+length of conversations (the Phase 2 calls are typically shorter), and
+characteristics of the InterVoice collection hardware, which in turn
+lead to different post-processing for the Phase 1 calls.
+
+In particular, there was a "feature" in the original InterVoice system
+software that caused a limited number of samples to be dropped from the
+digital capture under certain conditions in signal quality.  While
+this feature was not noticeable to participants while it was taking
+place, it resulted in a variable loss of alignment between the two
+channels of the call in the resulting digital recording.  Once this
+discrepancy between channels was noticed in the speech data, further
+data collection was suspended until the InterVoice software was
+patched, and a re-alignment process was engineered at NIST to repair
+the affected speech files.
+
+Hence, the Phase 1 portion consists of files that have been
+manipulated to assure proper time alignment of the two channels, while
+the Phase 2 portion contains files that were never affected by
+mis-alignment.  The alignment operations performed on the Phase 1
+files are logged by way of "*.rec" (reconciliation) files that
+accompany the transcripts for those conversations.
+
+In the root directory of each Switchboard-1 Speech CD-ROM, you will
+find:
+
+	docs/readme.doc		(this file)
+	docs/swb1_all.dvd.tbl	list of all files modified for the DVD set
+	docs/swb1_all.tbl	list of all speech files in 23-disc set
+	data/			directory containing speech files
+
+The speech files are named according to the following pattern:
+
+	sw0NNNN.sph
+
+where the five-digit string "0NNNN" represents the conversation-id;
+this string is used to identify all files associated with the given
+call (i.e. transcripts and reconciliation files, as well as speech
+data), and also to identify the calls in the associated data base
+tables that provide information about the calls and participants.
+(The initial zero of the five-digit conversation-id serves to
+distinguish the files of Switchboard-1 from those of more recent
+Switchboard collections that have been created by the LDC.)
+

@@ -1,0 +1,3047 @@
+SWITCHBOARD: A User's Manual
+
+
+TABLE OF CONTENTS
+
+1.  Summary Abstract
+
+2.  Overview of directory and file structure
+
+3.  The .wav files
+
+4.  The .txt files
+   
+5.  The .mrk files
+   
+6.  Ancillary text files: database tables
+   
+7.  Ancillary speech files: the collection prompts
+   
+8.  How the data was collected
+   
+9.  How the data was transcribed
+   
+10. The SWITCHBOARD dictionary
+   
+11. How the data was time aligned
+   
+12. Quality Control (QC) procedures
+   
+13. Technical problems in collection and processing
+   
+14. How to report errors
+   
+15. References
+
+ATTACHMENTS
+
+Attachment 1: SWITCHBOARD registration packet
+
+Attachment 2: SWITCHBOARD prompts -- description and text
+
+Attachment 3: Instruction manual for SWITCHBOARD transcribers
+
+
+
+
+1.  Summary Abstract
+
+SWITCHBOARD is a corpus of spontaneous conversations which addresses
+the growing need for large multispeaker databases of telephone
+bandwidth speech.  Collected at Texas Instruments with funding by
+DARPA, the complete set of CD-ROMs includes about 2430 conversations
+averaging 6 minutes in length; in other terms, over 240 hours of
+recorded speech, and about 3 million words of text, spoken by over 500
+speakers of both sexes from every major dialect of American English.
+
+Apart from sheer volume, however, it has a number of unique features
+designed to support telephone-based speech technology development as
+well as basic research on spontaneous conversational speech and
+language.
+
+First, SWITCHBOARD was collected without human intervention, under
+computer control.  Interaction with the system was via touchtones and
+recorded instructions, but the two talkers, once connected, could
+"warm up" before recording began.  From a human factors perspective,
+automation guards against the intrusion of experimenter bias, and
+guarantees a degree of uniformity throughout the long period of data
+collection.  The protocols were further intended to elicit natural and
+spontaneous speech by the participants.  The transcribers' ratings
+indicate that they perceived the conversations as highly natural.
+
+Second, the use of T1 lines and automatic switching software made it
+possible to collect the digital version of the speech signals directly
+from the telephone network, and also to isolate the two sides of the
+conversations.  The goal was to have real telephone speech, routed
+through the public network, but with no degradation due to the
+collection system.  Isolation of the callers, within the limits of
+network echo cancelling performance, permits researchers to train on
+each speaker's voice separately, and then test on either one or both
+speakers in any conversation.
+
+Third, the speech is fully transcribed, and the transcription
+conventions documented.  Court reporters produced most of the verbatim
+transcripts, following a manual prepared specifically for the project.
+Their work was checked for formatting errors by an awk script, then
+twice more by humans during quality control (QC) inspections.
+
+Fourth, each transcript is accompanied by a time alignment file, which
+estimates the beginning time and duration of each word in the
+transcript in centiseconds.  The time alignment was accomplished with
+supervised phone-based speech recognition, as described by Wheatley et
+al. [1].  The corpus is therefore capable of supporting not only
+purely text-independent approaches to speaker verification, but also
+those which make use of any degree of knowledge of the text, including
+phonetics.  It should also facilitate studies of the phonetic
+characteristics of spontaneous speech on a scale not previously
+possible.
+
+Fifth, SWITCHBOARD has both depth and breadth of coverage for studying
+speaker characteristics.  Forty eight people participated 20 times or
+more; this adds up to about, an hour of speech, enough for extensive
+training or modeling and for repeated testing with unseen material.
+Hundreds of others participated ten times or less, providing a pool
+large enough for many open-set experiments.
+
+Sixth, the participants' demographics, as well as the dates, times,
+and other pertinent information about each phone call, are recorded in
+relational database tables.  Except for personal information about the
+callers, these tables are included with the corpus.  The volunteers
+who participated provided information relevant to studies of voice,
+dialect, and other aspects of speech style, including age, sex,
+education, current residence, and places of residence during formative
+years.  The exact time and the area code of origin of each call is
+provided, as well as a means of telling which calls by the same person
+came from different telephones.  Many callers made calls from multiple
+handsets, in order to facilitate study of the effects of that variable
+on voice recognition.
+
+
+
+2.  Overview of Directory and File Structure
+
+There are 25 speech discs in the Switchboard Corpus (NIST Speech Discs
+9-3.1 - 9-27.1).  Each disc has a "readme.doc" file and a "swb1"
+subdirectory in the top-level directory.  The "readme.doc" file
+contains information about the conversations on that disc.  The "swb1"
+subdirectory contains the NIST SPHERE-headered binary files containing
+the speech by both speakers in each conversation.  The wavefiles are
+named "swXXXX.wav" where XXXX is the conversation number.
+
+All transcription files for the Switchboard corpus are on one CD-ROM
+(NIST Speech Disc 9-1.1).  This disc has a "readme.doc" file in the
+top-level directory and a "trans" subdirectory.  The "trans"
+subdirectory contains a "phase1" subdirectory and a "phase2"
+subdirectory.  The "phase1" subdirectory contains 15 subdirectories,
+one for each disc in Phase 1 of the Switchboard Corpus.  The "phase2"
+subdirectory contains 10 subdirectories, one for each disc in Phase 2
+of the Switchboard Corpus.  These subdirectories contain the
+transcription files.
+
+The orthographic transcription files are named "swXXXX.txt" where
+XXXX is a conversation number.  The time-aligned marked transcripts
+are named "swXXXX.mrk" where XXXX is a conversation number.  For each
+word in the .txt file, the .mrk file gives an estimated start time and
+duration.
+
+In the following sections are examples illustrating the contents of
+each file type, and some information on the conventions used in
+writing them.
+
+
+
+
+3.  The .wav Files
+
+The information in the header of the file sw4940.wav can be
+read with the SPHERE utility h_read:
+
+speaker_id1 1423
+speaker_id2 1662
+recording_date 920508
+recording_time 2204
+conversation_id 4940
+database_id SWB1
+channel_count 2
+sample_max1 4015.500000
+sample_max2 4015.500000
+sample_coding mu-law
+channels_interleaved TRUE
+sample_count 4798496
+sample_rate 8000
+sample_n_bytes 1
+sample_sig_bits 8
+
+"speaker_id1" is the number of the speaker who initiated the call.  In
+the transcripts this speaker will be called "A".  In the database
+tables the identification number will be under the attribute
+"CALLER_NO".
+
+"speaker_id2" is the number of the speaker who received the call.  In
+the transcripts this speaker will be called "B".
+
+"recording_date" is in YYMMDD format, so the date of this conversation
+was May 8, 1992.
+
+"recording_time" is in HHMM format; recording of this call began at
+10:04 p.m. CDT.
+
+"sample_max1" is the maximum amplitude of the signal on speaker_id1's
+channel, expressed as a positive linear value; 4015.5 is full scale.
+
+"sample_max2" is the maximum amplitude of the signal on speaker_id2's
+channel, which was also full scale.
+
+"sample_coding" tells how to interpret the binary data in the .wav
+file; these are coded as mu-law values, exactly as read from the
+digital telephone line.
+
+"channels_interleaved" has the value TRUE indicating that 
+alternate bytes are the
+values from alternate channels; speaker_id1's data are the odd bytes,
+speaker_id2's data are the even bytes (where the first byte is 
+byte 1); summing successive pairs gives
+the entire conversation.
+
+"sample_count" is the total number of bytes of speech data.  Since
+there is one byte per sample, but both sides of the conversation are
+represented at each sample time, there are 16000 samples per second,
+or 960000 samples per minute.  Thus a good rule of thumb is "one
+Megabyte per minute," so 4798496 samples represents nearly five
+minutes of speech.
+
+"sample_rate" is 8000 samples per second.
+
+"sample_n_bytes" is 1, the number of bytes per sample in the mu-law 
+format.
+
+"sample_sig_bits" is the number of bits per sample value, which is 8.
+
+
+
+4.  The .txt Files
+
+The transcripts begin with a header-like section which can be ignored
+by skipping down to the line consisting entirely of "====".  Some of
+this information matches the .wav header information, and was used to
+verify and maintain consistency between the two files when
+transcribers worked on the .txt files.  The rest is information
+inserted by the original transcriber after completing the transcript,
+then reviewed and corrected if necessary by one or more QC
+transcribers.
+
+The instructions given to the transcribers for rating the difficulty,
+amount of echo or noise, etc. are found below in the section on
+"TRANSCRIPTION", but will be described very briefly here.  A scale of
+1 to 5 is used, where 1 implies good quality, easy to understand,
+etc., and 5 is bad quality, more difficult to deal with, etc.
+
+The header section of conversation 4940 is reproduced here
+for illustration:
+
+FILENAME:	4940_1423_1662
+TOPIC#:		302
+DATE:		920508
+TRANSCRIBER:	nk
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:         None
+
+============================================================
+
+The first four lines are self-explanatory.
+
+"DIFFICULTY" means the overall difficulty of transcribing this
+conversation compared to the rest of the SWITCHBOARD conversations
+this transcriber has done.  It is a subjective catch-all, designed to
+alert the user, where no other standard category of problem is noted,
+that there may be a soft-spoken, mumbling, or otherwise
+difficult-to-understand caller.  The transcriber thought conversation
+4940 was not very difficult, but harder than some.
+
+"TOPICALITY" refers to whether the callers conversed generally about
+what was suggested by the recorded prompt.  Conversations were not
+rejected if callers strayed from the prompt, or even ignored it
+entirely.  However, those who wish to group calls for vocabulary
+studies, language modelling, etc., may find this a useful guide.  The
+transcriber thought that the speakers in conversation 4940 stayed
+right with the topic suggested by the prompt.
+
+"NATURALNESS" is another very subjective rating, intended partly to
+study after the fact how well the human factors in SWITCHBOARD
+succeeded in eliciting natural conversational speech.  The transcriber
+felt this was a natural sounding conversation, but less so than some
+others.
+
+"ECHO_FROM_B" estimates how loud the crosstalk from the other channel
+(B) was on this channel (A), at the times when A was silent and B was
+talking.  A score of "1" means inaudible or almost so; a score of "5"
+means the crosstalk was almost as loud as the speech on the A channel
+itself.  This conversation apparently had little or no crosstalk in
+either direction.
+
+"ECHO_FROM_A" is the same estimate, but for the B channel.  To make
+these ratings, of course, transcribers had to listen to each channel
+separately as well as the combined signal.
+
+"STATIC_ON_A" was intended to isolate the occurrence of electrical
+noises often described as static, some of which were caused by the
+collection system, from other types of unwanted acoustic
+signals on channel A.  It is not clear how well the transcribers
+understood this distinction, so there may be many "false positives"
+from acoustic noise in a caller's environment.  But in the cases where
+strong digital noise was present, they did seem to note it and lower
+the ratings accordingly.  The transcriber heard some static in this
+conversation, and noted two places in the transcript where it occurred
+with the term [static].
+
+"STATIC_ON_B" is the same for the other channel.  None was noted in
+this conversation, hence a rating of 1.
+
+"BACKGROUND_A" refers to the presence of noise, including any unwanted
+signal of any kind, coming from the environment of caller A.  In this
+example, the noise of people talking, children playing, and dishes
+being washed caused a rating of 2 on the A channel.
+
+"BACKGROUND_B" refers to the same on channel B.  In this conversation
+there were also voices and children on the B side, and the same
+rating was given.
+
+"REMARKS" was a field for transcribers or QCers to insert unlimited
+free-form comments on the conversation; they were encouraged to note
+any unusual characteristics that might help in studying the speech,
+and especially any overall sources of difficulty not well identified
+in the ratings.  For example, if one caller was eating all through the
+conversation, or had a head cold, this was the place to note it.
+
+The remainder of the .txt file is the verbatim transcript of what was
+said, with the speakers indicated by "A:" and "B:", and a number of
+conventional symbols and expressions which will be explained in the
+TRANSCRIPTION section below.  Here are the first fifty lines of the
+file sw4940.txt, the example used above:
+
+
+FILENAME:	4940_1423_1662
+TOPIC#:		302
+DATE:		920508
+TRANSCRIBER:	nk
+DIFFICULTY:	2
+TOPICALITY:	1
+NATURALNESS:	2
+ECHO_FROM_B:	1
+ECHO_FROM_A:	1
+STATIC_ON_A:	2
+STATIC_ON_B:	1
+BACKGROUND_A:	2
+BACKGROUND_B:	2
+REMARKS:         None
+
+============================================================
+
+A:  Okay [children].
+
+B:  Okay Carol.  So, air quality.
+
+A:  Yeah.  Is it, [noise] {sounds like water running and she is doing dishes} I
+know in here, uh, downtown Dallas, it's, you, I mean you drive by and you can
+just, you can see it.
+
+B:  Uh-huh.
+
+A:  But, then again [throat_clearing] I originally was from California and, uh,
+there is a big difference between Texas and California.  #And, uh# --
+
+B:  #Surely.#
+
+A:  -- they'd have their smog alerts and where you'd have to stay indoors for
+so many hours with an air conditioner.  And, of course, they don't have that
+here in Texas so, [breathing] there's ...
+
+B:  You mean they don't have the, uh, the smog alerts?
+
+A:  No, not in, not in Te-, well not in Dallas, that is.
+
+B:  Right.  I, I,
+
+A:  [throat_clearing].
+
+B:  yeah, I spent a summer i-, i-, in Tyler so I know, just east of Dallas
+there.
+
+A:  Yeah.  We're going there tomorrow.
+
+B:  Oh, really #[laughter].#
+
+
+
+
+
+5.  The .mrk Files
+
+For ease of use the .mrk files are arranged in fixed records of
+four fields, where the first field is the speaker (A or B), the second
+is the estimated start time in seconds, the third is the estimated
+duration in seconds, and the fourth is the word whose start time and
+duration are estimated.  
+
+A "word" in the transcript is sometimes not actually a spoken word,
+and in these cases an asterisk is placed in the start time and
+duration fields.  This occurs for certain punctuation marks, for
+bracketed expressions indicating acoustic events other than speech of
+the callers, for transcribers' comments in braces, etc.  
+
+The same convention is used also where there is simultaneous
+speech--one talker's words are time marked in that case, and the
+other's are left with asterisks in the time fields.
+
+The first 100 lines of file sw4940.mrk are reproduced here
+to illustrate some of these conventions.
+
+  A	  0.04	  0.42	Okay
+  A	     *	     *	[children].
+  B	  0.82	  0.22	Okay
+  B	  1.06	  0.34	Carol.
+  B	  3.58	  0.34	So,
+  B	  3.92	  0.20	air
+  B	  4.12	  0.70	quality.
+  A	  5.40	  0.22	Yeah.
+  A	  6.16	  0.16	Is
+  A	  6.32	  0.16	it,
+  A	     *	     *	[noise]
+  A	     *	     *	{sounds
+  A	     *	     *	like
+  A	     *	     *	water
+  A	     *	     *	running
+  A	     *	     *	and
+  A	     *	     *	she
+  A	     *	     *	is
+  A	     *	     *	doing
+  A	     *	     *	dishes}
+  A	  7.02	  0.10	I
+  A	  7.12	  0.22	know
+  A	  7.34	  0.08	in
+  A	  7.42	  0.30	here,
+  A	  7.80	  0.22	uh,
+  A	  8.36	  0.44	downtown
+  A	  8.80	  0.46	Dallas,
+  A	  9.26	  0.22	it's,
+  A	  9.60	  0.20	you,
+  A	  9.82	  0.10	I
+  A	  9.92	  0.20	mean
+  A	 10.12	  0.08	you
+  A	 10.20	  0.28	drive
+  A	 10.52	  0.26	by
+  A	 10.78	  0.08	and
+  A	 10.86	  0.08	you
+  A	 10.94	  0.16	can
+  A	 11.10	  0.24	just,
+  A	 11.96	  0.10	you
+  A	 12.06	  0.14	can
+  A	 12.20	  0.40	see
+  A	 12.60	  0.16	it.
+  B	 12.76	  0.32	Uh-huh.
+  A	 13.78	  0.38	But,
+  A	 14.34	  0.42	then
+  A	 14.88	  0.36	again
+  A	     *	     *	[throat_clearing]
+  A	 15.52	  0.16	I
+  A	 15.90	  0.54	originally
+  A	 16.58	  0.22	was
+  A	 16.80	  0.14	from
+  A	 16.94	  0.66	California
+  A	 17.72	  0.26	and,
+  A	 17.98	  0.18	uh,
+  A	 18.60	  0.16	there
+  A	 18.76	  0.10	is
+  A	 18.86	  0.08	a
+  A	 18.94	  0.30	big
+  A	 19.28	  0.58	difference
+  A	 20.36	  0.34	between
+  A	 20.70	  0.48	Texas
+  A	 21.18	  0.12	and
+  A	 21.30	  0.72	California.
+  A	     *	     *	#And,
+  A	     *	     *	uh#
+  A	     *	     *	--
+  B	 22.56	  0.34	#Surely.#
+  A	     *	     *	--
+  A	 22.90	  0.10	they'd
+  A	 23.00	  0.28	have
+  A	 23.42	  0.44	their
+  A	 23.86	  0.42	smog
+  A	 24.28	  0.34	alerts
+  A	 24.62	  0.22	and
+  A	 25.50	  0.10	where
+  A	 25.60	  0.20	you'd
+  A	 25.80	  0.10	have
+  A	 25.90	  0.10	to
+  A	 26.00	  0.48	stay
+  A	 26.48	  0.44	indoors
+  A	 26.92	  0.10	for
+  A	 27.04	  0.24	so
+  A	 27.28	  0.22	many
+  A	 27.50	  0.30	hours
+  A	 27.80	  0.16	with
+  A	 27.96	  0.06	an
+  A	 28.06	  0.12	air
+  A	 28.18	  0.60	conditioner.
+  A	 28.78	  0.16	And,
+  A	 28.94	  0.02	of
+  A	 28.96	  0.30	course,
+  A	 29.26	  0.08	they
+  A	 29.34	  0.12	don't
+  A	 29.46	  0.14	have
+  A	 29.60	  0.12	that
+  A	 29.72	  0.14	here
+  A	 29.86	  0.08	in
+  A	 29.94	  0.52	Texas
+  A	 31.54	  0.42	so,
+  A	     *	     *	[breathing]
+  A	 32.64	  0.22	there's
+
+
+
+6.  Ancillary Text Files: Database Tables
+
+In the directory /swb1/tables on the transcription disc (NIST Speech
+Disc 9-1.1) are the tables containing information about
+the callers, conversations, etc.  To design experiments with
+SWITCHBOARD, it is recommended that these tables be incorporated into
+a relational database management system (RDBMS) with at least the
+relations caller, conversation, and caller_conversation.  The
+relations topic and rating may also be helpful.
+
+To insure anonymity, the names of the callers are not included in the
+tables, and the telephone numbers have been encoded as follows.  The
+area code and first three digits of the phone number have not been
+altered.  For each six-digit prefix, a list was made of all phone numbers.
+These lists were sorted into ascending order.  For the first phone number
+in each list, we replaced the last four digits with "0000".  For the
+second phone number in each list, we replaced the last four digits with
+"0001".  This was done for all phone numbers in the tables so that it is
+still possible to tell when callers were using the same extension, but the
+actual phone number will not be revealed.
+
+Here are the suggested relations, and a few rows from the tables to
+illustrate their structure:
+
+The CALLER relation--
+
+SQL>
+describe caller
+ Name                            Null?    Type
+ ------------------------------- -------- ----
+ CALLER_NO                       NOT NULL NUMBER(4)
+ SEX                                      CHAR(6)
+ BIRTH_YEAR                               NUMBER(4)
+ DIALECT_AREA                             CHAR(13)
+ EDUCATION                                NUMBER(1)
+ REMARKS                                  CHAR(120)
+
+SQL> select * from caller where caller_no < 1046;
+
+CALLER SEX    BIRTH YEAR DIALECT  	EDU   REMARKS  
+------ ------ ---------- -------- 	---   ------------------------
+  1000 FEMALE       1954 SOUTH MIDLAND  1     
+  1001 MALE         1940 WESTERN    	3     
+  1002 FEMALE       1963 SOUTHERN   	2     
+  1003 MALE         1947 NORTH MIDLAND  2     
+  1004 FEMALE       1958 NORTHERN   	2     
+  1005 FEMALE       1956 WESTERN    	2     
+  1007 FEMALE       1965 NEW ENGLAND    2     
+  1008 FEMALE       1939 MIXED      	1     
+  1010 MALE         1932 NEW ENGLAND    1              
+  1011 FEMALE       1964 SOUTH MIDLAND  2     
+  1013 FEMALE       1957 SOUTH MIDLAND  2     
+  1014 FEMALE       1947 MIXED      	1     
+  1015 FEMALE       1967 NEW ENGLAND    2     
+  1016 FEMALE       1945 SOUTHERN   	2     
+  1018 FEMALE       1962 SOUTH MIDLAND  3     
+  1019 MALE         1941 NEW ENGLAND    3     
+  1020 FEMALE       1956 NORTH MIDLAND  2     
+  1021 MALE         1957 NORTHERN   	3     
+  1022 FEMALE       1959 SOUTH MIDLAND  2     
+  1023 MALE         1939 SOUTHERN   	2     
+  1024 MALE         1964 NORTH MIDLAND  2     
+  1025 MALE         1953 SOUTH MIDLAND  2     
+  1026 FEMALE       1957 SOUTHERN   	2     
+  1027 FEMALE       1961 NORTH MIDLAND  2     
+  1028 MALE         1965 NYC        	3     
+  1031 FEMALE       1940 SOUTH MIDLAND  3     
+  1032 FEMALE       1943 SOUTHERN   	2     
+  1033 FEMALE       1965 SOUTH MIDLAND  1     
+  1034 MALE         1961 NORTHERN   	3     
+  1035 FEMALE       1953 NORTH MIDLAND  2     
+  1037 MALE         1947 WESTERN    	3     
+  1038 FEMALE       1963 UNK        	2     
+  1039 MALE         1943 SOUTHERN   	3     
+
+
+The CONVERSATION relation--
+
+SQL> describe conversation
+ Name                            Null?    Type
+ ------------------------------- -------- ----
+ CONVERSATION_NO                 NOT NULL NUMBER(5)
+ CALLER_FROM                              NUMBER(4)
+ CALLER_TO                                NUMBER(4)
+ IVI_NO                                   NUMBER(4)
+ TALK_DAY                                 CHAR(7)
+ TIME_START                               NUMBER(6)
+ TIME_STOP                                NUMBER(6)
+ REMARKS                                  CHAR(240)
+
+SQL> /
+
+CONVERSATION NO CALLER FROM CALLER TO IVI NO TALK DAY  TSTART   TSTOP  REMARKS
+--------------- ----------- --------- ------ -------- ------- -------  -----------------------
+           2030        1071      1123    334 910306      1909    1919  
+           2031        1151      1126    353 910306      1912    1922  
+           2032        1167      1093    308 910306      1929    1937  
+           2033        1078      1024    360 910306      2056    2106  
+           2034        1000      1083    356 910307      1701    1706  
+           2035        1176      1107    358 910307      1721    1726  
+           2036        1013      1063    309 910307      1751    1757  
+           2037        1132      1175    336 910307      1828    1838  
+           2038        1073      1039    346 910307      1849    1859  
+           2039        1152      1101    339 910307      1911    1919  
+           2040        1130      1119    309 910307      1951    2001  
+           2041        1110      1179    356 910307      2038    2048  
+           2042        1221      1219    310 910307      2117    2127  
+           2043        1169      1139    315 910307      2122    2132  
+           2044        1219      1005    313 910307      2134    2144  
+           2045        1033      1055    364 910307      1834    1840  
+
+
+
+The CALLER_CONVERSATION relation--
+
+SQL> describe caller_conversation
+ Name                            Null?    Type
+ ------------------------------- -------- ----
+ CONVERSATION_NO                 NOT NULL NUMBER(5)
+ CALLER_NO                       NOT NULL NUMBER(4)
+ PHONE_NUMBER                             CHAR(10)
+ LENGTH                                   NUMBER(6)
+ IVI_NO                          NOT NULL NUMBER(4)
+ REMARKS                                  CHAR(240)
+ ACTIVE                                   CHAR(1)
+
+
+Note: IVI_NO is the number of the recorded prompt which was played
+before the conversation.  See TOPIC below.
+
+
+SQL> select * from caller_conversation;
+
+CONVERSATION NO CALLER PHONE NUMBER  LENGTH IVI NO REMARKS
+--------------- ------ ------------ ------- ------ -------
+           2022   1138 2145301431         5    357 
+           2022   1107 2144148439         5    357 
+           2023   1033 9034655243        10    304 
+           2023   1135 7132743525        10    304 
+           2024   1016 2149950386         7    311 
+           2024   1061 2149953417         7    311 
+           2025   1061 2149953417         6    341 
+           2025   1064 2143177874         6    341 
+           2026   1013 8174976701         4    311 
+           2026   1073 3157620226         4    311 
+           2027   1096 2144366786         9    303 
+           2027   1035 2149171371         9    303 
+           2028   1086 2144248977        10    313 
+           2028   1101 3015403172        10    313 
+           2029   1022 2144120124         7    349 
+           2029   1051 8179642327         7    349 
+           2030   1071 2145308909        10    334 
+           2030   1123 5134335177        10    334 
+
+
+The TOPIC relation--
+
+SQL> describe topic
+ Name                            Null?    Type
+ ------------------------------- -------- ----
+ TOPIC_DESCRIPTION                        CHAR(30)
+ IVI_NO                                   NUMBER(4)
+ PROMPT                                   CHAR(240)
+ FLG                                      CHAR(1)
+ REMARKS                                  CHAR(120)
+ PROMPT_CONT                              CHAR(50)
+
+
+SQL>  select topic_description, ivi_no, prompt, prompt_cont from topic;
+
+DESCRIPTION          IVI NO  PROMPT                                                             
+-------------------- ------  ------------------------------------------
+PROMPT_CONT                                                                     
+--------------------------------------------------                              
+
+
+PUBLIC EDUCATION 	353 	DISCUSS WITH THE OTHER CALLER WHETHER
+THERE IS SOMETHING SERIOUSLY WRONG WITH OUR PUBLIC SCHOOL SYSTEMS
+TODAY,	AND IF SO, WHAT CAN BE DONE TO CORRECT IT.
+                                                                                
+                                                                                
+DRUG TESTING 		354 	HOW DO YOU FEEL ABOUT THE PRACTICE OF
+SOME COMPANIES OR GOVERNMENT AGENCIES TESTING EMPLOYEES OR PROSPECTIVE
+EMPLOYEES FOR DRUGS?  IS RANDOM SPOT TESTING JUSTIFIED?  WHAT LIMITS
+SHOULD THERE BE, IF ANY?
+                                                                                
+                                                                                
+FEDERAL BUDGET 		359	WHAT SHORT AND LONG-TERM STEPS DO YOU
+AND THE OTHER CALLER THINK SHOULD BE TAKEN TO IMPROVE THE US BUDGET?
+                                                                                
+                                                                                
+FISHING 		360 	FIND OUT WHAT KIND OF FISHING THE
+OTHER CALLER ENJOYS.  DO YOU HAVE SIMILAR OR DIFFERENT INTERESTS IN
+THE KIND OF FISHING YOU ENJOY?
+                                                                                
+                                                                                
+GARDENING 		361	FIND OUT WHAT THE OTHER CALLER DOES IN
+THE WAY OF LAWN AND GARDEN WORK.DOES THE OTHER CALL ENJOY DOING IT?
+COMPARE THIS TO YOUR OWN SITUATION.
+                                                                                
+                                                                                
+BASEBALL		365	FIND OUT THE OTHER CALLER'S FAVORITE
+PRO BASEBALL TEAM AND WHERE IT'S HEADED THIS YEAR.  DO YOU AGREE WITH
+THE CALLER'S PREDICTION?
+                                                                                
+                                                                                
+
+SQL> describe rating
+ Name                            Null?    Type
+ ------------------------------- -------- ----
+ CONVERSATION_NO                 NOT NULL NUMBER(4)
+ DIFFICULTY                               NUMBER(1)
+ TOPICALITY                               NUMBER(1)
+ NATURALNESS                              NUMBER(1)
+ ECHO_A                                   NUMBER(1)
+ ECHO_B                                   NUMBER(1)
+ STATIC_A                                 NUMBER(1)
+ STATIC_B                                 NUMBER(1)
+ BACKGROUND_A                             NUMBER(1)
+ BACKGROUND_B                             NUMBER(1)
+ REMARKS                                  CHAR(120)
+
+
+SQL> select * from rating;
+
+CONVERSATION NO DIFFICULTY TOPICALITY NATURALNESS     ECHO_A     ECHO_B         
+--------------- ---------- ---------- ----------- ---------- ----------         
+  STATIC_A   STATIC_B BACKGROUND_A BACKGROUND_B                                 
+---------- ---------- ------------ ------------                                 
+REMARKS                                                                         
+--------------------------------------------------------------------------------
+     2001          1          1           2          1          3         
+  1          1            1            1                                 
+     2002          3          1           1          1          2         
+  4          4            1            3                                 
+     2003          4          2           1          3          2         
+  5          5            1            1                                 
+     2004          1          1           1          1          1         
+  2          4            1            1                                 
+     2005          4          1           2          3          3         
+  1          1            2            2                                 
+     2006          1          1           1          1          1         
+  1          1            1            1                                 
+     2007          1          1           1          1          4         
+  1          2            1            1                                 
+     2008          1          1           3          3          1         
+  1          3            1            3                                 
+     2009          1          1           1          4          2         
+  1          1            1            1                                 
+     2010          1          1           1          3          3         
+  1          2            1            1                                 
+
+
+
+
+7.  Ancillary Speech Files: The Collection Prompts
+
+The speech prompts which the callers heard over the phone were recorded by a
+female employee of Texas Instruments (Jane McDaniel) under laboratory
+conditions and digitized as 16-bit, 16 KHz samples.  They were later filtered,
+downsampled to 8 KHz, and converted to 8-bit mu-law form before being
+transferred over the local network to the Robotoperator disk for use as
+prompts. In order to permit researchers to reconstruct the collection protocol,
+a number of the "direction" prompts and all of the topic prompts have been
+included.  
+
+In the directory /swb1/prompts on the transcription disc (NIST Speech Disc
+9-1.1) are NIST SPHERE-headered files containing the prompts.  Also in this
+directory is a shell script named "demo.sh" that will demonstrate what prompts
+callers would have heard when setting up a Switchboard call.
+
+Along with each prompt is the "Topic Description," a word or short phrase which
+summarizes its content.
+
+
+
+
+8.  How The Data Was Collected
+
+HARDWARE: the Robotoperator
+
+The search for an off-the-shelf hardware platform capable of meeting the
+SWITCHBOARD requirements led to the "Robotoperator," a PC-based voicemail and
+call management system from InterVoice, Inc. (IVI).  The Robotoperator
+typically answers, transfers, forwards or otherwise handles incoming calls
+using touchtone detection and stored messages; it can also make outgoing calls,
+record speech directly from a T1 line, and consult a database (e.g., of bank
+account balances) to make decisions.
+
+See Figure 1 for a diagram of the hardware setup.  Note that the
+Robotoperator includes a T1 interface and a software controllable switching
+network ("Switchware"), which can interconnect any of the T1 channels with each
+other and/or with the PS/2's message file on disk.  This was a key capability
+for SWITCHBOARD which was lacking in other telephone interfaces: two callers on
+the line with the Robotoperator simultaneously could become one two-way
+telephone conversation by connecting the Transmit (T) side of one to the
+Receive (R) side of the other.  But at the same time, by recording to disk from
+each T side separately (as if the two callers were leaving distinct
+"messages"), it was possible to isolate the two sides of this conversation.
+The isolation might not be perfect, since signal reflections ("echos") often
+occur on the telephone network, but it would be far better than one could
+achieve by processing a single channel version after the fact.
+
+SOFTWARE: the IVI application program
+
+The software on the Robotoperator was licensed with the system.  To achieve the
+functionality required by customers, IVI provides a user application program,
+which is created with a fourth generation programming language interface.
+Although customers can learn to use this interface themselves, programming and
+debugging of the first user application is provided by IVI as part of the
+Robotoperator purchase and licensing agreement.  The functional block diagram
+of Figure 2 contains the essentials of the application program.
+
+The basic idea of achieving the SWITCHBOARD scenario with the Robotoperator can
+be followed from the diagram.  An incoming phone call is treated like a call to
+a business (e.g., a bank) in which a customer interacts with the computer via
+touchtones and recorded prompts, requests information (e.g., his account
+balance) which must be retrieved from a database, adds information to the
+database, and leaves a digitally recorded voice message.  Meanwhile, the system
+makes an outgoing call to another customer who, if he wishes, follows the
+recorded prompts through a similar transaction, and also leaves a message.  In
+this respect the functions of the Robotoperator are not unlike those of its
+customary commercial applications.  The unusual requirement of SWITCHBOARD is
+that the computer coordinate the two calls, cause them to be connected together
+at a certain point, and start and end recording of the two talkers' messages at
+the same time.
+
+The application depends heavily on the Robotoperator's database manager, which
+is a version of Btrieve for the PS/2.  With SWITCHBOARD, each completed call
+changed the conditions for future calls, so dynamic database management was a
+necessity.  In practice, a new database was loaded under Btrieve weekly, in the
+form of four database tables that were both read and written to, which
+controlled events for the seven days, and another which was written by Btrieve
+to log completed calls.  The recorded calls and the log file were transferred
+daily to the TI Speech Research computer system, where the speech files were
+processed and the log file used to update the ORACLE database (see above,
+section 6).  The other IVI database files were saved and archived weekly.
+
+The remainder of this section will describe in detail how the collection system
+operated; first the internal database tables (the ones on the Robotoperator)
+must be explained, then a sample call can be used to illustrate the process.
+
+One table, PINTOPIC, was keyed to callers' Personal Identification Numbers
+(PIN), and listed which of the seventy possible topics each registered
+participant was willing to talk about.  One field was reserved for a flag
+indicating whether he or she had actually completed a call on the topic listed.
+Here are sample rows of a PINTOPIC table, with spaces inserted for readability:
+
+4533 301 0  (caller 4533, can talk on topic 301, has not done so yet)
+4533 356 0  (caller 4533, can talk on topic 356, has not done so yet)
+4533 328 1  (caller 4533, can talk on topic 328, has already done so)
+3429 301 1
+3429 305 0
+6798 301 0
+6798 325 0
+6798 356 1
+ .
+ .
+ .
+
+A second table, TOPICPIN, contained the same information but was keyed to the
+topic.  This table was searched by topic to find a prospective partner to be
+called by the system.
+
+301 4533 0  (topic 301, caller 4533 is still a possible partner)
+356 4533 0
+328 4533 1  (topic 328, caller 4533 has already spoken on this)
+301 3429 1
+305 3429 0
+301 6798 0
+325 6798 0
+356 6798 1
+ .
+ .
+ .
+
+The third table, CALLER, was keyed to day of the week and PIN, and had fields
+for: PIN, day of the week, phone number to call during the person's first
+period of availability on that day, phone number for the second period, phone
+number for the third period, starting time for the first period, ending time,
+starting time for the second period, ending time, starting and ending time for
+the third period, and a counter of calls completed on that day.
+
+4533 1 2149950651 2149950651 2149919112 0800 0930 1700 1830 2000 2130 0
+(Monday: 3 time slots, no calls completed)
+4533 2 2149950651 2149950651 2149919112 0800 0930 1700 1830 2000 2130 1
+(Tuesday: same schedule, one call completed)
+4533 3 2149950651 2149919112 0000000000 0800 0930 2000 2130 0000 0000 1
+(Wednesday: 2 time slots, one call completed)
+4533 4 2149950651 0000000000 0000000000 0800 0930 0000 0000 0000 0000 0
+(Thursday: 1 time slot, no calls)
+ . 
+ .
+ .
+
+The fourth table, TALK, was written by the Robotoperator in the format: PIN_A,
+PIN_B, COUNTER_AB, after a completed call.
+
+4533 6798 1
+3429 6798 1
+ .
+ .
+ .
+
+Each row thus records a pairing of callers who have spoken to each other, and
+how many times.  COUNTER_AB is the number of times these two callers have
+spoken to each other, so it would be incremented after the first call.
+However, the number of calls permitted was always kept at one.
+
+
+Another table, CONVER, created a log of successful calls. A new row of the
+CONVER table was written at the completion of each conversation.  It contained
+the PINs of the callers, the phone number from which the call was made, the day
+of the week, a pointer to the B caller's time period (first, second, or third),
+the date (yymmdd), the time the incoming call was picked up (hhmmss), the start
+and end times of the recorded portion (hh:mm), the topic, and the "message
+numbers" for each side of the call (needed to retrieve the recordings.)
+
+3429 6798 2148810028 1 1 920325 090832 9:15 9:20 0340 500 501
+4533 2792 8175400128 1 2 920325 091829 9:20 9:24 0359 502 503
+ .
+ .
+ .
+
+In this example, a call was initiated by 3429 at 9:08:32 am; it must have taken
+several tries for the Robotoperator to find a partner (6798), since recording
+did not start until 9:15.  Both callers heard the prompt about taxes (topic
+340).  Caller A's side of the recorded conversation, which lasted five minutes,
+could be found by extracting message number 500 from the Robotoperator's
+message file, and caller B's side by extracting number 501.
+
+
+The Robotoperator also produced two other files, HIST (for "history logging")
+and LOG (for "special event logging"). These recorded detailed information
+about transactions and their times of occurrence: the time of every attempted
+call, incoming and outgoing, whether it was a "ring, no answer" or "hangup" or
+"busy", which options were selected by a caller as a call progressed, etc.
+This information was used mainly for debugging and is not described further
+here.
+
+
+
+COLLECTION PROTOCOL
+
+The program supported a number of ancillary functions, such as taking messages
+and comments from callers, playing recorded instructions on how to participate,
+giving error handling messages for busy or no-answer conditions, etc.  These
+can be seen as branches in the flowchart in Figure 3, following the
+obvious logical paths.
+
+To facilitate understanding of the collection protocol, however, it is probably
+best to step through a typical successfully completed SWITCHBOARD call.  "A"
+will represent the person calling in, "B" the one called, and "R" the
+Robotoperator.  It should be possible to follow this on the flowchart, taking
+the correct branch at each decision point.
+
+--Participant A initiates a call by dialing the 800 number.
+
+--R picks up on A's line and plays the recorded greeting: "Welcome to
+the Texas Instruments Switchboard.  Please respond to questions by
+pressing the appropriate buttons on your touchtone phone.  If you
+would like instructions, press 0.  To make some brief comments about
+the system, press 1.  To participate in a conversation now, press 2."
+
+--A presses 2.
+
+--R plays recorded prompt: "Please enter your personal identification
+number."
+
+--A presses four digits of his PIN, e.g., "4533".
+
+--R checks PIN against CALLER file and verifies PIN.
+
+--R prompts: "Thank you. Please enter the area code you are calling from."
+
+--A presses 3 digits of area code, e.g., "214".
+
+--R prompts: "Thank you. Now enter the 7-digit phone number you are
+calling from."
+
+--A presses 7 digits of phone number, e.g., "9950651".
+
+--R searches PINTOPIC for entries with A's PIN, a topic number (e.g.,
+301), and a "0" meaning "has not yet spoken on this topic", and takes
+the topic number from the first such entry (e.g., 45333010 --> 301).
+
+--R announces topic to A; for example: "Discuss with the other caller
+whether there is something seriously wrong with our public school
+systems today, and if so, what can be done to correct it."
+
+--R tells A to wait: "Please think about the topic while I locate
+another caller."
+
+--R searches TOPICPIN for entries with the chosen topic (301), another
+PIN (not 4533), and a 0 (not yet used this topic), and extracts the
+PIN (e.g., 30167980 --> 6798).
+
+--R searches the CALLER file for a match to the day of the week, the
+chosen PIN, and the current time of day, and checks the flag to be
+sure this caller has not completed a call on this day.  If no match is
+found on the chosen PIN, TOPICPIN is searched again for another
+candidate.
+
+--Once a match is found, the database returns the phone number listed
+for the time slot which contains the current time, and R dials this
+number.
+
+--B answers the ring and hears the prompt: "Hello, this is Switchboard
+calling.  If you are ready to participate, press 1; if the person
+participating can be called to the phone without delay, press 2;
+otherwise, press 3 to terminate the call."
+
+--B presses 1.
+
+--R prompts: "Please enter your Personal Identification Number."
+
+--B enters 4-digit number.
+
+--R verifies PIN, prompts B: "Discuss with the other caller", etc.,
+the same prompt heard by A.
+
+--R connects A to B, and prompts both: "Welcome to both of you and
+thanks for participating.  Recording will begin when the person who
+called in presses 1. Until then, you may introduce yourselves and get
+acquainted."
+
+--A and B converse for a while, without being recorded.  
+
+--A presses 1. 
+
+--R begins timing and recording two messages, one from each line.  The
+association of a T1 channel with a message number having been made by
+the application software, "recording" is just writing the 8-bit mu-law
+values from the T1 interface to the disk without modification.
+
+--If the time limit (a software parameter setting, normally 5 minutes in 
+the later conversations and 10 in the earlier ones) is
+reached, R stops recording and prompts A and B, while they are still connected:
+"We're sorry, but our recording capacity is limited today.  Please try to wind
+up your conversation in the next 30 seconds. Good Bye."  Although the recording
+ends just before the prompt is played, the callers are never really cut off;
+their call only terminates when one of them hangs up.
+
+--When A or B hangs up, R detects end of call, writes log information
+to the CONVER table, frees phone lines and resets program variables for
+another call.
+
+
+
+THE TALKERS
+
+Generally, the talkers were paid volunteers who gave written consent to the
+recording and use of their conversations.  Their signatures are on file at TI
+along with their personal data and records of payment.  Most were paid $5 cash
+per completed call; although TI employees received gifts of comparable cash
+value, and some callers refused payment of either kind.  Additional premiums
+were paid to some who participated at least 25 times and used two or more
+different handsets in a systematic manner.
+
+Subjects were recruited in several ways.  A number were volunteers drawn from,
+or recruited by, DARPA contractors and government agencies.  An announcement on
+TNET, TI's internal electronic news service, drew responses from about 200
+interested TI employees.  Email to a number of institutions involved in speech
+research attracted several dozen more.  Finally, a posting on some national
+electronic bulletin boards elicited several hundred replies.  Anyone who
+responded was sent a registration form and a letter urging applicants to invite
+others to participate, which led to more applications.  The letter and
+registration forms are included in Attachment 1.
+
+A total of 670 persons registered over the entire course of the project, and
+542 participated in at least one of the published conversations of SWITCHBOARD.
+
+It was intended that the talkers be broadly representative of adult speakers of
+American English between 20 and 60 years of age.  From the beginning, a bias
+toward higher socioeconomic and educational levels was considered inevitable,
+due to the requirements of the task.  It was also recognized that a serious
+effort would be required to insure representation of all dialects.
+
+The consent form asked where the applicant grew up during the first 10 years of
+life.  This community was then located on a wall map of the United States with
+the boundaries between the major dialect areas drawn on it.  The names for
+these seven areas, plus the term "MIXED," were then used to classify each
+person by dialect.
+
+This _a priori_ classification of callers into nominal dialect areas has only
+limited value in predicting their actual speech patterns.  Accurate _a
+posteriori_ classification of the speech itself, however, would be a very
+expensive and time-consuming process.  Since the _a_priori_ procedure had 
+been used in
+previous speech corpora, most notably TIMIT, it was used again in collecting
+SWITCHBOARD for consistency's sake.
+
+Due to the number of TI employees, their relatives and acquaintances, and local
+residents who responded to notices, there is a far greater number of "SOUTH
+MIDLAND" callers than would be expected, for example, in a random nationwide
+sample.
+
+  NUMBER OF CALLERS PER DIALECT AREA
+
+
+DIALECT AREA	COUNT
+--------------------
+
+SOUTH MIDLAND	155
+WESTERN		85
+NORTH MIDLAND	77
+NORTHERN	75
+SOUTHERN	56
+NYC		33
+MIXED		26
+NEW ENGLAND	21
+
+
+Callers were drawn principally from the age groups 20 to 60:
+
+  NUMBER OF CALLERS PER AGE RANGE
+
+ AGE	COUNT
+-------------------
+20-29	140
+30-39	179
+40-49	112
+50-59	87
+60-69	13
+
+
+The speakers were approximately 55% male and 45% female.  Females volunteered
+to participate in greater numbers than males whenever a public announcement was
+made, and they tended to participate more actively as well.  The resulting
+imbalance was finally redressed (in fact reversed) by posting electronic
+bulletin board announcements which asked for male applicants only.
+
+  NUMBER OF CALLERS PER SEX
+
+
+SEX	COUNT
+-------------------
+
+MALE	292
+FEMALE	239
+
+
+The educational level was coded as 0 for less than high school, 1 for
+lest than college (but not 0), 2 for college (but not 3), 3 for more
+than college, and 9 for unknown.  The distribution was:
+
+EDUCATION    COUNT
+--------------------
+
+0            14      less than high school
+1            39      less than college
+2            309     college
+3            176     more than college
+9            4       unknown
+
+
+HANDSETS
+
+Callers, especially those who were permitted to continue past 10 or 15 calls,
+were instructed to use more than one handset.  To help keep track of this
+variable, for each call and caller a phone number is recorded in the
+CALLER_CONVERSATION table.  For the outgoing side of the call, the
+Robotoperator simply keeps track of the number dialed; for the incoming side,
+the originator of the call is prompted to "enter the number you are calling
+from," the DTMFs are decoded, and the number written to the database.
+
+The phone number is unfortunately the only objective indicator of what handset
+is being used.  The association of phone numbers with handsets is probably very
+high, but surely not perfect, for at least two reasons.
+
+First, people make mistakes keying in numbers; dozens of cases were found and,
+where possible, corrected by hand.  Typical errors are transpositions, keying
+in a 1 before the area code and number (which causes the last digit not to be
+captured), or "bouncing" a key so that a digit is repeated.  Also, there was no
+obvious error-recovery procedure if one began to enter the wrong number 
+and then
+realized the error.
+
+Second, compliance with our requests varied.  Some participants, travelers in
+particular, used many phones of different types; some used one home and one
+work phone; some complied by using two handsets of different manufacture 
+at the same extension.
+(In the latter case, when it became known to the project, callers were asked to
+key in a number like "9999999999" for one extension, and the correct phone
+number for the other.)  In a few cases, we simply cannot determine whether more
+than one telephone instrument was used, because the same number was keyed in on
+every call.
+
+
+
+
+Here are examples for a few of the  callers' who were asked to vary the handset
+they used.
+
+CALLER PHONE NUMBER   COUNT(*)    
+------ ------------ ----------    
+  1013 2144243223            4    
+  1013 2145394862            6    
+  1013 2145745859            1    
+  1013 8068742424            1    
+  1013 8174976701           12    
+  1022 2142359387            1    
+  1022 2144120124           14    
+  1022 2144759048            1    
+  1022 2146800738            1    
+  1022 2146802232            1    
+  1022 2146906425            1    
+  1022 2149956257            5    
+  1028 7162716100            1    
+  1028 7162750661            1    
+  1028 7162750759            8    
+  1028 7164425557           15    
+  1028 7164425574            1    
+  1035 2146444314            9    
+  1035 2149171371           15    
+  1041 7035605000            8    
+  1041 7036202752           18    
+  1041 7036560500            1    
+  1043 8143793338            9    
+  1043 8143793361           13    
+  1043 9999999999            4    
+  1073 3153304581            1    
+  1073 3157620226           20    
+  1074 2147805813            1    
+  1074 8176663073            6    
+  1074 8177727098           19    
+  1104 2149959114           18    
+  1104 8174291805           10    
+  1112 2144230895            7    
+  1112 2145174227            2    
+  1112 2149171312           10    
+  1112 4059171312            1    
+  1112 4149626585            1    
+  1120 4122873879           10    
+  1120 8142263524           19    
+  1121 4013339846            1    
+  1121 5082229761            1    
+  1121 5086991823           21    
+  1121 5086993640            1    
+  1121 6033529215            1    
+  1121 6172477047            1    
+  1124 3013231010            1    
+  1124 3013231212            1    
+  1124 3015364327           18    
+  1124 3015430834            5    
+
+
+PROMPTS
+
+The prompts were devised with several common sense criteria in mind: covering
+many different topics of conversation; choosing subjects that interest large
+numbers of people, that tend to generate friendly differences of opinion or
+viewpoint, or invite exchanging of 
+stories or shared experiences; and avoiding
+overlapping or subordinated topics and sensitive or personal issues as much as
+possible.
+
+Once approved, the prompts were recorded by an experienced female speaker at 20
+kHz, then downsampled and transferred to the Intervoice disk.  Attachment 2 is
+a complete list of the texts of the 70 prompts.
+
+In registering for SWITCHBOARD, participants were given a sheet containing all
+the Topic Descriptions, on which they could indicate whether they would be very
+interested, somewhat interested, not interested, or unwilling to talk about
+each one. (See Attachment 1.)  These "topic preferences" were used in
+creating the TOPICPIN file described earlier, so that callers were matched on
+topics they both expressed interest in.
+
+
+
+
+DATA COLLECTION AND CONVERSION
+
+Returning to the section above entitled COLLECTION PROTOCOL, where a typical
+successful collection was described, let us follow the collection process from
+the point where the Robotoperator begins writing the speech from the T1 line to
+disk.
+
+All recording of speech on the Robotoperator is done in a special file called
+VOICE.VOX, which normally stores customer messages.  The software keeps a
+pointer to the starting address of each "message" (in SWITCHBOARD, each side of
+each conversation) for later compression or extraction.  SWITCHBOARD messages
+were kept in their original (uncompressed) 64 kbit mu-law form.  The
+application which controlled the recording assigns numbers to these messages so
+that information in the database can later be attached to the proper message.
+
+A program running on the PC caused the application to shut down each night at
+midnight, rebooted the PC, and ran a series of programs to extract the message
+files from VOICE.VOX and to transfer them and the database files via a network
+to the Speech Research Group computer system for further processing.  Finally
+the application program was restarted for the next day's traffic.
+
+As described above, the CONVER file, written by the Robotoperator, contained
+the message numbers, speaker identification numbers, time of day, topic number,
+telephone number, and other information.  A C program extracted this data and
+combined it with the binary message file to construct a single Unix speech data
+file with appropriate header, and also updated the Oracle database for that
+call.  The Unix file contained both sides of the conversation, in mu-law format,
+with the data from the A and B sides interleaved.  Thus playing back only the
+odd bytes (where the first byte is byte 1) resulted in hearing the A side, 
+and only the even bytes the B side.
+Summing pairs of bytes produced the complete conversation.
+
+The Unix speech file was next played through a Sparcstation to a cassette
+recorder to produce an audio tape that could be sent out for transcription.
+Three recordings were made of each file: the combined version of the
+conversation, the A side only, and the B side only.  This allowed
+transcribers to determine what was said during simultaneous speech.
+
+
+
+9. How The Data Was Transcribed
+
+Approximately half of the transcriptions were done by court reporters, and half
+by transcribers working temporarily at TI.  They were done from the audio tapes
+described above, following a transcription manual written just for SWITCHBOARD
+and revised several times over the course of the project.  The text of the
+transcription manual follows as Attachment 3.
+
+The transcription style chosen had several goals.  One was consistency, another
+was utility for research in speech and linguistics.  Human readability, though
+not very important for most researchers, was also a consideration because it
+facilitates the later steps in the QC process.  When no other principle ruled,
+court reporters' practice was followed.
+
+A number of symbols and conventions were borrowed from other projects, such as
+the London-Lund corpus and the AT&T transcription manual: use of (()) for
+doubtful words, use of "expr ...  \expr" to enclose multi-word events, {} to
+enclose comments, -- for interruptions, etc.  
+
+The marking of nonspeech events with [descriptor] was designed to signal the
+presence of acoustic events likely to bother a speech recognizer.  The
+allowable expressions inside the [] were then limited to a fixed set in
+order to facilitate modeling classes of these events instead of a universal
+"garbage model."  
+
+The comments in braces give information needed to understand events that
+are happening but are not clear from the
+text alone, as in {talks to child in room}.  They  should not represent acoustic
+events by themselves.  Transcribers were not restricted in their use of these
+comments; they would also be a natural place for researchers to record and
+share their own comments (perhaps in double braces) as SWITCHBOARD is used for
+research.
+
+The treatment of simultaneous speech by bracketing the overlapping texts with
+pairs of #s evolved from a more complex scheme, which proved too difficult to
+enforce across several transcribers.  Hundreds of files had to be corrected to
+the current standard, and the possibility of some inconsistencies cannot be
+ruled out.  Transcribers were told to listen to the separate sides of every
+conversation as well as the joint version in order to resolve simultaneous
+talking.
+
+The RATINGS at the beginning of each conversation are an attempt to translate
+the extensive experience of the transcribers into rough indices of quality,
+subjective but potentially very useful.  The instructions for using the rating
+scale are included in the Transcription Manual.
+
+These ratings have in most cases been reviewed at least once, during the QC
+phase; the QCer was considered the final authority, and was instructed to
+change any rating which differed from his or her own assessment by more than one.
+If, for example, an audio cassette tape was noisy because of a bad recording,
+the original transcriber might give a conversation a 4 on DIFFICULTY or
+BACKGROUND_NOISE for that reason.  During QC, listening at a Sparcstation, the
+QCer would not hear the noise and should correct the rating, say to a 1.
+
+The presence of crosstalk was probably the most difficult of the ratings in
+terms of interobserver agreement, but on the whole still a reliable indicator.
+For example, an informal study of the first half of the corpus found that
+higher ratings (more crosstalk) were much more likely with local and intrastate
+calls, where echo cancelling is least likely, than on calls from more than 1000
+miles away.
+
+See the Transcription Manual for further details.
+
+
+
+10. The SWITCHBOARD Dictionary
+
+A dictionary of SWITCHBOARD was developed at TI as a byproduct of the automatic
+time alignment procedure. It was not part of the contract for SWITCHBOARD, and
+is not included in the first edition of the SWITCHBOARD corpus because it needs
+further work before being made public.  If it is included in later editions, as
+is planned, it will be documented fully there.  Nevertheless a brief
+description and sample entries are included here, since the dictionary did play
+a role in time alignment and QC.
+
+Each entry is a Prolog data statement, containing the spelling, a code for the
+part(s) of speech this word can be in English, a phonetic representation of one
+or more pronunciations the word may have, and a certification if the entry has
+been verified for spelling (v) or certified for accuracy by a linguist or other
+professional (c), and by whom.
+
+The surface phonetic level of representation uses a fairly common and widely
+accepted symbol set, with three levels of stress and some informal rules of
+syllabication.  Phonetic elements are separated by commas, complete alternate
+pronunciations are separated by semicolons, but alternate subwords or phonetic
+units can be embedded with braces. 
+
+Note that, in order to accomplish the task of time alignment, it was necessary
+to enter as words many proper nouns and neologisms which would not belong in a
+dictionary otherwise.  Of the 4893 "new words" encountered in SWITCHBOARD
+conversations, 49% are names. 
+
+Here are some examples of entries:
+
+lx("Weider","n",{2,w,iy,1,d,er},s).
+lx("Noxy","n",{2,n,ao,k,1,s,iy},xs).
+lx("nondefense","n",{1,n,ao,n,0,d,ih,2,f,eh,n,s},s).
+lx("Andrea","n",{2,ae,n,0,d,r,iy,0,ah;1,aa,n,2,d,r,ey,0,ah},s).
+lx("grandkid","n",{2,g,r,ae,n,d,1,k,ih,d},cs).
+lx("Tijuana","n",{1,t,iy,0,ah,2,w,aa,0,n,ah},cs).
+lx("nonproducing","g",{1,n,ao,n,0,p,r,{ow;ah},2,d,uw,0,s,ih,ng},cs).
+lx("expedientially","a",{0,eh,k,1,s,p,iy,0,d,iy,2,eh,n,0,sh,ah,0,l,iy},cs).
+lx("Rustoleum","n",{1,r,ah,s,t,2,ow,0,l,iy,0,ah,m},s).
+lx("speckly","j",{2,s,p,eh,k,0,l,iy;2,s,p,eh,0,k,ah,0,l,iy},cs).
+lx("uptight","nj",{1,ah,p,2,t,ay,t},cs).
+lx("Ernie","n",{2,er,1,n,iy},s).
+lx("Quayleisms","n",{2,k,w,ey,l,1,ih,0,z,ah,m,z},vs).
+lx("stagflation","n",{1,s,t,ae,g,2,f,l,ey,0,sh,ah,n},vs).
+lx("Colson","n",{2,k,ow,l,0,s,ah,n},vs).
+lx("Amiga","n",{1,ah,2,m,iy,0,g,ah},s).
+lx("Fortran","n",{2,f,ao,r,1,t,r,ae,n},s).
+lx("formatter","n",{2,f,ao,r,1,m,ae,0,t,er},cs).
+lx("Ian","n",{2,iy,0,ah,n},s).
+lx("stepgrandmother","n",{1,s,t,eh,p,2,g,r,ae,n,d,0,m,ah,0,dh,er},cs).
+lx("Shanahan","n",{2,sh,ae,0,n,ah,1,hh,ae,n},vs).
+lx("eyebrows","pn",{2,ay,1,b,r,aw,z},cs).
+lx("Logitek","n",{2,l,ao,0,jh,ih,1,t,eh,k},xs).
+lx("retrofit","nj",{2,r,eh,0,t,r,ow,1,f,ih,t},xs).
+lx("ROMs","pn",{2,r,ao,m,z},xs).
+lx("great-grandad","n",{1,g,r,ey,t,2,g,r,ae,n,0,d,ae,d},xs).
+lx("gups","pn",{2,g,ah,p,s},xs).
+lx("undemanding","gj",{1,ah,n,0,d,iy,2,m,ae,n,0,d,ih,ng},xs).
+lx("deisolation","n",{1,d,iy,1,ay,0,s,ow,2,l,ey,0,sh,ah,n},xs).
+lx("overrecycled","f",{2,ow,0,v,er,0,r,iy,1,s,ay,0,k,ah,l,d},xs).
+lx("cripe","x",{2,k,r,ay,p},xs).
+lx("behaviorist","n",{1,b,iy,2,hh,ey,v,0,y,ao,r,0,ih,s,t},xs).
+lx("Gibbs","n",{2,g,ih,b,z},s).
+lx("trappings","pn",{2,t,r,ae,p,1,ih,ng,z},cs).
+lx("laddervators","pn",{2,l,ae,0,d,er,1,v,ey,0,t,er,z},vs).
+lx("baggies","pn",{2,b,ae,1,g,iy,z},s).
+lx("Clarke","n",{2,k,l,aa,r,k},vs).
+lx("nonissue","n",{1,n,{ao;aa},n,2,ih,0,sh,uw},cs).
+lx("Fitz","n",{2,f,ih,t,z},s).
+lx("Herbie","n",{2,hh,er,1,b,iy},s).
+lx("Schenley","n",{2,sh,eh,n,0,l,iy},s).
+lx("devaluing","g",{1,d,iy,2,v,ae,l,0,y,uw,0,ih,ng},cs).
+lx("pisses","v",{2,p,ih,1,s,ih,z},cs).
+lx("nonsafety","nj",{1,n,ao,n,2,s,ey,f,0,t,iy},cs).
+lx("insignificant","nj",{1,ih,n,0,s,ih,g,2,n,ih,0,f,ih,0,k,ah,n,t},cs).
+lx("multiuser","n",{1,m,ah,l,0,t,iy,2,y,uw,0,z,er},cs).
+lx("freeware","n",{2,f,r,iy,1,w,eh,r},s).
+
+
+
+11. How The Data Was Time Aligned
+
+From the time SWITCHBOARD was first planned, two things were very clear: first,
+that the value of the corpus would be greatly enhanced by some form of time
+alignment between the speech signal and its transcription, and second, that the
+most desirable forms of alignment, e.g., word by word markings created or
+verified by human skill, would be far too expensive to justify.  At the
+beginning of the project, therefore, two specifications were considered as
+possible cost effective alternatives: either mark in the transcript the time of
+each conversational turn, or indicate the time at regular intervals of about 5
+or 10 seconds.
+
+At the time it was not thought feasible to mark stretches of several minutes of
+truly spontaneous conversational speech automatically, e. g., at the word
+level.  However, experiments conducted during the early months of SWITCHBOARD
+collection indicated that the technique of supervised recognition would
+probably succeed in aligning speech and text far more accurately than the
+specifications required, and at less cost.  Beginning in July 1991, therefore,
+all the conversations were processed by this method, which is described briefly
+here.  More details can be found in [1].
+
+Each conversation in SWITCHBOARD has an orthographic transcription and a
+time-marked transcription. The time-marked transcription was generated using
+an automatic time alignment procedure involving the following steps:
+
+1.)  Create a supervision grammar from the orthographic transcription.  
+
+2.)  Generate a grammar for each word in the transcription, based on an on-line
+dictionary and phonological rule set.  
+
+3.)  Execute supervised recognition.  
+
+4.)  Extract the timing information from the recognition output and merge it
+with the orthographic transcription.
+
+From the orthographic transcription, we automatically generate a finite-state
+grammar uniquely characterizing the observed word sequence. This grammar
+dictates a strict linear progression through the text except for simultaneous
+speech, as discussed below.
+
+Nonspeech sounds, such as breath noises and laughter, are also indicated in the
+transcription but are not explicitly represented in the top level grammar;
+however, the grammar does have self-loops at each node, i.e., initially,
+finally, and between each pair of words.  Acoustic models trained on the Texas
+Instruments Voice Across America (VAA) long-distance telephone corpus [2] are
+used for silence, inhalation, exhalation, and lipsmacks, while all other
+nonspeech sounds are accommodated through the use of a score threshold which
+automatically classifies as nonspeech any input frame not sufficiently close to
+any candidate recognition model.
+
+Each word in a conversation generates a finite-state grammar representing one
+or more pronunciations, which are obtained from an on-line dictionary. A
+separate path through the word-level grammar is generated for each alternate
+pronunciation represented in the dictionary. In addition, alternate paths are
+added for optional variants derived by applying phonological rules, such as
+alveolar stop flapping. 
+
+All the steps in conversation-level and word-level grammar creation are fully
+automated.  The sole manual operation in the time-alignment procedure is adding
+new words to the dictionary as they occur in conversations.  Initially, each
+conversation required the addition of 20-25 words, but this rate decayed
+rapidly to about 2 words per conversation, most of them proper nouns.  
+
+Word pronunciations are realized in terms of a set of context-independent
+phoneme models. These phoneme models are continuous-density HMMs that have
+been trained for speaker-independent recognition of long-distance telephone
+speech on 1,000 phonetically balanced sentences (based on TIMIT sentences) in
+the VAA corpus. Each phoneme has two variants, one trained on male speakers
+and one on female speakers. The sex of each speaker determines which set of
+phoneme variants is specified in the supervision grammar.
+
+Each conversation is time-aligned by a hierarchical-grammar speech recognition
+algorithm [3], using the corresponding conversation, word, and phoneme models.
+The recognizer outputs the beginning time and duration for each word. Since the
+recognition models use 20 millisecond frames, all times are in multiples of
+0.02 seconds. The recognition output is then combined with the original
+transcription to produce a time-marked transcription showing speaker turns.
+
+Two interrelated issues that arose in defining this procedure are use of the
+combined-channel signal versus the two single-channel signals, and treatment of
+simultaneous speech.  For reasons of cost and time efficiency, the
+combined-channel signal was used, since aligning each channel separately would
+require twice the processing time.  In addition, alignment of the single-channel
+signal is vulnerable to errors associated with the "silent" portions of each
+signal, i.e., the times when the other participant was speaking. For example,
+some conversations contain considerable cross-channel echo, resulting in a
+relatively strong speech signal not reflected in a supervision grammar
+representing only one side of the conversation. This unrepresented signal tends
+to introduce spurious alignments, resulting in overall alignment failure.
+
+Aligning the entire conversation with the combined-channel signal, however,
+requires an effective method of handling simultaneous speech segments.
+Stretches of simultaneous speech are labeled as such during transcription, but
+it is not generally feasible to specify a precise interleaving of words during
+simultaneous speech.  Hence, a simple nonbranching supervision grammar based
+directly on the transcription would not yield satisfactory alignment
+performance.  The solution was to insert alternate paths in the grammar for the
+duration of the simultaneous speech portion.  
+
+Constrained by such a grammar, the recognizer aligns the words for one
+participant or the other, but not both; it automatically selects between the
+two paths, based on which aligns better.  This method was successful in
+enabling the alignment procedure to handle simultaneous speech without going
+astray. The disadvantage is that it yields word-level timing data for only one
+participant during simultaneous speech segments. However, since simultaneous
+speech is typically rather brief, even the unaligned words are localized to a
+small stretch of time.
+
+The automatic time-marking procedure seems to be fairly robust.  Out of about
+2,500 files, only 12 had to be marked manually for at least some portions of
+the file. The primary failure mode in these files is an extremely quiet
+speaker; when the energy level is exceptionally low, the alignment process may
+fail to find expected words, resulting in overall alignment failure.
+
+The accuracy of the automatic alignment was estimated by marking 10 randomly
+selected 30-second excerpts by hand and comparing the results with the
+automatically determined times.  Table 1 shows the difference between
+hand-marked and automatically marked word alignments, measured separately for
+word beginning times, word ending times, and word durations. For all data, the
+mean difference in beginning and ending times is approximately one frame (0.02
+second).  For 95% of the words, the mean difference is 0.005 second or less,
+with a standard deviation of approximately three frames or fewer. Independent
+support for this level of accuracy is provided by comparisons performed at
+NIST, where keywords occurring in a selected subset of the corpus were marked
+by hand and the times compared with the automatically generated times.  About
+95% of these words were marked "correctly" in the sense that the centroid of
+the word according to the automatic marking fell within the hand assigned
+beginning and ending times.
+
+----------------------------------------------------------------------------
+Differences (sec)    |    Begin Times    |  End Times     |  Durations
+---------------------|-------------------|----------------|-----------------
+ALL       | Mean     |   -0.019	         |  -0.022        |  -0.003
+DATA      | Std Dev  |    0.134		 |   0.137        |   0.080
+(N=1025)  | Range    |   -1.60 to 0.51	 |  -1.77 to 0.54 |  -0.62 to 0.42
+          |          |			 |		  |
+----------|----------|-------------------|----------------|-----------------
+EXCUDING  | Mean     |   -0.005          |  -0.004        |  -0.001
+OUTLIERS  | Std Dev  |    0.048          |   0.050        |   0.064
+(N=975)   | Range    |   -0.22 to 0.22   |  -0.22 to 0.21 |  -0.22 to 0.22
+          |          |			 |		  |
+----------------------------------------------------------------------------
+
+As the third row in Table 1 shows, the remaining 5% exhibit wider variation;
+in a few cases, alignment errors exceeded 1.5 seconds. Examination of these
+cases indicated that the failures were attributable to exceptionally prolonged
+words. The acoustic models used for time marking are finite-duration models,
+which are generally more robust than infinite-duration models for
+telephone-quality speech. However, such models impose a maximum duration on
+each word, leading to errors when the input violates the durational
+assumptions built into the models.
+
+In summary, although the time alignments provided with SWITCHBOARD are
+approximately two orders of magnitude more accurate than the original
+specifications, they still leave room for improvement.  As experiments are
+performed with SWITCHBOARD, researchers who refine the time alignments provided
+should contact NIST so that these improved measurements can be incorporated
+into future versions of the corpus.  See Section 14 below for more information.
+
+
+
+12. Quality Control Procedures
+
+The transcription quality control procedures began with the daily taping of the
+previous day's conversations from the digital files which were downloaded from
+the Robotoperator to the Unix network each night.  (The cassette recordings were
+needed because most transcriptionists work on analog equipment which allows
+them to stop and replay short sections rapidly, change speeds over a useful
+range, etc.)  These files were already converted to a format used by the TI
+Speech Research Group.
+
+A technician at TI loaded a cassette tape into a deck, then executed a script
+on her Sun Sparcstation which played back first the complete conversation
+(i.e., the algebraic sum, sample by sample, of the two sides), then the A side
+alone, then the B side alone, so that all three versions were recorded on one
+side of a cassette with long pauses separating them.  Note that the speech file
+had already been named automatically according to the convention:
+CONV#_SPKRA_SPKRB.ext, as in 4940_1423_1662, where speaker 1423 called in, spkr
+1622 answered, and conversation number 4940 took place.
+
+While the recording took place, the technician listened to the conversation,
+checked for problems, verified the information in the filename, and labeled the
+cassette for the transcriber.  Problems such as excessive noise or apparent
+technical glitches, inappropriate behavior by callers, or misidentification of
+speakers were reported to the project manager.
+
+Since the speakers were already registered on the database, the technician
+listened for whether the sex of each speaker matched the database.  With this
+and other available information, she attempted to verify that the speaker ID
+numbers in the filename on the tape label were correct and in the right order:
+the speaker whose number occurs first in the filename should be the person who
+called in, who would be labeled "A" in the transcript.  Note that this is not
+necessarily the person who speaks first in the combined recording, hence the possibility
+of confusion if a transcriber does not listen to the A and B sides alone.
+
+The technician then filled out an electronic form with information to help the
+transcriber: the topic prompt, the speaker assignments, and the first few words
+spoken by "A" and by "B".  This form accompanied the tape when it was sent out.  
+
+When a transcription returned from the contractor, it was processed by an _awk_
+program which identified obvious format errors, missing information in the
+header or ratings, illegal bracketed expressions, etc.  The program corrected
+some of the minor errors, and flagged others to be reworked.
+
+Next the transcript was run through a Unix spell checker (ispell) and a local
+version which checked the SWITCHBOARD dictionary.  Words unknown to both
+programs were flagged for correction (if misspelled) or entry into the
+dictionary.  Any serious problems up to this point were resolved by listening
+to the conversation and fixing the transcript accordingly.
+
+The automatic time alignment of the speech file with its transcription took
+place next.  If this did not succeed, the reason was sought by listening and
+checking the transcript for errors.
+
+After time alignment each conversation was audited from beginning to end while
+reading the transcript, checking for misidentification of speakers (e.g.,
+switching of A and B during the transcript), and looking for errors of
+language, spelling, or format.  A checklist of the most common kinds of errors
+(its, it's, they're, their, and the like) was made up for this task.
+
+Finally, a rough check of time alignment was made by playing samples of the
+speech file at several places early, mid, and late in the file; the playback
+times were taken from the ".marked" file, and the task was to verify that the
+words heard were the ones covered by those times in the file.  Errors of up to
+a second or so were considered tolerable; usually, errors of that magnitude or
+greater revealed more general problems requiring that the file be reprocessed.
+
+
+
+
+13. Technical Problems in Collection
+
+In spite of all precautions and guarantees, a few technical problems did occur
+with the collection system.  These fall into two major categories: digital
+noise, or "static", and loss of synchrony between the A and B sides of
+conversations.
+
+STATIC:  During the first two months of collection, one of the four 
+telephone interface cards began to fail intermittently.  When this 
+failure occurred , data from the affected channel was replaced by
+apparently random values, which are heard as very loud static, for
+periods ranging from a few samples up to several seconds at a time.
+The same type of noise is occasionally heard on the public network
+when a T1 line loses synchrony.  For this reason, and because most
+calls were not affected, collection continued for over a month before
+the problem was traced to the interface and the hardware was replaced.
+
+Conversations collected before March 23, 1991, which contained more 
+than a few seconds of the noise were later dropped from the 
+SWITCHBOARD collection.  Those with only short episodes were retained;
+the occurrences are marked in the transcripts with the notation
+[static], and the noise itself should not be qualitatively different
+from what may be encountered on the network, and indeed elsewhere in
+the SWITCHBOARD collection.
+
+LOSS OF SYNCHRONY BETWEEN A AND B:  In this category there were four
+problems.  Unfortunately, they were subtle and difficult to detect;
+fortunately, once detected, they could be corrected to a degree that
+should satisfy most users.
+
+All four synchrony problems had one common symptom:  an unusual time
+lag between the speech signal on one side of a conversation and its
+echo on the other side.  This time lag could be unusual in magnitude,
+direction, or variability.  They were thus discovered
+serially, in the course of searching for the cause of the time lag anomalies.
+
+i.) The first problem was an asynchronous startup of recording between A and B.
+In the original specifications, "simultaneous" startup was called for, but the
+need for scientific precision was not understood by the applications
+programmers at Intervoice.  As a result the recording of the A side of each
+call was being started either 55, 110 or 165 ms after the B side.
+
+The delay was due to the nature of communication between the application
+software and the microcode (IDSP) which runs on the interface boards.  This
+communication depends on DOS pseudo-multitasking protocols, which allocate time
+slices to servicing each phone line.  The number of instructions to be executed
+between the time the first (higher, outbound) phone line starts recording and
+the time the second line gets its instruction to begin would differ depending
+on a number of factors.  
+
+The original applications programmer did not check either the delay (which, had
+it been constant, would not have caused a problem) or the consistency of the
+delay.  As it turned out, the amount of time required to perform various
+housekeeping tasks, after detecting the DTMF signal to start recording, was not
+constant.  In some cases the recording of A started in the next time slice (55
+msec delay), in other cases in the second time slice (110 msec delay), and on a
+few occasions in the third (165 msec delay).  As a result, when the two sides
+of the conversation were played together, if there was strong echo on one or
+both sides, it could be heard distinctly, especially at the longer delays.
+Moreover, in the case of echo on B's side from A's speech, it would appear to
+lead the speech rather than lag it.
+
+A solution was finally found which invariably started the recordings within a
+few samples of each other.  It involved re-writing some routines in the
+application program so that all the housekeeping functions were performed
+first, before recording began.  Files containing this error were corrected as
+described below under "Corrections."
+
+ii.) The second problem was more serious but quite rare.  It manifested itself
+as relatively large changes in synchrony between the A and B sides of a
+conversation, caused by losses of 100 ms or more of data on one side at a time.
+It is apparently caused by contention for the Robotoperator disk when other
+programs were run on the PC while a call was being recorded.  InterVoice
+engineers did not realize that this condition could occur, and during the early
+weeks of the project they conducted tests while calls were being collected.
+Executing DOS commands such as "DIR" while recording was in progress in some
+cases caused the application program to stop recording and then resume
+recording without any indication of trouble, so that speech data was lost.  The
+condition was discovered when InterVoice tried to create worst-case conditions
+to investigate the third problem, described below.
+
+Three files were found with this defect, and they were eliminated from the
+corpus.  If users identify others, they should notify NIST immediately.
+
+iii.) The third problem was small changes in synchrony between A and B, due to
+a pseudorandom dropping of 2 ms chunks of data on either side.  Over the course
+of a 10 minute conversation, these could accumulate to a differential of 30 or
+40 msec between sides--enough to change a cross-channel echo from inaudible to
+audible, for example, or from barely audible to very noticeable, for a human
+listener.
+
+When this bug was finally run down, it turned out to be a piece of code in the
+utility which extracts conversations ("messages") from the Robotoperator
+message master file.  The code performed a check at each data block boundary to
+see if the first two bytes had the values "FF FF"; if so, these were
+interpreted as header information, and the 16 bytes beginning with "FF FF" were
+discarded as not part of the speech data.  This code was a relic from an
+earlier version of the Robotoperator which did not deal with mu-law values, and
+thus never encountered FF in data.  In mu-law data, FF is one of two ways of
+representing zero signal level ("minus zero").  The offending lines of code
+were removed and the problem ceased.
+
+There is, of course, only one circumstance in which the chances of seeing "FF
+FF" at a data block boundary are good--during long stretches of total silence.
+Since the SWITCHBOARD recordings included the silent times when the other
+speaker is talking, 2-msec chunks were dropped fairly often but not necessarily
+symmetrically, resulting in changes in the synchrony between the two sides of
+some conversations.  With respect to the changes caused by this phenomenon, the
+recorded conversations fallinto three classes.
+
+a.) Conversations with strong crosstalk on both sides typically show no loss of
+data, since there were no long silences.
+
+b.) In conversations with weak or no crosstalk on both sides, any loss of data
+is likely to be fairly symmetrical, and could not be detected in any case,
+since it is basically a dropout of silence in the midst of silence.  These
+calls appear unaffected, and should pose no problem for research purposes.
+
+c.) Conversations with strong crosstalk on one side typically show slippage in
+the 10-50 msec range over the entire file, which is detectable because of the
+changing lag in the crosstalk.  These are corrected as described below under
+"Corrections."
+
+CORRECTIONS.  The files known to be subject to these problems (all files
+numbered less than 2453) were processed at NIST to correct the asynchronous
+offset and the slippage.  The A and B sides were compared with a cross
+correlation measure at various delays.  The lag time which showed the best peak
+in the correlation function between speech on one side and its echo on the
+other was measured throughout the file.  Early in the file, this lag was a good
+estimate of the initial offset (55, 110, 165 msec), which was corrected by
+removing that amount of data at the beginning of the B side.  Later in the
+file, whenever this lag time changed it was considered evidence of the loss of
+data in 2 msec increments from a silent period, and 2 msec of silence was
+inserted in an appropriate place on the side that had been shortened.  In files
+with not enough crosstalk to determine a lag in the cross-correlation, only a
+55 msec offset correction was made.
+
+
+
+14. How to Report Errors
+
+Switchboard users discovering any kind of error in the corpus should
+fill out the following form, which is available via ftp in 
+"/bugs/data/doc".  The form with the error report should be emailed
+to "debugger@jaguar.ncsl.nist.gov".  
+
+
+      SWITCHBOARD CORPUS ERROR REPORT  
+
+
+      Conversation:
+      Start time:
+      End time:
+
+      Problem Description: 
+
+      Suggested Solution: 
+        Revised files: 
+        Revised tables:
+        Revised documents: 
+
+
+
+15. References
+
+[1] 	B. Wheatley, G. Doddington, C. Hemphill, J. Godfrey, E.C. Holliman, J.
+McDaniel, and D. Fisher, "Robust Automatic Time Alignment of Orthographic
+Transcriptions with Unconstrained Speech," Proc. ICASSP-92, Vol. I, 533-536,
+1992.
+
+[2]	B. Wheatley and J. Picone, "Voice Across America: Toward Robust
+Speaker-Independent Speech Recognition for Telecommunications Applications,"
+Digital Signal Processing 1:2, 1991.
+
+[3]	G.R. Doddington, "Phonetically Sensitive Discriminants for Improved
+Speech Recognition," Proc ICASSP-89, 1989.
+
+
+========================
+
+ATTACHMENTS
+
+============================
+ATTACHMENT 1: Contents of the SWITCHBOARD registration packet: letter, signup
+sheets, consent form, schedule form, topic selection form.
+
+
+				  TEXAS
+			       INSTRUMENTS
+
+                 Speech and Image Understanding Laboratory
+
+
+       		Switchboard Information and Sign-up Package
+
+
+In the future computers will understand human speech, and you can contribute
+towards this goal by participating in the Switchboard Speech Database.
+
+Participation involves taking part in brief, natural conversations over the
+telephone with others.  Your speech will be recorded and used to develop
+speech technology.  The conversational topics will be drawn from a list you
+express interest in.  No expertise, just basic conversational skills are
+expected.  The calls are free, and you will be compensated for participating.
+
+You will find the details in the following pages.  To sign up electronically, 
+you may fill out the following pages and email them back to the above email
+address. You will receive an "official" signup packet in the mail within the 
+next few days. We will need a signed consent form from the packet so you should
+send back to us either a hardcopy of this filled-out electronic version or 
+the "official" filled-out copy (be sure to sign either one). NO PAYMENT WILL BE
+MADE FOR ANY CALLS PLACED UNTIL WE RECEIVE YOUR SIGNED CONSENT FORM.
+
+We are seeking many participants with a wide variety of American English
+speaking patterns.  If you know of other males between the ages of 20 and 60
+who would be interested, please copy and pass this information on, or have
+them contact:
+
+
+	Texas Instruments, Inc. 
+
+	ATTN:  John J. Godfrey 
+
+	Speech Research Group, MS 238 
+
+	P.O. Box 655474 
+
+	Dallas, TX  75265
+
+
+	(214) 995-0651 
+
+	Email:  swboard@csc.ti.com 
+
+
+Thank you.  Your help is much appreciated.
+
+
+
+Sincerely,
+
+John J. Godfrey
+
+
+                      SWITCHBOARD INFORMATION
+
+
+
+PARTICIPANT REQUIREMENTS
+
+We are seeking speakers with the following qualifications:
+
+
+   1.  Your first language is American English.
+
+   2.  You are a male between 20 and 60 years of age.
+ 
+   3.  You can comfortably converse with people you don't already know. 
+
+   4.  You have access to a touchtone (not pulse or rotary) telephone.
+
+
+HOW TO PARTICIPATE 
+
+The calls are computer guided, and the steps are easy to follow.  Either
+you call our 800 number or you will be called; the computer will connect you
+with another participant, tell you the topic, and record the conversation.
+You will need to enter an identification number using the touchtone keypad.
+
+
+CONVERSATION REQUIREMENTS
+
+In this package you will select conversational topics that you find
+interesting and comfortable to talk about.  You are not expected to be an
+expert on topics, but simply able to:  a) converse for about 5 minutes in a
+natural manner and  b) stay on the assigned topic (as much as possible).
+
+The number of calls you may participate in will depend on many factors, such
+as the number of participants, your topics, and the times you are available.
+The average number of conversations per person is 10. You may make 1 call per 
+day, starting as soon as you are notified in the mail.
+
+
+COMPENSATION OPTIONS FOR CALLS COMPLETED
+
+Participants will receive thank-you gifts or payment of $5 for each completed
+call. Texas Instruments employees, as well as others whose circumstances do
+not permit them to receive payment, should choose the "gift" option, or they
+may decline both.  The number and type of gifts will vary with the number of
+conversations completed.
+    
+
+DISTRIBUTION OF THE SWITCHBOARD SPEECH DATABASE
+
+Your speech will be recorded, transcribed, and made available for research
+and development of speech technology. It will be archived at the National
+Institute of Standards and Technology (NIST) in Maryland.  Your name will not
+be released with the database.
+
+
+WHO TO CONTACT
+
+Contact the Speech Research Branch (214-995-0785) if you have any questions.
+If you have problems with a conversation that was recorded, call within 5
+days, and it will be erased.
+
+
+
+                        SWITCHBOARD SIGN-UP SHEET
+
+
+
+I.  GIFT/CASH INFORMATION
+
+A.  Are you and employee of Texas Instruments (TI)? _____
+
+B.  Which compensation option do you select? (TI employees may not receive
+    cash.)
+
+C.  Address for receiving your gift or check:
+
+	Name 			_______________________________________________
+
+	Street Address  	_______________________________________________                   
+
+	City, State, Zip code   _______________________________________________                    
+
+	Social Security Number  _______________________________________________   
+
+
+
+II.  BACKGROUND INFORMATION
+
+A.  Are you a man ____ or a woman ____? 
+
+B.  Birth year: 19____
+
+C.  Highest educational level achieved: _______________________
+
+D.  Where did you grow up during your first 10 years? 
+
+ _____________________________________________________________________
+
+
+
+III.   Legal Consent Statement
+
+I have read and understood the attached description of the Switchboard
+Speech Database collection project.  I consent for Texas Instruments,
+Incorporated (TI) to record and monitor my voice over the telephone during
+computer-controlled conversations with other participants.  The recordings and
+transcripts of my speech will be part of a publicly available database;
+universities, government laboratories, contractors, and other qualified
+persons will be able to use them for research and development of automatic
+speech recognition, speech understanding, and speaker identification.  TI
+agrees to protect my privacy by not telling anyone who receives the recordings
+which ones are mine.  My name, address, telephone number(s), and social
+security number will not be released with the speech database.  I understand
+that this is work for hire; I will be given a gift or payment for each 
+conversation completed according to the requirements; this comprises TI's 
+complete obligation to me.
+
+
+	Participant's signature:	___________________________
+   
+	Participant's printed name:	___________________________
+
+	Date: 				___________________________
+
+
+
+
+
+                      TIMES AVAILABLE FOR PARTICIPATION
+
+
+On the calendar please fill in the time periods you expect to be available for
+participating and the appropriate phone numbers. Your times should be between
+6 A.M. and 11 P.M. Central Time. Please include A.M. and P.M. when you specify
+your times.
+
+
+                          WEEKLY CALENDAR 
+
+	Starting Times		Ending Times		Phone Number
+
+MON	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+TUES	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+WED	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+THURS	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+FRI	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+SAT	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+SUN	______________		____________		____________
+
+	______________		____________		____________
+
+	______________		____________		____________
+
+
+
+
+Your area code:  __________ 
+
+
+Please circle your time zone:   Eastern   Central   Mountain   Pacific
+
+
+
+        	              SWITCHBOARD TOPICS
+
+Please select the topics you are interested in discussing from the list below 
+by deleting those which you are not interested in. We recommend you select at 
+least 15 topics in order to increase the likelihood of quickly matching your 
+topic preferences, time schedule, and availability with those of other callers.
+
+     AIDS
+     Air Pollution
+     Auto repairs            		     
+     Baseball                		
+     Basketball              		
+     Boating and sailing
+     Buying a car            		     
+     Camping                 		     
+     Capital punishment      		     
+     Care of the elderly     		     
+     Child care              		     
+     Choosing a college      		     
+     Clothing and dress      		     
+     Computers               		    
+     Consumer goods (appliances, etc.)  
+     Crime 	                 	     
+     Drug testing           		
+     Elections and voting    		     
+     Ethics in government
+     Exercise and fitness    		
+     Family finance          		     
+     Family life and activities
+     Family reunions
+     Federal Budget         		     
+     Fishing                 		     
+     Football                		    
+     Golf                    		     
+     Gun control             		     
+     Home Repair
+     Immigration                 
+     Job benefits                
+     Latin America               
+     Magazines
+     Metric system               
+     Middle East                 
+     Music                       
+     News media                  
+     Painting (e.g. house painting)
+     Pets                        
+     Politics                    
+     Public education            
+     Recycling                   
+     Right to Privacy            
+     Social Change               
+     Soviet Union                
+     Space flight and exploration
+     Taxes                       
+     Trial by jury               
+     Universal health insurance  
+     Universal public service    
+     Vietnam War                 
+     Woodworking
+
+Your preferences will be followed as much as possible; however, you may be
+asked to speak on topics that you have not selected.  In such cases you may
+continue with the call and do your best, or abort the call at the start by
+simply hanging up.
+
+
+ATTACHMENT 2:   Prompts used to start SWITCHBOARD conversations.
+
+
+PROMPT#:  DESCRIPTION -- Prompting text
+--------  -----------    --------------
+
+353: PUBLIC EDUCATION -- Discuss with the other caller whether there is
+something seriously wrong with our public school systems today,	and if so, what
+can be done to correct it.
+
+354: DRUG TESTING -- How do you feel about the practice of some companies or
+government agencies testing employees or prospective employees for drugs?  Is
+random spot testing justified?  What limits should there be, if any?
+
+359: FEDERAL BUDGET -- What short and long-term steps do you and the other
+caller think should be taken to improve the us budget?
+
+360: FISHING -- Find out what kind of fishing the other caller enjoys.  Do you
+have similar or different interests in the kind of fishing you enjoy?
+
+361: GARDENING -- Find out what the other caller does in the way of lawn and
+garden work.  Does the other call enjoy doing it?  Compare this to your own
+situation.
+
+365: BASEBALL -- Find out the other caller's favorite pro baseball team and
+where it's headed this year.  Do you agree with the caller's prediction?
+                                                                                
+366: CONSUMER GOODS -- Find out from the other caller whether they have had to
+return a product they bought recently.  Are consumer goods generally getting
+better or worse in quality?
+                                                                                
+317: AFFIRMATIVE ACTION -- Do you think affirmative action in hiring and
+promotion is a good policy for private industry?  Will it accomplish the
+government's goals?  Can you distinguish between affirmative action and a quota
+system?
+                                                                                
+318: AUTO REPAIRS -- What was the last auto repair you performed or had done on
+your car?  Are there some types of repairs or maintenance tasks you prefer to
+do yourself?  Discuss your experiences in this area with the other caller.
+                                                                                
+301: AIDS -- Please discuss funding for aids research.  Should the us spend
+more, less, or about the same amount of money it currently is?  Why do you
+think so?
+                                                                                
+302: AIR POLLUTION -- Please discuss air pollution.  Find out what substances
+the other caller thinks contribute the most to air pollution today.  What can
+individuals or society do to improve air quality?
+                                                                                
+303: CLOTHING AND DRESS -- The topic is clothing.  Please find out how the other
+caller typically dresses for work.  How much variation is there from day to
+day?  How much variation is there from season to season?
+                                                                                
+304: CREDIT CARD USE -- Please discuss credit cards.  Find out how the other
+caller makes use of credit cards.  How do they compare to your own?
+                                                                                
+305: CARE OF THE ELDERLY -- Please discuss care of the elderly.  Find out how
+the other caller feels about sending an elderly family member to a nursing
+home.  What should one know about the nursing home environment when making this
+decision?
+                                                                                
+306: RECIPES, FOOD, COOKING -- Please discuss food and cooking.  What foods
+would you include in the menu for a dinner party?  Share the recipe for one of
+these foods with the other caller.
+                                                                                
+307: FOOTBALL -- Please discuss professional football.  Find out the other
+caller's favorite pro football team and where it's headed this year.	Do you
+agree with the caller's prediction?
+                                                                                
+308: MUSIC -- Please discuss music.  Can you find musicians, singers,
+instruments, or types of music that both you and the other caller like?
+                                                                                
+309: PUERTO RICAN STATEHOOD -- The topic is puerto rico.  Please find out
+whether the other caller favors statehood, independence, or the status quo for
+puerto rico.  Why?
+                                                                                
+338: SOVIET UNION -- Find out whether or not the other caller considers the
+Soviet Union a threat to the united states.  Take an opposing view in your
+discussion with the other caller.
+                                                                                
+339: TV PROGRAMS -- Find out what the other caller's favorite TV shows are and
+why.  Are your interests similar or different?
+                                                                                
+340: TAXES -- Talk about whether americans, like you, are paying too much in
+taxes -- be it taxes in general or income tax.  You might discuss whether
+americans in general get back what they pay for.
+                                                                                
+341: TRIAL BY JURY -- Discuss possible changes in the way trials by jury are
+conducted.  For example, what do you and the other caller think about
+leaving the sentencing to the judge?  Must criminal cases require unanimous
+verdicts?
+                                                                                
+343: HOUSES -- Find out about the other caller's home.  Is it a typical home for
+the area?  How does it compare to your home?
+                                                                                
+344: IMMIGRATION -- Find out how the other caller feels about America's
+immigration policy.  If there are problems, what might the solutions be?
+                                                                                
+346: LATIN AMERICA -- What do you think about current or recent American actions
+in Latin America, or about our policy toward that part of the world?
+                                                                                
+348: MOVIES -- Find out what the other caller thought about the last few movies
+they saw.  What movies have you seen lately?
+                                                                                
+349: NEWS MEDIA -- Discuss how you and the other caller keep up on current
+events.	Do you get most of your news from tv, radio, newspapers, or people you
+know?	ARE YOU SATISFIED WITH THE QUALITY OF COVERAGE?
+                                                                                
+351: PETS -- Find out what kind of pets the other caller has, if any.	
+Discuss in general why people keep pets.
+                                                                                
+325: COMPUTERS -- Find out the other callers' preference and level of interest
+in personal computers.  How does it compare to your interest and preference?
+                                                                                
+327: UNIVERSAL PUBLIC SERVICE -- See how the other caller feels about the
+proposal that all young americans should spend a year or two doing some kind of
+public service, such as joining the Peace Corps.
+                                                                                
+328: VIETNAM WAR -- Try to find out what the other caller's views are on the
+Vietnam War.  Was it justified?  Was it worth the cost in dollars and lives?
+                                                                                
+329: WOMEN'S ROLES -- Discuss the changes in the roles of women in American
+society over the past generation or two.  Which changes have been the most
+significant?  Do you have an opinion on what further changes will take place
+over the next generation?
+                                                                                
+330: DIRECTIONS -- Get directions from the other caller on how to get from their
+place of work to the nearest major airport.
+                                                                                
+331: FAMILY REUNIONS -- Discuss planning a family reunion.  Draw on your
+experiences and those of the other caller for making the next get-together
+successful and memorable.
+                                                                                
+332: HOME REPAIRS -- Find out what the last home repair or remodeling project
+the other callerundertook.  How successful was it?  How does it compare to your
+own experience?
+                                                                                
+333: VOTING -- Find out from the other caller whether or not they think that low
+voter turnout in American elections is a serious problem.  Should anything be
+done to raise voter turnout?
+                                                                                
+334: SOCIAL CHANGE -- Discuss recent social changes.  How is life in America
+different today compared to living ten, twenty, or thirty years ago?
+                                                                                
+336: RIGHT TO PRIVACY -- Find out what everyday occurrences the other caller
+considers to be an intrusion of privacy.  What can be done to prevent them?  Do
+you agree or disagree?
+                                                                                
+310: VACATION SPOTS -- Please discuss types of vacations and trips you enjoy.
+Find out whether the other caller can interest you in a vacation spot you
+haven't visited.
+                                                                                
+311: BOOKS AND LITERATURE -- Find out what books the other caller reads for
+enjoyment or self-improvement.  Do you have similar or different interests in
+books?
+                                                                                
+312: CRIME -- Discuss crime in American cities today.  What are your concerns
+and the concerns of the other caller?  What steps can be taken to reduce crime?
+                                                                                
+313: WEATHER AND CLIMATE -- Discuss the weather.  What has it been like in your
+area?  Has it been typical for this time of year?  Compare it with the other
+caller's weather.
+                                                                                
+314: GUN CONTROL -- Discuss gun control.  Where do you and the other caller
+stand on a scale from 1 to 10, with 1 being a total ban on firearms and 10
+being no restrictions on any kind of weapon?
+                                                                                
+315: MIDDLE EAST -- Find out what the other caller thinks about current US
+policy in the Middle East.  Should us policy be changed or not?
+                                                                                
+316: RESTAURANTS -- What kind of dining out do you enjoy?  What things do you
+look for in a restaurant that would get you to go back again?  See whether the
+other caller's preferences are similar to yours.
+                                                                                
+319: BASKETBALL -- Find out the other caller's favorite pro basketball team and
+where it's headed this year.  Do you agree with the caller's prediction?
+                                                                                
+321: CAMPING -- Find out from the other caller what kind of camping they have
+done.  How does it compare with your own experiences?
+                                                                                
+323: CHILD CARE -- Find out what criteria the other caller would use in
+selecting child care services for a preschooler.  Is it easy or difficult to
+find such care?
+                                                                                
+324: CHOOSING A COLLEGE -- What advice or experience can you offer to a parent
+on how to help a son or daughter choose a college to attend?
+                                                                                
+320: BUYING A CAR -- What kind of car do you think you might buy next?  What
+sorts of things will enter into your decision?  See if your requirements and
+the other caller's requirements are similar.
+                                                                                
+322: CAPITAL PUNISHMENT -- Compare your opinions and those of the other caller
+on capital punishment.  Do either of you think it should be restricted to
+certain crimes or circumstances?  How do the policies and practices of your
+state fit with your opinions?
+                                                                                
+335: RECYCLING -- What is being done in your community or area about recycling
+waste materials?  Do you think more should be done?  Do you have any ideas on
+how to encourage more recycling or on what other materials should be included?
+                                                                                
+337: SAVINGS AND LOAN BAILOUT -- What do you think were the causes of the
+current savings and loan crisis?  Do you believe that the problem is mostly
+under control?  Is it being handled correctly?  Could it happen again?
+                                                                                
+347: METRIC SYSTEM -- Do you think the United States should adopt the metric
+system?  Why do you think the last effort to adopt it failed?  What would have
+to be done differently to guarantee success?
+                                                                                
+355: ELECTIONS AND VOTING -- Why do you think that only about half of eligible
+voters in america take part in national elections, and even fewer in local
+elections?  Is this a serious problem?  Can you suggest a solution?
+                                                                                
+362: GOLF -- Discuss golf.  Are you a spectator or a player?  What are the
+aspects of the game that you think are most challenging?  What do you enjoy the
+most about playing or watching golf?
+                                                                                
+363: HEALTH CARE -- Discuss our health care system today, particularly as it
+affects you and your family.  Do you think good medical attention is available
+to most people?  Do you think the costs are reasonable?
+                                                                                
+364: HOBBIES AND CRAFTS -- What hobbies do you have in your spare time?  Do they
+include any handicrafts, such as knitting, painting, woodworking?
+                                                                                
+342: UNIVERSAL HEALTH INSURANCE -- Do you believe that the us government should
+provide universal health insurance, or should at least make it a long term
+goal?  How far in that direction whould you be willing to go?  WHAT DO YOU SEE
+AS THE 
+                                                                                
+350: PAINTING -- Have you done any painting projects recently, either indoors or
+outdoors?  What types of painting are you willing to take on by yourself?  Are
+you usually satisfied when you finish, or do you wish you hired a professional?
+SEE IF THE OTHER
+                                                                                
+352: POLITICS -- Discuss any recent political elections or movement that you and
+the other caller consider interesting or important.  Or, if you prefer, discuss
+political trends or changes taking place in the us.  See if the other caller
+shares your views.
+                                                                                
+356: EXERCISE AND FITNESS -- Do you do any exercise regularly to maintain your
+health or fitness level?  If so, describe what you do; if not, have you
+considered doing so?  Do you enjoy the exercise you get, or do it as a task?
+COMPARE YOUR HABITS AND YOUR MOTIVES
+                                                                                
+357: FAMILY FINANCE -- Does your family keep a monthly budget, or even a
+long-term financial plan?  If not, how do you control expenses?  If so, can you
+give a general description of your procedures, and how successful they have
+been?  SEE HOW SIMILAR THEY ARE TO
+                                                                                
+358: FAMILY LIFE -- If you have children, can you describe how much time you and
+your spouse spend with them, and what activities you all do together?  Is it
+difficult to find time for these kinds of activities?  What DO YOU THINK ARE
+THE CURRENT TRENDS IN THE
+                                                                                
+345: JOB BENEFITS -- What do you consider the most important benefits besides
+salary in a job with a large organization?  How satisfied are you with the
+current benefits of your job, and what changes in benefits would you like to
+see?
+                                                                                
+326: BOATING AND SAILING -- Do you sail or enjoy some other form of boating?  do
+you have your own boat?  find out what the other caller enjoys or thinks about
+boating or sailing.  Or you might discuss the pros and cons of boat ownership.
+                                                                                
+368: SPACE FLIGHT AND EXPLORATION -- What do we gain from our space flight and
+exploration efforts?  Should we continue to support the space program at
+current levels?  You MIGHT ALSO DISCUSS WHETHER SPACE FLIGHT WILL EVER BECOME
+COMMON, OR WHETHER, GIVEN THE CHANCE, YOU
+                                                                                
+369: MAGAZINES -- Do you have magazines that you subscribe to or read on a
+regular basis?  what do you like or dislike about magazines, compared to other
+media?
+                                                                                
+367: ETHICS IN GOVERNMENT -- Do you think it is possible to have an honest
+government?  Are most politicians in government more for personal gain or
+public service?  How much self-serving activity do you think goes on?  IS IT
+POSSIBLE TO MAKE
+                                                                                
+370: WOODWORKING -- Please discuss woodworking.  Is it a hobby for you, or
+something you do to save money?  what kinds of projects do you like to do, and
+what kind do you avoid?  Do you usually finish what you start?  Would you do
+more if you had more tools?
+                                                                                
+
+
+ATTACHMENT 3:  SWITCHBOARD Transcription Manual, Revision 4: 17 March 1992
+
+Part I:  HEADER FORMAT AND INSTRUCTIONS
+
+1. When the transcription is finished, fill out the template at the top
+of the text file as in the following example:
+
+
+FILENAME:	3021_1279_1108 
+TOPIC#:		314
+DATE:		910606 
+TRANSCRIBER:	RDL 
+DIFFICULTY:	1
+TOPICALITY:	1 
+NATURALNESS:	1 
+ECHO_FROM_B:	1 
+ECHO_FROM_A:	1
+STATIC_ON_A:	1 
+STATIC_ON_B:	2 
+BACKGROUND_A:	1 
+BACKGROUND_B:	3
+REMARKS: Conversation was dominated by Speaker A.  Near the end of the
+conversation there was a silence of about 30 seconds while B went to
+answer the doorbell.
+
+============================================================
+
+
+2.  The first three items are filled in from information provided on
+the log sheets for each conversation; the fourth is the transcriber's
+initials; the fifth through the thirteenth are "ratings", which are to
+be given by the transcriber immediately after finishing a
+conversation.  The key to the ratings is given below in #3.
+
+The last item, "REMARKS:", is for brief comments about unusual
+characteristics of the conversation, if any.  See #4 below for more
+details.
+
+If there are no comments, just type the word "None."  There should be
+a blank line after the end of the remarks and two more blank lines
+after the "======" line, before the transcription itself begins.
+
+
+
+3.  Use the following key in rating each conversation; remember that 1
+is good and 5 is bad.  
+
+
+		SWITCHBOARD CONVERSATION RATING KEY
+
+On a scale of 1 to 5, please rate the conversation according to the
+following characteristics:
+
+
+DIFFICULTY: The conversation was very easy (1)        1   2   3   4   5 
+or very difficult (5) to transcribe.
+
+TOPICALITY: The conversation generally stayed on      1   2   3   4   5
+one topic (1) or strayed far from it (5).
+
+NATURALNESS: The conversation sounded natural (1)     1   2   3   4   5
+or artificial or forced (5).            
+
+ECHO_FROM_B: In listening to A separately, B could 
+hardly be heard (1) or was nearly as loud as A (5)    1   2   3   4   5  (Caller A's side)
+
+ECHO_FROM_A: In listening to B separately, A could 
+hardly be heard (1) or was nearly as loud as B (5)    1   2   3   4   5  (Caller B's side)
+
+STATIC_ON_A:  There was no static-like noise or       1   2   3   4   5  (Caller A's side)
+distortion (1) or a great deal of it (5)     
+FROM THE TELEPHONE LINE ITSELF.
+
+STATIC_ON_B:  There was no static-like noise or       1   2   3   4   5  (Caller B's side)
+distortion (1) or a great deal of it (5)     
+FROM THE TELEPHONE LINE ITSELF.
+
+BACKGROUND_A:  The conversation was mostly clear      1   2   3   4   5  (Caller A's side)
+and intelligible (1) or distorted, muffled,   
+or otherwise hard to understand (5) BECAUSE 
+OF THE SPEAKERS' BEHAVIOR OR THE BACKGROUND
+WHERE THEY WERE CALLING FROM.
+
+BACKGROUND_B:  The conversation was mostly clear      1   2   3   4   5  (Caller B's side)
+and intelligible (1) or distorted, muffled,   
+or otherwise hard to understand (5) BECAUSE 
+OF THE SPEAKERS' BEHAVIOR OR THE BACKGROUND
+WHERE THEY WERE CALLING FROM.
+
+
+4.  In rating the conversations, remember that you are listening to an
+audio cassette recording of a computerized recording of a live phone
+conversation.  Any problem caused by the taping will not be part of
+the database, and should NOT be noted in the transcription and the
+ratings, but rather in a separate note to TI.  However, it can be
+difficult to distinguish between problems that might originate on the
+phone lines, on the computer recording, or on the tape recording.
+Perhaps the following will help:
+
+The most common problem from tape recording is a type of "dropout"
+caused when the computer, while playing back the speech to the
+cassette recorder, stops playing and then starts again.  This leaves
+up to several seconds of silence on the tape, but no speech is
+lost--that is, the recording picks up exactly where it quit, even in
+the middle of a syllable.  Ignore this in transcribing; if it gets bad
+enough to affect the ability to transcribe, return to TI for
+re-recording.
+
+Dropout can also occur on phone lines, usually on long distance calls,
+or even in the computer recording process.  In these cases, however,
+some speech does get lost during the silences.  If this occurs, use a
+descriptive comment like {dropout, part of a word lost} in the text.
+If it occurs often, mention this in the REMARKS.
+
+Slowing down or speeding up of speech would be caused by magnetic tape
+slipping or sticking, and should not be noted in the transcript.
+Return for re-recording if the problem is serious.
+
+In general, DO NOT REFER to tape-related problems in rating the
+conversation, or in the REMARKS, or in {comments} in the text (see
+below).  If in doubt, say so in the comments and in the REMARKS
+section. 
+
+If a tape has several such events that you cannot identify,
+or that make it very hard to transcribe, call the TI lab number or
+return the tape to TI with a note as soon as possible.
+
+
+EXAMPLE of a comment in the text: 
+
+{dropout, possibly on phone line?}
+
+EXAMPLE of a REMARK in the header:
+
+REMARKS: Several episodes of very brief dropout on A's side might
+have been from the telephone line rather than the tape.  Too short to
+be sure.
+
+
+
+
+Part II.  GENERAL INSTRUCTIONS
+
+
+1.  Transcribe "verbatim", without correcting grammatical errors:
+"I seen him," "me and him gone to the movies," etc.
+
+2.  Do not try to imitate pronunciation; use a dictionary form: "no"
+will do for "naw," "nah," etc., "oh" for "aw,"; "going to" (not gonna
+or goin to); "you all" rather than "y'all"; "kind of" instead of
+"kinda"; etc.  Nonstandard words which are not in the dictionary
+(e.g., kiddo) should be typed normally, i.e.  without quotes or other
+special notation.
+
+3.  Follow the dictionary on hyphenating compounds in clear-cut
+cases.  But "when in doubt, leave them out."
+
+4.  Try to avoid word abbreviations: Fort Worth, not Ft. Worth;
+percent, not %; dollars, cents, and so forth.
+
+5.  Contractions are allowed, but be conservative.  For example,
+contraction of "is" (it's a boy, running's fun) is common and
+standard, but there'll (there will) be forms that're (that are) better
+left uncontracted.  It is always permitted to spell out forms in full,
+even if the pronunciation suggests the contracted form. Thus it is O K
+to type he is and they are and we would even if it's he's and they're
+and we'd you heard.
+
+6.  Use normal capitalization on proper names of persons, streets,
+restaurants, cities, states, etc., but put titles (of books, journals,
+movies, songs, plays, TV shows, etc.--what would properly be in
+italics.) in ALL CAPS, i.e., uppercase letters.
+
+7.  If it is necessary to use accent marks, insert the number 3 before
+the letter which would receive the accent, e.g., fianc3e.
+
+8.  Punctuation: although normal punctuation rules apply, spontaneous
+conversational speech is full of difficult situations.  Strive for
+simplicity and consistency, with the following specific guidelines:
+
+	-- terminate each sentence with a period unless a question
+mark or exclamation point is clearly justified;
+
+	-- use a comma instead of ... or -- or fancier punctuation
+when speakers change thoughts or grammatical structures in the middle
+of a sentence;
+
+	--for more detail, and for special rules involving
+interruptions, etc., see below under SPECIAL CONVENTIONS.
+
+9.  Be sure to run a spell check upon completion of the transcript.
+Remember to watch for common spelling confusions like: its and it's,
+they're and there and their, by and bye, etc.
+
+
+
+PART III.  SPECIAL CONVENTIONS FOR SWITCHBOARD CONVERSATIONS
+
+
+1.  Speakers should be indicated by "A:  " and "B:  " at the left
+margin, with two spaces after the colon, and with a blank line between
+speakers (i.e., an extra carriage return before each A: or B: ).  On
+the audio tape, A will be THE SPEAKER ON THE FIRST OF THE TWO
+SEPARATELY RECORDED SIDES.  IT IS IMPERATIVE TO KEEP THIS DESIGNATION
+CORRECT AND CONSISTENT, even when the crosstalk or echo is so strong
+that both speakers are equally loud.  The log sheet for each
+conversation will show the first few words by each speaker, to help
+you confirm the assignment.
+
+EXAMPLE:
+
+   A:  Blah blah blah blah.
+
+   B:  Blah blah blah.
+
+   A:  Etcetera.
+
+
+2.  Spell out letter and number sequences: D F W, seven forty-seven, U
+S A, one oh one, F B I, etc., unless the letter sequence is pronounced
+as a word, as in NASA, ROM, DOS.  
+
+Transcribe years like 1983 as "nineteen eighty-three," with hyphens
+only between the tens and ones digits.
+
+When a letter sequence is used as part of an inflected word, add the
+inflection with a dash: T I -er, B S -ing, the Oakland A -s, a witness
+I D -ed him.  This leads to clumsy-looking possessive forms, as in:
+the U S -'s policy, the T I -er's last name, all the C E O -s' votes,
+but it saves lots of time later on.
+
+
+3.  Partial words: if a speaker does not finish a word, and you think
+you know what the word was, you may spell out as much of the word as
+is pronounced, and then use a single dash followed by a comma, -,.  If
+you cannot tell what word the speaker is trying to say, leave it out.
+
+EXAMPLE:  
+
+     A: Well, th-, that's what they kept tell-, wanted me to believe.
+
+     B:  I, I, I just am not to-, totally sure, uh, about that.
+
+
+4.  Hesitation sounds: use "uh" for all hesitations consisting of a
+vowel sound (rather than trying to distinguish uh, ah, er, etc.), and
+"um" for all hestitations with a nasal sound (rather than uhm, hm, mm,
+etc.)
+
+5.  Yes/no sounds: use "uh-huh" (yes) and "huh-uh" (no) for anything
+remotely resembling these sounds of assent or denial; you may use
+"yeah," "yep," and "nope" if that is what the words sound like.
+
+ 
+6.  Punctuation: use commas instead of ... or -- or other "fancy"
+punctuation when speakers change thoughts or grammatical structures in
+the middle of a "sentence."  Terminate each sentence with a period
+unless a question mark or exclamation point is clearly justified.
+Only use suspension dots ... if a speaker leaves a sentence unfinished
+at the end of his/her turn, and a period cannot be used, or at the end
+of a conversation where the speaker's turn was cut off by the computer
+timing out:
+
+EXAMPLE:
+
+   A:  I was going to do that, but then I ...
+
+   B:  Right, me too.
+
+Use a double dash if a speaker breaks a sentence off and picks it up
+at the beginning of the next turn, with another double dash where the
+pickup begins:
+
+EXAMPLE:
+
+   A:  I was going to do that, but then I --
+
+   B:  Right, me too.
+
+   A:  -- thought I better not after all.
+
+
+7.  Non-speech sounds during conversations: indicate these using only
+the following list of expressions in brackets.  When making judgments,
+pick the closest description; [noise] will be adequate to describe
+most sounds that are not represented below. Note underscores (not
+spaces or hyphens) to connect the double word descriptions.
+
+[TV]
+[baby]
+[baby_crying]
+[baby_talking]
+[barking]
+[beep]
+[bell]
+[bird_squawk]
+[breathing]
+[buzz]
+[buzzer]
+[child]
+[child_crying]
+[child_laughing]
+[child_talking]
+[child_whining]
+[child_yelling]
+[children]
+[children_talking]
+[children_yelling]
+[chiming]
+[clanging]
+[clanking]
+[click]
+[clicking]
+[clink]
+[clinking]
+[cough]
+[dishes]
+[door]
+[footsteps]
+[gasp]
+[groan]
+[hiss]
+[horn]
+[hum]
+[inhaling]
+[laughter]
+[meow]
+[motorcycle]
+[music]
+[noise]
+[nose_blowing]
+[phone_ringing]
+[popping]
+[pounding]
+[printer]
+[rattling]
+[ringing]
+[rustling]
+[scratching]
+[screeching]
+[sigh]
+[singing]
+[siren]
+[smack]
+[sneezing]
+[sniffing]
+[snorting]
+[squawking]
+[squeak]
+[static]
+[swallowing]
+[talking]
+[tapping]
+[throat_clearing]
+[thumping]
+[tone]
+[tones]
+[trill]
+[tsk]
+[typewriter]
+[ugh]
+[wheezing]
+[whispering]
+[whistling]
+[yawning]
+[yelling]
+
+If the event being described lasts longer than a few words, then
+indicate the beginning in brackets [ ], and the end in brackets with a
+"/", [/ ].
+
+
+EXAMPLES:
+
+  1.  Separate multiple sounds by a space, each one in brackets:
+
+      A:  Oh, that's funny. [laughter] [cough] Excuse me, I have a cold.
+
+      B:  That's all right, [sneezing] so do I.  [barking] [child_talking]
+
+
+  2.  Use  "/" to show end of a continuous sound:
+
+      A:  Well, it all depends, uh, on, you know, [baby_crying] how the
+      family reacts.  I mean, it can be a positive or a negative thing, 
+      you know?
+
+      B:  Yeah, well, I guess so.  It just seems [/baby_crying] to me that 
+      it's a very difficult, uh, difficult issue.
+
+
+8.  When a comment is needed to describe an event, put the comment in curly
+braces { }: {very faint}, {sounds like speaker is talking to someone else in
+the room}, {speaker imitates a woman's voice here}.
+
+EXAMPLE:
+
+  1.  Curly braces to describe the speech:
+
+      B:  Yeah, yeah, I agree {very faint} right.
+ 
+  2.  Combine curly braces and brackets if more explanation is needed
+      to describe the word in the brackets:
+
+      A:  Did it sound like this? [clicking] {sounds made with mouth}
+
+      B:  No, more like [clicking] {sounds like a pencil tapping on a table}
+      this.
+
+
+9.  When a word or phrase is not clear, type DOUBLE PARENTHESES ((  ))
+around what you think you hear.  If there is no way to tell what the
+speaker said, leave 1 blank space between the double parentheses,
+indicating speech has been left out because it was unintelligible.
+
+EXAMPLE: 
+
+    A:  So when I finally did ((take up)) the violin, I
+        progressed pretty quickly in the beginning.
+
+    B:  Of course, that was in college which was a long time
+        ago, so (( )) I remember.
+
+
+10.  Marking untopical speech for possible trimming: Use an "at sign",
+@, and a double "at sign", @@, to designate potential "trim points" at
+the beginning or end of conversations.  These would exclude speech
+that either is not part of the conversation itself, or refers directly
+to the protocol.  For example, it sometimes happens that callers
+accidentally press the touchtone button that begins recording, and are
+being recorded during the "warmup period" and don't know it.  All such
+speech should be marked for trimming.  Other examples would be speech
+that:
+	a.) explicitly refers to the SWITCHBOARD protocols;
+	b.) refers to the process of making the call;
+	c.) uses the TITLE of the prompt (e.g., "music"); or 
+	d.) repeats or paraphrases the PROMPT itself.
+
+
+[The TITLE and the PROMPT for each topic will be found on your
+information sheet; they are keyed to the topic number, which is on the
+log sheet for each conversation.]
+
+Marking these trim points means that EVERYTHING BEFORE '@' AND/OR
+EVERYTHING AFTER '@@' may be discarded without losing the main body of
+the conversation on the topic.  These symbols may therefore only be
+used ONCE AT THE BEGINNING (@) AND/OR ONCE AT THE END (@@) of the
+conversation.  They must also be used ONLY AT TURN-TAKING POINTS,
+i.e., at the left hand margin, before an "A:" or "B:", NOT part of the
+way through someone's turn.  One or both may be used in a single
+conversation, i.e., trimming of material at the beginning is
+independent of trimming at the end.
+
+Social niceties and transitional talk are neutral.  That is, they may
+be left alone, but should be trimmed if they occur next to material
+that definitely deserves trimming.
+
+EXAMPLE:
+
+     A:  Okay, so what am I supposed to do now?  Wait, let me read,
+
+     B:  I think you're supposed to push one.
+
+     A:  let's see, it says here to push, okay, but I think I already,
+         okay are you ready?
+
+     B:  Yep.                     [Talking about protocol up to here.]
+
+     A:  Here we go.  Alright, now, tell me, what is your favorite kind
+         of music?                [Using topic TITLE explicitly.]
+
+    @B:  I enjoy Mozart and reggae, but I really love rap.  [OK]
+
+     .
+
+     . <body of conversation is here>
+
+     .
+
+     A: I've certainly enjoyed hearing what you have to say. [Trim optional here.]
+
+   @@B:  Well, if we've talked enough, do I need to push a button or
+	 anything? I guess not, we can just hang up.  So long. [Talk of 
+         protocol should be trimmed.]
+
+     A:  Bye. Nice talking to you.
+
+
+ANOTHER EXAMPLE:
+
+    A:  Hi, there, how are you doing?
+
+    B:  Fine, how about you?
+
+    A:  Just great, except for all this heat.  [Chitchat up to here could be left
+	alone if no reason to trim occurred.]
+
+    B:  Well.  Care of the elderly, huh?  That's our topic?  [Need to trim because it 
+	mentions the topic TITLE.]
+
+   @A:  Yes.  Do you have any relatives that need special care?   [This is OK as part 
+        of the conversation, since only the word "care" is repeated from the prompt.  
+        It is not trimmed--initial trimming ends with the '@'.]
+    .
+
+    .
+
+    .
+
+  @@B:  Well, I guess we have solved the problem of care of the
+        elderly, and how to choose nursing homes, haven't we?   [Trimmed because it 
+	contains both TITLE and a paraphrase of prompt.]
+
+    A:  Sure did.  I hope your grandmother gets better.  So long now, it's
+        been fun talking to you.    [Social pleasantries would not be trimmed 
+        themselves, but no harm in trimming them in order to get rid of the previous 
+        turn.]
+
+11.  Simultaneous talking: Wherever possible, mark where both speakers
+talked simultaneously with TWO PAIRS of pound signs (#), ONE BEFORE
+AND ONE AFTER each of the segments spoken at the same time.  One of
+these segments MUST BEGIN A TURN; in other words, if one person is an
+"interruptor", his interruption starts a new turn.
+
+Remember, BOTH speakers' turns must contain TWO pound signs each.
+
+A SIMPLE EXAMPLE:
+
+     A:  Okay, well, I guess that's about it.
+
+     B:  Yeah.
+
+     A:  Nice talking to you.
+
+     B:  # Right, bye. #
+
+     A:  # Bye bye. #
+
+
+ANOTHER EXAMPLE:
+
+   A: I never heard such nonsense, you know,
+
+   B: # Yeah, I know. #   [B interrupts while A continues.]
+
+   A: # as I heard that # day when I blah blah blah.  [A continues beyond the simultaneously spoken words.]
+
+WHICH COULD ALSO BE WRITTEN:
+
+   A: I never heard such nonsense, you know, # as I heard that #
+
+   B: # Yeah, I know. #   
+
+   A: day when I blah blah blah
+
+
+ANOTHER EXAMPLE:
+
+   A: I never heard such nonsense, # you know, #  [A starts.]
+
+   B: #Yeah, #             [B starts to step on A.]
+
+   A: as I heard that day when # I was at that meeting. #  [A continues without stopping.]
+
+   B: # I agree with you all the way #         [B comes in over A again.]
+

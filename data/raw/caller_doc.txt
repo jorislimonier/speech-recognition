@@ -1,0 +1,16 @@
+CREATE TABLE caller (
+	caller_no numeric(4) NOT NULL,
+	pin numeric(4) NOT NULL,
+	target character(1),
+	sex character(6),
+	birth_year numeric(4),
+	dialect_area character(13),
+	education numeric(1),
+	ti numeric(1),
+	payment_type character(5),
+	amt_pd numeric(6),
+	con character(1),
+	remarks character(120),
+	calls_deleted numeric(3),
+	speaker_partition character(3)
+);
