@@ -1,8 +1,0 @@
-CREATE TABLE topic (
-	topic_description character(30),
-	ivi_no numeric(4),
-	prompt character(240),
-	flg character(1),
-	remarks character(120),
-	prompt_cont character(50)
-);
