@@ -1,0 +1,14 @@
+CREATE TABLE conversation (
+	conversation_no numeric(5) NOT NULL,
+	active character(1),
+	caller_from numeric(4),
+	caller_to numeric(4),
+	ivi_no numeric(4),
+	class numeric(2),
+	talk_day character(7),
+	time_start numeric(6),
+	time_stop numeric(6),
+	trim_start numeric(6),
+	trim_stop numeric(6),
+	remarks character(240)
+);

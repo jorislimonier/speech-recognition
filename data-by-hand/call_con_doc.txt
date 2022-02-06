@@ -1,0 +1,10 @@
+CREATE TABLE caller_conversation (
+	conversation_no numeric(5) NOT NULL,
+	conversation_side character(1) NOT NULL,
+	caller_no numeric(4) NOT NULL,
+	phone_number character(10),
+	length numeric(6),
+	ivi_no numeric(4) NOT NULL,
+	remarks character(240),
+	active character(1)
+);
