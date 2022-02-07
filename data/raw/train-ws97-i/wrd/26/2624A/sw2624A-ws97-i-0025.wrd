@@ -1,0 +1,17 @@
+signal 2624-A-0025
+type 0
+comment created using xlabel Tue May 27 17:45:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 SIL
+    0.573746  121 PROBABLY
+    0.780357  121 sil
+    0.957750  121 THEY
+    1.189405  121 DON'T_!
+    1.377233  121 HAVE
+    1.604714  121 BIRTH
+    2.063850  121 CONTROL

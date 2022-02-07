@@ -1,0 +1,16 @@
+signal 2545-A-0026
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.530965  121 H#
+    0.666617  121 I
+    1.073060  121 WORK
+    1.353830  121 H#
+    1.506490  121 FOR
+    2.045890  121 DIGITAL
+    2.495110  121 EQUIPMENT
+    2.651430  121 H#

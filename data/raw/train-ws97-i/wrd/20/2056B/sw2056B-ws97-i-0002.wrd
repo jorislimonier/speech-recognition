@@ -1,0 +1,28 @@
+signal 2056-B-0002
+type 0
+comment created using xlabel Sun Jun 15 16:15:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.129731  121 [MOUTHNOISE]
+    0.339943  121 WHAT
+    0.462828  121 [FALSESTART]
+    1.047390  121 UM
+    1.342490  121 [MECHNOISE]
+    1.427390  121 [MOUTHNOISE]
+    1.531590  121 WHAT
+    1.610000  121 DO
+    1.687830  121 YOU
+    1.917860  121 THINK
+    2.189100  121 NEEDS
+    2.292190  121 TO
+    2.524630  121 BE
+    2.779840  121 THE
+    2.989630  121 [BREATH]
+    3.509160  121 CRITERIA
+    3.733530  121 SET
+    3.880000  121 FOR
+    4.213230  121 THOSE

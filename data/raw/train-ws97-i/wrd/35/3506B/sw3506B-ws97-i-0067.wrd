@@ -1,0 +1,19 @@
+signal 3506-B-0067
+type 0
+comment created using xlabel Mon May  5 17:28:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 H#
+    0.610000  121 WELL
+    0.866697  121 "LET'S"
+    1.345700  121 SEE
+    1.514830  121 WHAT
+    1.881630  121 ELSE
+    2.018230  121 FOR
+    2.710020  121 CATERING
+    3.134480  121 H#
+    3.285730  121 ?_#

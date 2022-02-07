@@ -1,0 +1,15 @@
+signal 3196-A-0045
+type 0
+comment created using xlabel Sat Jun  7 16:28:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.061314  121 [background noise]
+    0.300000  121 BUT
+    0.505220  121 UH
+    0.813144  121 "WE'RE"
+    0.880572  121 [background noise]
+    1.187373  121 [breath]

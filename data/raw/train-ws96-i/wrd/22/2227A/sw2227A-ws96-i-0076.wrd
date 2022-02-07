@@ -1,0 +1,17 @@
+signal 2227-A-0076
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060000  121 H#
+    0.336748  121 BECAUSE
+    0.553131  121 BY
+    0.949607  121 H#
+    1.020000  121 THE
+    1.244230  121 PLAY
+    1.502640  121 TIME
+    1.740000  121 IS
+    1.826230  121 H#

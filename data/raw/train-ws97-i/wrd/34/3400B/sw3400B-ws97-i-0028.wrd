@@ -1,0 +1,17 @@
+signal 3400-B-0028
+type 0
+comment created using xlabel Wed May 21 17:42:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080000  121 SIL
+    0.452621  121 YEAH
+    0.650000  121 WELL
+    0.740000  121 THE
+    1.180000  121 EDITORIAL
+    1.506515  121 PAGE
+    1.628145  121 is
+    1.746335  121 pretty_?_#

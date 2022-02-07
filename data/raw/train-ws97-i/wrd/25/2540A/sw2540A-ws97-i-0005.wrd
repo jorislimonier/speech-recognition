@@ -1,0 +1,17 @@
+signal 2540-A-0005
+type 0
+comment created using xlabel Thu Jul  3 14:20:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.112424  121 [STATIC]
+    0.222067  121 AND
+    0.354856  121 THAT
+    0.642363  121 "DIDN'T"
+    0.895759  121 HELP
+    0.959107  121 AT
+    1.169860  121 ALL
+    1.288040  121 [STATIC]

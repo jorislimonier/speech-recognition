@@ -1,0 +1,20 @@
+signal 2723-B-0106
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060495  121 H#
+    0.380411  121 ?
+    0.610097  121 I'M
+    1.09558  121 h#
+    1.33078  121 I'M
+    1.68961  121 HERE
+    1.85  121 I'VE
+    2.00429  121 GOT
+    2.23653  121 JUST
+    2.55909  121 ELEVEN
+    2.97  121 YEARS
+    3.32396  121 h#

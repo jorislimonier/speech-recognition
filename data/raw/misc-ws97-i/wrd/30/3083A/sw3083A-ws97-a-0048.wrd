@@ -1,0 +1,21 @@
+signal 3083-A-0048
+type 0
+comment created using xlabel Wed Feb 19 10:27:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.258320  121 UH
+    0.399758  121 AN
+    1.128270  121 EDUCATION
+    1.280000  121 IT
+    1.630040  121 SHOWS
+    1.880360  121 I
+    2.070000  121 THINK
+    2.170000  121 IT
+    2.574080  121 SHOWS
+    2.743580  121 THAT
+    2.870430  121 THE
+    3.330000  121 PARENTS

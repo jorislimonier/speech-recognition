@@ -1,0 +1,16 @@
+signal 2830-A-0058
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.077908  121 h#
+    0.407135  121 YEAH
+    0.561094  121 WHO
+    1.040000  121 DIDN'T
+    1.160191  121 ISN'T
+    1.386856  121 THAT
+    1.742981  121 SAD
+    2.368887  121 h#

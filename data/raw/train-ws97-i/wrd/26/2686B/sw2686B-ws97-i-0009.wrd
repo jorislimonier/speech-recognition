@@ -1,0 +1,34 @@
+signal 2686-B-0009
+type 0
+comment created using xlabel Thu Jul 17 14:05:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.180000  121 [CROSSTALK]
+    0.427948  121 BECAUSE
+    0.611286  121 UH
+    0.847450  121 UM
+    1.016800  121 YOU_KNOW
+    1.181500  121 JUST
+    1.315120  121 GOT
+    1.579010  121 HOME
+    1.756130  121 AND
+    1.892860  121 READY
+    1.992290  121 FOR
+    2.353540  121 DINNER
+    2.569510  121 AND
+    2.956380  121 [BREATH]
+    3.140000  121 ALL
+    3.446720  121 THAT_AND
+    3.547720  121 BY
+    3.750000  121 (THE)TIME
+    3.830490  121 I
+    4.001400  121 GET
+    4.260670  121 DONE(WITH)
+    4.532670  121 DINNER
+    4.823210  121 ALREADY
+    5.119970  121 OVER
+    5.240000  121 AND

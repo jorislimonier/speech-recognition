@@ -1,0 +1,17 @@
+signal 4122-B-0061
+type 0
+comment created using xlabel Thu May 29 14:31:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.315626  121 [background noise]
+    0.587992  121 of
+    0.759754  121 FULL
+    1.153581  121 COVERAGE
+    1.298035  121 FOR
+    1.527461  121 WELL
+    1.790012  121 MOTHER
+    2.117248  121 CARE

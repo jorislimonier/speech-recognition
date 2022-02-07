@@ -1,0 +1,17 @@
+signal 2585-A-0107
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335285  121 H#
+    0.531681  121 AND
+    0.710000  121 IT'S
+    0.888530  121 REALLY
+    1.100000  121 MUCH
+    1.136910  121 H#
+    1.215010  121 MORE
+    1.920000  121 COMPLICATED
+    2.004630  121 H#

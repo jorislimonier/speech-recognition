@@ -1,0 +1,15 @@
+signal 4796-B-0044
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 h#
+    0.460000  121 WOULD
+    0.590000  121 BE
+    0.710000  121 TO
+    1.100000  121 HAVE
+    1.450000  121 a
+    1.644150  125 h#

@@ -1,0 +1,13 @@
+signal 2863-A-0024
+type 0
+comment created using xlabel Wed Jun 11 10:55:47 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.068455  121 [crosstalk]
+    0.536501  121 YEAH
+    0.705076  121 [crosstalk]
+    1.048177  121 YEAH_#

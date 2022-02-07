@@ -1,0 +1,14 @@
+signal 2429-A-0009
+type 0
+comment created using xlabel Mon Apr 28 14:54:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 H#
+    0.569518  121 BECAUSE
+    0.809144  121 I
+    1.020000  121 MEAN
+    1.723560  121 CRAWFISH

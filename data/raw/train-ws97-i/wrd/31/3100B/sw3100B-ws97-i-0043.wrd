@@ -1,0 +1,24 @@
+signal 3100-B-0043
+type 0
+comment created using xlabel Wed Jul 23 17:43:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.400336  121 SIL
+    0.466609  121 YOU
+    0.582052  121 COULD
+    0.783009  121 SAY(I'VE)
+    1.024590  121 BEEN
+    1.370910  121 THROUGH
+    1.723660  121 ALL
+    2.148000  121 THAT
+    2.244200  121 [MOUTHNOISE]
+    2.599080  121 SIL
+    3.102660  121 BECAUSE
+    3.254450  121 I
+    3.483200  121 HAVE
+    3.776080  121 NO
+    3.927870  121 ?_#

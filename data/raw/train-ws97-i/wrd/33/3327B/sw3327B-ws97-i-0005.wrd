@@ -1,0 +1,19 @@
+signal 3327-B-0005
+type 0
+comment created using xlabel Tue Mar 25 17:26:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.257442  121 [MOUTHNOISE]
+    0.331866  121 I
+    0.504851  121 GUESS
+    0.555137  121 A
+    0.941335  121 PRODUCT
+    1.042670  121 OF
+    1.096040  121 A
+    1.611150  121 HANDYMAN
+    1.980000  121 FATHER
+    2.128090  121 [BREATH]

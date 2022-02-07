@@ -1,0 +1,29 @@
+signal 4165-B-0049
+type 0
+comment created using xlabel Mon Jul 14 16:43:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.231190  121 [STATIC]
+    0.351298  121 [CROSSTALK]
+    0.440199  121 YOU
+    0.606146  121 KNOW
+    0.823459  121 THERE
+    1.064480  121 IS
+    1.394400  121 SOME
+    1.942290  121 DEFINITE
+    2.207020  121 [BREATH]
+    2.650000  121 UH
+    3.222420  121 CREATIVE
+    3.724220  121 PLAY
+    3.996340  121 GOOD
+    4.423070  121 SOCIAL
+    5.154830  121 INTERACTION
+    5.360290  121 THAT
+    5.636870  121 KIND
+    5.785030  121 OF
+    5.990000  121 THING
+    6.064080  121 [MOUTHNOISE]

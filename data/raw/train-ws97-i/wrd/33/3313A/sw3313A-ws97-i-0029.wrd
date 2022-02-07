@@ -1,0 +1,19 @@
+signal 3313-A-0029
+type 0
+comment created using xlabel Mon Jul  7 15:40:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.304027  121 [BREATH]
+    0.750000  121 SEEING
+    1.207180  121 SOMEONE
+    1.380000  121 GET
+    1.878790  121 MUGGED
+    2.154470  121 OR
+    2.239830  121 [MOUTHNOISE]
+    2.813180  121 UNFORTUNATELY
+    3.376390  121 RAPED
+    3.665050  121 [BREATH]

@@ -1,0 +1,19 @@
+signal 3712-A-0045
+type 0
+comment created using xlabel Thu Jun 12 18:12:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.323012  121 [static]
+    0.461606  121 THERE_IS
+    0.505329  121 A
+    1.171675  121 COUPLE_OTHER
+    1.699544  121 PLACES
+    1.862015  121 THAT
+    2.026183  121 HE
+    2.367310  121 IS
+    2.933813  121 REGULAR
+    3.186013  121 [breath]

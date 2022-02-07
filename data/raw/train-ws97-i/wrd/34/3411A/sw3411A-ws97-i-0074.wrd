@@ -1,0 +1,20 @@
+signal 3411-A-0074
+type 0
+comment created using xlabel Tue Apr 22 12:17:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 SIL
+    0.270000  121 I
+    0.640000  121 HONESTLY
+    0.888788  121 THINK
+    1.056620  121 I
+    1.170000  121 WOULD
+    1.410000  121 DIE
+    1.680000  121 BEFORE
+    1.826990  121 MY
+    2.097880  121 TRUCK
+    2.320320  121 WOULD

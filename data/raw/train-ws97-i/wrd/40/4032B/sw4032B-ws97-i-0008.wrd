@@ -1,0 +1,14 @@
+signal 4032-B-0008
+type 0
+comment created using xlabel Thu May 15 14:54:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 [STATIC]
+    0.600000  121 IT'S
+    0.850000  121 GETS
+    1.070000  121 PRETTY
+    1.467200  121 COLD

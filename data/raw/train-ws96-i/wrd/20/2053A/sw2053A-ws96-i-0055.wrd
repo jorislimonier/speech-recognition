@@ -1,0 +1,18 @@
+signal 2053-A-0055
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135404  121 H#
+    0.480000  121 OH
+    0.954890  121 WOW
+    1.087120  121 H#
+    1.189260  121 NO
+    1.281740  121 I
+    1.456620  121 JUST
+    1.849180  121 STARTED
+    2.230000  121 ABOUT
+    2.515020  121 H#

@@ -1,0 +1,17 @@
+signal 3554-B-0070
+type 0
+comment created using xlabel Mon Jun 30 15:57:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.218842  121 [crosstalk & breath]
+    0.446905  121 [breath]
+    0.605557  121 WELL_I'M
+    0.711326  121 IN
+    1.043504  121 GRADUATE
+    1.299662  121 SCHOOL
+    1.509546  121 NOW
+    1.635146  121 I

@@ -1,0 +1,20 @@
+signal 2754-B-0044
+type 0
+comment created using xlabel Mon Apr  7 15:44:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.334948  121 [BREATH]
+    0.672202  121 AND
+    0.931418  121 H#
+    1.205070  121 YOU_KNOW_IT'S
+    1.406650  121 SORT
+    1.464250  121 OF
+    2.011480  121 STRANGE
+    2.178540  121 BECAUSE
+    2.273580  121 IT
+    2.812170  121 ALMOST
+    3.045340  121 [MOUTHNOISE]

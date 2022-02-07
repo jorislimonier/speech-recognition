@@ -1,0 +1,20 @@
+signal 2171-B-0050
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.351493  121 H#
+    0.477224  121 WELL
+    0.590000  121 YOU
+    1.000000  121 KNOW
+    1.715840  121 H#
+    1.830350  121 I
+    2.206570  121 KNOW
+    2.637500  121 AMERICAN
+    3.084300  121 EXPRESS
+    3.386820  121 H#
+    3.542980  121 I'M
+    3.724080  121 NOT_#

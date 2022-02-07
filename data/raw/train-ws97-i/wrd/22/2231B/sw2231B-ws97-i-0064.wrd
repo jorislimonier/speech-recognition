@@ -1,0 +1,16 @@
+signal 2231-B-0064
+type 0
+comment created using xlabel Sat Jun 14 17:49:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.179954  121 H#
+    0.282163  121 LIKE
+    0.702642  121 MANSON
+    0.872128  121 "WHO'S"
+    1.050000  121 COME
+    1.273200  121 UP
+    1.368940  121 [BREATH]

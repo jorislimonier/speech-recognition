@@ -1,0 +1,35 @@
+signal 2020-B-0102
+type 0
+comment created using xlabel Fri Apr 25 17:12:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.151534  121 h#
+    0.393276  121 ae n
+    0.549697  121 dh eh n
+    0.686566  121 m w eh n
+    0.850097  121 n ey
+    1.175383  121 hh ih r
+    1.379797  121 r_on ih t
+    1.520220  121 ih
+    1.857009  121 h#
+    2.015208  121 ih t_vd
+    2.171323  121 h#
+    2.199764  121 h#
+    2.258727  121 h#
+    2.377821  121 ih t
+    2.514689  121 s ax r_co
+    2.662518  121 r ih l_co
+    2.765614  121 l iy
+    2.930923  121 ih
+    3.041129  121 s ax
+    3.188663  121 n ah
+    3.272206  121 dh ax
+    3.634555  121 f ao_n r_n ?
+    3.807561  121 m y ux
+    4.031528  121 z ih k
+    4.339038  121 q ae n q
+    4.403029  121 h#

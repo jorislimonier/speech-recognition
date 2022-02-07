@@ -1,0 +1,16 @@
+signal 3055-B-0016
+type 0
+comment created using xlabel Tue Jun 10 11:46:18 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.500000  121 FAMILIAR
+    1.009415  121 FOODS
+    1.200000  121 THAT
+    1.304086  121 I
+    1.456496  121 KNOW
+    1.719526  121 ARE
+    2.420740  121 SUCCESSFUL

@@ -1,0 +1,17 @@
+signal 2020-B-0091
+type 0
+comment created using xlabel Mon May 26 17:40:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.195440  121 ih_# z_vl
+    0.332183  121 h#
+    0.470635  121 ih z_vl
+    0.752668  121 g r ey
+    0.875737  121 b iy
+    1.239815  121 k aa z_vl
+    1.509882  121 hh iy z_vl
+    1.805589  121 h#

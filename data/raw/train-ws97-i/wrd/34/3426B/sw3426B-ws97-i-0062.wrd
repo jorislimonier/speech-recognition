@@ -1,0 +1,15 @@
+signal 3426-B-0062
+type 0
+comment created using xlabel Thu Jul  3 19:38:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.051598  121 [MECHNOISE]
+    0.281654  121 WHEN
+    0.488903  121 DID_YOU
+    0.682269  121 LIVE
+    0.947032  121 THERE
+    1.047190  121 [MECHNOISE]

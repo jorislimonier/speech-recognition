@@ -1,0 +1,25 @@
+signal 3489-B-0054
+type 0
+comment created using xlabel Tue Jul  8 15:24:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 [STATIC]
+    0.356242  121 FOR
+    0.937311  121 INSTANCE
+    1.214620  121 UH
+    1.348590  121 I
+    1.540000  121 SAW
+    1.600000  121 A
+    1.847360  121 THING
+    2.159540  121 ON
+    2.531350  121 UH
+    2.702400  121 [STATIC]
+    3.105820  121 NOVA
+    3.307020  121 THINK
+    3.555390  121 WAS
+    3.761620  121 THE_OTHER
+    4.006990  121 DAY_#

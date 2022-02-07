@@ -1,0 +1,18 @@
+signal 2093-A-0005
+type 0
+comment created using xlabel Mon Mar  3 18:05:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.331494  121 [MECHHUM]
+    0.451897  121 OH
+    0.536178  121 I
+    0.743271  121 GUESS
+    1.321200  121 RANGES
+    1.557190  121 [MECHHUM]
+    1.961740  121 ANYWHERE
+    2.327770  121 FROM
+    2.546900  121 UH_#

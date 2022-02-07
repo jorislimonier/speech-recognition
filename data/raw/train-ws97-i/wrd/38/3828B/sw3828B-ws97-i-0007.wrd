@@ -1,0 +1,17 @@
+signal 3828-B-0007
+type 0
+comment created using xlabel Fri Mar 14 17:03:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.380000  121 [STATIC]
+    0.863912  121 CRIME
+    1.152120  121 "CAN'T"
+    1.355740  121 DO
+    1.650000  121 MUCH
+    1.794180  121 BUT
+    2.055750  121 GO
+    2.570000  121 UP

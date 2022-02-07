@@ -1,0 +1,12 @@
+signal 2711-A-0127
+type 0
+comment created using xlabel Mon May 12 19:46:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.083091  121 SIL
+    0.430149  121 OH
+    1.111280  121 GALVESTON

@@ -1,0 +1,20 @@
+signal 4050-B-0022
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.870000  121 h#
+    1.040000  121 YOU
+    1.261457  121 KNOW
+    1.493020  121 COULD
+    1.676813  125 h#
+    1.828960  121 EAT
+    2.540000  121 COMFORTABLY
+    2.858121  121 AND
+    3.011380  125 h#
+    3.560836  121 AND
+    4.250688  121 EVERYTHING
+    4.546462  121 h#

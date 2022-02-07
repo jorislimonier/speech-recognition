@@ -1,0 +1,15 @@
+signal 3902-B-0011
+type 0
+comment created using xlabel Mon Apr 28 11:02:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325048  121 SIL
+    0.450000  121 I
+    0.610287  121 HAVE
+    0.918906  121 SEEN
+    1.120000  121 MY
+    1.986770  121 FAMILY

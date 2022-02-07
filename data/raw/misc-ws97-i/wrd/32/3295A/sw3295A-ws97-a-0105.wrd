@@ -1,0 +1,13 @@
+signal 3295-A-0105
+type 0
+comment created using xlabel Thu Feb 20 10:44:21 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.276919  121 ?_#
+    0.401777  121 IS
+    0.534369  121 IN
+    1.070000  121 INDIANA

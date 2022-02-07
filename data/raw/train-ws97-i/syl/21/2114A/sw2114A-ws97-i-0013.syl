@@ -1,0 +1,42 @@
+signal 2114-A-0013
+type 0
+comment created using xlabel Tue Jun  3 13:03:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132965  121 h#
+    0.410635  121 y ae
+    0.647510  121 dh ae s
+    1.135736  121 h#
+    1.320000  121 dh ae t s
+    1.416433  121 dh ih
+    1.680796  121 k r ey
+    1.780810  121 z ih
+    1.990000  121 th eh ng
+    2.049309  121 ax
+    2.230000  121 b_ap aw
+    2.343985  121 dx ix q
+    2.540065  121 ch er
+    2.654555  121 h#
+    2.840131  121 y er
+    3.000000  121 p uh
+    3.220447  121 q en
+    3.690249  121 h#
+    3.810000  121 pv
+    4.329055  121 dh eh r q
+    4.615327  121 dh eh r
+    4.800000  121 p uh
+    4.930000  121 q en
+    5.183534  121 m ao r
+    5.729662  121 l ao z
+    5.827044  121 ax n
+    6.076871  121 m ao r
+    6.215048  121 r ix s
+    6.453239  121 t r ih k
+    6.770388  121 sh ih n z
+    6.917132  121 ax n
+    7.369826  121 m ao r b
+    7.546166  121 h#

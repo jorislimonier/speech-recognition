@@ -1,0 +1,20 @@
+signal 4080-A-0026
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.102513  121 h#
+    0.195343  121 YOU
+    0.329345  121 KNOW
+    0.653749  121 BOTH
+    1.067533  121 AREAS
+    1.140000  121 ARE
+    1.360000  121 PRETTY
+    1.756217  121 CRIME
+    1.983972  121 RIDDEN
+    2.173756  121 RIGHT
+    2.480616  121 NOW
+    2.593994  121 h#

@@ -1,0 +1,30 @@
+signal 3011-B-0002
+type 0
+comment created using xlabel Tue Feb 18 17:35:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.210000  121 SIL
+    0.760000  121 NOW_I_UNDERSTAND
+    0.911281  121 THAT
+    1.413680  121 UM
+    1.790490  121 THE
+    2.110000  121 THE
+    2.362350  121 REAL
+    2.520000  121 ESTATE
+    2.840000  121 MARKET
+    3.010000  121 OUT
+    3.200000  121 THERE
+    3.365680  121 HAS
+    3.610000  121 REALLY
+    3.930000  121 GONE
+    4.379350  121 CRAZY
+    4.550000  121 UP
+    4.670000  121 AND
+    4.930000  121 DOWN
+    5.091590  121 UP
+    5.180000  121 AND
+    5.510000  121 DOWN

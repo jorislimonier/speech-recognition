@@ -1,0 +1,22 @@
+signal 2803-B-0058
+type 0
+comment created using xlabel Wed Jul 23 13:29:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.418211  121 UM
+    1.201850  121 PEOPLE
+    1.609220  121 [BREATH]
+    1.772790  121 YOU_KNOW
+    1.985500  121 GROW
+    2.190740  121 FROM
+    2.270000  121 A
+    2.642020  121 SMALL
+    3.020000  121 TOWN
+    3.215950  121 TO
+    3.302760  121 A
+    3.769220  121 LARGE
+    4.117100  121 TOWN_#

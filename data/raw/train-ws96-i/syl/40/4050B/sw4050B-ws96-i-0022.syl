@@ -1,0 +1,26 @@
+signal 4050-B-0022
+type 0
+comment created using xlabel Fri Jun  6 16:06:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.870000  121 h#
+    1.040000  121 n_! ix_n
+    1.261460  121 nx ow_n
+    1.436610  121 k ix
+    1.563620  121 d ix_cr
+    1.828370  121 q iy q
+    2.134890  121 k ah_n m
+    2.240000  121 t uh
+    2.388870  121 b el
+    2.540000  121 iy
+    2.858120  121 ih n
+    3.011380  121 h#
+    3.560550  121 eh_n_cr n d
+    3.723580  121 q eh_cr
+    3.839760  121 v r iy
+    4.250690  121 th ih_n ng g_epi
+    4.546460  121 h#

@@ -1,0 +1,20 @@
+signal 4154-A-0022
+type 0
+comment created using xlabel Sun Mar 30 14:18:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136012  121 [STATIC]
+    0.290000  121 YEAH
+    0.390539  121 BUT
+    0.390539  121 ON
+    0.485512  121 THE
+    0.684004  121 OTHER
+    0.995676  121 HAND
+    1.082100  121 YOU
+    1.357520  121 KNOW
+    1.680390  121 IF
+    1.941560  121 [STATIC]

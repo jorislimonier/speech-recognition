@@ -1,0 +1,16 @@
+signal 2613-A-0024
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.299166  121 H#
+    0.809764  121 AND
+    0.906501  121 IT
+    1.316730  121 WAS
+    1.405910  121 H#
+    2.312730  121 UNSEASONABLY
+    2.999510  121 WARM
+    3.272900  121 H#

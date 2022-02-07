@@ -1,0 +1,17 @@
+signal 4074-A-0037
+type 0
+comment created using xlabel Thu Apr 24 15:56:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 H#
+    0.450000  121 "IT'S"
+    0.670584  121 PRETTY
+    0.795690  121 GOOD
+    1.190560  121 TRAINING
+    1.315670  121 I
+    1.669480  121 THINK
+    2.046760  121 [BREATH]

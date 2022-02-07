@@ -1,0 +1,20 @@
+signal 3887-B-0013
+type 0
+comment created using xlabel Thu Jun 26 16:15:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.311210  121 SIL
+    0.790000  121 ACID
+    1.172631  121 RAIN
+    1.780000  121 APPARENTLY
+    1.931259  121 IS
+    1.990000  121 A
+    2.190000  121 BIG
+    2.525619  121 PROBLEM
+    2.629051  121 IN
+    3.150000  121 CANADA
+    3.536934  121 FROM

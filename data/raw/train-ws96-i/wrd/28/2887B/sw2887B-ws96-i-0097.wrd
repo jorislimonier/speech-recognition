@@ -1,0 +1,13 @@
+signal 2887-B-0097
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110370  121 h#
+    0.276787  121 FOR
+    0.472370  121 THEIR
+    1.476020  121 EMPLOYEES
+    1.800276  121 h#

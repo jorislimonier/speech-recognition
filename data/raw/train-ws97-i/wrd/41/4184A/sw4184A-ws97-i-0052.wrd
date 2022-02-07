@@ -1,0 +1,16 @@
+signal 4184-A-0052
+type 0
+comment created using xlabel Thu May  8 15:30:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.234355  121 SIL
+    0.334012  121 [MOUTHNOISE]
+    0.727740  121 GOING
+    0.938490  121 "IT'S"
+    1.134540  121 NOT
+    1.338750  121 GOOD
+    1.549500  121 TO

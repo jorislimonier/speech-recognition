@@ -1,0 +1,13 @@
+signal 3340-B-0031
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100338  121 h#
+    0.266446  121 OH
+    0.508810  121 THAT'S
+    0.910000  121 TERRIBLE
+    1.005532  121 h#

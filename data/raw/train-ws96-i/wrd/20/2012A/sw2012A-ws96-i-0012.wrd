@@ -1,0 +1,19 @@
+signal 2012-A-0012
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.146859  121 H#
+    0.357734  121 RIGHT
+    0.470545  121 IT
+    0.671140  121 TURNED
+    0.826704  121 OUT
+    0.885252  121 TO
+    1.077160  121 BE
+    1.568230  121 H#
+    1.690000  121 AN
+    2.389430  121 INVITATION
+    2.506420  121 H#

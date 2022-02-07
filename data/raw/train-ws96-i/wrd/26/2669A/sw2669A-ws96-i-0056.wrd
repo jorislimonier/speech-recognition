@@ -1,0 +1,21 @@
+signal 2669-A-0056
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.750000  121 h#
+    0.935856  121 HAVE
+    1.030457  121 YOU
+    1.197745  121 EVER
+    1.405117  121 LIVED
+    1.476736  121 IN
+    1.530000  121 A
+    1.890000  121 COUNTRY
+    2.010000  121 WHERE
+    2.121837  121 THEY
+    2.322488  121 USE
+    2.750000  121 METRIC
+    2.902109  125 h#

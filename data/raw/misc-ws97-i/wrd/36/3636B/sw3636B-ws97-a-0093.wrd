@@ -1,0 +1,29 @@
+signal 3636-B-0093
+type 0
+comment created using xlabel Thu Apr 17 17:41:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.148136  121 [STATIC]
+    0.250000  121 AND
+    0.426400  121 THEN
+    0.629475  121 WENT
+    0.801104  121 UP
+    0.904949  121 [STATIC]
+    1.176300  121 THE
+    1.535550  121 [BACKGROUNDNOISE]
+    1.682900  121 THE
+    1.903220  121 BIG
+    2.107410  121 SUR
+    2.756540  121 HIGHWAY
+    3.028290  121 [STATIC]
+    3.257040  121 ALL[THE]
+    3.411400  121 WAY
+    3.555880  121 UP
+    3.729890  121 TO
+    3.919340  121 SAN
+    4.543820  121 FRANCISCO
+    4.663100  121 [STATIC]

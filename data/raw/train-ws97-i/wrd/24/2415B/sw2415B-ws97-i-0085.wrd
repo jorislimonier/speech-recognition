@@ -1,0 +1,15 @@
+signal 2415-B-0085
+type 0
+comment created using xlabel Wed Jul  9 12:52:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.056019  121 h#
+    0.275474  121 WELL
+    0.545322  121 "THAT'S"
+    0.698127  121 NOT
+    0.970000  121 REALLY
+    1.588950  121 IMMIGRATION

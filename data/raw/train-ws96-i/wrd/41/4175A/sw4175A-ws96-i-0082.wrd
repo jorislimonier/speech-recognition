@@ -1,0 +1,13 @@
+signal 4175-A-0082
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.168076  121 h#
+    0.619112  121 PAPER
+    0.736725  121 AT
+    1.041514  121 ALL
+    1.187522  125 h#

@@ -1,0 +1,19 @@
+signal 3464-B-0020
+type 0
+comment created using xlabel Fri Mar 14 15:37:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.147812  121 [MOUTHNOISE]
+    0.222178  121 AND
+    0.364779  121 "I'D"
+    0.490267  121 HEARD
+    0.588661  121 IT
+    0.740162  121 WAS
+    0.910937  121 REALLY
+    1.029300  121 GOOD
+    1.247470  121 TOO
+    1.424300  121 SO

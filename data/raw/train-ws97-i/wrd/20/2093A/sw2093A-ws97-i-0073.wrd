@@ -1,0 +1,16 @@
+signal 2093-A-0073
+type 0
+comment created using xlabel Tue Jul 15 20:28:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.190752  121 [CROSSTALK]
+    0.236639  121 YOU
+    0.440000  121 KNOW
+    0.542913  121 BUT
+    0.635755  121 I
+    0.799029  121 "DON'T"
+    1.127710  121 [HUM]

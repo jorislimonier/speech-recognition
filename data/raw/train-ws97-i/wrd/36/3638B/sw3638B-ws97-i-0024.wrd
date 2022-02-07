@@ -1,0 +1,16 @@
+signal 3638-B-0024
+type 0
+comment created using xlabel Mon Mar 17 11:25:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.082747  121 [BREATH]
+    0.301208  121 SIL
+    0.680000  121 RUNNING
+    1.162350  121 BACKS
+    1.373190  121 AND
+    1.764380  121 AND
+    2.620440  121 DEFENSE

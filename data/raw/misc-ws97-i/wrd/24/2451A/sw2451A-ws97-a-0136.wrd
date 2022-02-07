@@ -1,0 +1,18 @@
+signal 2451-A-0136
+type 0
+comment created using xlabel Tue Feb  4 17:40:23 1997
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350000  121 STATIC
+    0.577186  121 BECAUSE
+    0.761219  121 "WE'VE"
+    0.985509  121 BEEN
+    1.353570  121 SO
+    1.610000  121 USED
+    1.770000  121 TO
+    1.898000  121 IT
+    2.026440  121 STATIC

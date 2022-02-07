@@ -1,0 +1,17 @@
+signal 2546-A-0031
+type 0
+comment created using xlabel Fri Mar  7 14:22:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.137479  121 IF
+    0.290000  121 "IT'S"
+    1.108280  121 PREMEDITATED
+    1.336820  121 OR
+    1.440970  121 IF
+    1.677550  121 "IT'S"
+    2.028440  121 SIL
+    2.444050  121 UH

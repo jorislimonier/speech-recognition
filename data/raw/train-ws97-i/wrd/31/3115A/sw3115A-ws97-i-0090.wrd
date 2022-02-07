@@ -1,0 +1,16 @@
+signal 3115-A-0090
+type 0
+comment created using xlabel Wed Apr 30 18:13:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.249629  121 I_#
+    0.483699  121 "DON'T"
+    0.519821  121 H#
+    0.755336  121 NO
+    0.889710  121 NOT
+    1.000970  121 IN
+    1.401200  121 PLANO

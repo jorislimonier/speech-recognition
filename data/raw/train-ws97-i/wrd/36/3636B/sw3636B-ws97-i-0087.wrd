@@ -1,0 +1,21 @@
+signal 3636-B-0087
+type 0
+comment created using xlabel Mon Jul  7 16:40:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.169629  121 [MECHNOISE]
+    0.430000  121 UH
+    0.500000  121 THE
+    0.780000  121 GRAND
+    1.181730  121 CANYON
+    1.587220  121 AGAIN
+    1.704450  121 AND
+    1.832250  121 WE
+    2.253900  121 STOPPED
+    2.554230  121 AT
+    2.687850  121 UH
+    3.027680  121 [MECHNOISE]

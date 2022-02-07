@@ -1,0 +1,17 @@
+signal 4831-A-0038
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 h#
+    0.420000  121 OR
+    0.547643  121 IF
+    0.620000  121 YOUR
+    1.140000  121 MANAGEMENT
+    1.397602  121 DOESN'T
+    1.669931  121 THINK
+    1.863655  121 THAT
+    2.069657  125 h#

@@ -1,0 +1,14 @@
+signal 3067-B-0067
+type 0
+comment created using xlabel Fri Jun 13 13:52:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.322023  121 [breath]
+    0.510000  121 UH
+    0.720000  121 FROM
+    0.900000  121 THAT
+    1.541856  121 DESCENDANCY_?

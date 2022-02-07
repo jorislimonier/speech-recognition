@@ -1,0 +1,22 @@
+signal 3006-B-0058
+type 0
+comment created using xlabel Wed Jul 23 14:06:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 ?_#
+    0.644510  121 AND
+    1.009760  121 UH
+    1.313250  121 [BREATH]
+    1.539280  121 AS
+    1.786920  121 FAR
+    2.069950  121 AS
+    2.132320  121 [STATIC]
+    2.465490  121 THE
+    2.595820  121 THE
+    3.070000  121 PARTY
+    3.760000  121 SNACKS
+    4.182670  121 UH

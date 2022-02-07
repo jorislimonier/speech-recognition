@@ -1,0 +1,34 @@
+signal 4001-B-0058
+type 0
+comment created using xlabel Wed Jul  9 13:05:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.246949  121 UH_#
+    0.329446  121 I
+    0.493087  121 WILL
+    0.574231  121 [FALSESTART]
+    0.663918  121 SIL
+    0.819444  121 I
+    0.974971  121 WILL
+    1.160000  121 SAY
+    1.335270  121 THIS
+    1.550000  121 UH
+    1.802960  121 THE
+    1.951300  121 THE
+    2.310000  121 CELICA
+    2.420000  121 THAT
+    2.486750  121 I
+    2.675410  121 OWN
+    2.831150  121 NOW
+    2.920000  121 I
+    3.120000  121 HAVE
+    3.522420  121 REPLACED
+    3.580000  121 THE
+    3.978890  121 CLUTCH
+    4.093840  121 IN
+    4.210150  121 IT
+    4.336600  121 SIL

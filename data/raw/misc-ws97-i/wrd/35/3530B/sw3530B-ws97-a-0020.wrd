@@ -1,0 +1,30 @@
+signal 3530-B-0020
+type 0
+comment created using xlabel Wed Jun 18 18:01:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.273647  121 [BREATH]
+    0.343961  121 I
+    0.580890  121 TRY
+    0.723048  121 TO
+    1.009800  121 READ
+    1.130000  121 WHEN_!
+    1.230000  121 I
+    1.696050  121 FIRST
+    1.951320  121 WAKE
+    2.146500  121 UP
+    2.206740  121 IN
+    2.350000  121 THE
+    2.880560  121 MORNING
+    2.993670  121 AND
+    3.220000  121 THEN
+    3.601350  121 BEFORE
+    3.700710  121 I
+    3.850510  121 GO
+    3.945280  121 TO
+    4.636200  121 SLEEP
+    4.865550  121 [BREATH]

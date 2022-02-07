@@ -1,0 +1,12 @@
+signal 2506-B-0051
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350000  121 H#
+    0.652922  121 PUBLIC
+    1.357100  121 TRANSPORTATION_!
+    1.488490  121 H#

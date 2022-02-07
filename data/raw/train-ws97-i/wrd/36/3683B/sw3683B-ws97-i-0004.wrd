@@ -1,0 +1,24 @@
+signal 3683-B-0004
+type 0
+comment created using xlabel Sun Jun  8 18:47:18 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135357  121 ?_#
+    0.355697  121 THAT_IS
+    0.657958  121 TRUE
+    0.864629  121 sil
+    1.063077  121 THAT_IS
+    1.308053  121 TRUE
+    1.572036  121 [breath]
+    1.840000  121 THEY
+    2.031828  121 UH
+    2.237545  121 breathy hesitation
+    2.366808  121 false start
+    2.509410  121 IN
+    2.878578  121 FACT
+    3.109511  121 UH
+    3.364485  121 [static]

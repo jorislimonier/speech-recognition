@@ -1,0 +1,15 @@
+signal 2748-A-0045
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.118654  121 H#
+    0.268835  121 I
+    0.799646  121 PAD
+    0.898628  121 THE
+    1.278  121 PAINT
+    1.58367  121 ON
+    1.70753  121 h#

@@ -1,0 +1,18 @@
+signal 3252-B-0018
+type 0
+comment created using xlabel Tue Mar 18 15:18:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.118032  121 H#
+    0.433655  121 "HE'S"
+    0.494820  121 SIL
+    0.802221  121 YEAH
+    1.166710  121 "HE'S"
+    1.550830  121 GREAT
+    1.654940  121 SIL
+    1.839790  121 AND
+    2.226500  121 UH

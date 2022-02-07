@@ -1,0 +1,15 @@
+signal 2642-A-0036
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.040000  121 H#
+    0.351110  121 PEOPLE
+    0.529275  121 DON'T
+    0.748015  121 SEE
+    0.966144  121 THAT
+    1.247260  121 EITHER
+    1.366350  121 H#

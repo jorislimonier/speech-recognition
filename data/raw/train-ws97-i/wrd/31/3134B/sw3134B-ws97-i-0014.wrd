@@ -1,0 +1,15 @@
+signal 3134-B-0014
+type 0
+comment created using xlabel Wed Jun 11 15:30:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.164826  121 [crosstalk]
+    0.292250  121 THE
+    0.594109  121 HOME
+    0.721532  121 IS
+    0.800000  121 THE
+    1.182980  121 KEY

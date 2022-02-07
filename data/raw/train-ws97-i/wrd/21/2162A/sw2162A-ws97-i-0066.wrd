@@ -1,0 +1,23 @@
+signal 2162-A-0066
+type 0
+comment created using xlabel Wed Jul  2 17:59:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.156817  121 [MECHNOISE]
+    0.595551  121 SO
+    0.889223  121 [MECHNOISE]
+    1.002600  121 I
+    1.450000  121 "DON'T"
+    1.660150  121 BUT
+    1.795720  121 BUT
+    1.926350  121 I
+    2.204870  121 COULD
+    2.350120  121 IF
+    2.519400  121 I
+    2.817640  121 FELT
+    3.049340  121 LIKE
+    3.117120  121 IT

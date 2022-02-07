@@ -1,0 +1,14 @@
+signal 2526-B-0055
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332386  121 H#
+    0.393838  121 ARE
+    0.460000  121 YOU
+    0.653421  121 STILL
+    0.826885  121 THERE
+    1.006440  121 H#

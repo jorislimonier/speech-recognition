@@ -1,0 +1,16 @@
+signal 2938-B-0128
+type 0
+comment created using xlabel Thu Mar 20 17:17:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 [STATIC]
+    0.490000  121 ACTUALLY
+    0.690000  121 FROM
+    1.123970  121 CHARLOTTE
+    1.373780  121 NORTH
+    1.943990  121 CAROLINA
+    2.263390  121 [BREATH]

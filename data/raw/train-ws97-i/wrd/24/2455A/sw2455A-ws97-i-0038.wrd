@@ -1,0 +1,19 @@
+signal 2455-A-0038
+type 0
+comment created using xlabel Mon Apr 28 17:50:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132507  121 [BREATH]
+    0.190000  121 ?
+    0.294926  121 YOU
+    0.450205  121 KNOW
+    0.525167  121 [CROSSTALK]
+    0.591206  121 THE
+    0.964233  121 MONEY
+    1.170000  121 WAS
+    1.314060  121 THE
+    1.781680  121 ISSUE

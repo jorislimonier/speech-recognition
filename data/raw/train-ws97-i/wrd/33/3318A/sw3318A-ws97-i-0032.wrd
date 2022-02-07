@@ -1,0 +1,26 @@
+signal 3318-A-0032
+type 0
+comment created using xlabel Tue Apr 29 18:02:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.329079  121 [BREATH]
+    0.540000  121 UNTIL
+    0.754439  121 ABOUT
+    0.814852  121 THE
+    1.091930  121 LAST
+    1.248710  121 TEN
+    1.709690  121 FIFTEEN
+    1.776370  121 TO
+    2.029700  121 TWENTY
+    2.260000  121 THIRTY
+    2.528840  121 MINUTES
+    2.649260  121 OF
+    2.710400  121 IT
+    2.769370  121 SIL
+    2.944860  121 THEN
+    3.052020  121 IT
+    3.081500  121 H#

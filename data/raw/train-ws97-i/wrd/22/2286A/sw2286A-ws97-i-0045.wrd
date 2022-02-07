@@ -1,0 +1,17 @@
+signal 2286-A-0045
+type 0
+comment created using xlabel Fri Jun 13 17:44:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.880374  121 SIL
+    1.120000  121 THAT_IS
+    1.170990  121 THE
+    1.440400  121 WORST
+    1.566090  121 I_HAVE
+    1.790000  121 EVER
+    2.163910  121 HEARD
+    2.249250  121 [BREATH]

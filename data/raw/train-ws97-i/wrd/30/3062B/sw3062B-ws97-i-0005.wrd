@@ -1,0 +1,16 @@
+signal 3062-B-0005
+type 0
+comment created using xlabel Mon Jun  2 20:53:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.231825  121 [breath]
+    0.397682  121 sil
+    0.599991  121 I
+    0.860623  121 THANK
+    1.086625  121 GOD
+    1.314450  121 EVERY
+    1.650000  121 DAY

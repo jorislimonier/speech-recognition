@@ -1,0 +1,31 @@
+signal 2897-A-0038
+type 0
+comment created using xlabel Fri Apr 25 16:37:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145757  121 [BACKGROUNDNOISE]
+    0.395186  121 WELL
+    0.521459  121 [BACKGROUNDNOISE]
+    0.655527  121 WELL
+    0.797389  121 THEY
+    1.048380  121 STILL
+    1.222980  121 HAVE
+    1.298530  121 TO
+    1.529250  121 PAY
+    1.661760  121 IT
+    1.881570  121 BUT
+    2.001610  121 THEY
+    2.309190  121 BUY
+    2.529000  121 THEIR
+    2.779990  121 OWN
+    3.149460  121 INSTEAD
+    3.360110  121 OF
+    3.522240  121 [BREATH]
+    3.815020  121 GOING
+    3.957020  121 THROUGH_!
+    4.110000  121 THE
+    4.510000  121 STATE

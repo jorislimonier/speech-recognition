@@ -1,0 +1,21 @@
+signal 2559-A-0040
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.250000  121 H#
+    0.566539  121 MY
+    0.810000  121 OWN
+    1.410630  121 ENVIRONMENT
+    1.789700  121 IS
+    1.840120  121 H#
+    2.281520  121 OPEN
+    2.767060  121 TOTALLY
+    2.933700  121 THERE
+    3.114430  121 ARE
+    3.296930  121 NO
+    4.120000  121 CUBICLES
+    4.416130  121 H#

@@ -1,0 +1,29 @@
+signal 2887-B-0024
+type 0
+comment created using xlabel Sun Jun 22 18:50:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 h#
+    0.420148  121 IT'S
+    0.839693  121 A
+    0.932063  121 h#
+    1.360000  121 SECURITY
+    1.808080  121 COMPANY
+    2.030842  121 AND
+    2.105295  121 h#
+    2.399560  121 AND
+    3.038907  121 BUILDING
+    3.160637  121 h#
+    3.324905  121 THEY
+    3.582535  121 OWN
+    3.629806  121 A
+    3.804718  121 LOT
+    3.830718  121 OF
+    4.350000  121 BUILDINGS
+    4.477156  121 AND
+    4.838826  121 LEASE
+    5.485263  121 BUILDINGS_#

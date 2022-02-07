@@ -1,0 +1,20 @@
+signal 3051-B-0061
+type 0
+comment created using xlabel Wed May 28 19:28:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.117020  121 [hum]
+    0.283019  121 OR
+    0.328934  121 IF
+    0.410167  121 IT
+    0.565570  121 WAS
+    0.652102  121 [mouth noise]
+    0.980000  121 EIGHTY
+    1.061801  121 AND
+    1.153630  121 A
+    1.736391  121 HUNDRED
+    1.867071  121 [breath]

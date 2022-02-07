@@ -1,0 +1,18 @@
+signal 4710-A-0037
+type 0
+comment created using xlabel Fri May 16 13:39:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.201938  121 [BREATH]
+    0.290000  121 YOU
+    0.396176  121 KNOW
+    0.523818  121 IN
+    0.973340  121 SENTIMENT
+    1.088580  121 AND
+    1.274620  121 SO
+    1.654130  121 FORTH
+    1.962950  121 [BREATH]

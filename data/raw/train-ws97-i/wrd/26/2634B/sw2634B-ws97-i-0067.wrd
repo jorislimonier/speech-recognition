@@ -1,0 +1,18 @@
+signal 2634-B-0067
+type 0
+comment created using xlabel Mon May  5 11:48:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124066  121 H#
+    0.369002  121 OKAY
+    0.497472  121 YOU
+    0.762819  121 [FALSESTART]
+    0.900000  121 "YOU'RE"
+    1.040000  121 FROM
+    1.551950  121 CALIFORNIA
+    1.775270  121 RIGHT
+    1.861720  121 ?_#

@@ -1,0 +1,29 @@
+signal 3080-B-0060
+type 0
+comment created using xlabel Thu May  1 16:08:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.267056  121 [MOUTHNOISE]
+    0.649308  121 UH
+    0.717095  121 SIL
+    0.877395  121 THAT
+    1.005880  121 SIL
+    1.044930  121 [MOUTHNOISE]
+    1.149700  121 THAT
+    1.427140  121 LONG
+    1.660000  121 TERM
+    2.028350  121 BENEFIT_!
+    2.138300  121 OF
+    2.224930  121 A
+    2.350300  121 LITTLE
+    2.528060  121 BIT
+    2.584580  121 OF
+    2.853760  121 TONE
+    2.965760  121 IN
+    3.026390  121 YOUR
+    3.450370  121 MUSCLES
+    3.528470  121 [MOUTHNOISE]

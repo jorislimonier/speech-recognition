@@ -1,0 +1,18 @@
+signal 3166-B-0048
+type 0
+comment created using xlabel Fri May  9 19:07:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.112818  121 [HUM]
+    0.459772  121 AND
+    0.568590  121 [HUM]
+    0.770455  121 AND
+    1.014900  121 DONE
+    1.213610  121 THAT
+    1.306660  121 [HUM]
+    1.510100  121 BUT
+    1.666230  121 [HUM]

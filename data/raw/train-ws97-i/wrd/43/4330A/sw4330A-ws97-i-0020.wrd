@@ -1,0 +1,20 @@
+signal 4330-A-0020
+type 0
+comment created using xlabel Tue Apr 22 17:29:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.302985  121 [MECHNOISE]
+    0.704524  121 RANDOM
+    0.824986  121 OR
+    1.049540  121 EVEN
+    1.490610  121 REGULAR
+    1.780540  121 DRUG
+    2.163550  121 SCREENING
+    2.254670  121 IN
+    2.462560  121 FACT
+    2.706570  121 "THEY'LL"
+    2.823950  121 [BREATH]

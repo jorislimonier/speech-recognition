@@ -1,0 +1,30 @@
+signal 4840-B-0023
+type 0
+comment created using xlabel Wed Mar 12 10:42:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 H#
+    0.410000  121 NOW
+    0.570000  121 "THERE'S"
+    0.614049  121 H#
+    0.800000  121 MORE
+    0.860352  121 AND
+    1.057720  121 MORE
+    1.310000  121 THINGS
+    1.449200  121 THAT
+    1.874190  121 NEED
+    2.471190  121 ATTENDING
+    2.725650  121 TO
+    2.962170  121 AND_THAT
+    3.112240  121 SORT
+    3.210000  121 OF
+    3.404210  121 THING
+    3.560790  121 AND
+    4.130060  121 SIL
+    4.268710  121 YOU
+    4.376360  121 KNOW
+    4.485650  121 ?_#

@@ -1,0 +1,19 @@
+signal 2498-A-0041
+type 0
+comment created using xlabel Tue May 27 18:06:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.281833  121 [BREATH]
+    1.337600  121 ENORMOUS
+    2.070000  121 BUREAUCRACY
+    2.330390  121 THOUGH
+    2.540850  121 "IT'S"
+    2.733340  121 GOING_TO
+    3.042010  121 TAKE
+    3.390400  121 [BREATH]
+    3.771420  121 PROBABLY
+    4.085280  121 [STATIC]

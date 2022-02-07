@@ -1,0 +1,15 @@
+signal 4640-A-0034
+type 0
+comment created using xlabel Wed May 21 18:25:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 h#
+    0.260000  121 YOU
+    0.479694  121 KNOW
+    0.539427  121 [false start]
+    0.730000  121 "YOU'VE"
+    1.100000  121 GOT

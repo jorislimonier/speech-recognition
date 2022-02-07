@@ -1,0 +1,13 @@
+signal 2145-A-0055
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 H#
+    0.436667  121 YOU
+    0.737848  121 KNOW
+    0.949125  121 THEY'RE
+    1.187370  121 H#

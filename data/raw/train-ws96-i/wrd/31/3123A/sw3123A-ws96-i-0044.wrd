@@ -1,0 +1,18 @@
+signal 3123-A-0044
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.116000  121 h#
+    0.334406  121 NOW
+    0.422000  121 I
+    0.636554  121 DIDN'T
+    0.874000  121 EVEN
+    1.310000  121 REALIZE
+    1.519822  121 THAT
+    1.620524  121 AT
+    1.960000  121 ALL
+    2.048000  121 h#

@@ -1,0 +1,21 @@
+signal 3565-B-0030
+type 0
+comment created using xlabel Tue May 13 16:22:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 [CROSSTALK]
+    0.344614  121 "DIDN'T"
+    0.544592  121 USE
+    1.048530  121 TEFLON
+    1.334720  121 TAPE
+    1.526070  121 ON
+    1.821850  121 ONE_!
+    1.942790  121 OR
+    2.200370  121 SOMETHING
+    2.398670  121 LIKE
+    2.700430  121 THAT
+    2.844130  121 [MOUTHNOISE]

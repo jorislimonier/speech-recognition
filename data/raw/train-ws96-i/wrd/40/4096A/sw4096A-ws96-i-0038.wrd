@@ -1,0 +1,23 @@
+signal 4096-A-0038
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.227891  121 h#
+    0.854632  121 AND
+    1.279980  121 SHRED
+    1.532319  121 IT
+    1.730000  121 AND
+    2.105254  121 SPRAY
+    2.317680  121 IT
+    2.604735  121 WITH
+    2.929425  121 CHEMICAL
+    3.308947  121 TREATMENT
+    3.487841  121 SO
+    3.593660  121 THAT
+    3.763582  121 IT'S
+    3.955888  121 NOT
+    4.307186  125 h#

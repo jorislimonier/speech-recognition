@@ -1,0 +1,15 @@
+signal 4707-A-0085
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 h#
+    0.260590  121 WITH
+    0.370000  121 THE
+    0.631794  121 SAME
+    0.926249  121 TAX
+    1.130000  121 MONEY
+    1.447290  121 h#

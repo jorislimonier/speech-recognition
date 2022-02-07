@@ -1,0 +1,13 @@
+signal 3875-A-0046
+type 0
+comment created using xlabel Fri Apr 25 18:17:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080000  121 [MOUTHNOISE]
+    0.240456  121 OFF
+    0.378573  121 THE_!
+    0.829387  121 PIER

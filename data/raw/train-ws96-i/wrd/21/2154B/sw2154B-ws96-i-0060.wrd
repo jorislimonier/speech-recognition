@@ -1,0 +1,14 @@
+signal 2154-B-0060
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.342706  121 H#
+    0.604874  121 FILL
+    1.151490  121 INS
+    1.268580  121 YOU
+    1.461710  121 KNOW
+    1.864410  121 H#

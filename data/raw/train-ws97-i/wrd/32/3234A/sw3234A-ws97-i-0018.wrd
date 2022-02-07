@@ -1,0 +1,18 @@
+signal 3234-A-0018
+type 0
+comment created using xlabel Thu Mar 27 17:02:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 [BREATH]
+    0.938782  121 "SHE'S"
+    1.091820  121 [MECHNOISE]
+    1.447010  121 BECOME
+    1.690000  121 VERY
+    2.199130  121 IMPORTANT
+    2.336630  121 IN
+    2.572520  121 MY
+    3.176220  121 LIFE

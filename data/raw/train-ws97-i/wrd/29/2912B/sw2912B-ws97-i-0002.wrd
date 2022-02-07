@@ -1,0 +1,18 @@
+signal 2912-B-0002
+type 0
+comment created using xlabel Mon Jun  9 17:23:18 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.202387  121 [breath]
+    0.310169  121 WELL
+    0.412019  121 [false start]
+    0.590653  121 I
+    0.844513  121 DRIVE
+    0.896900  121 A
+    1.231468  121 PICKUP
+    1.569814  121 TRUCK
+    1.644960  121 sil

@@ -1,0 +1,14 @@
+signal 2065-A-0043
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.099384  121 H#
+    0.247040  121 OR
+    0.294066  121 IT
+    0.620000  121 CAN
+    0.890000  121 BE
+    0.991224  121 H#

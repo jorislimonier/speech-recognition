@@ -1,0 +1,15 @@
+signal 3661-B-0039
+type 0
+comment created using xlabel Fri Jun 20 15:24:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.104730  121 SIL
+    0.749705  121 PRODUCED_!
+    0.820367  121 A
+    1.121054  121 REALLY
+    1.888533  121 HUGE
+    2.500432  121 PUMPKIN

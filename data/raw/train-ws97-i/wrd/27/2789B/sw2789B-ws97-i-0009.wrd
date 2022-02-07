@@ -1,0 +1,15 @@
+signal 2789-B-0009
+type 0
+comment created using xlabel Tue Apr  1 16:29:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136957  121 SIL
+    0.439501  121 UHHUH
+    0.713437  121 [BREATH]
+    1.005810  121 BAD
+    1.274130  121 KNEE
+    1.384700  121 [BREATH]

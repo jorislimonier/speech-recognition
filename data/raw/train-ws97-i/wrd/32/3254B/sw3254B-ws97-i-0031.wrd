@@ -1,0 +1,13 @@
+signal 3254-B-0031
+type 0
+comment created using xlabel Mon Mar 31 11:46:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 [BACKGROUNDNOISE]
+    0.780000  121 NIGHTS
+    0.861296  121 A
+    1.270000  121 WEEK

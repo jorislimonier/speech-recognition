@@ -1,0 +1,14 @@
+signal 2187-A-0119
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.141524  121 H#
+    0.379389  121 THAT'S
+    0.600136  121 WHY
+    0.639226  121 I
+    0.820000  121 DO
+    1.247950  121 THAT

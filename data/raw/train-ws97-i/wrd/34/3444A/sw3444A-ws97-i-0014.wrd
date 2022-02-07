@@ -1,0 +1,28 @@
+signal 3444-A-0014
+type 0
+comment created using xlabel Sat Jun 21 15:54:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.082818  121 h#
+    0.216124  121 I
+    0.357761  121 "DON'T"
+    0.587713  121 KNOW
+    1.047617  121 ABOUT
+    1.270402  121 [static]
+    1.589195  121 AFTER
+    2.174073  121 ACCIDENTS
+    2.529800  121 BECAUSE
+    3.001695  121 INDUSTRIAL
+    3.396645  121 ACCIDENTS
+    3.469963  121 I
+    3.679919  121 GUESS
+    3.744906  121 ARE
+    4.235321  121 RELATIVELY
+    4.450000  121 RARE
+    4.521900  121 AT
+    4.713527  121 T
+    4.880159  121 I

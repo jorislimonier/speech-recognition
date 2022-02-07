@@ -1,0 +1,16 @@
+signal 3727-B-0001
+type 0
+comment created using xlabel Fri May 16 13:06:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103192  121 h#
+    0.202384  121 pv
+    0.369938  121 d iy
+    0.414173  121 ix
+    0.632663  121 hh ae v_vl
+    1.217092  121 k ih d z_vl
+    1.408774  121 h#

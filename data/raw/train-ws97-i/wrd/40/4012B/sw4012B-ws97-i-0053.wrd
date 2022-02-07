@@ -1,0 +1,26 @@
+signal 4012-B-0053
+type 0
+comment created using xlabel Tue Jun 17 15:16:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.035428  121 h#
+    0.125783  121 sil
+    0.374552  121 BUT
+    0.552643  121 NOT
+    0.687521  121 ONLY
+    0.800000  121 DO
+    0.911445  121 THEY
+    1.035847  121 HAVE
+    1.141917  121 THE
+    1.398293  121 RIGHT
+    1.839593  121 TO_APPEAL
+    1.930116  121 h#
+    2.065473  121 THEY
+    2.549987  121 MUST
+    3.004067  121 APPEAL
+    3.116683  121 sil
+    3.324893  121 [breath]

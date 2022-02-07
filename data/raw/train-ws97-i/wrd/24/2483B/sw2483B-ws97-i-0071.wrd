@@ -1,0 +1,23 @@
+signal 2483-B-0071
+type 0
+comment created using xlabel Thu Jun 19 12:11:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 SIL
+    0.460000  121 WE
+    0.776304  121 BEGAN
+    0.830000  121 TO
+    1.360000  121 RESTRICT
+    1.535470  121 OUR
+    2.012800  121 NEWS
+    2.089430  121 H#
+    2.402330  121 ALMOST
+    3.040000  121 DELIBERATELY_!
+    3.214740  121 WHERE
+    3.371190  121 WE
+    3.546800  121 WOULD
+    3.843740  121 H#

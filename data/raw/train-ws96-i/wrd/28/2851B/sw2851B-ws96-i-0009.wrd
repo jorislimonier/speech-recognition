@@ -1,0 +1,17 @@
+signal 2851-B-0009
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.345386  121 H#
+    0.393004  121 WE'RE
+    0.571821  121 ABOUT
+    0.63  121 TO
+    0.836908  121 TAKE
+    0.896514  121 THE
+    1.24  121 KIDS
+    1.43787  121 TO
+    1.64325  121 h#

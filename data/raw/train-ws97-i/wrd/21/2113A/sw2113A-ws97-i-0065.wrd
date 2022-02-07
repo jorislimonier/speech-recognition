@@ -1,0 +1,17 @@
+signal 2113-A-0065
+type 0
+comment created using xlabel Thu Mar 27 16:26:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335466  121 [BREATH]
+    0.636761  121 UH
+    0.750159  121 OF
+    0.834628  121 [FALSESTART]
+    0.975660  121 [STATIC]
+    1.180540  121 OF
+    1.350000  121 THAT
+    1.834840  121 MOVIE

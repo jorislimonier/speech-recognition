@@ -1,0 +1,27 @@
+signal 4151-B-0012
+type 0
+comment created using xlabel Mon Jul 14 15:38:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.109354  121 [STATIC]
+    0.309977  121 OH
+    0.676706  121 "IT'S"
+    0.942046  121 A
+    1.388590  121 UH
+    1.582750  121 "IT'S"
+    1.617260  121 A
+    2.208340  121 QUESTION
+    2.782160  121 OF
+    3.300000  121 YOUR
+    3.578780  121 YOUR
+    3.883110  121 GUT
+    4.888370  121 REACTIONS
+    5.029110  121 TO
+    5.598100  121 SOMETHING
+    5.880000  121 LIKE
+    6.241120  121 THAT
+    6.606690  121 [BREATH]

@@ -1,0 +1,19 @@
+signal 3028-A-0048
+type 0
+comment created using xlabel Fri May 16 13:54:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.108358  121 H#
+    0.465115  121 UHHUH
+    0.821873  121 [MOUTHNOISE]
+    1.066990  121 HEALTH
+    1.363080  121 FOOD
+    1.532960  121 UH
+    2.132410  121 RESTAURANTS
+    2.210070  121 THAT
+    2.297440  121 [CROSSTALK]
+    2.564400  121 [BREATH]

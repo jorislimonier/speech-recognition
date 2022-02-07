@@ -1,0 +1,16 @@
+signal 2888-A-0007
+type 0
+comment created using xlabel Sun Mar 30 15:05:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.119795  121 IN_#
+    0.353695  121 ABOUT
+    0.600000  121 FIVE
+    0.670000  121 OR
+    0.939269  121 TEN
+    1.408690  121 MINUTES
+    1.765620  121 [BREATH]

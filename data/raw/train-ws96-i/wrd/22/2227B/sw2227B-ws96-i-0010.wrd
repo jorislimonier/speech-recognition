@@ -1,0 +1,13 @@
+signal 2227-B-0010
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.106137  121 H#
+    0.404615  121 TWILIGHT
+    0.530476  121 ZONE
+    1.001790  121 RULES
+    1.048180  121 H#

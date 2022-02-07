@@ -1,0 +1,23 @@
+signal 4858-B-0021
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327359  121 h#
+    0.511808  121 EVERy
+    0.680000  121 NOW
+    0.770000  121 AND
+    0.900000  121 THEN
+    1.059790  121 THEY'D
+    1.250000  121 GO
+    1.360000  121 AND
+    1.580000  121 SHOOT
+    1.782498  121 THEIR
+    2.278695  121 RIFLES
+    2.391880  121 AND
+    2.526864  121 THEN
+    2.673585  121 THEY'D
+    2.785093  125 h#

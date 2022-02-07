@@ -1,0 +1,27 @@
+signal 4928-B-0040
+type 0
+comment created using xlabel Mon Mar 24 13:08:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330941  121 [MECHNOISE]
+    0.470982  121 AT
+    0.621083  121 ONE
+    0.696892  121 I
+    0.850025  121 MEAN
+    1.035000  121 ONE
+    1.298700  121 POINT
+    1.408890  121 "IT'S"
+    1.618130  121 GOING_TO
+    1.818260  121 BE
+    2.265940  121 [MECHNOISE]
+    2.461000  121 TOO
+    2.730870  121 LATE
+    2.908800  121 [MECHNOISE]
+    3.032590  121 TO
+    3.200250  121 DO
+    3.315480  121 IT
+    3.465580  121 [MECHNOISE]

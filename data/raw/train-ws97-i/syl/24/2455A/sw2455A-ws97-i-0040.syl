@@ -1,0 +1,28 @@
+signal 2455-A-0040
+type 0
+comment created using xlabel Mon Jun 23 13:33:22 1997
+comment $Locker: candy $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.314330  121 h#
+    0.436608  121 iy
+    0.660000  121 v en
+    1.021380  121 n aw
+    1.231338  121 ay w_co
+    1.466178  121 w uh d
+    1.809888  121 h#
+    1.929641  121 ay w_co
+    2.066503  121 w uh d
+    2.361997  121 l ay k
+    2.500000  121 t ax
+    2.764806  121 n aa t
+    2.991872  121 hh ae v
+    3.130289  121 t ax w_co
+    3.350000  121 w er
+    3.600001  121 k ih n
+    3.921903  121 s ah m
+    4.418027  121 m_on w ey z
+    4.526894  121 h#

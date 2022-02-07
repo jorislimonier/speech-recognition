@@ -1,0 +1,16 @@
+signal 3567-A-0004
+type 0
+comment created using xlabel Mon Jul 14 18:44:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.131729  121 SIL
+    0.670016  121 AND
+    0.827722  121 "THEY'RE"
+    1.320250  121 ALL
+    1.657250  121 SIL
+    1.980260  121 QUITE
+    2.532790  121 YOUNG

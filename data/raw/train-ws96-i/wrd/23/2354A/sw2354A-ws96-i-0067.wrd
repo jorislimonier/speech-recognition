@@ -1,0 +1,20 @@
+signal 2354-A-0067
+type 0
+comment created using xlabel Mon Jul 29 14:55:47 1996
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.383228  121 H#
+    0.463467  121 AND
+    0.640000  121 IT'S
+    0.931113  121 GROWN
+    1.116450  121 ON
+    1.288780  121 GOOD
+    1.698880  121 SOIL
+    2.018450  121 HARDLY
+    2.465160  121 ANYMORE
+    2.596590  121 AND
+    2.801330  121 H#

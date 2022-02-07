@@ -1,0 +1,18 @@
+signal 3791-A-0068
+type 0
+comment created using xlabel Thu Jun 12 12:41:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 ?_#
+    0.280066  121 AND
+    0.582336  121 WHOEVER
+    0.815184  121 BROUGHT
+    0.882052  121 IT
+    1.277580  121 DOWN
+    1.474421  121 GETS
+    1.735885  121 THE
+    2.002200  121 [static]

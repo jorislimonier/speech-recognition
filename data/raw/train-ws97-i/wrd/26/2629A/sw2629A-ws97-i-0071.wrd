@@ -1,0 +1,18 @@
+signal 2629-A-0071
+type 0
+comment created using xlabel Sat Jun  7 17:51:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130111  121 SIL
+    0.424371  121 YEAH
+    0.625003  121 NO
+    0.762579  121 I
+    0.920000  121 THINK
+    1.116073  121 SO
+    1.470000  121 TOO
+    1.716058  121 UH
+    2.004586  121 [breath]

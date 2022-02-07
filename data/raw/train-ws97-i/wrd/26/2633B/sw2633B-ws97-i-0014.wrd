@@ -1,0 +1,22 @@
+signal 2633-B-0014
+type 0
+comment created using xlabel Tue Jul  8 20:57:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123636  121 [BREATH]
+    0.249109  121 I
+    0.479628  121 REALLY
+    0.771424  121 KEEP
+    1.127420  121 THINKING
+    1.202830  121 THAT
+    1.500000  121 T
+    1.770000  121 I
+    2.017390  121 OUGHT_TO
+    2.285850  121 COME
+    2.533870  121 UP
+    2.811080  121 WITH
+    3.088280  121 [BREATH]

@@ -1,0 +1,35 @@
+signal 2371-B-0095
+type 0
+comment created using xlabel Wed Jul 16 19:29:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.369473  121 [MECHNOISE]
+    0.615707  121 GET
+    0.700240  121 IT
+    0.839781  121 REAL
+    1.301200  121 BAD
+    1.361150  121 [STATIC]
+    1.433380  121 I
+    1.897540  121 HATE_THAT
+    1.965170  121 I
+    2.191100  121 MEAN
+    2.386120  121 I
+    2.575160  121 [BACKGROUNDNOISE]
+    2.945570  121 BUNDLE
+    3.122940  121 THEM
+    3.296610  121 UP
+    3.356560  121 AND
+    3.877580  121 EVERYTHING
+    4.024280  121 AND
+    4.576050  121 [BREATH]
+    4.690970  121 [BACKGROUNDNOISE]
+    4.772430  121 AND
+    4.858500  121 I
+    5.179720  121 STILL
+    5.385670  121 GET
+    5.513240  121 IT
+    5.668470  121 [BACKGROUNDNOISE]

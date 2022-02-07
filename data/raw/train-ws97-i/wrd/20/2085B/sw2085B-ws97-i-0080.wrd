@@ -1,0 +1,17 @@
+signal 2085-B-0080
+type 0
+comment created using xlabel Thu Apr 17 20:21:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.380000  121 [STATIC]
+    0.640000  121 RIGHT
+    1.081070  121 NOW
+    1.205530  121 THAT
+    1.417700  121 COULD
+    1.854730  121 BEAT
+    2.197880  121 ANY
+    2.859780  121 COMPUTER

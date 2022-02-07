@@ -1,0 +1,16 @@
+signal 2445-A-0090
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324307  121 H#
+    0.420000  121 WE
+    0.623220  121 JUST
+    0.814268  121 MOVED
+    0.909791  121 TO
+    0.980000  121 A
+    1.090000  121 NEW
+    1.186250  121 H#

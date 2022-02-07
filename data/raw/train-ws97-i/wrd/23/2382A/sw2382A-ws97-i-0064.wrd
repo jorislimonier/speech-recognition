@@ -1,0 +1,34 @@
+signal 2382-A-0064
+type 0
+comment created using xlabel Tue Jul  8 18:40:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.389261  121 UH
+    0.537727  121 YOU
+    0.700288  121 DO
+    0.859091  121 FOR
+    1.519660  121 CLASSES
+    1.948130  121 SIL
+    2.082500  121 FOR
+    2.589260  121 CLASSES
+    2.806850  121 BUT
+    2.925250  121 TO
+    3.000420  121 I
+    3.170000  121 MEAN
+    3.299660  121 TO
+    3.512960  121 USE
+    3.650000  121 ANY
+    3.716870  121 OF
+    3.763850  121 THE
+    4.333290  121 FACILITIES
+    4.495850  121 IS
+    4.784680  121 IS
+    4.826960  121 SIL
+    4.989660  121 NO
+    5.220000  121 EXTRA
+    5.606080  121 CHARGE
+    5.723540  121 [STATIC]

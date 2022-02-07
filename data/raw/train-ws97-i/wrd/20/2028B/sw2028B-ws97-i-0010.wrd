@@ -1,0 +1,15 @@
+signal 2028-B-0010
+type 0
+comment created using xlabel Mon Mar  3 14:20:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.282370  121 [BREATH]
+    0.871858  121 HIGHS
+    1.500000  121 OF
+    1.668760  121 H#
+    2.165460  121 SEVENTY
+    2.615760  121 TWO

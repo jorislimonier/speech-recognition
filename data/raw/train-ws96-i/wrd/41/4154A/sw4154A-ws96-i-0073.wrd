@@ -1,0 +1,21 @@
+signal 4154-A-0073
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132119  121 h#
+    0.232216  121 WELL
+    0.290000  121 I
+    0.468730  121 HAVE
+    0.543419  121 h#
+    0.640000  121 I
+    0.828352  121 HAVE
+    1.102202  121 VERY
+    1.359478  121 MIXED
+    1.816588  121 FEELINGS
+    1.970844  121 ABOUT
+    2.355353  121 ISRAEL
+    2.900297  121 h#

@@ -1,0 +1,16 @@
+signal 2038-A-0023
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310114  121 H#
+    0.482068  121 THE
+    0.591532  121 H#
+    1.140740  121 GOVERNMENT
+    1.340000  121 IN
+    1.860000  121 POWER
+    2.080000  121 THAT
+    2.336260  121 H#

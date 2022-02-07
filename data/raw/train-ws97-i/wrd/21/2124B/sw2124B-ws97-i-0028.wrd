@@ -1,0 +1,13 @@
+signal 2124-B-0028
+type 0
+comment created using xlabel Tue Mar  4 16:14:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080089  121 [CROSSTALK]
+    0.205735  121 [MECHNOISE]
+    0.293838  121 [CROSSTALK]
+    0.529112  121 UHHUH_#

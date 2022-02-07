@@ -1,0 +1,13 @@
+signal 2995-B-0026
+type 0
+comment created using xlabel Mon Mar 17 14:45:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290000  121 [BREATH]
+    0.654000  121 BUT
+    1.330000  121 TELEPHONE
+    1.962000  121 CALLS

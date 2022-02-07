@@ -1,0 +1,23 @@
+signal 3895-B-0007
+type 0
+comment created using xlabel Sat Jun  7 16:36:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319994  121 [mech noise]
+    0.493677  121 GO
+    1.043969  121 CAMPING
+    1.589631  121 ON
+    1.667104  121 h#
+    1.779228  121 THE
+    2.098305  121 LONG
+    2.853849  121 WEEKENDS
+    3.100998  121 [mech noise]
+    3.147241  121 [mouth noise]
+    3.607407  121 UH
+    4.115560  121 MEMORIAL
+    4.371438  121 DAY
+    4.482421  121 ?_#

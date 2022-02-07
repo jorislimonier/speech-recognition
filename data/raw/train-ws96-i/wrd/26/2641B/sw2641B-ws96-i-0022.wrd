@@ -1,0 +1,17 @@
+signal 2641-B-0022
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 H#
+    0.222521  121 AND
+    0.341013  121 I
+    0.433798  121 WOULD
+    0.567634  121 DO
+    0.753881  121 IT
+    0.880000  121 YOU
+    1.080000  121 KNOW
+    1.367650  121 H#

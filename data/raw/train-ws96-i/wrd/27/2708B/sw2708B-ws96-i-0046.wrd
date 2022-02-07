@@ -1,0 +1,15 @@
+signal 2708-B-0046
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.313628  121 H#
+    0.367579  121 you
+    0.455168  121 KNOW
+    0.678964  121 JUST
+    0.755767  121 A
+    1.4517  121 TECHNICIAN
+    1.74918  121 h#

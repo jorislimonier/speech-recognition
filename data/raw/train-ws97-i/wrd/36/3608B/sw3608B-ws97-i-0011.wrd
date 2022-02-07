@@ -1,0 +1,18 @@
+signal 3608-B-0011
+type 0
+comment created using xlabel Fri Jul  4 18:42:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327579  121 SIL
+    0.610000  121 PITCH
+    0.748580  121 THEIR
+    1.011270  121 LOT
+    1.253090  121 IN
+    1.432270  121 WITH
+    1.604500  121 THEM
+    1.734970  121 OR
+    1.828920  121 [CROSSTALK]

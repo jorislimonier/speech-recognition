@@ -1,0 +1,12 @@
+signal 2455-B-0084
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340019  121 H#
+    0.550000  121 AND
+    1.058130  121 YET
+    1.186250  121 H#

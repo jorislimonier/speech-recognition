@@ -1,0 +1,18 @@
+signal 2991-B-0058
+type 0
+comment created using xlabel Tue May 27 20:21:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.439054  121 [static]
+    0.519752  121 THE_?
+    0.725678  121 YOU
+    1.063485  121 SEE
+    1.380819  121 LIKE_!
+    1.534368  121 IN
+    1.598346  121 A
+    2.424949  121 NEWSPAPER
+    2.706405  121 [background noise]

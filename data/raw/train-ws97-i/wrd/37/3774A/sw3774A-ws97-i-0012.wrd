@@ -1,0 +1,18 @@
+signal 3774-A-0012
+type 0
+comment created using xlabel Thu Mar 20 15:05:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135857  121 [CROSSTALK]
+    0.262469  121 SO
+    0.443773  121 "WE'VE"
+    0.709734  121 BEEN
+    0.968938  121 TO
+    0.968947  121 TRYING
+    1.440930  121 INSTALL
+    1.770000  121 SOME
+    2.087020  121 [STATIC]

@@ -1,0 +1,18 @@
+signal 3013-B-0108
+type 0
+comment created using xlabel Thu Jun 19 18:12:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124546  121 [mech noise]
+    0.332443  121 AND
+    0.709803  121 THEN
+    0.950895  121 [mech noise]
+    1.087164  121 AND
+    1.242650  121 THEN
+    1.509947  121 STIR
+    1.597299  121 IT
+    1.819173  121 UP

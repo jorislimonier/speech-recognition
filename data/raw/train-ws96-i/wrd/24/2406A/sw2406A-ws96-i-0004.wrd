@@ -1,0 +1,15 @@
+signal 2406-A-0004
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.117633  121 H#
+    0.415243  121 EVEN
+    0.660000  121 BETTER
+    0.990000  121 THAN
+    1.302660  121 ROGER
+    1.650770  121 RABBIT
+    1.906900  121 H#

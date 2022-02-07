@@ -1,0 +1,16 @@
+signal 3293-B-0042
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.070000  121 h#
+    0.330000  121 AND
+    0.430000  121 YOU
+    0.590721  121 KNOW
+    0.748726  121 AND
+    0.850380  121 WE
+    1.070000  121 COULD
+    1.163077  121 h#

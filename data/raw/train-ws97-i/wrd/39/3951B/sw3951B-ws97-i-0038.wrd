@@ -1,0 +1,15 @@
+signal 3951-B-0038
+type 0
+comment created using xlabel Thu Jul  3 13:47:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.201197  121 [STATIC]
+    0.335592  121 [BACKGROUNDNOISE]
+    0.536557  121 EAST
+    0.812884  121 COAST
+    1.188440  121 PEOPLE
+    1.327860  121 [MECHNOISE]

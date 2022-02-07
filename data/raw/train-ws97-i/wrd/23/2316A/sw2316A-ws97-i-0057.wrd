@@ -1,0 +1,29 @@
+signal 2316-A-0057
+type 0
+comment created using xlabel Mon Mar 10 12:06:33 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.343523  121 [STATIC]
+    0.537128  121 "THEY'RE"
+    0.815613  121 "THEY'RE"
+    0.986952  121 [UNITELLIGIBLEFALSESTART]
+    1.185320  121 "YOU'RE"
+    1.514360  121 MOST
+    1.850000  121 LIKELY
+    1.928450  121 YOU
+    2.038730  121 KNOW
+    2.239010  121 DO
+    2.635190  121 BETTER
+    2.703850  121 IN
+    3.327740  121 SCHOOL
+    3.637700  121 [STATIC]
+    3.734980  121 "THEY'RE"
+    3.849040  121 GOING
+    3.911570  121 TO
+    4.314460  121 HELP
+    4.501390  121 YOU
+    4.604390  121 [STATIC]

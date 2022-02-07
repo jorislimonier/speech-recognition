@@ -1,0 +1,24 @@
+signal 2241-A-0077
+type 0
+comment created using xlabel Tue Jun 24 18:14:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 H#
+    0.340000  121 BUT
+    0.945547  121 H#
+    1.065050  121 BUT
+    1.160000  121 THE
+    1.465360  121 RYE
+    1.720000  121 DOES
+    1.994590  121 REALLY
+    2.308830  121 WELL
+    2.405070  121 H#
+    2.742560  121 ESPECIALLY
+    2.910000  121 DURING
+    2.980000  121 THE
+    3.570000  121 WINTERTIME
+    3.602010  121 H#

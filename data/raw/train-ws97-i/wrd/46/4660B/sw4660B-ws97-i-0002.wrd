@@ -1,0 +1,24 @@
+signal 4660-B-0002
+type 0
+comment created using xlabel Tue Mar 18 14:53:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100723  121 [STATIC]
+    0.740172  121 GENERALLY
+    0.922872  121 I
+    1.110000  121 GET
+    1.453300  121 MOST
+    1.497630  121 OF
+    1.696460  121 MY
+    2.172000  121 NEWS
+    2.299620  121 SIL
+    2.740250  121 FROM
+    3.072750  121 UH
+    3.156040  121 SIL
+    3.255450  121 THE
+    3.806230  121 RADIO
+    4.142080  121 [STATIC]

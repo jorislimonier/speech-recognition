@@ -1,0 +1,17 @@
+signal 3051-B-0105
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.128062  121 h#
+    0.161010  121 A
+    0.397577  121 MONTH
+    0.826590  121 h#
+    0.903807  121 AND
+    1.053800  121 I
+    1.092040  121 h#
+    1.393970  121 THOUGHT
+    1.508432  121 h#

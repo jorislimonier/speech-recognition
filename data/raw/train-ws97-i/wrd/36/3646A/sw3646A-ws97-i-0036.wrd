@@ -1,0 +1,12 @@
+signal 3646-A-0036
+type 0
+comment created using xlabel Thu Mar 13 13:55:56 1997
+comment $Locker: candy $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130311  121 I
+    1.037977  121 UNDERSTAND
+    1.307280  121 [breath]

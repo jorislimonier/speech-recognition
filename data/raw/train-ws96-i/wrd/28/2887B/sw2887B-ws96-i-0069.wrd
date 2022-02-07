@@ -1,0 +1,16 @@
+signal 2887-B-0069
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.099491  121 h#
+    0.320000  121 NO
+    0.447139  121 THEY
+    0.701353  121 MATCH
+    0.760000  121 THE
+    1.015610  121 SAME
+    1.305068  121 AMOUNT
+    1.563193  121 h#

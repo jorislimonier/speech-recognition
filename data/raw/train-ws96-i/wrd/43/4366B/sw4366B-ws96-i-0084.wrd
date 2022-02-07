@@ -1,0 +1,18 @@
+signal 4366-B-0084
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.376486  121 h#
+    0.566857  121 TO
+    0.713940  121 THE
+    1.198586  125 ability
+    1.298931  121 OF
+    1.400000  121 THE
+    1.930000  121 INDIVIDUAL
+    2.050000  121 TO
+    2.450000  121 PAY
+    2.528151  125 h#

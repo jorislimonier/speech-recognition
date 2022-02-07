@@ -1,0 +1,35 @@
+signal 3377-A-0014
+type 0
+comment created using xlabel Fri Apr 25 17:22:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.139656  121 SIL
+    0.542667  121 UH
+    0.751318  121 I
+    1.040000  121 WAS
+    1.219460  121 H#
+    1.468730  121 DOWN
+    1.606480  121 AT
+    1.880120  121 H#
+    2.037930  121 ABOUT
+    2.408680  121 FOUR_OR
+    3.023190  121 FIVE
+    3.307580  121 SIL
+    3.505380  121 QUITE
+    3.780000  121 AWHILE
+    4.017000  121 AGO
+    4.194210  121 "IT'S"
+    4.499270  121 PROBABLY
+    4.654390  121 UP
+    4.834460  121 THERE
+    4.917350  121 TO
+    5.320360  121 TWENTY
+    5.652730  121 NOW
+    5.888260  121 IF_?
+    5.951290  121 [MOUTHNOISE]
+    6.084320  121 IF
+    6.223260  121 I

@@ -1,0 +1,17 @@
+signal 4745-A-0037
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.360000  121 h#
+    0.680000  121 FEEL
+    0.770000  121 TO
+    1.149771  121 PLACE
+    1.322529  121 THEIR
+    1.860138  121 CHILDREN
+    2.140000  121 INTO
+    2.800000  121 CARE
+    2.986303  125 h#

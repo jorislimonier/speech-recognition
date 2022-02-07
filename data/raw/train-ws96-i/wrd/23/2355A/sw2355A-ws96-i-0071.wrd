@@ -1,0 +1,19 @@
+signal 2355-A-0071
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 ?
+    0.273538  121 AND
+    0.400123  121 THAT
+    0.510000  121 YOU
+    0.667788  121 DON'T
+    0.846072  121 EVEN
+    1.255360  121 SEE
+    1.325980  121 OR
+    1.570000  121 KNOW
+    1.980000  121 ABOUT
+    2.108890  121 H#

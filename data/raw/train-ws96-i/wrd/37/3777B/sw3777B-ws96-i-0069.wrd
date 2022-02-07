@@ -1,0 +1,13 @@
+signal 3777-B-0069
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.311580  121 h#
+    0.749044  121 CHILDREN
+    1.360000  121 ORIENTED
+    1.950000  121 TELEVISION
+    2.305397  121 SHOWS_#

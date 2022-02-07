@@ -1,0 +1,18 @@
+signal 2546-A-0039
+type 0
+comment created using xlabel Wed May 28 13:10:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.351654  121 BACK
+    0.440000  121 ON
+    0.518527  121 THE
+    0.850000  121 STREETS
+    1.020000  121 AFTER
+    1.375850  121 FIVE
+    1.661560  121 YEARS
+    1.820000  121 OR

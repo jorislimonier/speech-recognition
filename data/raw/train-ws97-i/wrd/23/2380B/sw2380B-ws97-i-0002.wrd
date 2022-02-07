@@ -1,0 +1,12 @@
+signal 2380-B-0002
+type 0
+comment created using xlabel Mon Mar 31 10:25:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.059531  121 H#
+    0.352059  121 LEGAL
+    0.999588  121 DEPARTMENT

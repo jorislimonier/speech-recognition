@@ -1,0 +1,16 @@
+signal 4127-B-0058
+type 0
+comment created using xlabel Sat Apr 12 21:26:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319652  121 READ_THE_#
+    0.531189  121 LITTLE
+    0.848494  121 BOOK
+    1.069950  121 THEY
+    1.377340  121 SEND
+    1.686380  121 YOU
+    1.745870  121 [CROSSTALK]

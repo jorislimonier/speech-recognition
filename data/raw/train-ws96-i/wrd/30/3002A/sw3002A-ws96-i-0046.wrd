@@ -1,0 +1,22 @@
+signal 3002-A-0046
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.02  121 H#
+    0.12295  121 AS
+    0.161773  121 A
+    0.387282  121 MATTER
+    0.45  121 OF
+    0.77  121 FACT
+    0.891727  121 I
+    1.13262  121 READ
+    1.21  121 THE
+    1.61  121 SUNDAY
+    2.01  121 PAPER
+    2.24338  121 THIS
+    2.66852  121 EVENING
+    2.75442  121 h#

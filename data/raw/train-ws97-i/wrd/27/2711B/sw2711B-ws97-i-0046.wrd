@@ -1,0 +1,19 @@
+signal 2711-B-0046
+type 0
+comment created using xlabel Mon Apr 28 14:02:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 SIL
+    0.456335  121 SAT
+    0.565477  121 AT
+    0.690000  121 OUR
+    0.985070  121 TABLE
+    1.220000  121 EVERY
+    1.623790  121 MEAL
+    1.918480  121 WAS
+    2.160000  121 FROM
+    2.690000  121 LONDON

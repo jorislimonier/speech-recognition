@@ -1,0 +1,15 @@
+signal 4359-A-0014
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114843  121 h#
+    0.298083  121 TO
+    0.380000  121 THE
+    0.763636  121 CHILD
+    1.007347  121 CARE
+    1.298528  121 THERE
+    1.487079  121 h#

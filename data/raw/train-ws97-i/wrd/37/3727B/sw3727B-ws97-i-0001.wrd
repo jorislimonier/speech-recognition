@@ -1,0 +1,15 @@
+signal 3727-B-0001
+type 0
+comment created using xlabel Fri May 16 13:06:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103192  121 H#
+    0.202384  121 UH
+    0.414173  121 DO_YOU
+    0.632663  121 HAVE
+    1.218430  121 KIDS
+    1.408770  121 [BREATH]

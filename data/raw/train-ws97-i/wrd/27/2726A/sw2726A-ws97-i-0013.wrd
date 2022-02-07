@@ -1,0 +1,14 @@
+signal 2726-A-0013
+type 0
+comment created using xlabel Mon Jul 14 19:33:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.152553  121 h#
+    0.389096  121 "IT'S"
+    0.637065  121 WOOD
+    0.939885  121 UH
+    1.205000  121 [BREATH]

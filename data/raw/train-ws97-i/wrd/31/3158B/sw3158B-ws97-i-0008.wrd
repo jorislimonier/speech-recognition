@@ -1,0 +1,17 @@
+signal 3158-B-0008
+type 0
+comment created using xlabel Fri Jun 13 16:37:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.039002  121 h#
+    0.294014  121 YEAH
+    0.430000  121 WE
+    0.970000  121 COMMUTE
+    1.339066  121 FROM
+    1.790000  121 PLANO
+    1.894093  121 TO
+    2.561626  121 DALLAS

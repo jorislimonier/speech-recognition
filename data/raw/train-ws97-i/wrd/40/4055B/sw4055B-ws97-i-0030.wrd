@@ -1,0 +1,14 @@
+signal 4055-B-0030
+type 0
+comment created using xlabel Tue Jun  3 17:33:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.093246  121 [hum]
+    0.537185  121 UH
+    0.888468  121 LIKE
+    1.130270  121 A
+    1.423272  121 mouthnoise

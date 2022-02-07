@@ -1,0 +1,18 @@
+signal 4801-A-0032
+type 0
+comment created using xlabel Sat Apr 12 18:27:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.063531  121 H#
+    0.422579  121 UM
+    0.610475  121 [MECHNOISE]
+    0.656984  121 [MOUTHNOISE]
+    0.857902  121 KIND
+    0.943478  121 OF
+    1.240000  121 TAKES
+    1.682040  121 AWAY
+    1.964810  121 [BREATH]

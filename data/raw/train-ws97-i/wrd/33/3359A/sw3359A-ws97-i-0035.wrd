@@ -1,0 +1,28 @@
+signal 3359-A-0035
+type 0
+comment created using xlabel Wed Jun 11 14:16:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290000  121 SIL
+    0.500000  121 LIKE
+    0.572035  121 A
+    1.050000  121 SEAFOOD
+    1.290000  121 BAR
+    1.460000  121 LIKE
+    1.543156  121 A
+    1.959715  121 RAW
+    2.089552  121 h#
+    2.330000  121 RAW
+    2.570000  121 BAR
+    2.736025  121 LIKE
+    3.280000  121 OYSTERS
+    3.469053  121 AND
+    3.866678  121 [breath]
+    4.095238  121 THINGS
+    4.284583  121 LIKE
+    4.782469  121 THAT
+    5.123290  121 UH

@@ -1,0 +1,19 @@
+signal 2889-A-0016
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.134581  121 h#
+    0.485418  121 AND
+    1.006167  121 h#
+    1.215411  121 THERE'S
+    1.452974  121 SOME
+    1.879268  121 STUFF
+    2.065676  121 IT'S
+    2.427409  121 REALLY
+    2.608334  121 h#
+    2.911379  121 FOR
+    3.311582  121 h#

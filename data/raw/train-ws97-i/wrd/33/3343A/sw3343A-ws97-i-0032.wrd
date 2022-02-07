@@ -1,0 +1,17 @@
+signal 3343-A-0032
+type 0
+comment created using xlabel Sat Apr 12 21:45:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.141151  121 [MECHNOISE]
+    0.238355  121 AND
+    0.424774  121 THAT
+    0.524641  121 [STATIC]
+    0.772312  121 HAS
+    1.127840  121 SAVED
+    1.344880  121 US
+    1.407470  121 [MECHNOISE]

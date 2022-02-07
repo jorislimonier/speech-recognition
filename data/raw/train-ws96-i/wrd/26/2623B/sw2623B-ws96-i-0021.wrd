@@ -1,0 +1,13 @@
+signal 2623-B-0021
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 H#
+    0.604849  121 REALLY
+    0.954822  121 WANTED
+    1.239350  121 TO
+    1.268140  121 H#

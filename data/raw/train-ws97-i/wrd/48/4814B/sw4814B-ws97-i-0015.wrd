@@ -1,0 +1,15 @@
+signal 4814-B-0015
+type 0
+comment created using xlabel Mon Mar 17 11:13:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 SIL
+    0.330000  121 LIKE
+    0.546790  121 OUT_OF
+    0.889606  121 NOWHERE
+    0.985594  121 [BREATH]
+    1.197000  121 YEAH

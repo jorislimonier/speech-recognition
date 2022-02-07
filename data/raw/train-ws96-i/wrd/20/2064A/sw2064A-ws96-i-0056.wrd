@@ -1,0 +1,14 @@
+signal 2064-A-0056
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136275  121 h#
+    0.416219  121 WHICH
+    0.680132  121 SEEMS
+    0.890000  121 SO
+    1.386109  121 AWFUL
+    1.545321  121 h#

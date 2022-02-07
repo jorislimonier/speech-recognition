@@ -1,0 +1,16 @@
+signal 2772-B-0035
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320351  121 h#
+    0.474921  121 LIKE
+    0.513616  125 h#
+    0.560000  121 THE
+    0.870000  121 NINETY
+    1.354210  121 DEGREE
+    1.483546  125 h#
+    1.488588  125 h#

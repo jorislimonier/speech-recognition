@@ -1,0 +1,22 @@
+signal 2721-B-0058
+type 0
+comment created using xlabel Wed Jun 11 14:27:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.142368  121 SIL
+    0.250000  121 WELL
+    0.340037  121 I
+    0.470000  121 "DON'T"
+    0.693516  121 THINK
+    0.867930  121 HE
+    1.022577  121 WOULD
+    1.210000  121 HAVE
+    1.473223  121 BEEN
+    1.620000  121 I
+    1.914771  121 THINK
+    2.142671  121 THAT
+    2.203135  121 HIS_#

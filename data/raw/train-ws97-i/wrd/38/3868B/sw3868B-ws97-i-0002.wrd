@@ -1,0 +1,34 @@
+signal 3868-B-0002
+type 0
+comment created using xlabel Fri Jun 13 16:00:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 h#
+    0.370000  121 SO
+    0.502584  121 HE
+    0.760000  121 LIKES
+    0.901697  121 TO
+    1.339627  121 SAIL
+    1.491904  121 AND
+    1.646138  121 HE
+    1.936140  121 LIKES
+    2.039296  121 TO
+    2.130000  121 DO
+    2.210000  121 ALL
+    2.353674  121 THAT
+    2.649399  121 STUFF
+    2.903604  121 BUT
+    3.204825  121 [breath]
+    3.393943  121 IT'S
+    3.510000  121 BEEN
+    3.760000  121 A_LONG
+    4.064637  121 TIME
+    4.382598  121 SINCE
+    4.525050  121 HE'S
+    4.679783  121 HAD
+    4.760000  121 A
+    5.282751  121 BOAT_#

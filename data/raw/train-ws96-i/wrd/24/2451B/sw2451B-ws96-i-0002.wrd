@@ -1,0 +1,14 @@
+signal 2451-B-0002
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 H#
+    0.374634  121 A
+    0.828421  121 MAJOR
+    1.250000  121 INTERNAL
+    1.734430  121 PROBLEM
+    1.928670  121 H#

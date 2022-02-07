@@ -1,0 +1,16 @@
+signal 2226-B-0104
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.138172  121 H#
+    0.249572  121 WHEN
+    0.338380  121 THEY
+    0.570145  121 MAKE
+    0.628182  121 THEM
+    0.780000  121 INTO
+    1.309860  121 MOVIES
+    1.384240  121 H#

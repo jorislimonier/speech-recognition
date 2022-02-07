@@ -1,0 +1,16 @@
+signal 3046-B-0003
+type 0
+comment created using xlabel Tue Jul  1 18:11:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.065364  121 SIL
+    0.293285  121 I
+    0.470000  121 LIVE
+    0.595561  121 IN
+    1.068660  121 GARLAND
+    1.560000  121 TEXAS
+    1.745940  121 [STATIC]

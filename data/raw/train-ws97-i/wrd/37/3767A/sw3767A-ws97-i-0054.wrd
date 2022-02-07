@@ -1,0 +1,19 @@
+signal 3767-A-0054
+type 0
+comment created using xlabel Tue Jul  8 14:26:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.083367  121 SIL
+    0.509065  121 NO
+    0.650000  121 I
+    0.783243  121 HAVE
+    1.033370  121 ONE
+    1.194510  121 LIVES
+    1.300330  121 IN
+    1.910000  121 AMSTERDAM_!
+    2.425910  121 HOLLAND
+    2.526680  121 [BREATH]

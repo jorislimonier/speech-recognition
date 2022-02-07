@@ -1,0 +1,15 @@
+signal 3694-A-0039
+type 0
+comment created using xlabel Sat Apr 26 17:05:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140703  121 THE
+    0.754114  121 TRUCK
+    1.031030  121 SIL
+    1.157620  121 YOU
+    1.427560  121 KNOW
+    2.165460  121 CROSSTALK

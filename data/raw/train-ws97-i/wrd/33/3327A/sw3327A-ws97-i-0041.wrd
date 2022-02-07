@@ -1,0 +1,13 @@
+signal 3327-A-0041
+type 0
+comment created using xlabel Tue Jul 15 17:11:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.620514  121 DISPOSAL_#
+    0.776307  121 IS
+    0.820000  121 A
+    1.290290  121 PROBLEM

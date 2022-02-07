@@ -1,0 +1,15 @@
+signal 2965-A-0117
+type 0
+comment created using xlabel Mon May 12 19:05:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327744  121 H#
+    0.430000  121 I
+    0.600705  121 THINK
+    0.835578  121 THOSE
+    1.081560  121 OLD
+    1.595740  121 CARS

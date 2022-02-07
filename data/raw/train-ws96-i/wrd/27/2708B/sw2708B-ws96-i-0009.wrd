@@ -1,0 +1,14 @@
+signal 2708-B-0009
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.134627  121 H#
+    0.231342  121 I
+    0.363225  121 HADN'T
+    0.653167  121 HEARD
+    1.07142  121 THAT
+    1.3266  121 h#

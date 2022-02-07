@@ -1,0 +1,24 @@
+signal 3005-B-0026
+type 0
+comment created using xlabel Mon Jun 23 18:41:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060000  121 SIL
+    0.266994  121 THEY
+    0.407030  121 GET_#
+    0.618791  121 THEY
+    0.827137  121 GET
+    1.410000  121 REELECTED
+    1.648566  121 BY
+    1.803382  121 WHAT
+    1.963910  121 THEY
+    2.165425  121 DO
+    2.315707  121 FOR
+    2.470000  121 THEIR
+    3.246119  121 DISTRICTS
+    3.379324  121 h#
+    3.679889  121 UH_#

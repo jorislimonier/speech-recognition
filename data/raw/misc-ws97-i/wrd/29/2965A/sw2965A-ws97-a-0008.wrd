@@ -1,0 +1,21 @@
+signal 2965-A-0008
+type 0
+comment created using xlabel Tue Feb 18 16:22:17 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.260793  121 A
+    0.390857  121 [STATIC]
+    0.800000  121 FRIEND
+    1.221260  121 WHO'S
+    1.441370  121 REAL
+    1.754200  121 GOOD
+    2.169400  121 WITH
+    2.637970  121 UH
+    2.934780  121 [STATIC]
+    3.410000  121 REPAIRING
+    4.030000  121 CARS

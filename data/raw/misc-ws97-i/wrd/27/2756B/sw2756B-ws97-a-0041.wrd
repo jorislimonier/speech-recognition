@@ -1,0 +1,12 @@
+signal 2756-B-0041
+type 0
+comment created using xlabel Fri Feb 14 11:45:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 DOWN
+    0.190000  121 TO
+    0.992052  121 WILLIAMSBURG

@@ -1,0 +1,13 @@
+signal 2830-A-0126
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.370000  121 h#
+    0.580000  121 YEAH
+    0.779383  121 HE'S
+    1.290000  121 FUNNY
+    1.357700  121 h#

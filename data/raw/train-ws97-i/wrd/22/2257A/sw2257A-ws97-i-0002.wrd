@@ -1,0 +1,19 @@
+signal 2257-A-0002
+type 0
+comment created using xlabel Mon Jun 16 18:02:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103101  121 [MOUTHNOISE]
+    0.176676  121 OH
+    0.262264  121 I
+    0.397402  121 "DON'T"
+    0.628638  121 THINK
+    0.670000  121 WE
+    0.846361  121 DID
+    1.221750  121 REALLY
+    1.421450  121 EITHER
+    1.586620  121 [CROSSTALK]

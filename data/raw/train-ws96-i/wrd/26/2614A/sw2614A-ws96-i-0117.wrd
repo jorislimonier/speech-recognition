@@ -1,0 +1,14 @@
+signal 2614-A-0117
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 H#
+    0.496964  121 GOTTEN
+    0.565431  121 IT_!
+    0.800000  121 WITH
+    1.102210  121 THEIR
+    1.445920  121 H#

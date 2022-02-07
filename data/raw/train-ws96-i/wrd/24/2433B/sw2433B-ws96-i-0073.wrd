@@ -1,0 +1,13 @@
+signal 2433-B-0073
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.117811  121 H#
+    0.397723  121 THAT'S
+    0.699513  121 TRUE
+    0.829861  121 THEY
+    1.029270  121 DO_#

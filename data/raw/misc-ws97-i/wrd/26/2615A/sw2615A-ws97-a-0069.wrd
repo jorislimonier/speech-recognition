@@ -1,0 +1,19 @@
+signal 2615-A-0069
+type 0
+comment created using xlabel Thu Apr 10 19:03:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320254  121 [STATIC]
+    0.446410  121 I
+    0.600216  121 GUESS
+    0.677983  121 "IT'S"
+    0.736741  121 AN
+    0.885363  121 EIGHTY
+    1.153230  121 NINE
+    1.210000  121 OR
+    1.509230  121 NINETY
+    1.823760  121 [BREATH]

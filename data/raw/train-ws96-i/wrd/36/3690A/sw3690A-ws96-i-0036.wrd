@@ -1,0 +1,14 @@
+signal 3690-A-0036
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.180809  121 h#
+    0.374170  121 WHICH
+    0.489348  121 WAS
+    1.045481  121 IMPOSSIBLE
+    1.491263  121 BEFORE
+    1.606512  121 h#

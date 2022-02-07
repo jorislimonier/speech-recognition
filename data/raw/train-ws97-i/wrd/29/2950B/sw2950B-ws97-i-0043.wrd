@@ -1,0 +1,22 @@
+signal 2950-B-0043
+type 0
+comment created using xlabel Sat Jun 21 14:54:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.083607  121 [static]
+    0.473679  121 UH
+    0.563899  121 I
+    0.701884  121 DON'T
+    0.850000  121 KNOW
+    1.065420  121 WHAT
+    1.261783  121 WHAT
+    1.350000  121 IT
+    1.519178  121 IS
+    2.113950  121 PERCENTAGE
+    2.514259  121 WISE
+    2.692047  121 BUT
+    2.806150  121 I_#

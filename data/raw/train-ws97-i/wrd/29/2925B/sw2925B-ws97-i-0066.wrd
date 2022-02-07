@@ -1,0 +1,28 @@
+signal 2925-B-0066
+type 0
+comment created using xlabel Sat Jun 28 20:17:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.312070  121 [breath]
+    0.478595  121 IF
+    0.631797  121 [mouthnoise]
+    1.001482  121 PEOPLE
+    1.209645  121 AROUND
+    1.412805  121 HERE
+    1.657373  121 THINK
+    1.796547  121 IF
+    1.958714  121 THEY
+    2.170501  121 JUST
+    2.327830  121 GET
+    2.370187  121 A
+    2.700574  121 BETTER
+    3.188291  121 SECURITY
+    3.597341  121 SYSTEM
+    3.715942  121 AND
+    3.772821  121 A
+    4.099580  121 HIGHER
+    4.771245  121 FENCE

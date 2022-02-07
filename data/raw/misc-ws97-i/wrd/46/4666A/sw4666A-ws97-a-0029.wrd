@@ -1,0 +1,27 @@
+signal 4666-A-0029
+type 0
+comment created using xlabel Mon Feb 24 17:56:24 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332478  121 [BREATH]
+    0.811133  121 AND
+    1.068590  121 UH
+    1.146550  121 SIL
+    1.275280  121 I
+    1.409450  121 "DON'T"
+    1.581700  121 KNOW
+    1.699550  121 WHAT
+    1.840970  121 IS
+    1.915170  121 THE
+    2.716430  121 PROGNOSIS
+    3.218140  121 FOR
+    3.445120  121 ?
+    3.505150  121 SIL
+    4.024770  121 UH
+    4.311240  121 THIS
+    4.539690  121 YEAR
+    4.702870  121 [BREATH]

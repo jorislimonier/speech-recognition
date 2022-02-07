@@ -1,0 +1,12 @@
+signal 3714-B-0052
+type 0
+comment created using xlabel Fri Jun 27 11:49:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.086216  121 h#
+    0.418951  121 MORAL_!
+    1.009942  121 CONSCIENCE

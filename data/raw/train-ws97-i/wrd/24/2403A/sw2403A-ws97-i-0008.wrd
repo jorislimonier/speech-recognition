@@ -1,0 +1,17 @@
+signal 2403-A-0008
+type 0
+comment created using xlabel Wed Jul  9 14:38:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124219  121 SIL
+    0.285086  121 WELL
+    0.426523  121 BUT
+    0.619201  121 WE'VE
+    0.803380  121 DONE
+    0.844500  121 IT
+    1.385160  121 BEFORE
+    1.487740  121 [MOUTHNOISE]

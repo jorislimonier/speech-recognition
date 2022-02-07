@@ -1,0 +1,13 @@
+signal 2334-B-0076
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135811  121 H#
+    0.200000  121 OH
+    0.396858  121 IT'S
+    1.039490  121 NATIONAL
+    1.125580  121 H#

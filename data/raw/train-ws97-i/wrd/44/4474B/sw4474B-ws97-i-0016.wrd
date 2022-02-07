@@ -1,0 +1,19 @@
+signal 4474-B-0016
+type 0
+comment created using xlabel Sat Jun 28 19:55:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320493  121 [static]
+    0.427646  121 A
+    0.651725  121 YOUNG
+    1.032186  121 ADULT
+    1.113558  121 IN
+    1.196093  121 THE
+    1.662799  121 FAMILY
+    1.840231  121 JUST
+    2.224775  121 ABOUT
+    2.385860  121 ?_#

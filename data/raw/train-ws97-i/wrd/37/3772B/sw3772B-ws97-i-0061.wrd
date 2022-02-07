@@ -1,0 +1,18 @@
+signal 3772-B-0061
+type 0
+comment created using xlabel Wed Jun 11 13:48:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120340  121 [static]
+    0.271794  121 AND
+    0.893160  121 TODAY
+    0.969310  121 sil
+    1.085803  121 THEY
+    1.337720  121 CHECKED
+    1.447715  121 HIM
+    1.656032  121 OUT
+    1.785910  121 [static]

@@ -1,0 +1,16 @@
+signal 3530-B-0070
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.108046  121 h#
+    0.486396  121 NO
+    0.730432  121 NO
+    1.033112  121 SHE
+    1.330000  121 ISN'T
+    1.440746  121 AT
+    1.910000  121 ALL
+    1.986554  121 h#

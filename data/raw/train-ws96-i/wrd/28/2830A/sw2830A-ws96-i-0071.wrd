@@ -1,0 +1,18 @@
+signal 2830-A-0071
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.067887  121 h#
+    0.298111  121 UH
+    1.064063  121 ACTUALLY
+    1.259893  121 I'M
+    1.437663  121 A
+    1.660000  121 BIG
+    2.142498  121 CHICAGO
+    2.499797  121 BEARS'
+    2.883104  121 FAN
+    2.912251  121 h#

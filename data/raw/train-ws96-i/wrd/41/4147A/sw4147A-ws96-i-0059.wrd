@@ -1,0 +1,21 @@
+signal 4147-A-0059
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.162030  121 h#
+    0.220000  121 YOU
+    0.457771  121 KNOW
+    0.570649  121 h#
+    0.886749  121 SHOWING
+    0.950000  121 THE
+    1.413890  121 MATURITY
+    1.530000  121 AND
+    2.360502  121 RESPONSIBILITY
+    2.524129  121 TO
+    3.149282  121 RECOGNIZE
+    3.588379  121 THOSE
+    4.099972  121 h#

@@ -1,0 +1,17 @@
+signal 3769-B-0041
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.020000  121 h#
+    0.346654  121 ADDS
+    0.641302  121 UP
+    0.754583  121 AND
+    0.977225  121 IT'S
+    1.167873  121 NOT
+    1.655152  121 HEALTHY
+    1.894782  121 AND
+    2.201846  121 h#

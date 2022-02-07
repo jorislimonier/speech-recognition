@@ -1,0 +1,20 @@
+signal 3309-B-0062
+type 0
+comment created using xlabel Wed May 21 16:58:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.112651  121 think_?_#
+    0.401876  121 THAN
+    0.850000  121 PROBABLY
+    1.017054  121 ANY
+    1.092038  121 [false start]
+    1.309340  121 sil
+    1.607795  121 ANY
+    1.883248  121 CITY
+    1.976596  121 IN
+    2.053110  121 THE
+    2.503016  121 COUNTRY

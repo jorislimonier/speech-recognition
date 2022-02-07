@@ -1,0 +1,13 @@
+signal 2418-A-0045
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350088  121 H#
+    0.470000  121 HE'S
+    0.910000  121 NATIONALLY
+    1.467410  121 FAMOUS
+    1.785620  121 H#

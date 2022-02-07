@@ -1,0 +1,15 @@
+signal 2263-B-0027
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 H#
+    0.442678  121 YEAH
+    0.591217  121 H#
+    0.680807  121 YOU
+    0.743649  121 CAN
+    0.972347  121 GET
+    1.438030  121 H#

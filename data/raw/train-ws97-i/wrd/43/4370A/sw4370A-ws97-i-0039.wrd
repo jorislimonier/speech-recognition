@@ -1,0 +1,23 @@
+signal 4370-A-0039
+type 0
+comment created using xlabel Fri Mar 21 17:59:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.142567  121 [BREATH]
+    0.219883  121 WHAT
+    0.658841  121 ABOUT
+    0.822203  121 SIL
+    1.102770  121 UH
+    1.259900  121 WHITE
+    1.631520  121 COLLAR
+    2.189970  121 CRIMES
+    2.638590  121 LIKE
+    2.858070  121 UH
+    3.275430  121 THEFT
+    3.351500  121 OF
+    3.740710  121 TRADE
+    4.452770  121 SECRETS

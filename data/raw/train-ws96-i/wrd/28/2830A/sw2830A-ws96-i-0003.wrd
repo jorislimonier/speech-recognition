@@ -1,0 +1,19 @@
+signal 2830-A-0003
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.131762  121 H#
+    0.333085  121 YOU
+    0.547958  121 WERE_!
+    0.639489  121 H#
+    0.760895  121 HE
+    0.956410  121 WAS
+    1.290000  121 WAITING
+    1.430680  121 FOR
+    1.618450  121 WHAT
+    1.960000  121 AGAIN
+    2.044330  121 H#

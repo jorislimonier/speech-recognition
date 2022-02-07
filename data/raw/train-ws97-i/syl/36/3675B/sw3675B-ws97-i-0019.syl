@@ -1,0 +1,29 @@
+signal 3675-B-0019
+type 0
+comment created using xlabel Mon Mar 17 14:53:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 h#
+    0.450072  121 w iy
+    0.603347  121 dx ow
+    0.721252  121 nx eh
+    0.845051  121 v er
+    1.049419  121 p uh
+    1.180000  121 dx uh
+    1.304878  121 dx ih
+    1.400000  121 dx ax
+    1.627073  121 hh ay
+    2.025983  121 r ih s 
+    2.250000  121 k ix t s
+    2.444544  121 jh ah s
+    2.711793  121 t aa w_co
+    2.930000  121 w ey z
+    3.051751  121 g ah
+    3.130000  121 nx ax
+    3.330000  121 b iy
+    3.643325  121 dh eh_cr r_cr
+    3.690000  121 h#

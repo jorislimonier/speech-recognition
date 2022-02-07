@@ -1,0 +1,12 @@
+signal 3360-B-0038
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.369902  121 h#
+    0.510454  121 OR
+    0.891457  121 MORE
+    1.225995  125 h#

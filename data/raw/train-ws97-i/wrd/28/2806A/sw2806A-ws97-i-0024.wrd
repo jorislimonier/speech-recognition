@@ -1,0 +1,18 @@
+signal 2806-A-0024
+type 0
+comment created using xlabel Wed Jun 11 14:01:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.278144  121 SIL
+    0.341214  121 h#
+    0.451066  121 I
+    0.680926  121 GOT
+    0.761060  121 IT
+    1.018582  121 SO_IT
+    1.371493  121 "WOULDN'T"
+    1.585602  121 "WOULDN'T"
+    2.287906  121 SHED

@@ -1,0 +1,19 @@
+signal 3454-A-0020
+type 0
+comment created using xlabel Mon Jun 23 13:33:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 [static]
+    0.293329  121 AND
+    0.410000  121 I
+    0.600000  121 THINK
+    0.690000  121 THE
+    0.973387  121 FACT
+    1.099123  121 THAT
+    1.320000  121 "THEY'RE"
+    1.895581  121 BECOMING
+    2.087566  121 UH

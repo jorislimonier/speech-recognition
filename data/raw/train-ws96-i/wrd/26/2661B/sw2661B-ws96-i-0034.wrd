@@ -1,0 +1,15 @@
+signal 2661-B-0034
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.294180  121 h#
+    0.695912  121 FAKE
+    0.770000  121 OR
+    0.999755  121 PUT
+    1.241998  121 ON
+    1.580000  121 EITHER
+    1.663075  125 h#

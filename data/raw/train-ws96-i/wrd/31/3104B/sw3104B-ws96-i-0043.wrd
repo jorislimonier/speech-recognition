@@ -1,0 +1,15 @@
+signal 3104-B-0043
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.291733  121 h#
+    0.759989  121 AT
+    1.023599  125 h#
+    2.069275  121 UNIVERSITY_OF_NEBRASKA
+    2.170000  121 AT
+    2.671065  121 LINCOLN
+    2.807467  125 h#

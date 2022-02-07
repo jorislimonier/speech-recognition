@@ -1,0 +1,19 @@
+signal 3118-A-0013
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.119273  121 h#
+    0.200720  121 AND
+    0.319009  121 THEY
+    0.507736  121 HAVE
+    0.650000  121 TO
+    0.940000  121 STAY
+    1.056377  121 IN
+    1.385051  121 UNTIL
+    1.518309  121 THEY
+    1.701184  121 ALL
+    2.009378  121 AGREE_#

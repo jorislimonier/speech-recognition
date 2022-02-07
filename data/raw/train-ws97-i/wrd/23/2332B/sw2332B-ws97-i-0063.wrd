@@ -1,0 +1,15 @@
+signal 2332-B-0063
+type 0
+comment created using xlabel Fri Jun  6 19:32:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.326437  121 [STATIC]
+    0.605996  121 BUT
+    0.798086  121 IF
+    0.907851  121 "YOU'RE"
+    1.595600  121 SMOKING
+    1.864870  121 [STATIC]

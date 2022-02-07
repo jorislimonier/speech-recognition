@@ -1,0 +1,18 @@
+signal 2061-A-0165
+type 0
+comment created using xlabel Tue Mar  4 13:14:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.351629  121 [BACKGROUNDNOISE]
+    0.559948  121 ONCE
+    0.661299  121 YOU
+    0.813600  121 HAVE
+    1.129900  121 SOMETHING
+    1.264280  121 AND
+    1.384680  121 "IT'S"
+    1.610270  121 LIKE
+    1.742190  121 [BREATH]

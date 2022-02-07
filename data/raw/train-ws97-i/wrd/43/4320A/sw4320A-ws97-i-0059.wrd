@@ -1,0 +1,21 @@
+signal 4320-A-0059
+type 0
+comment created using xlabel Mon Mar 24 16:22:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.265095  121 [BREATH]
+    0.504508  121 AND
+    0.691521  121 "IT'S"
+    0.883051  121 PRETTY
+    1.158380  121 BAD
+    1.300620  121 WHEN
+    1.402710  121 "THEY'RE"
+    1.686390  121 USING
+    1.994460  121 METAL
+    2.520000  121 DETECTORS
+    2.666420  121 IN
+    3.068320  121 SCHOOL_#

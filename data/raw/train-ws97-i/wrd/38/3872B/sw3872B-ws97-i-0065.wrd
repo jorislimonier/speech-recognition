@@ -1,0 +1,16 @@
+signal 3872-B-0065
+type 0
+comment created using xlabel Tue Jul  8 21:12:17 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.049216  121 h#
+    0.640250  121 UH
+    0.743601  121 h#
+    1.166690  121 SCHEDULE
+    1.479970  121 TIME
+    1.664060  121 WITH
+    1.706050  121 ?_#

@@ -1,0 +1,14 @@
+signal 2130-B-0096
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.347282  121 H#
+    0.741134  121 ONE
+    1.035320  121 GROUP
+    1.190000  121 OF
+    1.540000  121 THEM
+    1.581020  121 H#

@@ -1,0 +1,34 @@
+signal 2282-B-0058
+type 0
+comment created using xlabel Thu Jun  5 14:17:47 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.108903  121 [STATIC]
+    0.303724  121 YEAH
+    0.430330  121 HAVE
+    0.504208  121 YOU
+    0.683609  121 EVER
+    0.989666  121 LIVED
+    1.071590  121 IN
+    1.163510  121 A
+    1.218380  121 [ECHO]
+    1.311920  121 IN
+    1.493170  121 A
+    1.621050  121 [STATIC]
+    1.750000  121 WELL
+    1.833600  121 BUT
+    2.296370  121 DALLAS
+    2.614840  121 IS
+    2.782380  121 I'M
+    2.919130  121 ?
+    3.007680  121 [BACKGROUNDNOISE]
+    3.100750  121 ARE
+    3.182180  121 YOU
+    3.435960  121 CALLING
+    3.603800  121 FROM
+    3.991060  121 DALLAS
+    4.247490  121 [STATIC]

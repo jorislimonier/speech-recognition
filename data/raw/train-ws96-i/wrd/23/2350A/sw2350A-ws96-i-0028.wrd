@@ -1,0 +1,16 @@
+signal 2350-A-0028
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.351006  121 H#
+    0.478649  121 YEAH
+    0.650000  121 WE'RE
+    0.896701  121 NOT
+    1.370670  121 FROM
+    1.813670  121 TEXAS
+    2.275890  121 EITHER
+    2.783580  121 H#

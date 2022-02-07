@@ -1,0 +1,25 @@
+signal 3850-B-0052
+type 0
+comment created using xlabel Sun Jun  1 18:01:18 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 [crosstalk]
+    0.173808  121 YOU
+    0.277380  121 KNOW
+    0.342413  121 WHAT
+    0.456823  121 I_AM
+    0.819321  121 SAYING
+    1.315927  121 hum
+    1.495547  121 LIKE
+    1.672404  121 THAT
+    1.942348  121 ONE
+    2.065188  121 WHERE
+    2.141060  121 HE
+    2.416124  121 GOES
+    2.507368  121 TO
+    3.213128  121 COLLEGE
+    3.479281  121 [hum]

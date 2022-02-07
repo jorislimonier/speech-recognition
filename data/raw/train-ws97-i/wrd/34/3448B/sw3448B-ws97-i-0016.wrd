@@ -1,0 +1,28 @@
+signal 3448-B-0016
+type 0
+comment created using xlabel Thu May  1 16:30:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.236084  121 [BREATH]
+    0.324921  121 [MOUTHNOISE]
+    0.505535  121 I
+    0.681470  121 I
+    0.935078  121 LIKE
+    1.130000  121 UH
+    1.273250  121 WE
+    1.470710  121 HAVE
+    1.786840  121 CABLE
+    1.955290  121 I
+    2.175210  121 REALLY
+    2.369870  121 LIKE
+    2.855060  121 WATCHING
+    2.969230  121 SIL
+    3.118470  121 THE
+    3.298150  121 OLD
+    3.514320  121 NICK
+    3.623810  121 AT
+    3.901750  121 NITE

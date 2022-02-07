@@ -1,0 +1,22 @@
+signal 3662-A-0033
+type 0
+comment created using xlabel Tue Jun  3 13:59:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120944  121 [mech noise]
+    0.336046  121 BUT
+    0.478307  121 I
+    0.668793  121 KNOW
+    0.826727  121 THEY
+    0.967783  121 HAVE
+    1.019624  121 A
+    1.203300  121 LOT
+    1.271281  121 OF
+    1.553597  121 DRUG
+    2.094242  121 PROBLEMS
+    2.324512  121 SO
+    2.404082  121 [static]

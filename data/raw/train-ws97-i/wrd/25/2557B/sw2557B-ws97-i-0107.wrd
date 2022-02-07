@@ -1,0 +1,18 @@
+signal 2557-B-0107
+type 0
+comment created using xlabel Mon Jun  2 15:26:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.111599  121 ?_#
+    0.233146  121 ONE
+    0.506128  121 WANTS
+    0.561920  121 TO
+    0.874754  121 SPEND
+    1.056080  121 A
+    1.370910  121 LOT
+    1.450000  121 OF
+    2.018490  121 MONEY

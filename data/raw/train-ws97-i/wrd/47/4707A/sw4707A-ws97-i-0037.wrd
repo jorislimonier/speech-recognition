@@ -1,0 +1,44 @@
+signal 4707-A-0037
+type 0
+comment created using xlabel Fri Apr 25 14:48:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.101819  121 SIL
+    0.462119  121 UM
+    0.612108  121 I
+    0.820789  121 JUST
+    1.107730  121 FINISHED
+    1.516930  121 SIL
+    2.010180  121 FUMING
+    2.121040  121 AT
+    2.210000  121 THE
+    2.510000  121 FACT
+    2.618280  121 THAT
+    2.750000  121 WE
+    2.782940  121 H#
+    2.940000  121 PAY
+    3.024230  121 AN
+    3.159540  121 EIGHT
+    3.272040  121 AND_A
+    3.462780  121 HALF
+    3.810000  121 PERCENT
+    4.090000  121 SALES
+    4.400210  121 TAX
+    4.480000  121 AND
+    4.620300  121 NO
+    4.960000  121 INCOME
+    5.334380  121 TAX
+    5.655550  121 WHEN
+    5.800000  121 ?
+    6.180000  121 INCOME
+    6.450000  121 TAX
+    6.596240  121 COULD
+    6.660000  121 HAVE
+    6.840000  121 BEEN
+    7.371160  121 DEDUCTED
+    7.580000  121 FROM
+    7.821130  121 A

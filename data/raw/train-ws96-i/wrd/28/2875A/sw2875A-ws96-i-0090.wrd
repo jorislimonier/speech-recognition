@@ -1,0 +1,19 @@
+signal 2875-A-0090
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.131248  121 h#
+    0.323418  121 NO
+    0.444174  121 THE
+    0.670000  121 AUTO
+    0.869282  121 SHOW
+    1.030292  121 THEY
+    1.239343  121 HAD
+    1.931575  121 FANTASTIC
+    2.191756  121 LOOKING
+    2.559344  121 CARS
+    2.748698  121 h#

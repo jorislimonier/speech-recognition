@@ -1,0 +1,18 @@
+signal 2565-A-0011
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 H#
+    0.574947  121 AND
+    0.867287  121 MOLLY
+    1.054920  121 MOON
+    1.176090  121 IS
+    1.210000  121 THE
+    1.660000  121 MANAGER
+    1.757220  121 OF
+    1.863470  121 THEM
+    1.948270  121 H#

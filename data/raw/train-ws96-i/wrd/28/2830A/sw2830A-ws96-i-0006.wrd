@@ -1,0 +1,17 @@
+signal 2830-A-0006
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325959  121 H#
+    0.539831  121 WELL
+    0.960270  121 BASICALLY
+    1.121230  121 I
+    1.510560  121 LIKE
+    1.639560  121 H#
+    2.080000  121 COMEDY
+    2.380240  121 SHOWS
+    2.430670  121 H#

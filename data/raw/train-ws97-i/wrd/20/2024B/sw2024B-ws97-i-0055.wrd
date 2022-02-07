@@ -1,0 +1,14 @@
+signal 2024-B-0055
+type 0
+comment created using xlabel Fri May  9 18:13:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120792  121 [BREATH]
+    0.280000  121 LIKE
+    0.410275  121 WHAT
+    0.578975  121 FOR
+    0.980000  121 EXAMPLE

@@ -1,0 +1,30 @@
+signal 2440-B-0028
+type 0
+comment created using xlabel Thu Jun 12 18:01:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.201217  121 [BREATH]
+    0.306483  121 [HESITATION]
+    0.476308  121 THE
+    0.766655  121 SEATS
+    0.988524  121 "AREN'T"
+    1.452110  121 REAL
+    2.057630  121 SOFT
+    2.165820  121 AND
+    2.730550  121 COMFORTABLE
+    2.927750  121 AND
+    3.090730  121 "THERE'S"
+    3.344100  121 ONLY
+    3.561860  121 SO
+    3.798790  121 MANY
+    4.503800  121 POSITIONS
+    4.620620  121 YOU
+    4.923490  121 CAN
+    4.969950  121 H#
+    5.229660  121 GET
+    5.579380  121 IN
+    5.927250  121 [BREATH]

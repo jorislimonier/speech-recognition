@@ -1,0 +1,35 @@
+signal 2176-B-0005
+type 0
+comment created using xlabel Wed Jun  4 14:23:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.374273  121 [STATIC]
+    0.624551  121 YOU_KNOW
+    0.810000  121 UM
+    0.979396  121 [STATIC]
+    1.119960  121 A
+    1.467950  121 PUSH
+    1.818480  121 MOWER[I]
+    2.048780  121 MEAN
+    2.129350  121 [STATIC]
+    2.304200  121 "IT'S"
+    2.756760  121 ELECTRIC
+    2.869160  121 OF
+    3.234290  121 COURSE
+    3.440000  121 UM
+    3.600730  121 [STATIC]
+    3.652160  121 ?
+    3.760150  121 [STATIC]
+    3.859840  121 I
+    4.048400  121 THINK
+    4.149540  121 "IT'S"
+    4.285060  121 NOT
+    4.467860  121 VERY
+    4.630710  121 OLD
+    4.838660  121 ABOUT
+    5.160410  121 [STATIC]
+    5.201550  121 [MOUTHNOISE]

@@ -1,0 +1,15 @@
+signal 3009-A-0034
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 h#
+    0.440000  121 OH
+    0.605565  121 I
+    0.794941  121 WOULD
+    0.995406  121 BE
+    1.161097  121 TOO
+    1.447290  121 h#

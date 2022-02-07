@@ -1,0 +1,21 @@
+signal 2830-A-0150
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060000  121 h#
+    0.207955  121 YOU
+    0.349196  121 KNOW
+    0.459920  121 I
+    0.648800  121 MEAN
+    0.698735  121 YOU'RE
+    0.854312  121 NOT
+    1.200000  121 TOTALLY
+    1.340000  121 OUT
+    1.441232  121 OF
+    1.690902  121 THE
+    2.206080  121 LOOP
+    2.296122  121 h#

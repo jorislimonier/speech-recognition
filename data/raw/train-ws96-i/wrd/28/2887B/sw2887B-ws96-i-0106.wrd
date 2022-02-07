@@ -1,0 +1,14 @@
+signal 2887-B-0106
+type 0
+comment created using xlabel Wed Aug  7 17:23:01 1996
+comment $Locker:  $
+color 121
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120327  121 h#
+    0.300215  121 AND
+    0.477704  121 THAT
+    0.633607  121 IS
+    1.127698  121 UNREAL

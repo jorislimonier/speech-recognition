@@ -1,0 +1,17 @@
+signal 3065-B-0102
+type 0
+comment created using xlabel Fri Mar 14 11:38:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 [MOUTHNOISE]
+    0.328689  121 PROBABLY
+    0.540000  121 ATE
+    0.734392  121 ALL
+    0.959698  121 YOUR
+    1.282520  121 [MOUTHNOISE]
+    2.035430  121 MERCHANDISE
+    2.248120  121 TOO_#

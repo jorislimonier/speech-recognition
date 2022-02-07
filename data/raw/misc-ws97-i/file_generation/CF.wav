@@ -1,0 +1,4 @@
+# WSJ1 MFCC Training Parameter Config File
+# Bill Byrne, 10/16/95
+ SOURCEKIND     = WAVEFORM
+ SOURCEFORMAT   = NIST

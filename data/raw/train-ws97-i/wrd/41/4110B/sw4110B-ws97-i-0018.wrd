@@ -1,0 +1,15 @@
+signal 4110-B-0018
+type 0
+comment created using xlabel Sun Jun  1 17:39:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.083392  121 SIL
+    0.154143  121 THE
+    0.213012  121 sil
+    0.400000  121 GOOD
+    0.746962  121 ONES
+    0.845257  121 [background noise]

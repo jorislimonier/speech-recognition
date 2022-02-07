@@ -1,0 +1,20 @@
+signal 2035-B-0006
+type 0
+comment created using xlabel Fri May  2 11:15:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.188618  121 [BACKGROUNDNOISE]
+    0.280000  121 WE
+    0.520000  121 TAKE
+    0.614534  121 THE
+    0.900000  121 KIDS
+    1.017780  121 TO
+    1.146570  121 THE
+    1.842940  121 PARK
+    2.090710  121 AND
+    2.355340  121 UM
+    3.200690  121 [BACKGROUNDNOISE]

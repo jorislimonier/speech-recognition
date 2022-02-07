@@ -1,0 +1,14 @@
+signal 3087-B-0058
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.334673  121 h#
+    0.488868  121 IT'S
+    0.690201  121 REALLY
+    0.789400  125 h#
+    1.464344  121 OUTSTANDING
+    1.586617  125 h#

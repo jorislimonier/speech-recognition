@@ -1,0 +1,18 @@
+signal 4380-B-0044
+type 0
+comment created using xlabel Fri Apr  4 15:24:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.293652  121 H#
+    0.470000  121 WANTED_TO
+    0.602297  121 GET
+    0.741187  121 SOME
+    0.946555  121 KIND_OF
+    1.610000  121 MOTIVATION
+    1.870860  121 TO
+    2.161030  121 LEARN
+    2.270000  121 AND

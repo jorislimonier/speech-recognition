@@ -1,0 +1,18 @@
+signal 4831-A-0010
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340290  121 h#
+    0.510669  121 IS
+    0.616182  121 TO
+    0.780000  121 BE
+    0.882560  121 IN
+    0.950000  121 A
+    1.740000  121 SITUATION
+    2.236139  121 WHERE
+    2.887059  121 YOU
+    3.045469  125 h#

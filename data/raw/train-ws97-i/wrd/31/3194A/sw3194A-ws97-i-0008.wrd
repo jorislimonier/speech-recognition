@@ -1,0 +1,20 @@
+signal 3194-A-0008
+type 0
+comment created using xlabel Wed Apr 30 13:40:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310672  121 H#
+    0.538750  121 AND
+    0.908606  121 "THAT'S"
+    1.022640  121 [FALSESTART]
+    1.210000  121 ONE
+    1.363220  121 THING
+    1.514240  121 THAT
+    1.949450  121 STARTED
+    2.090000  121 IN
+    2.186780  121 THE
+    2.870000  121 COMMUNITY

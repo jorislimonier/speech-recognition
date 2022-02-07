@@ -1,0 +1,14 @@
+signal 4633-A-0030
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145808  121 h#
+    0.229034  121 WELL
+    0.300000  121 YOU
+    0.575228  121 CAN'T
+    1.087753  121 AFFORD
+    1.408653  121 TO_#

@@ -1,0 +1,19 @@
+signal 3192-A-0027
+type 0
+comment created using xlabel Wed May 14 15:17:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 SIL
+    0.498200  121 AS
+    0.592257  121 H#
+    0.793126  121 THE
+    1.200000  121 INCOME
+    1.691000  121 TAX
+    1.931720  121 "WHAT'S"
+    2.210000  121 NOT
+    2.637530  121 FAIR
+    2.927810  121 [BREATH]

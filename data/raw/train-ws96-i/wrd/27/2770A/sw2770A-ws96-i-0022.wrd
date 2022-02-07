@@ -1,0 +1,14 @@
+signal 2770-A-0022
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.212347  121 h#
+    0.449072  121 KIND
+    0.510160  121 OF
+    1.032324  121 TRAVELED
+    1.527103  121 h#
+    1.529996  121 h#

@@ -1,0 +1,29 @@
+signal 2552-B-0101
+type 0
+comment created using xlabel Wed May 21 15:55:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 [BREATH]
+    0.693950  121 MY
+    0.975289  121 UH
+    1.311890  121 YOUNGEST
+    1.670000  121 "SISTER'S"
+    1.726560  121 AT
+    1.910000  121 B
+    2.126800  121 Y
+    2.285890  121 U
+    2.629190  121 NOW
+    2.877040  121 [BREATH]
+    2.977520  121 AND
+    3.210000  121 SO
+    3.357660  121 THEY
+    3.590000  121 HAS_?
+    3.750000  121 NO
+    3.850000  121 ONE
+    3.960000  121 AT
+    4.296960  121 HOME
+    4.600060  121 H#

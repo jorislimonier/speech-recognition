@@ -1,0 +1,18 @@
+signal 2879-A-0133
+type 0
+comment created using xlabel Thu Jun 12 18:47:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050781  121 false start
+    0.176543  121 false start
+    0.270712  121 SIL
+    0.839966  121 INTANGIBLE
+    1.160000  121 THINGS
+    1.281645  121 AND
+    1.410000  121 YOU_ARE
+    1.770838  121 THINKING
+    1.923939  121 [breath]

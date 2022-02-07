@@ -1,0 +1,18 @@
+signal 4785-A-0013
+type 0
+comment created using xlabel Mon Jun 30 18:10:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125572  121 [mouthnoise]
+    0.339974  121 SO_IT
+    0.510000  121 WAS
+    0.610783  121 AN
+    0.990074  121 HOUR
+    1.250175  121 sil
+    1.388450  121 YOU
+    1.560442  121 KNOW
+    1.704011  121 [sil]

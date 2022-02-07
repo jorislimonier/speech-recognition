@@ -1,0 +1,22 @@
+signal 3163-A-0020
+type 0
+comment created using xlabel Thu May  8 15:18:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.106662  121 H#
+    0.419885  121 THESE
+    0.767222  121 DAYS
+    0.844752  121 "THEY'RE"
+    1.298510  121 TRYING
+    1.450470  121 "THEY'RE"
+    1.804010  121 WORKING
+    1.900140  121 THEIR
+    2.090000  121 WAY_!
+    2.472640  121 BACK
+    2.810670  121 INTO
+    2.906300  121 THE
+    3.571510  121 HOUSE

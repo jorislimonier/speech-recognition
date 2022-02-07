@@ -1,0 +1,15 @@
+signal 2617-A-0038
+type 0
+comment created using xlabel Thu Jul  3 15:25:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120290  121 [MECHNOISE]
+    0.269982  121 THAT
+    0.403591  121 WE
+    0.580500  121 "DON'T"
+    0.783389  121 GET
+    1.290610  121 FIXED

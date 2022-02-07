@@ -1,0 +1,30 @@
+signal 4155-B-0071
+type 0
+comment created using xlabel Thu Mar 20 15:01:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.650851  121 [BREATH]
+    0.814246  121 DO
+    1.056310  121 YOU
+    1.258030  121 HAVE
+    1.411340  121 YOU
+    1.824870  121 USED
+    2.192280  121 UM
+    2.319360  121 [STATIC]
+    2.650000  121 STUDENT
+    2.909960  121 LOANS
+    3.036010  121 AND
+    3.223370  121 THINGS
+    3.374850  121 LIKE
+    3.590750  121 THAT
+    3.772350  121 THAT
+    3.909690  121 [MOUTHNOISE]
+    4.040810  121 WERE
+    4.441210  121 GUARANTEED
+    4.549150  121 BY
+    4.643960  121 THE
+    4.988900  121 GOVERNMENT

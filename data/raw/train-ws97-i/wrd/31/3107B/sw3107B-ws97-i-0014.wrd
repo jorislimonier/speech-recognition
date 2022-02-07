@@ -1,0 +1,16 @@
+signal 3107-B-0014
+type 0
+comment created using xlabel Wed Jun 11 16:05:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [mouth noise]
+    0.513724  121 OUR
+    0.800770  121 HEALTH
+    1.169580  121 PLAN
+    1.381820  121 AND
+    1.632333  121 UH
+    1.827176  121 [breath]

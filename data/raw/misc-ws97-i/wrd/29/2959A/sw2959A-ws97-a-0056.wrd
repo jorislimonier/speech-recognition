@@ -1,0 +1,27 @@
+signal 2959-A-0056
+type 0
+comment created using xlabel Tue Feb 18 16:16:50 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 [STATIC]
+    0.467602  121 THEY
+    0.571169  121 [STATIC]
+    0.872071  121 "DIDN'T"
+    1.150580  121 SIL
+    1.311530  121 THEY
+    1.560000  121 "DIDN'T"
+    1.907740  121 WIN
+    2.018300  121 THEY
+    2.270000  121 "DIDN'T"
+    2.690000  121 REGAIN
+    2.900000  121 ANY
+    2.960000  121 OF
+    3.070000  121 THE
+    3.442270  121 LAND
+    3.558430  121 THAT
+    3.760000  121 THEY
+    4.200000  121 HAD

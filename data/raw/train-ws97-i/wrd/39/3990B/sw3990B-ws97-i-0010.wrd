@@ -1,0 +1,21 @@
+signal 3990-B-0010
+type 0
+comment created using xlabel Wed Jul  2 17:00:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.323029  121 [BREATH]
+    0.496439  121 "IT'S"
+    0.715033  121 "IT'S"
+    0.918973  121 "IT'S"
+    1.030100  121 SO
+    1.275560  121 MUCH
+    1.383580  121 h#
+    1.675470  121 BETTER
+    1.964840  121 TO
+    2.174890  121 TO
+    2.533440  121 RENT
+    3.224020  121 [BREATH]

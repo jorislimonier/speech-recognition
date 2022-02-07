@@ -1,0 +1,29 @@
+signal 3489-A-0008
+type 0
+comment created using xlabel Tue Apr 29 14:42:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.328676  121 [BREATH]
+    0.533974  121 ALONG
+    0.706160  121 WITH
+    0.785458  121 YOUR
+    1.271280  121 GARBAGE
+    1.701750  121 CAN
+    1.849460  121 SIL
+    2.293170  121 UH
+    2.491850  121 SIL
+    2.619890  121 YOU
+    2.827390  121 CAN
+    2.997370  121 PUT
+    3.251740  121 OUT
+    3.459790  121 H#
+    4.123700  121 NEWSPAPER
+    4.223240  121 YOU
+    4.424120  121 CAN
+    4.600720  121 PUT
+    4.823680  121 OUT
+    5.181300  121 [BREATH]

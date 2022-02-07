@@ -1,0 +1,22 @@
+signal 3688-A-0051
+type 0
+comment created using xlabel Sat Jun 28 17:59:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132759  121 sil
+    0.400870  121 UH
+    0.615196  121 WELL
+    0.948902  121 [mumble]
+    1.170000  121 FROM
+    1.295416  121 MY
+    1.437833  121 NECK
+    1.533789  121 OF
+    1.610000  121 THE
+    1.849843  121 WOODS
+    2.030000  121 IT'S
+    2.414718  121 HILLY
+    2.480974  121 [static]

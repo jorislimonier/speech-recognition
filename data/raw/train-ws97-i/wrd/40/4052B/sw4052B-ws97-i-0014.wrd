@@ -1,0 +1,19 @@
+signal 4052-B-0014
+type 0
+comment created using xlabel Thu Jun 26 11:41:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.152336  121 [breath]
+    0.311950  121 SIL
+    0.713905  121 MORE
+    1.005647  121 [mouth noise]
+    1.446273  121 ORIENTED
+    2.094945  121 TOWARDS
+    2.532429  121 FUN
+    2.678299  121 FOR
+    2.827412  121 THE
+    3.405107  121 KIDS_#

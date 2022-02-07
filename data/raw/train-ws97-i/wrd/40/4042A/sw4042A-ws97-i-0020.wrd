@@ -1,0 +1,19 @@
+signal 4042-A-0020
+type 0
+comment created using xlabel Wed Jun 11 14:01:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050200  121 SIL
+    0.432998  121 NON
+    0.740000  121 NON
+    1.155694  121 COLORED
+    1.304193  121 OR
+    1.722597  121 NON
+    2.290000  121 FILM
+    2.483243  121 TYPE
+    2.900000  121 PAPER
+    3.155216  121 JUST

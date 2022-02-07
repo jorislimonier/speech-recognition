@@ -1,0 +1,21 @@
+signal 2110-B-0080
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.283717  121 H#
+    0.419654  121 HOW
+    0.456252  121 DID
+    0.612807  121 I
+    0.718885  121 GET
+    0.967055  121 INTO
+    1.043880  121 IT
+    1.250070  121 OH
+    1.413790  121 I'M
+    1.595870  121 A
+    1.872540  121 ELECTRICAL
+    2.417660  121 ENGINEER
+    2.748120  121 H#

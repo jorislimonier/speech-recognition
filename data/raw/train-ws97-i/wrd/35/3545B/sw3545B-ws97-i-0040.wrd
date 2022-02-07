@@ -1,0 +1,17 @@
+signal 3545-B-0040
+type 0
+comment created using xlabel Fri Jun 27 11:45:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.102880  121 h#
+    0.212746  121 THE
+    0.441634  121 CAR
+    1.060000  121 PAYMENTS
+    1.160000  121 AND
+    1.245488  121 THE
+    1.830000  121 GAS
+    1.928489  121 [crosstalk]

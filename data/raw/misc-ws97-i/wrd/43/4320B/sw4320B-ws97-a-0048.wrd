@@ -1,0 +1,19 @@
+signal 4320-B-0048
+type 0
+comment created using xlabel Mon Mar 10 16:08:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.345990  121 [STATIC]
+    0.438721  121 THE
+    0.578359  121 OTHER
+    0.889251  121 SOCIAL
+    1.281560  121 PROBLEMS_?
+    1.650730  121 "WOULDN'T"
+    1.910780  121 [BREATH]
+    2.138090  121 "WOULDN'T"
+    2.399300  121 GO
+    2.704540  121 AWAY

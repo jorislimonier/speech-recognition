@@ -1,0 +1,13 @@
+signal 2887-B-0132
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327925  121 h#
+    0.970832  121 EMPOWERMENT
+    1.020884  121 h#
+    1.460447  121 ISSUE
+    2.031801  121 h#

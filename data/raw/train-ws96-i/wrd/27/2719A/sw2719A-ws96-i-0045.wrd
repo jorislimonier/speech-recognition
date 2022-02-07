@@ -1,0 +1,14 @@
+signal 2719-A-0045
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.255148  121 H#
+    0.597452  121 CLOSE
+    0.69233  121 TO
+    1.24828  121 METHODIST
+    1.85505  121 HOSPITAL
+    1.96853  121 h#

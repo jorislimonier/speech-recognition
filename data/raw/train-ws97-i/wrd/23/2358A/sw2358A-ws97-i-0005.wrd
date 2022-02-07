@@ -1,0 +1,20 @@
+signal 2358-A-0005
+type 0
+comment created using xlabel Mon Apr  7 17:07:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.028000  121 H#
+    0.188000  121 BUT
+    0.316000  121 [MOUTHNOISE]
+    0.560000  121 WORKING
+    0.720000  121 WITH
+    1.217810  121 FLOWERS
+    1.318460  121 AND
+    1.541490  121 STUFF
+    1.725990  121 LIKE
+    1.939820  121 THAT
+    2.082730  121 [MOUTHNOISE]

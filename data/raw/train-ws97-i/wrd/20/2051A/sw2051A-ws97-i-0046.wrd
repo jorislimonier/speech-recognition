@@ -1,0 +1,24 @@
+signal 2051-A-0046
+type 0
+comment created using xlabel Wed Apr 16 11:48:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.099639  121 [FILLEDPAUSE]
+    0.133796  121 [MOUTHNOISE]
+    0.349668  121 OH
+    0.819667  121 "I'M"
+    1.021880  121 [STATIC]
+    1.608930  121 I_AGREE
+    1.901310  121 VERY
+    2.159540  121 MUCH
+    2.450000  121 SO
+    2.580000  121 ON
+    2.901420  121 THAT
+    3.070830  121 I
+    3.402840  121 [CROSSTALK]
+    3.750000  121 YEAH
+    3.966910  121 [CROSSTALK]

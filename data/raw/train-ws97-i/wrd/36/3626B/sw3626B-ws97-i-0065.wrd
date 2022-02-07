@@ -1,0 +1,19 @@
+signal 3626-B-0065
+type 0
+comment created using xlabel Fri Apr 25 16:31:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123388  121 H#
+    0.471283  121 ENTERING
+    0.733168  121 BAD
+    1.387740  121 INFORMATION
+    1.490000  121 OF
+    1.670000  121 ONE
+    1.957720  121 SORT
+    2.080000  121 OR
+    2.570590  121 ANOTHER
+    2.687410  121 AND

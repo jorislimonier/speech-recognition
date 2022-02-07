@@ -1,0 +1,18 @@
+signal 2104-A-0011
+type 0
+comment created using xlabel Wed Apr  2 15:05:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.129861  121 SIL
+    0.326204  121 AND
+    0.506185  121 THEY
+    0.878733  121 HAVE
+    1.314500  121 A
+    1.630690  121 A
+    1.793750  121 H#
+    2.600000  121 PROBLEM
+    2.919900  121 THEIR

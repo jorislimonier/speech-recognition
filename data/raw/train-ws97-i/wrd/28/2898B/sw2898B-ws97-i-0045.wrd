@@ -1,0 +1,20 @@
+signal 2898-B-0045
+type 0
+comment created using xlabel Tue May 13 14:58:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.206146  121 [BREATH]
+    0.380752  121 SOME[OF]
+    0.521995  121 THE
+    0.907178  121 TEAMS
+    0.982006  121 THAT
+    1.384510  121 JUST
+    1.620350  121 H#
+    1.806950  121 RUN
+    1.918290  121 AND
+    2.287600  121 GUN
+    2.424950  121 [BREATH]

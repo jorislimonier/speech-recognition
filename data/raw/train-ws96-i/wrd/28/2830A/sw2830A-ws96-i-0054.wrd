@@ -1,0 +1,10 @@
+signal 2830-A-0054
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.009680  121 h#
+    0.461792  121 DOWNTOWN

@@ -1,0 +1,16 @@
+signal 2308-A-0068
+type 0
+comment created using xlabel Wed Mar 26 18:45:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.143584  121 [BREATH]
+    0.419167  121 "IT'S"
+    0.780147  121 REALLY
+    1.000330  121 [STATIC]
+    1.251390  121 "IT'S"
+    1.712610  121 BAD
+    2.245600  121 THING

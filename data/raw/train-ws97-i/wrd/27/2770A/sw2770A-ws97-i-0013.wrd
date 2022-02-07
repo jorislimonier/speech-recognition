@@ -1,0 +1,15 @@
+signal 2770-A-0013
+type 0
+comment created using xlabel Mon Jul  7 13:40:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319309  121 [MECHNOISE]
+    0.469611  121 BUT
+    0.654222  121 THEY
+    1.026710  121 JUST
+    1.464550  121 UM
+    1.727580  121 [MECHNOISE]

@@ -1,0 +1,20 @@
+signal 2276-A-0034
+type 0
+comment created using xlabel Wed Apr  9 16:12:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.153160  121 [MOUTHNOISE]
+    0.350198  121 HOW
+    0.571175  121 DOES
+    0.690000  121 IT
+    0.845555  121 HOW
+    0.983666  121 DOES
+    1.313290  121 COMPARE_HAVE
+    1.464290  121 YOU
+    1.596880  121 H#
+    1.740510  121 CAN
+    1.834430  121 YOU

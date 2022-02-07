@@ -1,0 +1,12 @@
+signal 3825-A-0052
+type 0
+comment created using xlabel Wed Apr  9 16:22:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.231672  121 [STATIC]
+    0.886810  121 "HUSBAND'S"
+    1.223670  121 [BREATH]

@@ -1,0 +1,14 @@
+signal 2818-B-0018
+type 0
+comment created using xlabel Thu Jun 12 16:37:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.336084  121 BY_#
+    0.820000  121 TRADING
+    1.414928  121 SERVICES
+    1.540534  121 WITH
+    1.736688  121 THEM

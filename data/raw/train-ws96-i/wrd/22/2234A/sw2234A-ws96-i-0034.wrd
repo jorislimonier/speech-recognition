@@ -1,0 +1,14 @@
+signal 2234-A-0034
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324286  121 H#
+    0.425429  121 AND
+    0.599620  121 THAT'S
+    0.760214  121 NOT
+    1.050270  121 FAIR
+    1.186250  121 H#

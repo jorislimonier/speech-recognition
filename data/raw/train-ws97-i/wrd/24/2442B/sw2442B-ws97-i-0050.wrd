@@ -1,0 +1,20 @@
+signal 2442-B-0050
+type 0
+comment created using xlabel Thu Mar 20 18:14:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.339215  121 [BACKGROUNDNOISE]
+    0.417640  121 AND
+    0.561261  121 I
+    0.896693  121 USUALLY
+    0.989291  121 DO
+    1.070550  121 IT
+    1.289260  121 BECAUSE
+    1.461490  121 I
+    1.730000  121 WANT
+    2.156920  121 TO
+    2.466350  121 [BACKGROUNDNOISE]

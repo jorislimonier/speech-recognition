@@ -1,0 +1,15 @@
+signal 3052-B-0002
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.465762  121 h#
+    1.139653  121 SELECTING
+    1.480000  121 CARE
+    1.706589  121 FOR
+    1.845696  121 THE
+    2.434122  121 ELDERLY
+    2.549115  125 h#

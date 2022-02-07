@@ -1,0 +1,19 @@
+signal 2051-B-0183
+type 0
+comment created using xlabel Fri Jun  6 12:31:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.155941  121 IN_#
+    0.270000  121 IN
+    0.383053  121 A
+    0.784497  121 OFFICE
+    1.629480  121 SITUATION
+    2.114620  121 [BREATH]
+    2.400000  121 WHERE
+    2.597630  121 HER
+    3.077450  121 JOB
+    3.352540  121 IS

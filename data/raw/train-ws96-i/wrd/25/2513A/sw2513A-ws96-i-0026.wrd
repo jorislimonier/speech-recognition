@@ -1,0 +1,13 @@
+signal 2513-A-0026
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.315251  121 H#
+    0.435967  121 THAT
+    0.618437  121 NEEDED
+    1.285060  121 REPLACING
+    1.590000  121 H#

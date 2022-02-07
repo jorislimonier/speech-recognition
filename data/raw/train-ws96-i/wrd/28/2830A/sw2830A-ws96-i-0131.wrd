@@ -1,0 +1,21 @@
+signal 2830-A-0131
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SOME_#
+    0.195278  121 OF
+    0.310000  121 THOSE
+    0.637871  121 PEOPLE
+    0.813895  121 THEY
+    1.040000  121 REALLY
+    1.190932  121 HAVE
+    1.333676  121 SOME
+    1.590125  121 FUNNY
+    2.068650  121 CHARACTERS
+    2.260000  121 ON
+    2.488625  121 THERE
+    2.538586  121 h#

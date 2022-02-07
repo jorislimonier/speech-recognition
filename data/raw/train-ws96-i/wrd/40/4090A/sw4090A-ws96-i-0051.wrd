@@ -1,0 +1,12 @@
+signal 4090-A-0051
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.342280  121 h#
+    0.650000  121 WRITE
+    1.065088  121 DOWN
+    1.387510  125 h#

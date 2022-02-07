@@ -1,0 +1,14 @@
+signal 4697-B-0025
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.280715  121 h#
+    0.800408  121 PARTIES
+    0.858624  125 h#
+    1.288703  121 WANTS
+    1.495579  121 ONE
+    1.606512  125 h#

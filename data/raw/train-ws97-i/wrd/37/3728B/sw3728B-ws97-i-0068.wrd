@@ -1,0 +1,18 @@
+signal 3728-B-0068
+type 0
+comment created using xlabel Fri May  2 15:50:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 SIL
+    0.422378  121 WELL
+    0.730000  121 YEAH
+    0.938675  121 I
+    1.075170  121 "DON'T"
+    1.170120  121 H#
+    1.312550  121 I
+    1.629620  121 "DON'T"
+    1.860000  121 UH

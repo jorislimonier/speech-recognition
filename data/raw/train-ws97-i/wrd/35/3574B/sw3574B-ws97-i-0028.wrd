@@ -1,0 +1,14 @@
+signal 3574-B-0028
+type 0
+comment created using xlabel Thu May 15 16:31:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125359  121 H#
+    0.280000  121 IN
+    0.482600  121 ALL
+    0.576611  121 OF
+    1.699610  121 WISCONSIN

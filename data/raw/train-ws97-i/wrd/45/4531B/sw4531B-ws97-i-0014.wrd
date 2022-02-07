@@ -1,0 +1,18 @@
+signal 4531-B-0014
+type 0
+comment created using xlabel Wed Jun 25 11:40:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.072578  121 [crosstalk]
+    0.297741  121 ?
+    0.469186  121 DO
+    0.684063  121 MANY
+    0.935514  121 PEOPLE
+    1.141248  121 LISTEN
+    1.198630  121 TO
+    1.500000  121 COUNTRY
+    1.899266  121 MUSIC

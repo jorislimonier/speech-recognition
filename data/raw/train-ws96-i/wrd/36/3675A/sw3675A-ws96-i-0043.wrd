@@ -1,0 +1,15 @@
+signal 3675-A-0043
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123675  121 h#
+    0.238821  121 I'M
+    0.388253  121 INTO
+    0.880605  121 COMPUTERS
+    1.073072  121 TOO
+    1.213447  121 I
+    1.369348  121 h#

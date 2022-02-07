@@ -1,0 +1,12 @@
+signal 4013-A-0010
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.315107  121 h#
+    0.664282  121 LET'S
+    1.164416  121 SEE
+    1.387573  125 h#

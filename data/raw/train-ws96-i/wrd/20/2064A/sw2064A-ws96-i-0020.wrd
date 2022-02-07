@@ -1,0 +1,13 @@
+signal 2064-A-0020
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 H#
+    0.393282  121 IT'S
+    0.688424  121 REALLY
+    1.198410  121 SAD
+    1.394150  121 H#

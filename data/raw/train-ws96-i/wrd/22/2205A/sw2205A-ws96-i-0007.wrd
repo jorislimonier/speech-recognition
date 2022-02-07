@@ -1,0 +1,16 @@
+signal 2205-A-0007
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 H#
+    0.382838  121 WELL
+    0.595215  121 NOT
+    0.739526  121 IN
+    0.775210  121 THE
+    1.314000  121 MORNING
+    1.641500  121 BUT
+    2.104000  121 H#

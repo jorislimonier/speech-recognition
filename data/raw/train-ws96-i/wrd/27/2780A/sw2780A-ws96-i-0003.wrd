@@ -1,0 +1,15 @@
+signal 2780-A-0003
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.850000  121 H#
+    1.006150  121 THE
+    1.460000  121 POLITICAL
+    1.789780  121 VIEWS
+    1.917900  121 ARE
+    2.207370  121 REALLY
+    2.704810  121 DIFFERENT_#

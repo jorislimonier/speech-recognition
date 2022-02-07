@@ -1,0 +1,33 @@
+signal 4448-B-0056
+type 0
+comment created using xlabel Sat Jul 19 17:28:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.128346  121 h#
+    0.405557  121 ow y_co
+    0.473952  121 y ih
+    0.731103  121 ah
+    0.894755  121 iy
+    1.099428  121 y_on ah
+    1.312982  121 dh ae w_co
+    1.477995  121 w uh z
+    1.804203  121 z_on r ih l_co
+    2.126651  121 l iy
+    2.350447  121 y_on ah
+    2.564235  121 er
+    2.678965  121 h#
+    2.885287  121 ay
+    3.109082  121 g ih s
+    3.171540  121 dh eh
+    3.310000  121 m ey
+    3.434287  121 b iy
+    3.622558  121 b aw_cr
+    3.818733  121 th r iy
+    4.017423  121 f iy t
+    4.079745  121 h#
+    4.269301  121 l ao_n
+    4.584456  121 h#

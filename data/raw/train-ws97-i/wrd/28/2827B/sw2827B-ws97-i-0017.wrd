@@ -1,0 +1,17 @@
+signal 2827-B-0017
+type 0
+comment created using xlabel Fri Mar 14 17:44:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.309496  121 ?_#
+    0.566501  121 HOMEMADE
+    1.030400  121 PASTA
+    1.380000  121 OR
+    1.998720  121 LASAGNA
+    2.082770  121 OR
+    2.532130  121 SOMETHING
+    2.632340  121 SIL

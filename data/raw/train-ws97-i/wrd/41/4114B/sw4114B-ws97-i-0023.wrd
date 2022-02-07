@@ -1,0 +1,17 @@
+signal 4114-B-0023
+type 0
+comment created using xlabel Wed Jun  4 14:03:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.329295  121 [static]
+    0.674157  121 OF
+    0.986352  121 UH
+    1.230182  121 THE
+    1.621716  121 UH
+    1.963109  121 [static]
+    2.476733  121 FREON
+    2.586795  121 [static]

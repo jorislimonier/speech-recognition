@@ -1,0 +1,17 @@
+signal 2233-A-0052
+type 0
+comment created using xlabel Mon May 26 17:52:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.292124  121 [BREATH]
+    0.332421  121 H#
+    0.649761  121 LACKING
+    0.767630  121 IN
+    0.947959  121 SOME
+    1.120000  121 VERY
+    1.609430  121 SPECIFIC
+    2.153110  121 AREAS

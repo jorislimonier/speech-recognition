@@ -1,0 +1,16 @@
+signal 3186-A-0042
+type 0
+comment created using xlabel Wed Jun  4 13:50:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 [mouth noise]
+    0.443179  121 OKAY
+    0.607717  121 "I'VE"
+    0.775966  121 BEEN
+    0.968957  121 THERE
+    1.220094  121 [breath]
+    1.307930  121 [static]

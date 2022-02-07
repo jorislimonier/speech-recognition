@@ -1,0 +1,16 @@
+signal 2911-A-0021
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.255019  121 h#
+    0.388688  121 IT'S
+    0.606652  121 NOT
+    0.855480  121 JUST
+    0.955867  121 h#
+    1.353854  121 MEDICAL
+    2.025244  121 INSURANCE
+    2.129409  121 h#

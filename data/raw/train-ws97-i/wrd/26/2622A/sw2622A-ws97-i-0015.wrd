@@ -1,0 +1,20 @@
+signal 2622-A-0015
+type 0
+comment created using xlabel Wed Jun 18 12:53:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335039  121 [breath]
+    0.535359  121 OUT
+    0.683142  121 THERE
+    0.754810  121 TO
+    1.334982  121 PLEASE
+    1.444191  121 THE
+    1.935618  121 SPECIAL
+    2.437308  121 INTEREST
+    2.833190  121 GROUPS
+    3.017479  121 AS
+    3.502093  121 WELL

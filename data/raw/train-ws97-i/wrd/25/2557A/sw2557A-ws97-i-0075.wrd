@@ -1,0 +1,15 @@
+signal 2557-A-0075
+type 0
+comment created using xlabel Mon Jun 30 17:46:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130698  121 [BREATH]
+    0.671601  121 YES
+    0.907941  121 UHHUH
+    1.145500  121 THEY
+    1.221030  121 [CROSSTALK]
+    1.289250  121 [STATIC]

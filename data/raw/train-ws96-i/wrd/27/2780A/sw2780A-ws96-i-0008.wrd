@@ -1,0 +1,26 @@
+signal 2780-A-0008
+type 0
+comment created using xlabel Sat Jun 21 18:31:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 H#
+    0.478633  121 YEAH
+    0.653356  121 WELL
+    1.006300  121 BEING
+    1.137270  121 IN
+    1.420960  121 IN
+    1.664990  121 IN
+    2.102030  121 BALTIMORE
+    2.151660  121 H#
+    2.340540  121 SEE
+    3.100000  121 MARYLAND
+    3.316650  121 IS
+    4.054680  121 H#
+    4.341440  121 IS
+    4.573060  121 SORT
+    4.673700  121 [OF]
+    4.949440  121 H#

@@ -1,0 +1,15 @@
+signal 2460-B-0012
+type 0
+comment created using xlabel Fri Apr 18 13:39:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.318892  121 SIL
+    0.490000  121 OF
+    0.696441  121 ONE
+    0.998481  121 RUN
+    1.594530  121 GAMES
+    1.686100  121 H#

@@ -1,0 +1,15 @@
+signal 2815-A-0029
+type 0
+comment created using xlabel Tue Jun 17 18:21:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 [hum]
+    0.500000  121 THOSE
+    0.773161  121 CLEAR
+    1.213140  121 PLASTIC
+    1.590495  121 BOTTLES
+    1.690052  121 [crosstalk]

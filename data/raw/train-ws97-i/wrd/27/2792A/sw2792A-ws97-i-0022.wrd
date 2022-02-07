@@ -1,0 +1,13 @@
+signal 2792-A-0022
+type 0
+comment created using xlabel Mon Mar 24 15:32:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.065384  121 SIL
+    0.103159  121 [MOUTHNOISE]
+    0.321546  121 SIL
+    1.248210  121 DOCTORS_#

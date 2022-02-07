@@ -1,0 +1,17 @@
+signal 3903-B-0017
+type 0
+comment created using xlabel Tue Apr 29 14:33:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.126651  121 UH_#
+    0.483783  121 [STATIC]
+    0.748926  121 NEVER
+    0.952744  121 DID
+    1.089830  121 GET
+    1.270190  121 OUT
+    1.358580  121 AND
+    1.755390  121 SKI

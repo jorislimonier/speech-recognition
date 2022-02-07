@@ -1,0 +1,24 @@
+signal 4014-A-0018
+type 0
+comment created using xlabel Fri Nov  1 13:20:36 1996
+comment $Locker:  $
+color 121
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.355278  121 H#
+    0.435617  121 I
+    0.557050  121 DON'T
+    0.920492  121 UNDERSTAND
+    0.966640  121 HOW
+    1.100000  121 OUR
+    1.376336  121 GOVERNMENT
+    1.579310  121 CAN
+    1.778360  121 h#
+    2.137072  121 CAN
+    2.223284  121 h#
+    2.951080  121 ENCOURAGE
+    3.247783  121 DRUG
+    3.683967  121 TESTING
+    4.006671  121 h#

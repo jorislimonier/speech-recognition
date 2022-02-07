@@ -1,0 +1,15 @@
+signal 2921-B-0100
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.499743  121 h#
+    0.674336  121 IN
+    0.711788  121 THE
+    0.976317  121 MOUNT
+    1.477884  121 LEBANON
+    1.980000  121 AREA
+    2.126000  121 h#

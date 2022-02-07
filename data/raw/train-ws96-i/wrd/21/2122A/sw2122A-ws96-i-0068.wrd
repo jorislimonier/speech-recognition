@@ -1,0 +1,20 @@
+signal 2122-A-0068
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.202029  121 AND_#
+    0.367533  121 THEN
+    0.520000  121 GO
+    1.010145  121 BACK
+    1.396265  121 h#
+    1.456982  121 AND
+    1.680000  121 SEE
+    1.778197  121 IF
+    2.001614  121 THAT
+    2.350000  121 WORKED
+    2.440000  121 OR
+    2.827175  121 NOT_#

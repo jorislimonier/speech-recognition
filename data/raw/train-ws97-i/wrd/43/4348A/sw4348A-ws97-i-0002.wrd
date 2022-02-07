@@ -1,0 +1,37 @@
+signal 4348-A-0002
+type 0
+comment created using xlabel Mon Jul 14 15:38:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.141088  121 SIL
+    0.272903  121 FOR
+    0.566411  121 FORMER
+    0.694711  121 [FALSESTART]
+    0.879644  121 RIGHT
+    1.163990  121 RIGHT
+    1.357310  121 [FALSESTART]
+    1.622220  121 [BREATH]
+    1.678630  121 WE
+    1.787430  121 CAN
+    1.955270  121 SAY
+    2.153660  121 THE
+    2.349620  121 THE
+    2.564290  121 THE
+    2.662710  121 [STATIC]
+    2.812100  121 THE
+    3.030040  121 SOON
+    3.110000  121 TO
+    3.240000  121 BE
+    3.693990  121 FORMER
+    4.072740  121 [BREATH]
+    4.214250  121 UH
+    4.731940  121 COMMONWEALTH
+    4.802240  121 OF
+    5.280370  121 INDEPENDENT
+    5.721240  121 STATES
+    6.134260  121 INSTEAD
+    6.423110  121 [BREATH]

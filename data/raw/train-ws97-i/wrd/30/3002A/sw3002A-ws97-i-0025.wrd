@@ -1,0 +1,24 @@
+signal 3002-A-0025
+type 0
+comment created using xlabel Wed Apr 23 14:34:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 2
+#
+    0.131953  121 [SAME]?_#
+    0.321180  121 THING
+    0.470000  121 WITH
+    0.560000  121 THE
+    0.847411  121 NEWS
+    1.627750  121 MAGAZINES
+    1.908500  121 LIKE
+    2.359040  121 TIME
+    2.658200  121 AND
+    2.932120  121 [MOUTHNOISE]
+    3.088640  121 AND
+    3.151720  121 THE
+    3.290000  121 OTHER
+    4.016750  121 MAGAZINES
+    4.142370  121 [CROSSTALK]

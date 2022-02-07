@@ -1,0 +1,19 @@
+signal 3956-B-0032
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320064  121 h#
+    1.165434  121 COMPENSATION
+    1.279353  121 BUT
+    1.335610  121 OF
+    1.588614  121 COURSE
+    1.750000  121 THAT
+    1.952332  121 IS
+    2.414383  121 RESTRICTED
+    2.780177  121 CHOICE
+    3.050723  121 SO
+    3.185094  125 h#

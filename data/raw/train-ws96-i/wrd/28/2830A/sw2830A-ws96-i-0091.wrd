@@ -1,0 +1,17 @@
+signal 2830-A-0091
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.354000  121 h#
+    0.713528  121 YEAH
+    0.814000  121 I
+    1.116444  121 SAW
+    1.333852  121 h#
+    1.715453  121 RERUNS
+    1.906597  121 OF
+    2.120904  121 HER
+    2.141142  121 h#

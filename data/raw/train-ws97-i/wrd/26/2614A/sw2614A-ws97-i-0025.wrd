@@ -1,0 +1,28 @@
+signal 2614-A-0025
+type 0
+comment created using xlabel Thu Mar  6 13:41:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.009979  121 TRUNCATED
+    0.275309  121 UH
+    0.490000  121 NOT
+    0.610946  121 THAT
+    0.790000  121 WE
+    1.200000  121 CAN
+    1.424930  121 UH
+    1.551240  121 SIL
+    1.910740  121 SELL
+    2.056650  121 ANY
+    2.300000  121 GREAT
+    2.742710  121 PROGRAM
+    2.875000  121 WE
+    3.040000  121 HAVE
+    3.201370  121 WITH
+    3.534830  121 CRIME
+    3.761300  121 BUT
+    3.910780  121 UH
+    4.160410  121 [BACKGROUNDNOISE]

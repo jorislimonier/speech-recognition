@@ -1,0 +1,22 @@
+signal 3725-A-0015
+type 0
+comment created using xlabel Thu Jun 12 21:04:56 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 h#
+    0.410000  121 THE
+    0.629696  121 DAY
+    0.745162  121 IT
+    1.170000  121 HAPPENS
+    1.270000  121 IS
+    1.515970  121 NINETY
+    1.640000  121 EIGHT
+    1.927011  121 PERCENT
+    1.969140  121 OF
+    2.020000  121 THE
+    2.388871  121 PLANNING
+    2.799241  121 USUALLY

@@ -1,0 +1,23 @@
+signal 4443-A-0023
+type 0
+comment created using xlabel Wed Jun 11 13:48:56 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 [static]
+    0.277124  121 CAN
+    0.336004  121 YOU
+    0.461616  121 GET
+    0.606854  121 LIKE
+    0.769756  121 A
+    0.855133  121 [breath]
+    0.980000  121 A
+    1.308390  121 STUDENT
+    1.763836  121 DISCOUNT
+    2.028831  121 TYPE
+    2.131885  121 OF
+    2.346825  121 THING
+    2.487174  121 [static]

@@ -1,0 +1,19 @@
+signal 2830-A-0001
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.289044  121 YEAH
+    0.485723  121 I'VE
+    0.643736  121 BEEN
+    0.946908  121 SITTING
+    1.097360  121 HERE
+    1.553750  121 ALTERNATELY
+    1.869150  121 READING
+    1.943830  121 AND
+    2.305440  121 WATCHING
+    3.055660  121 TELEVISION_!
+    3.094600  121 H#

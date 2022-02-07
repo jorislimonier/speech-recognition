@@ -1,0 +1,18 @@
+signal 4103-B-0024
+type 0
+comment created using xlabel Mon Mar 31 11:39:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.288067  121 H#
+    0.778994  121 INCOME
+    0.917386  121 IS
+    1.230000  121 ENOUGH
+    1.352950  121 THAT
+    1.510000  121 WE
+    1.874840  121 CAN
+    2.016140  121 H#
+    2.620240  121 CONSIDER

@@ -1,0 +1,24 @@
+signal 4519-A-0053
+type 0
+comment created using xlabel Sat Feb 22 21:05:52 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.329651  121 SIL
+    0.598742  121 YOU_KNOW_IF
+    0.890000  121 "THAT'S"
+    1.070000  121 WHAT
+    1.190000  121 MY
+    1.540000  121 SALARY
+    1.750000  121 WAS
+    1.880000  121 THAT
+    1.950000  121 I
+    2.220000  121 DREW
+    2.410000  121 THEN
+    2.510000  121 I
+    2.700000  121 WOULD
+    2.820000  121 BE
+    3.590000  121 MAKING

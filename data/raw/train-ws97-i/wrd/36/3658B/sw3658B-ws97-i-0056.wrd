@@ -1,0 +1,17 @@
+signal 3658-B-0056
+type 0
+comment created using xlabel Wed Mar 12 15:07:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.273063  121 H#
+    0.390752  121 AND
+    0.590000  121 WE
+    0.770000  121 HAD
+    1.395900  121 XRAYS
+    1.657700  121 H#
+    1.980000  121 EVERY
+    2.257480  121 YEAR

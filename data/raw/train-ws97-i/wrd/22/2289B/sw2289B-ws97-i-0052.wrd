@@ -1,0 +1,21 @@
+signal 2289-B-0052
+type 0
+comment created using xlabel Sat Jun 14 17:15:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.185665  121 [BACKGROUNDNOISE]
+    0.400000  121 AND
+    0.591630  121 THROW
+    0.669487  121 IT
+    0.860420  121 OUT
+    0.953106  121 THE
+    1.105110  121 [BACKGROUNDNOISE]
+    1.301610  121 AT
+    1.405420  121 THE
+    1.592640  121 IN
+    1.818790  121 UH
+    1.948560  121 [MOUTHNOISE]

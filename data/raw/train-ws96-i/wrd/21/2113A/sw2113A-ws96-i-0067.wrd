@@ -1,0 +1,20 @@
+signal 2113-A-0067
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.516158  121 H#
+    0.541177  121 I
+    0.660274  121 MEAN
+    0.865585  121 LIKE
+    1.160070  121 KEVIN
+    1.690000  121 COSTNER
+    1.900540  121 DID
+    2.096880  121 ALL
+    2.218550  121 OF
+    2.360000  121 HIS
+    2.602060  121 OWN
+    2.925620  121 H#

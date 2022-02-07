@@ -1,0 +1,26 @@
+signal 3335-A-0012
+type 0
+comment created using xlabel Thu Jul 17 15:00:33 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.285008  121 UH_#
+    0.376725  121 THE
+    0.667551  121 FIRST
+    0.887145  121 THING
+    0.970000  121 THAT
+    1.139410  121 I
+    1.390000  121 ALWAYS
+    1.589860  121 TALK
+    1.718610  121 TO
+    2.169850  121 STUDENTS
+    2.509430  121 ABOUT
+    2.880000  121 IS
+    3.047850  121 THE
+    3.565420  121 ACADEMIC
+    4.230230  121 PROGRAM
+    4.775910  121 BECAUSE
+    5.105330  121 [BREATH]

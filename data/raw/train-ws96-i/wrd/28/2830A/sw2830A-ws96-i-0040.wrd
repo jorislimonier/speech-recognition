@@ -1,0 +1,19 @@
+signal 2830-A-0040
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.076903  121 H#
+    0.213954  121 HOW
+    0.367128  121 LONG
+    0.430011  121 HAS
+    0.468109  121 IT
+    0.694127  121 BEEN
+    0.880706  121 SINCE
+    0.960000  121 YOU'VE
+    1.150320  121 HAD
+    1.409200  121 ONE
+    1.642940  121 H#

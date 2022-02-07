@@ -1,0 +1,15 @@
+signal 3230-B-0023
+type 0
+comment created using xlabel Mon Mar 31 12:15:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114126  121 [STATIC]
+    0.362383  121 YEAH
+    0.460000  121 THE
+    0.749665  121 HEAVY
+    1.180110  121 METAL
+    1.324420  121 [STATIC]

@@ -1,0 +1,24 @@
+signal 4655-A-0044
+type 0
+comment created using xlabel Mon Jul  7 19:05:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.200835  121 [BREATH]
+    0.587910  121 UH
+    0.830879  121 [MECHNOISE]
+    1.147580  121 OLDER
+    1.559560  121 PEOPLE
+    1.770690  121 THAT
+    1.974280  121 WERE
+    2.213060  121 IN
+    2.340000  121 THERE
+    2.669440  121 FOR
+    2.950950  121 [MECHNOISE]
+    3.485490  121 REASONS
+    3.770340  121 OF
+    4.006610  121 UH
+    4.328340  121 [BREATH]

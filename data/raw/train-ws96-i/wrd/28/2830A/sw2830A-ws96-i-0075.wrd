@@ -1,0 +1,16 @@
+signal 2830-A-0075
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.177116  121 h#
+    0.357651  121 YEAH
+    0.496144  121 THERE
+    0.614852  121 YOU
+    0.880000  121 GO
+    1.030330  121 AND
+    1.285057  121 THEN
+    1.306078  121 h#

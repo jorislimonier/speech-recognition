@@ -1,0 +1,23 @@
+signal 4082-B-0014
+type 0
+comment created using xlabel Mon Mar 24 15:45:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.137114  121 [TRUNCATED]
+    0.370401  121 WHICH
+    0.744643  121 IS
+    0.823340  121 SIL
+    1.081970  121 UM
+    1.520210  121 [MOUTHNOISE]
+    1.579150  121 THE
+    1.667060  121 WALL
+    1.808150  121 STREET
+    2.271280  121 JOURNALS
+    2.375400  121 SIL
+    2.545010  121 NEWS
+    2.790570  121 WIRE
+    2.849020  121 SIL

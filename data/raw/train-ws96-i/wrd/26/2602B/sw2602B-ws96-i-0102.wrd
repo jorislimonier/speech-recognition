@@ -1,0 +1,13 @@
+signal 2602-B-0102
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327932  121 H#
+    0.382713  121 THE
+    1.072920  121 GOVERNMENTS
+    1.644750  121 WHICH
+    1.685600  121 H#

@@ -1,0 +1,16 @@
+signal 3150-B-0003
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136789  121 h#
+    0.325618  121 OH
+    0.490000  121 I'M
+    0.648454  121 PRETTY
+    0.853027  121 MUCH
+    1.080000  121 FOR
+    1.180000  121 IT
+    1.288035  121 h#

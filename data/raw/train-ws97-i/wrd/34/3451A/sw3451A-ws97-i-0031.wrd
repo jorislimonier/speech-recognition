@@ -1,0 +1,15 @@
+signal 3451-A-0031
+type 0
+comment created using xlabel Fri Mar 14 15:08:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330601  121 [MECHNOISE]
+    0.436994  121 I
+    0.571840  121 THINK
+    0.688130  121 HE
+    0.950400  121 WENT
+    1.304220  121 [MECHNOISE]

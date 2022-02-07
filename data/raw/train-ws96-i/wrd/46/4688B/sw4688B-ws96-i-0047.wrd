@@ -1,0 +1,18 @@
+signal 4688-B-0047
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.236634  121 h#
+    0.330000  121 YOU
+    0.461324  121 KNOW
+    0.573013  121 I
+    0.727976  121 KEEP
+    1.024513  121 TRACK
+    1.110000  121 OF
+    1.334136  121 EVERY
+    1.755439  121 PENNY
+    1.884731  121 h#

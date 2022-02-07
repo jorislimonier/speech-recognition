@@ -1,0 +1,20 @@
+signal 4032-A-0052
+type 0
+comment created using xlabel Fri May 23 18:55:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.318100  121 [background noise]
+    0.788519  121 um
+    0.943378  121 AND
+    1.100000  121 THEN
+    1.185892  121 THE
+    1.609936  121 BIKE
+    1.745802  121 [breath]
+    1.871442  121 ON
+    1.957637  121 THE
+    2.233753  121 OTHER
+    2.540000  121 DAY

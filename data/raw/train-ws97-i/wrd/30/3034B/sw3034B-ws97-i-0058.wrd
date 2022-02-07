@@ -1,0 +1,21 @@
+signal 3034-B-0058
+type 0
+comment created using xlabel Mon Jul  7 20:34:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.077551  121 SIL
+    0.243947  121 AND
+    0.437214  121 SO
+    0.592241  121 I
+    0.747269  121 WAS
+    1.067660  121 ALWAYS
+    1.421450  121 THROWING
+    1.619310  121 MY
+    1.894230  121 ARM
+    2.233920  121 OUT
+    2.666560  121 AND
+    2.934240  121 UH

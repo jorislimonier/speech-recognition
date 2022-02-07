@@ -1,0 +1,11 @@
+signal 2794-A-0034
+type 0
+comment created using xlabel Tue May 27 19:49:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.292193  121 SIL
+    0.996119  121 JOBS

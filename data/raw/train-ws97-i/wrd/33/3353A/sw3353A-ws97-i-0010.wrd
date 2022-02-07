@@ -1,0 +1,24 @@
+signal 3353-A-0010
+type 0
+comment created using xlabel Wed Mar 12 14:10:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [MECHNOISE]
+    0.503125  121 YOU_KNOW
+    0.614239  121 WE['D]
+    0.760583  121 ALL
+    0.905573  121 GO
+    1.310740  121 CAMPING
+    1.378490  121 MY
+    1.621040  121 DAD[AND]
+    1.743000  121 MY
+    2.110210  121 MOM
+    2.344730  121 AND
+    2.530000  121 AND
+    2.630000  121 THE
+    2.989730  121 KIDS
+    3.170000  121 AND

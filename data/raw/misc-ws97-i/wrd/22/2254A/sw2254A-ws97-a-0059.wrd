@@ -1,0 +1,17 @@
+signal 2254-A-0059
+type 0
+comment created using xlabel Fri Jan 31 16:05:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.026514  121 H#
+    0.337482  121 LAST
+    0.461306  121 NIGHT
+    0.630158  121 FOR
+    1.067770  121 DINNER
+    1.219730  121 SIL
+    1.442050  121 UH
+    1.487080  121 SILENCEDUETOSPLICING

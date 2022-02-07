@@ -1,0 +1,23 @@
+signal 2801-B-0080
+type 0
+comment created using xlabel Thu Jun 12 20:00:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.234972  121 [static]
+    0.400000  121 SO
+    0.470000  121 IT
+    0.735615  121 KIND
+    0.760000  121 OF
+    1.072556  121 MAKES
+    1.373254  121 ME
+    1.819529  121 [static]
+    2.159383  121 DREAD
+    2.422658  121 GOING
+    2.640398  121 BACK
+    2.925638  121 TO_AN
+    3.422461  121 AMERICAN
+    4.294754  121 MANUFACTURER

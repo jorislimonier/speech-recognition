@@ -1,0 +1,16 @@
+signal 4940-A-0060
+type 0
+comment created using xlabel Sun Jun 29 12:52:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 h#
+    0.198261  121 OR
+    0.609469  121 SOMETHING
+    1.013588  121 SIMILAR
+    1.168146  121 TO
+    1.363824  121 THAT
+    1.492859  121 [crosstalk]

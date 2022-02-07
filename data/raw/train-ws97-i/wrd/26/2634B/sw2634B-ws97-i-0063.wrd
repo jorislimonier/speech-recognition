@@ -1,0 +1,19 @@
+signal 2634-B-0063
+type 0
+comment created using xlabel Thu Apr 17 19:48:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.304803  121 [MECHNOISE]
+    0.493529  121 IF
+    0.660516  121 A
+    1.156210  121 CITIZEN
+    1.260000  121 OF
+    1.320000  121 THE
+    1.790290  121 STATE
+    2.160820  121 [MECHNOISE]
+    2.389350  121 BEING
+    2.485200  121 ?_#

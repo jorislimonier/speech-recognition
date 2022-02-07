@@ -1,0 +1,20 @@
+signal 2433-B-0046
+type 0
+comment created using xlabel Tue Apr 15 18:23:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.314407  121 [MECHNOISE]
+    0.463118  121 "IT'S"
+    0.623633  121 BEEN
+    0.760000  121 I
+    0.995094  121 BET
+    1.127370  121 IT'S
+    1.244300  121 [MECHNOISE]
+    1.490000  121 "IT'S"
+    1.759980  121 BEEN
+    1.971130  121 [MECHNOISE]
+    2.021880  121 [BREATH]

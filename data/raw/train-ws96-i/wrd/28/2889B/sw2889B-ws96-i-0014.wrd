@@ -1,0 +1,11 @@
+signal 2889-B-0014
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060044  121 i'd_#
+    0.357210  121 RATHER
+    0.685656  121 h#

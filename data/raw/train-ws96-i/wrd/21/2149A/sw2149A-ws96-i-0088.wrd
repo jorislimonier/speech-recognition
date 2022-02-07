@@ -1,0 +1,19 @@
+signal 2149-A-0088
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114036  121 H#
+    0.705343  121 ORGANIZATION
+    0.833034  121 TO
+    1.000800  121 DO
+    1.074750  121 THERE
+    1.185780  121 WAS
+    1.343610  121 BIG
+    1.610000  121 BROTHER
+    1.776530  121 BIG
+    2.218450  121 SISTER
+    2.382230  121 H#

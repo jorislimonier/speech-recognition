@@ -1,0 +1,16 @@
+signal 2416-A-0024
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325355  121 H#
+    0.574128  121 NOT
+    0.610000  121 A
+    0.849989  121 GREAT
+    1.160230  121 DEAL
+    1.200530  121 OF
+    1.630000  121 THAT
+    1.707660  121 H#

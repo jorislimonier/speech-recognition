@@ -1,0 +1,20 @@
+signal 2862-B-0028
+type 0
+comment created using xlabel Sun Jul 20 15:44:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.156337  121 [MECHNOISE]
+    0.309651  121 YEAH
+    0.420974  121 THEY
+    0.715431  121 PLAY
+    0.930414  121 TWO
+    1.005970  121 OR
+    1.168330  121 THREE
+    1.528540  121 TIMES
+    1.601140  121 A
+    2.054250  121 WEEK
+    2.348570  121 [MECHNOISE]

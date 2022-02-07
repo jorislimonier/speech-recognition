@@ -1,0 +1,15 @@
+signal 4159-B-0017
+type 0
+comment created using xlabel Mon Mar 24 15:20:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.139553  121 [MOUTHNOISE]
+    0.304454  121 THAT
+    0.630000  121 THEN
+    0.910951  121 REALLY
+    1.278480  121 "DOESN'T"
+    1.467140  121 ?_#

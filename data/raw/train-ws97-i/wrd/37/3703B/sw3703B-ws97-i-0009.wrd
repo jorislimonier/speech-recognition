@@ -1,0 +1,16 @@
+signal 3703-B-0009
+type 0
+comment created using xlabel Sun Jun 15 19:25:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.134193  121 h#
+    0.224901  121 THEY
+    0.396713  121 "WON'T"
+    0.560000  121 PUT
+    0.763813  121 UP
+    0.868394  121 WITH
+    1.099967  121 THAT

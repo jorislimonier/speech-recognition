@@ -1,0 +1,18 @@
+signal 2365-A-0009
+type 0
+comment created using xlabel Sun Apr 13 19:40:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.275501  121 SIL
+    0.428868  121 BUT
+    0.737674  121 JUST
+    0.932491  121 "DIDN'T"
+    1.048550  121 IT
+    1.375470  121 "DIDN'T"
+    1.484320  121 IT
+    1.749900  121 "DIDN'T"
+    2.135220  121 COVER_IT

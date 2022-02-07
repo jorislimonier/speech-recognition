@@ -1,0 +1,13 @@
+signal 3080-A-0064
+type 0
+comment created using xlabel Sat Jun  7 15:41:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114783  121 [echo]
+    0.315477  121 THAT_WILL
+    0.743355  121 COME
+    0.846110  121 [static]

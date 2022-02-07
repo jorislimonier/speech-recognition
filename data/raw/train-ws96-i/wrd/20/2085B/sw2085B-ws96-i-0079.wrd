@@ -1,0 +1,15 @@
+signal 2085-B-0079
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.277231  121 h#
+    0.812677  121 KIDS
+    0.860257  125 h#
+    1.170229  121 TWENTY
+    1.450009  121 YEARS
+    1.840000  121 OLD
+    2.124950  125 h#

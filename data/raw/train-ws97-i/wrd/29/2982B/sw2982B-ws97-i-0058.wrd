@@ -1,0 +1,17 @@
+signal 2982-B-0058
+type 0
+comment created using xlabel Wed Apr  9 14:55:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.073076  121 THEY_ARE[?]
+    0.285374  121 MUCH
+    0.434932  121 MORE
+    1.044040  121 CONSTRAINED
+    1.180000  121 AND
+    1.437590  121 THINGS
+    1.586690  121 LIKE
+    1.785680  121 THAT_#

@@ -1,0 +1,15 @@
+signal 4826-B-0044
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.126074  121 h#
+    0.205196  121 AND
+    0.254930  121 h#
+    0.454997  121 WHEN
+    0.575890  121 YOU
+    1.008240  121 HAVE
+    1.245606  121 h#

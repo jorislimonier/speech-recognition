@@ -1,0 +1,12 @@
+signal 2323-B-0039
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 H#
+    0.524923  121 LESS
+    1.014910  121 SUFFERING
+    1.127690  121 H#

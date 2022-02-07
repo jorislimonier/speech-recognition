@@ -1,0 +1,13 @@
+signal 2007-B-0080
+type 0
+comment created using xlabel Tue May 27 20:14:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136293  121 [CROSSTALK]
+    0.279287  121 AIR
+    0.895035  121 POLLUTION
+    1.028300  121 [BREATH]

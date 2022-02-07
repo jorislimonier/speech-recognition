@@ -1,0 +1,19 @@
+signal 2793-B-0033
+type 0
+comment created using xlabel Thu May  1 14:02:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.148517  121 SI[MECHNOISE]
+    0.501955  121 YEAH
+    0.850000  121 ARE
+    0.962210  121 ARE
+    1.127150  121 YOU
+    1.850000  121 SUGGESTING
+    2.030000  121 THEN
+    2.185020  121 THAT
+    2.469350  121 IF
+    2.740000  121 IF

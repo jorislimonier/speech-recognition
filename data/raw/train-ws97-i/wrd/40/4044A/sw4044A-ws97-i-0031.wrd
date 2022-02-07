@@ -1,0 +1,19 @@
+signal 4044-A-0031
+type 0
+comment created using xlabel Mon Mar 24 16:42:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300000  121 H#
+    0.480378  121 FOR
+    1.060000  121 INSTANCE
+    1.248150  121 OR
+    1.610000  121 PUBLIC
+    2.270000  121 IMPROVEMENTS
+    2.400000  121 AND
+    2.761530  121 TODAY
+    3.032400  121 THERE
+    3.328510  121 [BREATH]

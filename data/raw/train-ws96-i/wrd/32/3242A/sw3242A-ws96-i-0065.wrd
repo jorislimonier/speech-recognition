@@ -1,0 +1,12 @@
+signal 3242-A-0065
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050000  121 h#
+    0.460000  121 MIND
+    1.090000  121 BOGGLING
+    1.424662  121 h#

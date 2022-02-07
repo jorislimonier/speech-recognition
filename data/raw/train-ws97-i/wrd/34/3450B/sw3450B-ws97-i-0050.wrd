@@ -1,0 +1,17 @@
+signal 3450-B-0050
+type 0
+comment created using xlabel Tue May 13 16:51:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150410  121 [STATIC]
+    0.223353  121 YOU
+    0.441132  121 DO_NOT
+    0.652950  121 GO
+    0.909334  121 OUT
+    1.064140  121 WHEN
+    1.394620  121 IT_IS
+    1.724880  121 [HUM]

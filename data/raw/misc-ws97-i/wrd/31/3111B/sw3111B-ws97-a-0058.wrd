@@ -1,0 +1,19 @@
+signal 3111-B-0058
+type 0
+comment created using xlabel Wed Feb 19 12:13:01 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.280000  121 [MOUTHNOISE]
+    0.490000  121 THAT
+    0.690000  121 THAT
+    1.040570  121 ACTUALLY
+    1.132930  121 [FALSESTART]
+    1.658200  121 ALASKA
+    1.900000  121 JUST
+    2.445530  121 RECENTLY
+    3.000000  121 LEGALIZED
+    3.610000  121 MARIJUANA

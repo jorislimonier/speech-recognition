@@ -1,0 +1,17 @@
+signal 4149-A-0077
+type 0
+comment created using xlabel Wed Jun 11 11:41:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124642  121 [mech noise]
+    0.384105  121 "WHO'S"
+    0.602252  121 "WHO'S"
+    0.739420  121 NOT
+    0.972441  121 VERY
+    1.162494  121 WELL
+    1.630188  121 EDUCATED
+    1.747525  121 [mech noise]

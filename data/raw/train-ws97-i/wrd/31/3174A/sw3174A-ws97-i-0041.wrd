@@ -1,0 +1,17 @@
+signal 3174-A-0041
+type 0
+comment created using xlabel Wed May 14 15:24:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290000  121 [MOUTHNOISE]
+    0.685710  121 DRUG
+    0.869875  121 SIL
+    1.546100  121 TESTING
+    1.725810  121 THEY
+    2.090000  121 SAY
+    2.687240  121 RUNS
+    2.933780  121 [BREATH]

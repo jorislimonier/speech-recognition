@@ -1,0 +1,17 @@
+signal 2022-A-0006
+type 0
+comment created using xlabel Tue Mar  4 12:01:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.318000  121 [MECHNOISE]
+    0.648397  121 WHATEVER
+    0.796896  121 "WE'VE"
+    0.959118  121 GOT
+    1.242390  121 COMING
+    1.520040  121 IN
+    1.752000  121 CHECK
+    2.048000  121 [MECHNOISE]

@@ -1,0 +1,21 @@
+signal 3194-A-0033
+type 0
+comment created using xlabel Tue Apr 15 15:31:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.309508  121 H#
+    0.545003  121 ANY
+    1.156020  121 LIMBS
+    1.309170  121 OR
+    1.512440  121 ANY
+    1.654770  121 H#
+    2.069280  121 EXTRA
+    2.539480  121 TRASH
+    2.644500  121 THAT
+    2.749530  121 YOU
+    3.017230  121 MIGHT
+    3.363120  121 HAVE_#

@@ -1,0 +1,38 @@
+signal 2700-B-0025
+type 0
+comment created using xlabel Sun Jul  6 14:57:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.134206  121 [BACKGROUNDNOISE]
+    0.361054  121 YEAH
+    0.695762  121 [STATIC]
+    0.898900  121 YEAH
+    1.016470  121 [STATIC]
+    1.210130  121 WELL
+    1.664560  121 [STATIC]
+    1.790000  121 I'VE
+    2.018910  121 NEVER
+    2.160000  121 HAD
+    2.376340  121 IT
+    2.581430  121 HAD
+    2.646460  121 TO
+    2.816530  121 HAVE
+    2.920000  121 ONE
+    3.019280  121 IN
+    3.100000  121 THE
+    3.433890  121 CITY
+    3.539710  121 YOU
+    3.670000  121 KNOW
+    3.767860  121 WHEN
+    3.819950  121 I
+    3.906490  121 WAS
+    4.037980  121 IN_THE
+    4.395610  121 COUNTRY
+    4.518520  121 WE
+    4.738620  121 USED
+    4.839990  121 THEM
+    5.162990  121 [BREATH]

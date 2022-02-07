@@ -1,0 +1,22 @@
+signal 2483-A-0014
+type 0
+comment created using xlabel Sat Mar  8 17:16:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319650  121 [BACKGOUNDNOISE]
+    0.413164  121 THE
+    0.821858  121 EVENING
+    1.098780  121 NEWS
+    1.228090  121 LIKE
+    1.416270  121 TEN
+    1.844920  121 "O'CLOCK"
+    1.984610  121 ON
+    2.258230  121 T
+    2.589380  121 V
+    2.720990  121 AND
+    2.889550  121 I
+    2.986530  121 H#

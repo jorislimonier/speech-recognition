@@ -1,0 +1,17 @@
+signal 4140-A-0022
+type 0
+comment created using xlabel Mon Apr 28 17:33:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125114  121 SIL
+    0.254302  121 OH
+    0.486840  121 I
+    0.716148  121 I
+    0.879248  121 I
+    1.242590  121 AGREE
+    1.455750  121 I
+    1.706050  121 [BREATH]

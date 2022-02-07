@@ -1,0 +1,17 @@
+signal 3079-B-0073
+type 0
+comment created using xlabel Sun Jul  6 17:38:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 [BREATH]
+    0.214515  121 AND
+    0.318472  121 I
+    0.666799  121 THINK
+    0.935469  121 SINCE
+    1.190640  121 BEING
+    1.853710  121 UNEMPLOYED
+    2.152480  121 WE

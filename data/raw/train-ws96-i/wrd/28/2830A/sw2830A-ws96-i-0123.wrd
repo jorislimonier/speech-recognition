@@ -1,0 +1,23 @@
+signal 2830-A-0123
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.030129  121 h#
+    0.134646  121 THEY
+    0.323570  121 MADE
+    0.632966  121 JOKES
+    0.825048  121 ABOUT
+    0.984688  121 HIM
+    1.160000  121 LIKE
+    1.262613  121 ON
+    1.330000  121 THE
+    1.739509  121 CARSON
+    1.955612  121 SHOW
+    2.036955  121 AND
+    2.218770  121 ALL
+    2.428736  121 THAT
+    2.594973  121 h#

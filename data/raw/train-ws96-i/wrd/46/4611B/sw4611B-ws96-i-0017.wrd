@@ -1,0 +1,17 @@
+signal 4611-B-0017
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 h#
+    0.830561  121 AND
+    0.943056  121 THE
+    1.172217  121 VIEW
+    1.282337  121 THAT
+    1.463356  121 I'd
+    1.918039  121 RATHER
+    2.420520  121 TAKE
+    2.507001  125 h#

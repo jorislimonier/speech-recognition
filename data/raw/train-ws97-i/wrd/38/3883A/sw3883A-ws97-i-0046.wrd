@@ -1,0 +1,23 @@
+signal 3883-A-0046
+type 0
+comment created using xlabel Thu Jul  3 16:22:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324182  121 [BREATH]
+    0.695511  121 AND
+    1.063960  121 UM
+    1.403510  121 [MOUTHNOISE]
+    1.694740  121 "I'M"
+    1.787670  121 [STATIC]
+    2.098580  121 WORKING
+    2.221050  121 AT
+    2.283800  121 A
+    2.486530  121 DAY
+    2.774530  121 CARE
+    2.941860  121 RIGHT
+    3.293840  121 NOW
+    3.483700  121 [BREATH]

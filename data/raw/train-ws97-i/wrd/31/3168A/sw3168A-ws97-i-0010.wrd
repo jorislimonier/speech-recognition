@@ -1,0 +1,19 @@
+signal 3168-A-0010
+type 0
+comment created using xlabel Mon Jun 30 16:24:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.313137  121 [breath]
+    0.551078  121 SO_I
+    0.757865  121 REALLY
+    0.871586  121 DON'T
+    1.015677  121 HAVE
+    1.065807  121 A
+    1.432955  121 PROBLEM
+    1.590000  121 WITH
+    1.750229  121 IT
+    1.824380  121 [static]

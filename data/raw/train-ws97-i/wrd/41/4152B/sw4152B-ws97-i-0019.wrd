@@ -1,0 +1,17 @@
+signal 4152-B-0019
+type 0
+comment created using xlabel Tue May 13 16:55:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130293  121 SIL
+    0.900000  121 UNFORTUNATELY
+    1.067300  121 THAT
+    1.328110  121 KIND
+    1.371560  121 OF
+    1.641800  121 THING
+    1.823770  121 IS
+    2.298900  121 NOT

@@ -1,0 +1,13 @@
+signal 4101-A-0028
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.654887  121 h#
+    0.770000  121 WE
+    0.955867  121 DO
+    1.420000  121 HAVE
+    1.565240  125 h#

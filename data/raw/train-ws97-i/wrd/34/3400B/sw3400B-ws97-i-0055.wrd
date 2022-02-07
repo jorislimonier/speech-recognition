@@ -1,0 +1,21 @@
+signal 3400-B-0055
+type 0
+comment created using xlabel Thu May 29 17:05:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.384048  121 WELL
+    0.670000  121 "THAT'S"
+    0.952596  121 TRUE
+    1.096386  121 NO
+    1.191050  121 WE
+    1.340000  121 DO
+    1.466465  121 GET
+    1.896857  121 TIME
+    1.999874  121 AND
+    2.105675  121 sil
+    2.423865  121 UM_#

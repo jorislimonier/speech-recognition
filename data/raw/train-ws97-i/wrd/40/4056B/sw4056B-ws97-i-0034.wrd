@@ -1,0 +1,22 @@
+signal 4056-B-0034
+type 0
+comment created using xlabel Mon Jun  9 18:47:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.269977  121 [breath]
+    0.800000  121 CONSIDERED
+    0.930508  121 TO
+    1.363403  121 BE
+    1.719791  121 UH
+    1.984750  121 [breath]
+    2.436300  121 CLERICAL
+    3.219585  121 PERSONNEL
+    3.372589  121 [breath]
+    3.928630  121 ACCOUNTANTS
+    4.193588  121 THINGS
+    4.435542  121 LIKE
+    4.644523  121 THAT_#

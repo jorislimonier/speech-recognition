@@ -1,0 +1,17 @@
+signal 4165-B-0004
+type 0
+comment created using xlabel Sat Apr 12 22:08:33 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.144462  121 [BREATH]
+    0.286822  121 OUR
+    0.495617  121 KIDS
+    0.571542  121 ARE
+    0.765152  121 NOW
+    1.306120  121 FOURTEEN
+    1.416210  121 AND
+    1.907830  121 EIGHTEEN

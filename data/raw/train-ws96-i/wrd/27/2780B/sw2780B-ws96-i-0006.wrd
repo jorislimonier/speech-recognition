@@ -1,0 +1,18 @@
+signal 2780-B-0006
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.013089  121 h#
+    0.324541  121 ALTHOUGH
+    0.443459  121 I
+    0.808475  121 CLAIM
+    1.270048  121 FLORIDA
+    1.400161  121 AS
+    1.560000  121 MY
+    1.857959  121 HOME
+    2.260000  121 NOW
+    2.748694  121 h#

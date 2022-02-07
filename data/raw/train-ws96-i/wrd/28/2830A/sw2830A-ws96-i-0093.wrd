@@ -1,0 +1,16 @@
+signal 2830-A-0093
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114592  121 h#
+    0.450000  121 SEE
+    0.616622  121 I
+    0.783965  121 KNOW
+    0.890641  121 ISN'T
+    1.028756  121 THAT
+    1.510090  121 TERRIBLE
+    1.539193  121 h#

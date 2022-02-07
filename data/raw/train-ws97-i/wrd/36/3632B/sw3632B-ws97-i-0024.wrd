@@ -1,0 +1,17 @@
+signal 3632-B-0024
+type 0
+comment created using xlabel Mon Jun 16 17:42:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 [mouth noise]
+    0.345012  121 OH
+    0.614856  121 YEAH
+    0.740882  121 "I'M"
+    0.783879  121 A
+    1.287983  121 NURSE
+    1.347289  121 [mouth noise]
+    1.568205  121 AND_#

@@ -1,0 +1,17 @@
+signal 2915-A-0008
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150303  121 h#
+    0.342123  121 SO
+    0.440000  121 THEY
+    0.597033  121 GET
+    0.690000  121 YOU
+    0.937089  121 COMING
+    1.094771  121 AND
+    1.549937  121 GOING
+    1.705994  125 h#

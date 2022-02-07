@@ -1,0 +1,20 @@
+signal 2344-A-0044
+type 0
+comment created using xlabel Sat May 10 17:08:33 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.121573  121 SIL
+    0.542208  121 YEAH
+    0.644101  121 SIL
+    0.890130  121 THAT
+    1.017280  121 SIL
+    1.225420  121 "THAT'S"
+    1.340260  121 REAL
+    1.771350  121 SCARY
+    2.004750  121 SIL
+    2.478570  121 ACTUALLY
+    2.568270  121 [STATIC]

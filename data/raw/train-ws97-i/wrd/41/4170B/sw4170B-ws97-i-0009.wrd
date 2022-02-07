@@ -1,0 +1,28 @@
+signal 4170-B-0009
+type 0
+comment created using xlabel Wed Jul 23 14:51:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.341468  121 [MOUTHNOISE]
+    0.435624  121 I
+    0.562407  121 DON'T
+    0.804788  121 THINK
+    0.962348  121 THAT
+    1.199140  121 I'M
+    1.429400  121 GONNA
+    1.610740  121 GET
+    2.035580  121 ANYTHING
+    2.176340  121 OUT
+    2.289140  121 OF
+    2.508220  121 IT
+    2.585040  121 SIL
+    2.755640  121 WHEN
+    2.842340  121 THE
+    3.192060  121 TIME
+    3.539520  121 COMES
+    3.910550  121 FROM
+    4.248120  121 [MOUTHNOISE]

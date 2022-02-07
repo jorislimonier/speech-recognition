@@ -1,0 +1,21 @@
+signal 2382-A-0044
+type 0
+comment created using xlabel Tue Jul  1 17:52:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.322360  121 [MOUTHNOISE]
+    0.772043  121 UH
+    1.020500  121 [MOUTHNOISE]
+    1.416520  121 THINGS
+    1.626310  121 HAVE
+    2.042760  121 BECOME
+    2.354510  121 MUCH
+    2.540000  121 MORE
+    3.013920  121 ENLIGHTENED
+    3.362290  121 SINCE
+    3.679990  121 THEN
+    3.724290  121 [STATIC]

@@ -1,0 +1,16 @@
+signal 2092-B-0042
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 H#
+    0.384348  121 SORT
+    0.437022  121 OF
+    0.550000  121 WE'RE
+    0.910000  121 PROBABLY
+    1.125890  121 LIKE
+    1.430460  121 MOST
+    1.589640  121 H#

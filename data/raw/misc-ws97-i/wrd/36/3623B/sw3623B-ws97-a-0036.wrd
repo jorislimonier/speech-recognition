@@ -1,0 +1,18 @@
+signal 3623-B-0036
+type 0
+comment created using xlabel Wed Jun 25 19:52:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.289214  121 [CROSSTALK]
+    0.501563  121 [CLICKS]
+    0.726404  121 PLUS
+    0.870052  121 THEY
+    1.020000  121 HAVE
+    1.096970  121 A
+    1.350960  121 PRETTY
+    1.661160  121 GOOD
+    1.927630  121 UH

@@ -1,0 +1,15 @@
+signal 2798-B-0033
+type 0
+comment created using xlabel Mon Jul  7 15:15:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.217120  121 IT'S_#
+    0.670000  121 WORSE
+    0.754018  121 THE
+    1.387230  121 SERVICE
+    1.641330  121 IS
+    2.167990  121 WORSE_#

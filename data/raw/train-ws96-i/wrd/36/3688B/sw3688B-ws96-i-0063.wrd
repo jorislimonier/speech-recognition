@@ -1,0 +1,16 @@
+signal 3688-B-0063
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.153825  121 h#
+    0.359622  121 HOPE
+    0.491265  121 IT'S
+    0.544384  121 A
+    0.700912  121 GOOD
+    1.180081  121 PROGRAM
+    1.360000  121 THERE
+    1.467184  121 h#

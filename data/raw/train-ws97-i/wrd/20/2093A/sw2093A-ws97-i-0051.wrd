@@ -1,0 +1,18 @@
+signal 2093-A-0051
+type 0
+comment created using xlabel Fri Apr 25 14:19:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 [HUM]
+    0.270000  121 OH
+    0.469054  121 YEAH
+    0.562065  121 H#
+    0.809168  121 ALWAYS
+    0.930000  121 GOT
+    0.977143  121 TO
+    1.125680  121 HAVE
+    1.370000  121 THOSE

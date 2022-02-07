@@ -1,0 +1,16 @@
+signal 2055-A-0056
+type 0
+comment created using xlabel Wed Jul  9 13:24:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [MECHNOISE]
+    0.554042  121 KEEPS
+    0.645975  121 THEM
+    0.943590  121 ACTIVE
+    1.111870  121 "I'M"
+    1.521680  121 SURE
+    1.644780  121 [MECHNOISE]

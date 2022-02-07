@@ -1,0 +1,18 @@
+signal 3714-B-0044
+type 0
+comment created using xlabel Sat Jun  7 15:12:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.344932  121 [static]
+    0.582699  121 HAD
+    0.670480  121 A
+    1.489762  121 PHOTOGRAPHER
+    1.661770  121 AT
+    1.753085  121 [static]
+    2.316064  121 EVERY
+    2.672243  121 [static]
+    3.550069  121 DEMONSTRATION

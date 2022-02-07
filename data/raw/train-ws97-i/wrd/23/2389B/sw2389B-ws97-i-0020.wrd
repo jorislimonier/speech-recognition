@@ -1,0 +1,33 @@
+signal 2389-B-0020
+type 0
+comment created using xlabel Tue Apr 29 11:14:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.170000  121 [MOUTHNOISE]
+    0.376223  121 SO
+    0.560000  121 I
+    0.830000  121 THINK
+    0.995578  121 THAT
+    1.354070  121 WE
+    1.611700  121 WE
+    1.930000  121 DID
+    2.171560  121 COME
+    2.244780  121 A
+    2.480000  121 LONG
+    2.662760  121 WAY
+    2.772600  121 IN
+    2.906840  121 THE
+    3.402630  121 SENSE
+    3.710000  121 THAT
+    3.956380  121 WE
+    4.264540  121 [FALSESTART]
+    4.438600  121 WE
+    4.528330  121 ARE
+    4.890000  121 ALLOWED
+    5.053430  121 TO
+    5.535180  121 VOTE
+    5.887460  121 IN

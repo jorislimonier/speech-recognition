@@ -1,0 +1,19 @@
+signal 2704-B-0023
+type 0
+comment created using xlabel Mon Jun  9 21:53:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.139348  121 [crosstalk]
+    0.285671  121 PRETTY
+    0.630748  121 QUICK
+    0.729516  121 [static]
+    1.211161  121 THUMBNAIL
+    1.614435  121 SKETCH
+    1.693693  121 OF
+    1.849770  121 "WHAT'S"
+    2.096751  121 GOING
+    2.407687  121 ON

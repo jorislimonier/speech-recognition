@@ -1,0 +1,14 @@
+signal 3022-B-0076
+type 0
+comment created using xlabel Wed Jul  2 14:17:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.336116  121 [STATIC]
+    0.601512  121 HAVE
+    0.688989  121 A
+    1.004800  121 HUNG
+    1.445140  121 JURY

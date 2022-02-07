@@ -1,0 +1,20 @@
+signal 2442-B-0027
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.143065  121 H#
+    0.237073  121 I
+    0.518277  121 GUESS
+    0.552743  121 IT
+    0.880224  121 DEPENDS
+    1.011280  121 ON
+    1.054240  121 THE
+    1.377740  121 PERSON
+    1.669720  121 DEPENDS
+    1.738560  121 ON
+    1.860710  121 HOW
+    1.984740  121 ?_#

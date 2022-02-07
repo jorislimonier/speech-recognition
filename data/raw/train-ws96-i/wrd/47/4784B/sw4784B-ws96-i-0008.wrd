@@ -1,0 +1,15 @@
+signal 4784-B-0008
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 h#
+    0.330058  121 RIGHT
+    0.529993  121 IT
+    0.980000  121 TROUBLES
+    1.170233  121 ME
+    1.600000  121 TOO
+    1.689157  121 h#

@@ -1,0 +1,19 @@
+signal 4071-A-0014
+type 0
+comment created using xlabel Sat Jul  5 20:17:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050869  121 h#
+    0.620000  121 BELLIES
+    0.670000  121 A
+    0.966368  121 MEAL
+    1.541350  121 TAX
+    2.025620  121 [BREATH]
+    2.556000  121 AND
+    3.047960  121 BETS
+    3.393350  121 UH
+    3.943460  121 GAMBLING

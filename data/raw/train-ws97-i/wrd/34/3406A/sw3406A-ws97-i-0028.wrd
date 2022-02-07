@@ -1,0 +1,20 @@
+signal 3406-A-0028
+type 0
+comment created using xlabel Wed Mar 26 14:37:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300000  121 [BREATH]
+    0.423245  121 WOULD
+    0.561265  121 [STATIC]
+    0.982200  121 UH
+    1.479210  121 PASS
+    1.602340  121 THE
+    2.234590  121 INSPECTION
+    2.327560  121 A
+    2.730000  121 SEVENTY
+    3.401700  121 SIX
+    3.520760  121 AND

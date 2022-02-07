@@ -1,0 +1,17 @@
+signal 3024-A-0065
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.153122  121 HAVE_#
+    0.374140  121 A
+    0.827787  121 WOOD
+    1.287044  121 BURNER
+    1.437952  121 IN
+    1.640253  121 OUR
+    1.992769  121 HOUSE
+    2.228212  121 h#
+    2.385666  121 AND_#

@@ -1,0 +1,16 @@
+signal 3223-A-0069
+type 0
+comment created using xlabel Fri Mar 14 16:00:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.297326  121 [BREATH]
+    0.521180  121 ?
+    0.720000  121 FUNNY
+    1.060000  121 BECAUSE
+    1.150000  121 THE
+    1.696420  121 SHOWS
+    2.007110  121 SIL

@@ -1,0 +1,28 @@
+signal 3297-B-0036
+type 0
+comment created using xlabel Sun Jul 20 14:46:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160000  121 [BREATH]
+    0.425008  121 SO
+    0.484123  121 SIL
+    0.823238  121 I
+    1.005720  121 SIL
+    1.256220  121 I
+    1.598830  121 JUST
+    1.980830  121 SIL
+    2.430000  121 FINALLY
+    2.928940  121 FIGURED
+    3.258120  121 OUT
+    3.382460  121 THAT
+    3.517350  121 SIL
+    3.698800  121 FOR
+    4.047250  121 MY
+    4.320000  121 WAY
+    4.488870  121 OF
+    4.988270  121 LIFE
+    5.246790  121 [BREATH]

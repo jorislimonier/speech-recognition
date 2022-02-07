@@ -1,0 +1,18 @@
+signal 4445-B-0003
+type 0
+comment created using xlabel Tue Jul 15 17:29:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.346352  121 SIL
+    0.551424  121 WE
+    1.019090  121 HAVE
+    1.244550  121 THE
+    1.305370  121 SIL
+    1.410810  121 THE
+    1.887700  121 USUAL
+    2.460490  121 AUTOMOTIVE
+    3.067330  121 POLLUTION

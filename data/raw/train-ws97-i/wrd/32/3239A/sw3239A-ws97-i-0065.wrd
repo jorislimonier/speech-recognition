@@ -1,0 +1,17 @@
+signal 3239-A-0065
+type 0
+comment created using xlabel Fri May  2 11:31:47 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.299878  121 [BREATH]
+    0.466994  121 THAT
+    0.745065  121 SHE
+    1.071080  121 USED
+    1.271070  121 HAD
+    1.347890  121 A
+    1.770000  121 TOOTH
+    2.390000  121 PROBLEM

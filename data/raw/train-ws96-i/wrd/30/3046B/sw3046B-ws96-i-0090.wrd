@@ -1,0 +1,17 @@
+signal 3046-B-0090
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.101305  121 h#
+    0.235913  121 BUT
+    0.360000  121 WE
+    0.520000  121 DO
+    0.691315  121 GET
+    1.323201  121 TOGETHER
+    1.594972  121 h#
+    1.832424  121 FOR
+    2.269988  121 h#

@@ -1,0 +1,16 @@
+signal 3081-B-0099
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.216849  121 h#
+    0.730000  121 POULTRY
+    1.083246  121 INSTEAD
+    1.233381  121 OF
+    1.373592  121 THE
+    1.739603  121 BEEF
+    1.939949  121 AND
+    2.066259  125 h#

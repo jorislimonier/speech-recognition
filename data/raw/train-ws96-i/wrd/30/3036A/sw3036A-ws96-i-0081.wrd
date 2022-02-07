@@ -1,0 +1,15 @@
+signal 3036-A-0081
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.180000  121 h#
+    0.357458  121 YEAH
+    0.452364  121 THE
+    0.923268  121 GREATEST
+    1.323622  121 HITS
+    1.650000  121 RIGHT
+    1.809007  121 h#

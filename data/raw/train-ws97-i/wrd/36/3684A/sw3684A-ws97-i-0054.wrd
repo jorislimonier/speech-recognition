@@ -1,0 +1,14 @@
+signal 3684-A-0054
+type 0
+comment created using xlabel Tue Apr 22 17:45:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135931  121 [CROSSTALK]
+    0.394996  121 ALMOST
+    0.478952  121 THE
+    0.734419  121 SAME
+    1.150000  121 AMOUNT

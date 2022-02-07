@@ -1,0 +1,17 @@
+signal 4184-B-0029
+type 0
+comment created using xlabel Mon Apr 28 10:56:47 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.219194  121 SIL
+    0.293909  121 [MOUTHNOISE]
+    0.657800  121 OTHER
+    0.758804  121 UH
+    1.140000  121 DOGS
+    1.250000  121 THAT
+    1.481050  121 I'VE
+    2.080000  121 ENCOUNTERED

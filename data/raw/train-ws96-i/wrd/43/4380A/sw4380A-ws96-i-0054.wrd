@@ -1,0 +1,15 @@
+signal 4380-A-0054
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.106415  121 AND_#
+    0.241371  121 I
+    0.365913  121 THINK
+    0.449994  121 IT'D
+    0.600000  121 BE
+    1.213679  121 INTERESTING
+    1.329069  121 h#

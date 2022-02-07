@@ -1,0 +1,13 @@
+signal 3804-B-0038
+type 0
+comment created using xlabel Wed Apr 30 13:49:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.038838  121 SIL
+    0.480000  121 OH
+    0.680000  121 "I'LL"
+    1.184000  121 BET_#

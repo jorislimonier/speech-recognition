@@ -1,0 +1,24 @@
+signal 2459-B-0081
+type 0
+comment created using xlabel Sun Jul 20 14:45:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.181749  121 ?_#
+    0.390331  121 AND
+    0.605262  121 SOME
+    0.640440  121 OF
+    0.781914  121 THE
+    1.036750  121 OTHER
+    1.440000  121 TYPES
+    1.542780  121 OF
+    2.306870  121 VACCINATIONS
+    2.600580  121 FOR
+    2.993950  121 [BREATH]
+    3.608380  121 SYPHILIS
+    3.865380  121 AND
+    4.049480  121 UH
+    4.723790  121 GONORRHEA

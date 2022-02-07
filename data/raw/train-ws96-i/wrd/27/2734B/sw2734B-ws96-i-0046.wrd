@@ -1,0 +1,20 @@
+signal 2734-B-0046
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.15  121 H#
+    0.570263  121 YES
+    0.89  121 VERY
+    1.23  121 TRUE
+    1.57998  121 I
+    1.74277  121 h#
+    1.89974  121 I
+    2.1  121 AGREE
+    2.29919  121 WITH
+    2.40035  121 YOU
+    2.76894  121 THERE
+    3.08197  121 h#

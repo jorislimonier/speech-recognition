@@ -1,0 +1,20 @@
+signal 3051-B-0042
+type 0
+comment created using xlabel Mon May  5 11:33:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.249049  121 YOU_KNOW
+    0.380627  121 THEY
+    0.605155  121 JUST
+    0.910000  121 WATCHED
+    1.021620  121 THE
+    1.236490  121 WATER
+    1.486000  121 POUR
+    1.599470  121 IN
+    1.710000  121 ON
+    1.780000  121 THE
+    2.184570  121 CARPET

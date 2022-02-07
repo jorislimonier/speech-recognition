@@ -1,0 +1,20 @@
+signal 2325-A-0078
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350000  121 H#
+    0.739290  121 SO
+    1.019530  121 H#
+    1.304240  121 SINCE
+    1.927250  121 OCTOBER
+    2.129610  121 THEN
+    2.343410  121 THEY'VE
+    2.477650  121 BEEN
+    2.820000  121 GOING
+    3.188160  121 THERE
+    3.723820  121 AND
+    3.806870  121 H#

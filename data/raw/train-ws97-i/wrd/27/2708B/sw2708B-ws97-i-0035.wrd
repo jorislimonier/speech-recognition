@@ -1,0 +1,28 @@
+signal 2708-B-0035
+type 0
+comment created using xlabel Wed Jul 16 15:09:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.351727  121 [MOUTHNOISE]
+    1.360300  121 INTO
+    1.412750  121 SIL
+    2.080000  121 INVESTIGATING
+    2.290010  121 SOME
+    2.318990  121 OF
+    2.449850  121 THE
+    2.722120  121 OTHER
+    2.999740  121 [BREATH]
+    3.450000  121 COUNTRIES
+    3.520000  121 IN
+    3.620000  121 THE
+    3.990000  121 WORLD
+    4.199940  121 AND
+    4.285940  121 SIL
+    4.457440  121 THEIR
+    5.170620  121 EDUCATIONAL
+    5.778880  121 PROBLEMS
+    5.979850  121 [BREATH]

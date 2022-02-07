@@ -1,0 +1,19 @@
+signal 3495-B-0018
+type 0
+comment created using xlabel Tue May 20 17:02:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.290000  121 WELL_?
+    0.620000  121 THAT
+    0.795017  121 AND
+    0.970798  121 THE
+    1.330000  121 AND
+    2.095213  121 the_ECONOMY_is
+    2.319193  121 SO
+    2.866285  121 BAD
+    3.098770  121 AND_#

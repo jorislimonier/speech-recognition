@@ -1,0 +1,35 @@
+signal 2334-A-0107
+type 0
+comment created using xlabel Fri May 16 17:26:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.544313  121 SIL
+    0.630000  121 [MOUTHNOISE]
+    0.723881  121 I
+    0.850817  121 "DON'T"
+    0.960364  121 KNOW
+    1.109900  121 IF
+    1.240000  121 YOU
+    1.415940  121 HAVE
+    1.470000  121 A
+    1.850000  121 PLACE
+    2.069230  121 THERE
+    2.130090  121 H#
+    2.420480  121 CALLED
+    2.769980  121 UH
+    2.898660  121 H#
+    3.130000  121 OR
+    3.270770  121 YOU
+    3.519430  121 PROBABLY
+    3.630710  121 HAVE
+    3.827200  121 SOMETHING
+    4.275830  121 SIMILAR
+    4.390000  121 WE
+    4.627080  121 CALL
+    4.710000  121 IT
+    5.110000  121 SERVICE
+    5.736210  121 MERCHANDISE_#

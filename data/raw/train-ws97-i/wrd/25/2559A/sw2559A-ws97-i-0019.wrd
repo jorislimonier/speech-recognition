@@ -1,0 +1,14 @@
+signal 2559-A-0019
+type 0
+comment created using xlabel Thu May 15 13:57:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335749  121 [BACKGROUNDNOISE]
+    0.963077  121 SEGMENTS
+    1.051910  121 OF
+    1.911030  121 SOCIETY
+    2.244620  121 [BREATH]

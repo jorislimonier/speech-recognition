@@ -1,0 +1,11 @@
+signal 2830-A-0124
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator \;
+nfields 1
+#
+    0.11  121 H#
+    0.28  121 JAY
+    0.753019  121 LENO

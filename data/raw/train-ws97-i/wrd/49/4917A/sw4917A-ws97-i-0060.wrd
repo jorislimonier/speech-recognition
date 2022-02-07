@@ -1,0 +1,16 @@
+signal 4917-A-0060
+type 0
+comment created using xlabel Tue Jun 17 20:35:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.309364  121 [background noise]
+    0.369615  121 YOU
+    0.470947  121 KNOW
+    0.555846  121 WHAT
+    0.618836  121 IT
+    0.840670  121 CAN
+    1.325418  121 DO

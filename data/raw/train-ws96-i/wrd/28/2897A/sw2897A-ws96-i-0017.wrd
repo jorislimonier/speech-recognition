@@ -1,0 +1,20 @@
+signal 2897-A-0017
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.219532  121 H#
+    0.523853  121 T
+    0.78  121 I
+    0.99  121 AND
+    1.20135  121 SOME
+    1.41741  121 OTHER
+    1.97663  121 PLACES
+    2.06542  121 YOU
+    2.26489  121 KNOW
+    2.43972  121 THEY
+    2.74  121 HAVE
+    2.86594  121 h#

@@ -1,0 +1,14 @@
+signal 2830-A-0009
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.481702  121 H#
+    0.861272  121 DESIGNING
+    1.124310  121 WOMEN
+    1.275340  121 THAT
+    1.618380  121 ELK
+    1.709210  121 H#

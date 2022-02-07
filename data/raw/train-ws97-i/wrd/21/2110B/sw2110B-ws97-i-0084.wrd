@@ -1,0 +1,16 @@
+signal 2110-B-0084
+type 0
+comment created using xlabel Sat May 10 17:30:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [MOUTHNOISE]
+    0.826356  121 ENGINEERS
+    1.037880  121 WANT_TO
+    1.829770  121 PARTICIPATE
+    1.979990  121 YOU
+    2.233570  121 KNOW
+    2.321700  121 [BACKGROUNDNOISE]

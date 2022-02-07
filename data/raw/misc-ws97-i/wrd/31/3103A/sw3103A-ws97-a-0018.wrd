@@ -1,0 +1,11 @@
+signal 3103-A-0018
+type 0
+comment created using xlabel Wed Feb 19 11:24:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.794427  121 CHALLENGES

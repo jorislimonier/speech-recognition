@@ -1,0 +1,15 @@
+signal 4038-A-0003
+type 0
+comment created using xlabel Mon May 12 13:41:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.262284  121 WAS
+    0.400000  121 IT
+    0.895809  121 CIVIL
+    1.130000  121 OR
+    1.605680  121 CRIMINAL

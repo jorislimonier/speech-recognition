@@ -1,0 +1,17 @@
+signal 2568-A-0049
+type 0
+comment created using xlabel Fri May  2 11:37:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140101  121 ?_#
+    0.416997  121 ALL
+    0.579497  121 OF
+    0.841853  121 MAE
+    1.246410  121 WEST'S
+    1.277640  121 [STATIC]
+    1.968110  121 MOVIES
+    2.224850  121 [STATIC]

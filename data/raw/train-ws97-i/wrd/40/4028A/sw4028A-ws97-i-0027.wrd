@@ -1,0 +1,19 @@
+signal 4028-A-0027
+type 0
+comment created using xlabel Thu May 15 10:51:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.260000  121 BETWEEN_#
+    0.729034  121 QUARTERS
+    0.820000  121 AND
+    0.990000  121 THAT
+    1.085560  121 AND
+    1.290000  121 HAVING
+    1.341970  121 A
+    1.480000  121 LOT
+    1.589140  121 OF
+    2.213810  121 VACATION

@@ -1,0 +1,20 @@
+signal 4594-A-0003
+type 0
+comment created using xlabel Sat Apr 12 22:14:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.048000  121 H#
+    0.306000  121 FIND
+    0.354000  121 YOU
+    0.514000  121 MAKE
+    0.700000  121 MORE
+    0.918000  121 MONEY
+    1.046000  121 BUT
+    1.097730  121 IT
+    1.353310  121 GOES
+    1.548750  121 AWAY
+    1.898290  121 ANYWAY

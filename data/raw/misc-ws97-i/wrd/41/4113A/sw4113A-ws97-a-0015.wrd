@@ -1,0 +1,21 @@
+signal 4113-A-0015
+type 0
+comment created using xlabel Thu Feb 20 19:21:11 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.328705  121 BREATH
+    0.868408  121 AND
+    1.328230  121 EXPECT
+    1.379050  121 YOU
+    1.470000  121 KNOW
+    1.613410  121 HIS
+    1.825170  121 FIRST
+    1.986110  121 DAY
+    2.050000  121 TO
+    2.178110  121 BE
+    2.220340  121 AN
+    2.739990  121 EFFECTIVE

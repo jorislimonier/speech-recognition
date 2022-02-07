@@ -1,0 +1,17 @@
+signal 4138-B-0050
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.603799  121 h#
+    0.762017  121 TO
+    0.944018  121 MAKE
+    1.167903  121 MORE
+    1.716188  121 MONEY
+    2.190958  121 AND
+    2.602569  125 h#
+    2.932144  121 THE
+    3.228009  125 h#

@@ -1,0 +1,14 @@
+signal 2685-A-0017
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 h#
+    0.544056  121 EVERYTHING
+    0.800829  121 ELSE
+    1.070000  121 IS
+    1.562985  121 MUD
+    1.687752  121 h#

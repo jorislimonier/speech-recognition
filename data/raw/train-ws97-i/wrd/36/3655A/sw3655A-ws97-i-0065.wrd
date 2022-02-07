@@ -1,0 +1,20 @@
+signal 3655-A-0065
+type 0
+comment created using xlabel Tue Apr 22 18:14:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.326678  121 [HUM]
+    0.610000  121 PEOPLE
+    0.746028  121 I
+    0.890000  121 "DON'T"
+    1.062090  121 KNOW
+    1.300000  121 "IT'S"
+    1.494310  121 SO
+    1.735660  121 HARD
+    1.810000  121 TO
+    2.270000  121 TAKE
+    2.528510  121 H#

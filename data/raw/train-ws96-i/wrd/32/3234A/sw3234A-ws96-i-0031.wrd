@@ -1,0 +1,16 @@
+signal 3234-A-0031
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.040000  121 h#
+    0.090821  121 h#
+    0.160000  121 AND
+    0.273652  121 THEN
+    0.441396  121 WE
+    0.658925  121 GO
+    1.640049  121 OUTSIDE
+    1.901487  121 h#

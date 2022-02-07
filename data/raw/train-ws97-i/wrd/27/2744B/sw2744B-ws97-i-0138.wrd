@@ -1,0 +1,17 @@
+signal 2744-B-0138
+type 0
+comment created using xlabel Tue May 20 14:06:56 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 h#
+    0.355610  121 MORE
+    0.505534  121 THAN
+    0.659029  121 TWO
+    0.894625  121 YEARS
+    1.114158  121 AGO
+    1.242665  121 I
+    1.886985  121 GUARANTEE_#

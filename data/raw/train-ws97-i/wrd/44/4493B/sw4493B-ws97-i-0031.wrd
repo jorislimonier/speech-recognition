@@ -1,0 +1,18 @@
+signal 4493-B-0031
+type 0
+comment created using xlabel Fri Jul  4 17:50:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.194052  121 [BREATH]
+    0.347747  121 [MECHNOISE]
+    0.516315  121 AND
+    0.636957  121 DO
+    0.762557  121 MY
+    1.079860  121 CHORES
+    1.276520  121 AROUND
+    1.321150  121 THE
+    1.699600  121 HOUSE

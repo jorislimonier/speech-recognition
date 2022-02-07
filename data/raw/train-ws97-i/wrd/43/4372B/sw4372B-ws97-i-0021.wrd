@@ -1,0 +1,19 @@
+signal 4372-B-0021
+type 0
+comment created using xlabel Wed Jul  2 15:10:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.306305  121 [BREATH]
+    0.420000  121 THEN
+    0.550846  121 I
+    0.760000  121 DON'T
+    1.116120  121 ARGUE
+    1.352000  121 WITH
+    1.432010  121 IT
+    1.690160  121 SIL
+    2.265380  121 BECAUSE
+    2.588050  121 [STATIC]

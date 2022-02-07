@@ -1,0 +1,17 @@
+signal 2909-A-0086
+type 0
+comment created using xlabel Tue Jun 10 17:00:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.315189  121 [hum]
+    0.486166  121 LIKE
+    0.708963  121 THREE
+    0.817189  121 OUT
+    0.914876  121 OF
+    0.978584  121 THE
+    1.510197  121 FOUR
+    1.787594  121 [static]

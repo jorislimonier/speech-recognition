@@ -1,0 +1,20 @@
+signal 2988-A-0039
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325478  125 h#
+    0.546099  121 AND
+    0.672169  121 THAT
+    0.853709  121 WAS
+    1.129472  121 ENOUGH
+    1.270000  121 FOR
+    1.560000  121 THEM
+    1.665588  121 I
+    1.901138  121 MEAN
+    2.020000  121 THEY
+    2.480000  121 JUST
+    2.671275  125 h#

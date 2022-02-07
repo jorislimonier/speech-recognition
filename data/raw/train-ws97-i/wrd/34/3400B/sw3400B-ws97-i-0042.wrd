@@ -1,0 +1,21 @@
+signal 3400-B-0042
+type 0
+comment created using xlabel Sun Jun  8 14:32:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.087018  121 WHERE_#
+    0.142455  121 sil
+    0.506973  121 WHERE
+    0.635285  121 [mouthnoise]
+    0.744426  121 false start(do)
+    0.860438  121 WHERE
+    0.918738  121 DO
+    0.994988  121 YOU_HAVE
+    1.102974  121 TO
+    1.392639  121 DRIVE
+    1.651403  121 TO
+    1.789417  121 [breath]

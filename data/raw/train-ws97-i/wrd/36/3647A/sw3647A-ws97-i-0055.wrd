@@ -1,0 +1,28 @@
+signal 3647-A-0055
+type 0
+comment created using xlabel Mon May 12 19:18:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300209  121 [BREATH]
+    0.570000  121 SO
+    0.889415  121 THAT
+    1.060620  121 IF
+    1.196840  121 I
+    1.368050  121 WAS
+    1.610000  121 NOT
+    1.790370  121 THERE
+    1.943160  121 I
+    2.144260  121 WOULD
+    2.478860  121 HAVE
+    2.961790  121 COVERAGE
+    3.120100  121 BY
+    3.335490  121 SOME
+    3.523260  121 OTHER
+    4.040000  121 MANAGEMENT
+    4.606110  121 PERSONNEL
+    4.931950  121 SO
+    5.264610  121 [BREATH]

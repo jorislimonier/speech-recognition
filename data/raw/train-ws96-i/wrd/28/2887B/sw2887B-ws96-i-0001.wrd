@@ -1,0 +1,16 @@
+signal 2887-B-0001
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.185023  121 h#
+    0.510000  121 YEAH
+    0.626061  121 I
+    0.971650  121 AGREE
+    1.116468  121 ON
+    1.457121  121 THAT
+    1.694096  121 AND
+    1.740175  121 h#

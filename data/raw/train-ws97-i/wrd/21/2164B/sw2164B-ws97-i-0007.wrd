@@ -1,0 +1,22 @@
+signal 2164-B-0007
+type 0
+comment created using xlabel Tue Jun  3 14:03:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330568  121 H#
+    0.466638  121 I
+    0.746782  121 FEEL
+    0.868444  121 IF
+    0.937280  121 A
+    1.523180  121 PERSON
+    1.732090  121 H#
+    2.121090  121 IS
+    2.780630  121 GUILTY
+    3.179230  121 BEYOND
+    3.233660  121 A
+    3.792350  121 REASONABLE
+    4.093140  121 DOUBT

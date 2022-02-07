@@ -1,0 +1,19 @@
+signal 3712-A-0001
+type 0
+comment created using xlabel Wed May  7 15:02:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.138777  121 [STATIC]
+    0.585225  121 WELL
+    0.943225  121 WENDY
+    1.040100  121 WHAT
+    1.221200  121 KIND
+    1.271740  121 OF
+    1.619220  121 MUSIC
+    1.726620  121 DO
+    1.770000  121 YOU
+    2.223610  121 LIKE_#

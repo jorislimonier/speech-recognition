@@ -1,0 +1,1715 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	97.08.09.03.22.03;	author picone;	state Exp;
+branches;
+next	;
+
+
+desc
+@initial version.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@[SILENCE] sil
+!SENT_START sil
+!SENT_END sil
+!PERCENT	 p er s eh n t sp
+!PERCENT	 p er s eh n t sil
+!POINT	 p oy n t sp
+!POINT	 p oy n t sil
+A	 ey sp
+A	 ey sil
+A	 ax sp
+A	 ax sil
+ABILITY	 ax b ih l ih t iy sp
+ABILITY	 ax b ih l ih t iy sil
+ABLE	 ey b ax l sp
+ABLE	 ey b ax l sil
+ABORTION	 ax b ow r sh ih n sp
+ABORTION	 ax b ow r sh ih n sil
+ABOUT	 ax b aw t sp
+ABOUT	 ax b aw t sil
+ACROSS	 ax k r ao s sp
+ACROSS	 ax k r ao s sil
+ACTUALLY	 ae k ch uw ax l iy sp
+ACTUALLY	 ae k ch uw ax l iy sil
+ADD	 ae d sp
+ADD	 ae d sil
+ADULTS	 ae d ax l t s sp
+ADULTS	 ae d ax l t s sil
+ADULTS	 ax d ah l t s sp
+ADULTS	 ax d ah l t s sil
+AEROBIC	 ax r ow b ih k sp
+AEROBIC	 ax r ow b ih k sil
+AFTER	 ae f t er sp
+AFTER	 ae f t er sil
+AFTERWARDS	 ae f t er w er d z sp
+AFTERWARDS	 ae f t er w er d z sil
+AGE	 ey jh sp
+AGE	 ey jh sil
+AGENCY	 ey jh ih n s iy sp
+AGENCY	 ey jh ih n s iy sil
+AH	 aa sp
+AH	 aa sil
+AILMENTS	 ey l m ih n t s sp
+AILMENTS	 ey l m ih n t s sil
+AIR	 ey r sp
+AIR	 ey r sil
+ALASKA	 ax l ae s k ax sp
+ALASKA	 ax l ae s k ax sil
+ALL	 ao l sp
+ALL	 ao l sil
+ALLOW	 ax l aw sp
+ALLOW	 ax l aw sil
+ALONE	 ax l ow n sp
+ALONE	 ax l ow n sil
+ALONG	 ax l ao ng sp
+ALONG	 ax l ao ng sil
+ALSO	 ao l s ow sp
+ALSO	 ao l s ow sil
+ALWAYS	 ao l w ey z sp
+ALWAYS	 ao l w ey z sil
+AM	 ae m sp
+AM	 ae m sil
+AMONG	 ax m ah ng sp
+AMONG	 ax m ah ng sil
+AMOUNT	 ax m aw n t sp
+AMOUNT	 ax m aw n t sil
+AN	 ae n sp
+AN	 ae n sil
+AND	 ae n d sp
+AND	 ae n d sil
+ANIMATION	 ae n ih m ey sh ih n sp
+ANIMATION	 ae n ih m ey sh ih n sil
+ANOTHER	 ax n ah dh er sp
+ANOTHER	 ax n ah dh er sil
+ANY	 eh n iy sp
+ANY	 eh n iy sil
+ANYBODY	 eh n iy b ah d iy sp
+ANYBODY	 eh n iy b ah d iy sil
+ANYTHING	 eh n iy th ih ng sp
+ANYTHING	 eh n iy th ih ng sil
+ANYWAY	 eh n iy w ey sp
+ANYWAY	 eh n iy w ey sil
+APPARENTLY	 ax p ey r ih n t l iy sp
+APPARENTLY	 ax p ey r ih n t l iy sil
+APPROACH	 ax p r ow ch sp
+APPROACH	 ax p r ow ch sil
+ARE	 aa r sp
+ARE	 aa r sil
+ARE	 er sp
+ARE	 er sil
+AREA	 ey r iy ax sp
+AREA	 ey r iy ax sil
+ARGUE	 aa r g y uw sp
+ARGUE	 aa r g y uw sil
+AROUND	 ax r aw n d sp
+AROUND	 ax r aw n d sil
+ARRANGEMENT	 ax r ey n jh m ih n t sp
+ARRANGEMENT	 ax r ey n jh m ih n t sil
+AS	 ae z sp
+AS	 ae z sil
+ASKED	 ae s k t sp
+ASKED	 ae s k t sil
+AT	 ae t sp
+AT	 ae t sil
+ATTRACTED	 ax t r ae k t ih d sp
+ATTRACTED	 ax t r ae k t ih d sil
+AWAY	 ax w ey sp
+AWAY	 ax w ey sil
+AWFUL	 ao f ax l sp
+AWFUL	 ao f ax l sil
+BACK	 b ae k sp
+BACK	 b ae k sil
+BACKYARD	 b ae k y aa r d sp
+BACKYARD	 b ae k y aa r d sil
+BAD	 b ae d sp
+BAD	 b ae d sil
+BAN	 b ae n sp
+BAN	 b ae n sil
+BANDS	 b ae n d z sp
+BANDS	 b ae n d z sil
+BANGLADESH	 b ae ng g l ax d eh sh sp
+BANGLADESH	 b ae ng g l ax d eh sh sil
+BARBECUE	 b aa r b ax k y uw sp
+BARBECUE	 b aa r b ax k y uw sil
+BE	 b iy sp
+BE	 b iy sil
+BEACH	 b iy ch sp
+BEACH	 b iy ch sil
+BECAUSE	 b ax k ah z sp
+BECAUSE	 b ax k ah z sil
+BECAUSE	 b ax k ao z sp
+BECAUSE	 b ax k ao z sil
+BEDROOM	 b eh d r uw m sp
+BEDROOM	 b eh d r uw m sil
+BEDROOMS	 b eh d r uw m z sp
+BEDROOMS	 b eh d r uw m z sil
+BEEN	 b iy n sp
+BEEN	 b iy n sil
+BEEN	 b ih n sp
+BEEN	 b ih n sil
+BEFORE	 b ax f ow r sp
+BEFORE	 b ax f ow r sil
+BEING	 b iy ih ng sp
+BEING	 b iy ih ng sil
+BELIEVE	 b ih l iy v sp
+BELIEVE	 b ih l iy v sil
+BENEFITS	 b eh n ih f ih t s sp
+BENEFITS	 b eh n ih f ih t s sil
+BERMUDA	 b er m y uw d ax sp
+BERMUDA	 b er m y uw d ax sil
+BETTER	 b eh t er sp
+BETTER	 b eh t er sil
+BIG	 b ih g sp
+BIG	 b ih g sil
+BIGGER	 b ih g er sp
+BIGGER	 b ih g er sil
+BIGGEST	 b ih g ax s t sp
+BIGGEST	 b ih g ax s t sil
+BILL	 b ih l sp
+BILL	 b ih l sil
+BIT	 b ih t sp
+BIT	 b ih t sil
+BLINK	 b l ih ng k sp
+BLINK	 b l ih ng k sil
+BOB	 b aa b sp
+BOB	 b aa b sil
+BONES	 b ow n z sp
+BONES	 b ow n z sil
+BOTH	 b ow th sp
+BOTH	 b ow th sil
+BOUGHT	 b ao t sp
+BOUGHT	 b ao t sil
+BOY	 b oy sp
+BOY	 b oy sil
+BREATH	 b r eh th sp
+BREATH	 b r eh th sil
+BREATHING	 b r iy dh ih ng sp
+BREATHING	 b r iy dh ih ng sil
+BREEDERS	 b r iy d er z sp
+BREEDERS	 b r iy d er z sil
+BUS	 b ah s sp
+BUS	 b ah s sil
+BUSINESS	 b ih z n ih s sp
+BUSINESS	 b ih z n ih s sil
+BUSINESSES	 b ih z n ih s ih z sp
+BUSINESSES	 b ih z n ih s ih z sil
+BUT	 b ah t sp
+BUT	 b ah t sil
+BUY	 b ay sp
+BUY	 b ay sil
+BUYING	 b ay ih ng sp
+BUYING	 b ay ih ng sil
+BUZZ	 b ah z sp
+BUZZ	 b ah z sil
+BY	 b ay sp
+BY	 b ay sil
+CABLE	 k ey b ax l sp
+CABLE	 k ey b ax l sil
+CALL	 k ao l sp
+CALL	 k ao l sil
+CALLED	 k ao l d sp
+CALLED	 k ao l d sil
+CALLING	 k ao l ih ng sp
+CALLING	 k ao l ih ng sil
+CAMBODIA	 k ae m b ow d iy ax sp
+CAMBODIA	 k ae m b ow d iy ax sil
+CAME	 k ey m sp
+CAME	 k ey m sil
+CAN	 k ae n sp
+CAN	 k ae n sil
+CANS	 k ae n z sp
+CANS	 k ae n z sil
+CAR	 k aa r sp
+CAR	 k aa r sil
+CARE	 k ey r sp
+CARE	 k ey r sil
+CAREER	 k ax r iy r sp
+CAREER	 k ax r iy r sil
+CAREERS	 k ax r iy r z sp
+CAREERS	 k ax r iy r z sil
+CARRYING	 k ae r iy ih ng sp
+CARRYING	 k ae r iy ih ng sil
+CARS	 k aa r z sp
+CARS	 k aa r z sil
+CASE	 k ey s sp
+CASE	 k ey s sil
+CASES	 k ey s ih z sp
+CASES	 k ey s ih z sil
+CATCH	 k ae ch sp
+CATCH	 k ae ch sil
+CATEGORY	 k ae t ax g ow r iy sp
+CATEGORY	 k ae t ax g ow r iy sil
+CATS	 k ae t s sp
+CATS	 k ae t s sil
+CERTAIN	 s er t en sp
+CERTAIN	 s er t en sil
+CHALLENGE	 ch ae l ih n jh sp
+CHALLENGE	 ch ae l ih n jh sil
+CHALLENGES	 ch ae l ih n jh ih z sp
+CHALLENGES	 ch ae l ih n jh ih z sil
+CHANGING	 ch ey n jh ih ng sp
+CHANGING	 ch ey n jh ih ng sil
+CHANNELS	 ch ae n ax l z sp
+CHANNELS	 ch ae n ax l z sil
+CHILDISH	 ch ay l d ih sh sp
+CHILDISH	 ch ay l d ih sh sil
+CHILDREN	 ch ih l d r ax n sp
+CHILDREN	 ch ih l d r ax n sil
+CHLORINATED	 k l ow r ih n ey t ih d sp
+CHLORINATED	 k l ow r ih n ey t ih d sil
+CHOOSE	 ch uw z sp
+CHOOSE	 ch uw z sil
+CHRYSLER	 k r ay s l er sp
+CHRYSLER	 k r ay s l er sil
+CITIES	 s ih t iy z sp
+CITIES	 s ih t iy z sil
+CITY	 s ih t iy sp
+CITY	 s ih t iy sil
+CIVIL	 s ih v ax l sp
+CIVIL	 s ih v ax l sil
+CLASS	 k l ae s sp
+CLASS	 k l ae s sil
+CLICK	 k l ih k sp
+CLICK	 k l ih k sil
+CLICKS	 k l ih k s sp
+CLICKS	 k l ih k s sil
+CLOSE	 k l ow s sp
+CLOSE	 k l ow s sil
+CLOSE	 k l ow z sp
+CLOSE	 k l ow z sil
+CLOWNS	 k l aw n z sp
+CLOWNS	 k l aw n z sil
+COMBAT	 k aa m b ae t sp
+COMBAT	 k aa m b ae t sil
+COMBAT	 k ax m b ae t sp
+COMBAT	 k ax m b ae t sil
+COMBUSTION	 k ax m b ah s ch ih n sp
+COMBUSTION	 k ax m b ah s ch ih n sil
+COME	 k ah m sp
+COME	 k ah m sil
+COMES	 k ah m z sp
+COMES	 k ah m z sil
+COMING	 k ah m ih ng sp
+COMING	 k ah m ih ng sil
+COMMENT	 k aa m eh n t sp
+COMMENT	 k aa m eh n t sil
+COMMUNICATIONS	 k ax m y uw n ih k ey sh ih n z sp
+COMMUNICATIONS	 k ax m y uw n ih k ey sh ih n z sil
+CONCERNING	 k ax n s er n ih ng sp
+CONCERNING	 k ax n s er n ih ng sil
+CONFLICT	 k aa n f l ih k t sp
+CONFLICT	 k aa n f l ih k t sil
+CONFLICT	 k ax n f l ih k t sp
+CONFLICT	 k ax n f l ih k t sil
+COOKING	 k uh k ih ng sp
+COOKING	 k uh k ih ng sil
+CORPORATE	 k ow r p ax r ax t sp
+CORPORATE	 k ow r p ax r ax t sil
+CORPORATE	 k ow r p r ih t sp
+CORPORATE	 k ow r p r ih t sil
+CORPS	 k ow r sp
+CORPS	 k ow r sil
+CORRUPT	 k ax r ah p t sp
+CORRUPT	 k ax r ah p t sil
+COULD	 k uh d sp
+COULD	 k uh d sil
+COUNTRY	 k ah n t r iy sp
+COUNTRY	 k ah n t r iy sil
+COUNTY	 k aw n t iy sp
+COUNTY	 k aw n t iy sil
+COUPLE	 k ah p el sp
+COUPLE	 k ah p el sil
+COUSIN	 k ah z ih n sp
+COUSIN	 k ah z ih n sil
+CRAZY	 k r ey z iy sp
+CRAZY	 k r ey z iy sil
+CRIER	 k r ay r sp
+CRIER	 k r ay r sil
+CRYING	 k r ay ih ng sp
+CRYING	 k r ay ih ng sil
+CUP	 k ah p sp
+CUP	 k ah p sil
+CURBSIDE	 k er b s ay d sp
+CURBSIDE	 k er b s ay d sil
+CUT	 k ah t sp
+CUT	 k ah t sil
+CYCLE	 s ay k ax l sp
+CYCLE	 s ay k ax l sil
+CYNICAL	 s ih n ih k ax l sp
+CYNICAL	 s ih n ih k ax l sil
+DALLAS	 d ae l ax s sp
+DALLAS	 d ae l ax s sil
+DAMAGE	 d ae m ih jh sp
+DAMAGE	 d ae m ih jh sil
+DAUGHTER	 d ao t er sp
+DAUGHTER	 d ao t er sil
+DAY	 d ey sp
+DAY	 d ey sil
+DEAL	 d iy l sp
+DEAL	 d iy l sil
+DEATH	 d eh th sp
+DEATH	 d eh th sil
+DEBT	 d eh t sp
+DEBT	 d eh t sil
+DECALB	 d ih k ae l b sp
+DECALB	 d ih k ae l b sil
+DELAWARE	 d eh l ax w ey r sp
+DELAWARE	 d eh l ax w ey r sil
+DELIBERATELY	 d ih l ih b ax r ih t l iy sp
+DELIBERATELY	 d ih l ih b ax r ih t l iy sil
+DESIGNING	 d ih z ay n ih ng sp
+DESIGNING	 d ih z ay n ih ng sil
+DID	 d ih d sp
+DID	 d ih d sil
+DIE	 d ay sp
+DIE	 d ay sil
+DIESEL	 d iy s ax l sp
+DIESEL	 d iy s ax l sil
+DIESEL	 d iy z ax l sp
+DIESEL	 d iy z ax l sil
+DIFFERENCE	 d ih f ax r ih n s sp
+DIFFERENCE	 d ih f ax r ih n s sil
+DIFFERENCE	 d ih f r ih n s sp
+DIFFERENCE	 d ih f r ih n s sil
+DIFFERENT	 d ih f ax r ih n t sp
+DIFFERENT	 d ih f ax r ih n t sil
+DIFFERENT	 d ih f r ih n t sp
+DIFFERENT	 d ih f r ih n t sil
+DIMENSION	 d ih m eh n sh ih n sp
+DIMENSION	 d ih m eh n sh ih n sil
+DINNER	 d ih n er sp
+DINNER	 d ih n er sil
+DINOSAUR	 d ay n ih s ow r sp
+DINOSAUR	 d ay n ih s ow r sil
+DISAPPEARED	 d ih s ax p iy r d sp
+DISAPPEARED	 d ih s ax p iy r d sil
+DISCOUNTS	 d ih s k aw n t s sp
+DISCOUNTS	 d ih s k aw n t s sil
+DISPOSABLE	 d ih s p ow z ax b ax l sp
+DISPOSABLE	 d ih s p ow z ax b ax l sil
+DO	 d uw sp
+DO	 d uw sil
+DOCTOR	 d aa k t er sp
+DOCTOR	 d aa k t er sil
+DOES	 d ah z sp
+DOES	 d ah z sil
+DOES	 d ow z sp
+DOES	 d ow z sil
+DOG	 d ao g sp
+DOG	 d ao g sil
+DOING	 d uw ih ng sp
+DOING	 d uw ih ng sil
+DOLLARS	 d ao l er z sp
+DOLLARS	 d ao l er z sil
+DOMESTIC	 d ax m eh s t ih k sp
+DOMESTIC	 d ax m eh s t ih k sil
+DONE	 d ah n sp
+DONE	 d ah n sil
+DOWN	 d aw n sp
+DOWN	 d aw n sil
+DRAFT	 d r ae f t sp
+DRAFT	 d r ae f t sil
+DREW	 d r uw sp
+DREW	 d r uw sil
+DRINKS	 d r ih ng k s sp
+DRINKS	 d r ih ng k s sil
+DRIVE	 d r ay v sp
+DRIVE	 d r ay v sil
+DROPPED	 d r aa p t sp
+DROPPED	 d r aa p t sil
+DURING	 d uh r ih ng sp
+DURING	 d uh r ih ng sil
+EAST	 iy s t sp
+EAST	 iy s t sil
+EASY	 iy z iy sp
+EASY	 iy z iy sil
+EAT	 iy t sp
+EAT	 iy t sil
+EDITORIAL	 eh d ih t ow r iy ax l sp
+EDITORIAL	 eh d ih t ow r iy ax l sil
+EDUCATION	 eh jh ax k ey sh ih n sp
+EDUCATION	 eh jh ax k ey sh ih n sil
+EFFECTIVE	 ih f eh k t ih v sp
+EFFECTIVE	 ih f eh k t ih v sil
+EIGHT	 ey t sp
+EIGHT	 ey t sil
+EIGHTY	 ey t iy sp
+EIGHTY	 ey t iy sil
+ELSE	 eh l s sp
+ELSE	 eh l s sil
+EMBARRASSED	 eh m b ae r ax s t sp
+EMBARRASSED	 eh m b ae r ax s t sil
+ENDED	 eh n d ih d sp
+ENDED	 eh n d ih d sil
+ENGINE	 eh n jh ih n sp
+ENGINE	 eh n jh ih n sil
+ENGINES	 eh n jh ih n z sp
+ENGINES	 eh n jh ih n z sil
+ENJOY	 eh n jh oy sp
+ENJOY	 eh n jh oy sil
+ENOUGH	 ih n ah f sp
+ENOUGH	 ih n ah f sil
+ENTRUSTING	 eh n t r ah s t ih ng sp
+ENTRUSTING	 eh n t r ah s t ih ng sil
+ESPECIALLY	 eh s p eh sh ax l iy sp
+ESPECIALLY	 eh s p eh sh ax l iy sil
+ESTATE	 eh s t ey t sp
+ESTATE	 eh s t ey t sil
+EVEN	 iy v ax n sp
+EVEN	 iy v ax n sil
+EVER	 eh v er sp
+EVER	 eh v er sil
+EVERY	 eh v r iy sp
+EVERY	 eh v r iy sil
+EVERYBODY	 eh v r iy b aa d iy sp
+EVERYBODY	 eh v r iy b aa d iy sil
+EVERYTHING	 eh v r iy th ih ng sp
+EVERYTHING	 eh v r iy th ih ng sil
+EX	 eh k s sp
+EX	 eh k s sil
+EXACTLY	 eh g z ae k t l iy sp
+EXACTLY	 eh g z ae k t l iy sil
+EXAM	 eh g z ae m sp
+EXAM	 eh g z ae m sil
+EXCITED	 eh k s ay t ih d sp
+EXCITED	 eh k s ay t ih d sil
+EXPECT	 eh k s p eh k t sp
+EXPECT	 eh k s p eh k t sil
+EXPENSIVE	 eh k s p eh n s ih v sp
+EXPENSIVE	 eh k s p eh n s ih v sil
+EXPERIENCE	 eh k s p ih r iy ih n s sp
+EXPERIENCE	 eh k s p ih r iy ih n s sil
+EXTRA	 eh k s t r ax sp
+EXTRA	 eh k s t r ax sil
+FACT	 f ae k t sp
+FACT	 f ae k t sil
+FAIR	 f ey r sp
+FAIR	 f ey r sil
+FASHIONED	 f ae sh ih n d sp
+FASHIONED	 f ae sh ih n d sil
+FAST	 f ae s t sp
+FAST	 f ae s t sil
+FATHER_IN_LAW	 f aa th er ih n l ao sp
+FATHER_IN_LAW	 f aa th er ih n l ao sil
+FEEL	 f iy l sp
+FEEL	 f iy l sil
+FEMININE	 f eh m ih n ih n sp
+FEMININE	 f eh m ih n ih n sil
+FEW	 f y uw sp
+FEW	 f y uw sil
+FIFTEEN	 f ih f t iy n sp
+FIFTEEN	 f ih f t iy n sil
+FIFTY	 f ih f t iy sp
+FIFTY	 f ih f t iy sil
+FIGHT	 f ay t sp
+FIGHT	 f ay t sil
+FINALLY	 f ay n ax l iy sp
+FINALLY	 f ay n ax l iy sil
+FIND	 f ay n d sp
+FIND	 f ay n d sil
+FIRST	 f er s t sp
+FIRST	 f er s t sil
+FISH	 f ih sh sp
+FISH	 f ih sh sil
+FISHING	 f ih sh ih ng sp
+FISHING	 f ih sh ih ng sil
+FIT	 f ih t sp
+FIT	 f ih t sil
+FIVE	 f ay v sp
+FIVE	 f ay v sil
+FIVES	 f ay v z sp
+FIVES	 f ay v z sil
+FOR	 f er sp
+FOR	 f er sil
+FOR	 f ow r sp
+FOR	 f ow r sil
+FORD	 f ow r d sp
+FORD	 f ow r d sil
+FORGOT	 f ow r g aa t sp
+FORGOT	 f ow r g aa t sil
+FORGOTTEN	 f ow r g aa t ax n sp
+FORGOTTEN	 f ow r g aa t ax n sil
+FORK	 f ow r k sp
+FORK	 f ow r k sil
+FORTY	 f ow r t iy sp
+FORTY	 f ow r t iy sil
+FORWARD	 f ow r w er d sp
+FORWARD	 f ow r w er d sil
+FOUR	 f ow r sp
+FOUR	 f ow r sil
+FRANCISCO	 f r ae n s ih s k ow sp
+FRANCISCO	 f r ae n s ih s k ow sil
+FREE	 f r iy sp
+FREE	 f r iy sil
+FRENCH	 f r eh n ch sp
+FRENCH	 f r eh n ch sil
+FRIEND	 f r eh n d sp
+FRIEND	 f r eh n d sil
+FRIENDS	 f r eh n d z sp
+FRIENDS	 f r eh n d z sil
+FROM	 f r ah m sp
+FROM	 f r ah m sil
+FRONT	 f r ah n t sp
+FRONT	 f r ah n t sil
+FUN	 f ah n sp
+FUN	 f ah n sil
+FUNNY	 f ah n iy sp
+FUNNY	 f ah n iy sil
+GAVE	 g ey v sp
+GAVE	 g ey v sil
+GET	 g eh t sp
+GET	 g eh t sil
+GETS	 g eh t s sp
+GETS	 g eh t s sil
+GETTING	 g eh t ih ng sp
+GETTING	 g eh t ih ng sil
+GIRLFRIEND	 g er l f r eh n d sp
+GIRLFRIEND	 g er l f r eh n d sil
+GIVE	 g ih v sp
+GIVE	 g ih v sil
+GO	 g ow sp
+GO	 g ow sil
+GOING	 g ow ih ng sp
+GOING	 g ow ih ng sil
+GOLF	 g ao l f sp
+GOLF	 g ao l f sil
+GONE	 g ao n sp
+GONE	 g ao n sil
+GONNA	 g ah n ax sp
+GONNA	 g ah n ax sil
+GONNA	 g ao n ax sp
+GONNA	 g ao n ax sil
+GOOD	 g uh d sp
+GOOD	 g uh d sil
+GOODNESS	 g uh d n ih s sp
+GOODNESS	 g uh d n ih s sil
+GOSH	 g aa sh sp
+GOSH	 g aa sh sil
+GOT	 g aa t sp
+GOT	 g aa t sil
+GOVERNMENT	 g ah v er m ih n t sp
+GOVERNMENT	 g ah v er m ih n t sil
+GOVERNMENT	 g ah v er n m ih n t sp
+GOVERNMENT	 g ah v er n m ih n t sil
+GRADUATED	 g r ae jh uw ey t ih d sp
+GRADUATED	 g r ae jh uw ey t ih d sil
+GRANDCHILDREN	 g r ae d ch ih l d r ih n sp
+GRANDCHILDREN	 g r ae d ch ih l d r ih n sil
+GREAT	 g r ey t sp
+GREAT	 g r ey t sil
+GREG	 g r eh g sp
+GREG	 g r eh g sil
+GREW	 g r uw sp
+GREW	 g r uw sil
+GUESS	 g eh s sp
+GUESS	 g eh s sil
+GUTTERS	 g ah t er z sp
+GUTTERS	 g ah t er z sil
+HAD	 hh ae d sp
+HAD	 hh ae d sil
+HANDICRAFTS	 hh ae n d iy k r ae f t s sp
+HANDICRAFTS	 hh ae n d iy k r ae f t s sil
+HARI	 hh aa r iy sp
+HARI	 hh aa r iy sil
+HARRISON	 hh ae r ih s ax n sp
+HARRISON	 hh ae r ih s ax n sil
+HAS	 hh ae z sp
+HAS	 hh ae z sil
+HAVE	 hh ae v sp
+HAVE	 hh ae v sil
+HAVEN'T	 hh ae v ax n t sp
+HAVEN'T	 hh ae v ax n t sil
+HAVING	 hh ae v ih ng sp
+HAVING	 hh ae v ih ng sil
+HE	 hh iy sp
+HE	 hh iy sil
+HEAR	 hh iy r sp
+HEAR	 hh iy r sil
+HEARD	 hh er d sp
+HEARD	 hh er d sil
+HELP	 hh eh l p sp
+HELP	 hh eh l p sil
+HER	 hh er sp
+HER	 hh er sil
+HERE	 hh iy r sp
+HERE	 hh iy r sil
+HESITATION	 hh eh z ih t ey sh ih n sp
+HESITATION	 hh eh z ih t ey sh ih n sil
+HEY	 hh ey sp
+HEY	 hh ey sil
+HI	 hh ay sp
+HI	 hh ay sil
+HIGHWAY	 hh ay w ey sp
+HIGHWAY	 hh ay w ey sil
+HIM	 hh ih m sp
+HIM	 hh ih m sil
+HIS	 hh ih z sp
+HIS	 hh ih z sil
+HOLD	 hh ow l d sp
+HOLD	 hh ow l d sil
+HOME	 hh ow m sp
+HOME	 hh ow m sil
+HOT	 hh aa t sp
+HOT	 hh aa t sil
+HOUR	 aw er sp
+HOUR	 aw er sil
+HOUSE	 hh aw s sp
+HOUSE	 hh aw s sil
+HOUSE	 hh aw z sp
+HOUSE	 hh aw z sil
+HOUSTON	 hh y uw s t ih n sp
+HOUSTON	 hh y uw s t ih n sil
+HOUSTON	 y uw s t ih n sp
+HOUSTON	 y uw s t ih n sil
+HOW	 hh aw sp
+HOW	 hh aw sil
+HUH	 hh ah sp
+HUH	 hh ah sil
+HUHHUH	 hh ah hh ah sp
+HUHHUH	 hh ah hh ah sil
+HUNDRED	 hh ah n d r ih d sp
+HUNDRED	 hh ah n d r ih d sil
+HUNDREDS	 hh ah n d r ih d z sp
+HUNDREDS	 hh ah n d r ih d z sil
+HURRICANES	 hh er r ih k ey n z sp
+HURRICANES	 hh er r ih k ey n z sil
+HURT	 hh er t sp
+HURT	 hh er t sil
+I	 ay sp
+I	 ay sil
+I'M	 ay m sp
+I'M	 ay m sil
+I'VE	 ay v sp
+I'VE	 ay v sil
+IF	 ih f sp
+IF	 ih f sil
+IN	 ih n sp
+IN	 ih n sil
+INDEPENDENT	 ih n d ih p eh n d ih n t sp
+INDEPENDENT	 ih n d ih p eh n d ih n t sil
+INDIANA	 ih n d iy ae n ax sp
+INDIANA	 ih n d iy ae n ax sil
+INDIVIDUAL	 ih n d ih v ih jh uw ax l sp
+INDIVIDUAL	 ih n d ih v ih jh uw ax l sil
+INDUSTRIALIZED	 ih n d ah s t r iy ax l ay z d sp
+INDUSTRIALIZED	 ih n d ah s t r iy ax l ay z d sil
+INNER	 ih n er sp
+INNER	 ih n er sil
+INSTEAD	 ih n s t eh d sp
+INSTEAD	 ih n s t eh d sil
+INSURANCE	 ih n sh uh r ih n s sp
+INSURANCE	 ih n sh uh r ih n s sil
+INTERESTING	 ih n t ax r eh s t ih ng sp
+INTERESTING	 ih n t ax r eh s t ih ng sil
+INTERESTING	 ih n t r ih s t ih ng sp
+INTERESTING	 ih n t r ih s t ih ng sil
+INTERPRETIVE	 ih n t er p r ih t ih v sp
+INTERPRETIVE	 ih n t er p r ih t ih v sil
+INTO	 ih n t ax sp
+INTO	 ih n t ax sil
+INTO	 ih n t uw sp
+INTO	 ih n t uw sil
+IRAN	 ay r ae n sp
+IRAN	 ay r ae n sil
+IRAN	 ih r aa n sp
+IRAN	 ih r aa n sil
+IRAN	 ih r ae n sp
+IRAN	 ih r ae n sil
+IRAQ	 ay r ae k sp
+IRAQ	 ay r ae k sil
+IRAQ	 ih r aa k sp
+IRAQ	 ih r aa k sil
+IRAQ	 ih r ae k sp
+IRAQ	 ih r ae k sil
+IS	 ih z sp
+IS	 ih z sil
+IT	 ih t sp
+IT	 ih t sil
+IT'S	 ih t s sp
+IT'S	 ih t s sil
+JOB	 jh aa b sp
+JOB	 jh aa b sil
+JOB	 jh ow b sp
+JOB	 jh ow b sil
+JOINED	 jh oy n d sp
+JOINED	 jh oy n d sil
+JUDGE	 jh ah jh sp
+JUDGE	 jh ah jh sil
+JUST	 jh ah s t sp
+JUST	 jh ah s t sil
+KEEPING	 k iy p ih ng sp
+KEEPING	 k iy p ih ng sil
+KICK	 k ih k sp
+KICK	 k ih k sil
+KID	 k ih d sp
+KID	 k ih d sil
+KIDS	 k ih d z sp
+KIDS	 k ih d z sil
+KILLERS	 k ih l er z sp
+KILLERS	 k ih l er z sil
+KIND	 k ay n d sp
+KIND	 k ay n d sil
+KINDS	 k ay n d z sp
+KINDS	 k ay n d z sil
+KNEW	 n uw sp
+KNEW	 n uw sil
+KNOW	 n ow sp
+KNOW	 n ow sil
+KRISHNA	 k r ih sh n ax sp
+KRISHNA	 k r ih sh n ax sil
+LABEL	 l ey b ax l sp
+LABEL	 l ey b ax l sil
+LADY	 l ey d iy sp
+LADY	 l ey d iy sil
+LAND	 l ae n d sp
+LAND	 l ae n d sil
+LAST	 l ae s t sp
+LAST	 l ae s t sil
+LASTS	 l ae s t s sp
+LASTS	 l ae s t s sil
+LATELY	 l ey t l iy sp
+LATELY	 l ey t l iy sil
+LAUGH	 l ae f sp
+LAUGH	 l ae f sil
+LAUGHTER	 l ae f t er sp
+LAUGHTER	 l ae f t er sil
+LAWN	 l ao n sp
+LAWN	 l ao n sil
+LAWYERS	 l ao y er z sp
+LAWYERS	 l ao y er z sil
+LAWYERS	 l oy er z sp
+LAWYERS	 l oy er z sil
+LEAST	 l iy s t sp
+LEAST	 l iy s t sil
+LEAVING	 l iy v ih ng sp
+LEAVING	 l iy v ih ng sil
+LEGALIZED	 l iy g ax l ay z d sp
+LEGALIZED	 l iy g ax l ay z d sil
+LESLIE	 l eh s l iy sp
+LESLIE	 l eh s l iy sil
+LESLIE	 l eh z l iy sp
+LESLIE	 l eh z l iy sil
+LET	 l eh t sp
+LET	 l eh t sil
+LETTERS	 l eh t er z sp
+LETTERS	 l eh t er z sil
+LIABILITY	 l ay ax b ih l ih t iy sp
+LIABILITY	 l ay ax b ih l ih t iy sil
+LIFE	 l ay f sp
+LIFE	 l ay f sil
+LIFESTYLE	 l ay f s t ay l sp
+LIFESTYLE	 l ay f s t ay l sil
+LIGHT	 l ay t sp
+LIGHT	 l ay t sil
+LIKE	 l ay k sp
+LIKE	 l ay k sil
+LINES	 l ay n z sp
+LINES	 l ay n z sil
+LISTEN	 l ih s ih n sp
+LISTEN	 l ih s ih n sil
+LITTLE	 l ih t ax l sp
+LITTLE	 l ih t ax l sil
+LIVE	 l ay v sp
+LIVE	 l ay v sil
+LIVE	 l ih v sp
+LIVE	 l ih v sil
+LIVED	 l ih v d sp
+LIVED	 l ih v d sil
+LOCALIZED	 l ow k ax l ay z d sp
+LOCALIZED	 l ow k ax l ay z d sil
+LONG	 l ao ng sp
+LONG	 l ao ng sil
+LONGER	 l ao ng g er sp
+LONGER	 l ao ng g er sil
+LOOK	 l uh k sp
+LOOK	 l uh k sil
+LOOKING	 l uh k ih ng sp
+LOOKING	 l uh k ih ng sil
+LOOKS	 l uh k s sp
+LOOKS	 l uh k s sil
+LOOSELY	 l uw s l iy sp
+LOOSELY	 l uw s l iy sil
+LOT	 l aa t sp
+LOT	 l aa t sil
+LOWER	 l aw er sp
+LOWER	 l aw er sil
+LOWER	 l ow er sp
+LOWER	 l ow er sil
+LUCKY	 l ah k iy sp
+LUCKY	 l ah k iy sil
+LYRICS	 l ih r ih k s sp
+LYRICS	 l ih r ih k s sil
+MA'AM	 m ae m sp
+MA'AM	 m ae m sil
+MAINLY	 m ey n l iy sp
+MAINLY	 m ey n l iy sil
+MAJOR	 m ey jh er sp
+MAJOR	 m ey jh er sil
+MAKE	 m ey k sp
+MAKE	 m ey k sil
+MAKES	 m ey k s sp
+MAKES	 m ey k s sil
+MAKING	 m ey k ih ng sp
+MAKING	 m ey k ih ng sil
+MALE	 m ey l sp
+MALE	 m ey l sil
+MANAGE	 m ae n ih jh sp
+MANAGE	 m ae n ih jh sil
+MANY	 m eh n iy sp
+MANY	 m eh n iy sil
+MARIJUANA	 m ae r ax w aa n ax sp
+MARIJUANA	 m ae r ax w aa n ax sil
+MARKET	 m aa r k ih t sp
+MARKET	 m aa r k ih t sil
+MATTER	 m ae t er sp
+MATTER	 m ae t er sil
+MAYBE	 m ey b iy sp
+MAYBE	 m ey b iy sil
+ME	 m iy sp
+ME	 m iy sil
+MEAN	 m iy n sp
+MEAN	 m iy n sil
+MEDIA	 m iy d iy ax sp
+MEDIA	 m iy d iy ax sil
+MEN	 m eh n sp
+MEN	 m eh n sil
+MENTIONING	 m eh n sh ih n ih ng sp
+MENTIONING	 m eh n sh ih n ih ng sil
+METHOD	 m eh th ax d sp
+METHOD	 m eh th ax d sil
+MIDDLE	 m ih d ax l sp
+MIDDLE	 m ih d ax l sil
+MIGHT	 m ay t sp
+MIGHT	 m ay t sil
+MILE	 m ay l sp
+MILE	 m ay l sil
+MILITARY	 m ih l ih t eh r iy sp
+MILITARY	 m ih l ih t eh r iy sil
+MIND	 m ay n d sp
+MIND	 m ay n d sil
+MINE	 m ay n sp
+MINE	 m ay n sil
+MISSING	 m ih s ih ng sp
+MISSING	 m ih s ih ng sil
+MOBILIZED	 m ow b ih l ay z d sp
+MOBILIZED	 m ow b ih l ay z d sil
+MODEM	 m ow d ax m sp
+MODEM	 m ow d ax m sil
+MOM'S	 m aa m z sp
+MOM'S	 m aa m z sil
+MONEY	 m ah n iy sp
+MONEY	 m ah n iy sil
+MONTH	 m ah n th sp
+MONTH	 m ah n th sil
+MORE	 m ow r sp
+MORE	 m ow r sil
+MORNING	 m ow r n ih ng sp
+MORNING	 m ow r n ih ng sil
+MOST	 m ow s t sp
+MOST	 m ow s t sil
+MOTHER	 m ah dh er sp
+MOTHER	 m ah dh er sil
+MOUNTED	 m aw n t ih d sp
+MOUNTED	 m aw n t ih d sil
+MOVED	 m uw v d sp
+MOVED	 m uw v d sil
+MOVIE	 m uw v iy sp
+MOVIE	 m uw v iy sil
+MUCH	 m ah ch sp
+MUCH	 m ah ch sil
+MY	 m ay sp
+MY	 m ay sil
+NAME	 n ey m sp
+NAME	 n ey m sil
+NASAL	 n ey z ax l sp
+NASAL	 n ey z ax l sil
+NATIONS	 n ey sh ih n z sp
+NATIONS	 n ey sh ih n z sil
+NEED	 n iy d sp
+NEED	 n iy d sil
+NEEDS	 n iy d z sp
+NEEDS	 n iy d z sil
+NEVER	 n eh v er sp
+NEVER	 n eh v er sil
+NEWS	 n uw z sp
+NEWS	 n uw z sil
+NEWSPAPER	 n uw z p ey p er sp
+NEWSPAPER	 n uw z p ey p er sil
+NICE	 n ay s sp
+NICE	 n ay s sil
+NIGHT	 n ay t sp
+NIGHT	 n ay t sil
+NINE	 n ay n sp
+NINE	 n ay n sil
+NINETY	 n ay n t iy sp
+NINETY	 n ay n t iy sil
+NISSAN	 n iy s aa n sp
+NISSAN	 n iy s aa n sil
+NO	 n ow sp
+NO	 n ow sil
+NOISE	 n oy z sp
+NOISE	 n oy z sil
+NOR	 n ow r sp
+NOR	 n ow r sil
+NORMAN	 n ow r m ax n sp
+NORMAN	 n ow r m ax n sil
+NOT	 n aa t sp
+NOT	 n aa t sil
+NOTHING	 n ah th ih ng sp
+NOTHING	 n ah th ih ng sil
+NOW	 n aw sp
+NOW	 n aw sil
+NOWADAYS	 n aw ax d ey z sp
+NOWADAYS	 n aw ax d ey z sil
+NOWADAYS	 n aw d ey z sp
+NOWADAYS	 n aw d ey z sil
+OBSERVER	 ax b z er v er sp
+OBSERVER	 ax b z er v er sil
+OF	 ah v sp
+OF	 ah v sil
+OF	 ax f sp
+OF	 ax f sil
+OFFICE	 ao f ih s sp
+OFFICE	 ao f ih s sil
+OH	 ow sp
+OH	 ow sil
+OKAY	 ow k ey sp
+OKAY	 ow k ey sil
+OLD	 ow l d sp
+OLD	 ow l d sil
+ON	 aa n sp
+ON	 aa n sil
+ONCE	 w ah n s sp
+ONCE	 w ah n s sil
+ONE	 w ah n sp
+ONE	 w ah n sil
+ONES	 w ah n z sp
+ONES	 w ah n z sil
+ONLY	 ow n l iy sp
+ONLY	 ow n l iy sil
+OPEN	 ow p ax n sp
+OPEN	 ow p ax n sil
+OPPORTUNITY	 aa p er t uw n ih t iy sp
+OPPORTUNITY	 aa p er t uw n ih t iy sil
+OR	 ow r sp
+OR	 ow r sil
+ORGANIZATION	 ow r g ax n ih z ey sh ih n sp
+ORGANIZATION	 ow r g ax n ih z ey sh ih n sil
+OTHER	 ah dh er sp
+OTHER	 ah dh er sil
+OTHERWISE	 ah dh er w ay z sp
+OTHERWISE	 ah dh er w ay z sil
+OUR	 aw er sp
+OUR	 aw er sil
+OUR	 aa r sp
+OUR	 aa r sil
+OUT	 aw t sp
+OUT	 aw t sil
+OVER	 ow v er sp
+OVER	 ow v er sil
+OVERALL	 ow v er ao l sp
+OVERALL	 ow v er ao l sil
+OVERSEAS	 ow v er s iy z sp
+OVERSEAS	 ow v er s iy z sil
+OWN	 ow n sp
+OWN	 ow n sil
+PAINTING	 p ey n t ih ng sp
+PAINTING	 p ey n t ih ng sil
+PARDON	 p aa r d en sp
+PARDON	 p aa r d en sil
+PARENTS	 p ae r ih n t s sp
+PARENTS	 p ae r ih n t s sil
+PARK	 p aa r k sp
+PARK	 p aa r k sil
+PART	 p aa r t sp
+PART	 p aa r t sil
+PARTICULAR	 p er t ih k y ax l er sp
+PARTICULAR	 p er t ih k y ax l er sil
+PASSPORT	 p ae s p ow r t sp
+PASSPORT	 p ae s p ow r t sil
+PAY	 p ey sp
+PAY	 p ey sil
+PAYS	 p ey z sp
+PAYS	 p ey z sil
+PEACE	 p iy s sp
+PEACE	 p iy s sil
+PENALTY	 p eh n ax l t iy sp
+PENALTY	 p eh n ax l t iy sil
+PEOPLE	 p iy p ax l sp
+PEOPLE	 p iy p ax l sil
+PER	 p er sp
+PER	 p er sil
+PERCENT	 p er s eh n t sp
+PERCENT	 p er s eh n t sil
+PERCENTAGE	 p er s eh n t ih jh sp
+PERCENTAGE	 p er s eh n t ih jh sil
+PERSEVERANCE	 p er s er v iy r ih n s sp
+PERSEVERANCE	 p er s er v iy r ih n s sil
+PERSON	 p er s ih n sp
+PERSON	 p er s ih n sil
+PERSONALLY	 p er s ih n ax l iy sp
+PERSONALLY	 p er s ih n ax l iy sil
+PICKUP	 p ih k ah p sp
+PICKUP	 p ih k ah p sil
+PLACE	 p l ey s sp
+PLACE	 p l ey s sil
+PLACES	 p l ey s ih z sp
+PLACES	 p l ey s ih z sil
+PLAN	 p l ae n sp
+PLAN	 p l ae n sil
+PLENTY	 p l eh n t iy sp
+PLENTY	 p l eh n t iy sil
+PLUS	 p l ah s sp
+PLUS	 p l ah s sil
+PLYMOUTH	 p l ih m ax th sp
+PLYMOUTH	 p l ih m ax th sil
+POINT	 p oy n t sp
+POINT	 p oy n t sil
+POLICY	 p aa l ih s iy sp
+POLICY	 p aa l ih s iy sil
+POLITICALNESS	 p ax l ih t ih k ax l n ih s sp
+POLITICALNESS	 p ax l ih t ih k ax l n ih s sil
+POLLUTANTS	 p ax l uw t en t s sp
+POLLUTANTS	 p ax l uw t en t s sil
+POLYMERS	 p ao l ih m er z sp
+POLYMERS	 p ao l ih m er z sil
+POOL	 p uw l sp
+POOL	 p uw l sil
+POP	 p aa p sp
+POP	 p aa p sil
+POSITIONS	 p ax z ih sh ih n z sp
+POSITIONS	 p ax z ih sh ih n z sil
+POSSIBLY	 p aa s ih b l iy sp
+POSSIBLY	 p aa s ih b l iy sil
+PREFER	 p r ih f er sp
+PREFER	 p r ih f er sil
+PRETTY	 p r ih t iy sp
+PRETTY	 p r ih t iy sil
+PRICES	 p r ay s ih z sp
+PRICES	 p r ay s ih z sil
+PRIMARILY	 p r ay m eh r ih l iy sp
+PRIMARILY	 p r ay m eh r ih l iy sil
+PROBABLY	 p r aa b ax b l iy sp
+PROBABLY	 p r aa b ax b l iy sil
+PROBLEMS	 p r aa b l ax m z sp
+PROBLEMS	 p r aa b l ax m z sil
+PROCESS	 p r aa s eh s sp
+PROCESS	 p r aa s eh s sil
+PROCESS	 p r ax s eh s sp
+PROCESS	 p r ax s eh s sil
+PRODUCTS	 p r aa d ax k t s sp
+PRODUCTS	 p r aa d ax k t s sil
+PROFESSIONAL	 p r ax f eh sh ih n ax l sp
+PROFESSIONAL	 p r ax f eh sh ih n ax l sil
+PROGNOSIS	 p r aa g n ow s ih s sp
+PROGNOSIS	 p r aa g n ow s ih s sil
+PROGRAM	 p r ow g r ae m sp
+PROGRAM	 p r ow g r ae m sil
+PROPER	 p r aa p er sp
+PROPER	 p r aa p er sil
+PROTECT	 p r ax t eh k t sp
+PROTECT	 p r ax t eh k t sil
+PUBLIC	 p ah b l ih k sp
+PUBLIC	 p ah b l ih k sil
+PUNISHMENT	 p ah n ih sh m ih n t sp
+PUNISHMENT	 p ah n ih sh m ih n t sil
+PUT	 p uh t sp
+PUT	 p uh t sil
+QUARTER	 k w ow r t er sp
+QUARTER	 k w ow r t er sil
+QUIET	 k w ay ih t sp
+QUIET	 k w ay ih t sil
+QUITE	 k w ay t sp
+QUITE	 k w ay t sil
+RACIAL	 r ey sh ax l sp
+RACIAL	 r ey sh ax l sil
+RAINING	 r ey n ih ng sp
+RAINING	 r ey n ih ng sil
+RAINY	 r ey n iy sp
+RAINY	 r ey n iy sil
+RANGE	 r ey n jh sp
+RANGE	 r ey n jh sil
+RAT	 r ae t sp
+RAT	 r ae t sil
+READ	 r eh d sp
+READ	 r eh d sil
+READ	 r iy d sp
+READ	 r iy d sil
+REAL	 r iy l sp
+REAL	 r iy l sil
+REALIZE	 r iy ax l ay z sp
+REALIZE	 r iy ax l ay z sil
+REALIZE	 r iy l ay z sp
+REALIZE	 r iy l ay z sil
+REALIZING	 r iy ax l ay z ih ng sp
+REALIZING	 r iy ax l ay z ih ng sil
+REALIZING	 r iy l ay z ih ng sp
+REALIZING	 r iy l ay z ih ng sil
+REALLY	 r iy l iy sp
+REALLY	 r iy l iy sil
+REALLY	 r iy ax l iy sp
+REALLY	 r iy ax l iy sil
+REASON	 r iy z ih n sp
+REASON	 r iy z ih n sil
+REASONS	 r iy z ih n z sp
+REASONS	 r iy z ih n z sil
+RECENTLY	 r iy s ih n t l iy sp
+RECENTLY	 r iy s ih n t l iy sil
+RECONCILE	 r eh k ax n s ay l sp
+RECONCILE	 r eh k ax n s ay l sil
+RECOURSE	 r iy k ow r s sp
+RECOURSE	 r iy k ow r s sil
+RED	 r eh d sp
+RED	 r eh d sil
+REFURBISH	 r iy f er b ih sh sp
+REFURBISH	 r iy f er b ih sh sil
+REGAIN	 r ih g ey n sp
+REGAIN	 r ih g ey n sil
+REGULAR	 r eh g y ax l er sp
+REGULAR	 r eh g y ax l er sil
+RELIABILITY	 r ih l ay ax b ih l ih t iy sp
+RELIABILITY	 r ih l ay ax b ih l ih t iy sil
+RENTAL	 r eh n t ax l sp
+RENTAL	 r eh n t ax l sil
+REPAIRING	 r ih p ey r ih ng sp
+REPAIRING	 r ih p ey r ih ng sil
+REPLACE	 r ih p l ey s sp
+REPLACE	 r ih p l ey s sil
+REPORTING	 r ih p ow r t ih ng sp
+REPORTING	 r ih p ow r t ih ng sil
+REQUIRE	 r ih k w ay r sp
+REQUIRE	 r ih k w ay r sil
+REST	 r eh s t sp
+REST	 r eh s t sil
+RESTAURANT	 r eh s t ax r aa n t sp
+RESTAURANT	 r eh s t ax r aa n t sil
+RESTAURANT	 r eh s t r ih n t sp
+RESTAURANT	 r eh s t r ih n t sil
+RETIRING	 r ih t ay r ih ng sp
+RETIRING	 r ih t ay r ih ng sil
+RETRIAL	 r iy t r ay ax l sp
+RETRIAL	 r iy t r ay ax l sil
+RID	 r ih d sp
+RID	 r ih d sil
+RIGHT	 r ay t sp
+RIGHT	 r ay t sil
+RIGHTS	 r ay t s sp
+RIGHTS	 r ay t s sil
+ROCK	 r aa k sp
+ROCK	 r aa k sil
+RODE	 r ow d sp
+RODE	 r ow d sil
+ROLL	 r ow l sp
+ROLL	 r ow l sil
+ROUGH	 r ah f sp
+ROUGH	 r ah f sil
+ROUGHING	 r ah f ih ng sp
+ROUGHING	 r ah f ih ng sil
+ROW	 r aw sp
+ROW	 r aw sil
+ROW	 r ow sp
+ROW	 r ow sil
+RUINED	 r uw ih n d sp
+RUINED	 r uw ih n d sil
+RUN	 r ah n sp
+RUN	 r ah n sil
+SAID	 s eh d sp
+SAID	 s eh d sil
+SALARY	 s ae l ax r iy sp
+SALARY	 s ae l ax r iy sil
+SAME	 s ey m sp
+SAME	 s ey m sil
+SAN	 s ae n sp
+SAN	 s ae n sil
+SAW	 s ao sp
+SAW	 s ao sil
+SAY	 s ey sp
+SAY	 s ey sil
+SCHEDULE	 s k eh jh ax l sp
+SCHEDULE	 s k eh jh ax l sil
+SCHEDULE	 s k eh jh uh l sp
+SCHEDULE	 s k eh jh uh l sil
+SCHOOLS	 s k uw l z sp
+SCHOOLS	 s k uw l z sil
+SE	 s ey sp
+SE	 s ey sil
+SEASONINGS	 s iy z ih n ih ng z sp
+SEASONINGS	 s iy z ih n ih ng z sil
+SECTIONS	 s eh k sh ih n z sp
+SECTIONS	 s eh k sh ih n z sil
+SEE	 s iy sp
+SEE	 s iy sil
+SEEM	 s iy m sp
+SEEM	 s iy m sil
+SEEMS	 s iy m z sp
+SEEMS	 s iy m z sil
+SEEN	 s iy n sp
+SEEN	 s iy n sil
+SELL	 s eh l sp
+SELL	 s eh l sil
+SEMESTER	 s ax m eh s t er sp
+SEMESTER	 s ax m eh s t er sil
+SENATE	 s eh n ih t sp
+SENATE	 s eh n ih t sil
+SENT	 s eh n t sp
+SENT	 s eh n t sil
+SENTENCE	 s eh n t ih n s sp
+SENTENCE	 s eh n t ih n s sil
+SENTENCING	 s eh n t ih n s ih ng sp
+SENTENCING	 s eh n t ih n s ih ng sil
+SENTENCING	 s eh n t ih n z ih ng sp
+SENTENCING	 s eh n t ih n z ih ng sil
+SERVING	 s er v ih ng sp
+SERVING	 s er v ih ng sil
+SEVEN	 s eh v ih n sp
+SEVEN	 s eh v ih n sil
+SEVENTEEN	 s eh v ih n t iy n sp
+SEVENTEEN	 s eh v ih n t iy n sil
+SHE	 sh iy sp
+SHE	 sh iy sil
+SHED	 sh eh d sp
+SHED	 sh eh d sil
+SHINE	 sh ay n sp
+SHINE	 sh ay n sil
+SHORTCOMINGS	 sh ow r t k ah m ih ng z sp
+SHORTCOMINGS	 sh ow r t k ah m ih ng z sil
+SHOWROOM	 sh ow r uw m sp
+SHOWROOM	 sh ow r uw m sil
+SHOWS	 sh ow z sp
+SHOWS	 sh ow z sil
+SHREWD	 sh r uw d sp
+SHREWD	 sh r uw d sil
+SIDE	 s ay d sp
+SIDE	 s ay d sil
+SINCE	 s ih n s sp
+SINCE	 s ih n s sil
+SIT	 s ih t sp
+SIT	 s ih t sil
+SITUATION	 s ih ch uw ey sh ih n sp
+SITUATION	 s ih ch uw ey sh ih n sil
+SITUATIONS	 s ih ch uw ey sh ih n z sp
+SITUATIONS	 s ih ch uw ey sh ih n z sil
+SIX	 s ih k s sp
+SIX	 s ih k s sil
+SIXES	 s ih k s ih z sp
+SIXES	 s ih k s ih z sil
+SLEEP	 s l iy p sp
+SLEEP	 s l iy p sil
+SMACK	 s m ae k sp
+SMACK	 s m ae k sil
+SMALL	 s m ao l sp
+SMALL	 s m ao l sil
+SMOKER	 s m ow k er sp
+SMOKER	 s m ow k er sil
+SNOWED	 s n ow d sp
+SNOWED	 s n ow d sil
+SO	 s ow sp
+SO	 s ow sil
+SOCIAL	 s ow sh ax l sp
+SOCIAL	 s ow sh ax l sil
+SOLUTION	 s ax l uw sh ih n sp
+SOLUTION	 s ax l uw sh ih n sil
+SOME	 s ah m sp
+SOME	 s ah m sil
+SOMEBODY	 s ah m b ah d iy sp
+SOMEBODY	 s ah m b ah d iy sil
+SOMEHOW	 s ah m hh aw sp
+SOMEHOW	 s ah m hh aw sil
+SOMEONE	 s ah m w ah n sp
+SOMEONE	 s ah m w ah n sil
+SOMEONE	 s ah m w ax n sp
+SOMEONE	 s ah m w ax n sil
+SOMEPLACE	 s ah m p l ey s sp
+SOMEPLACE	 s ah m p l ey s sil
+SOMETHING	 s ah m th ih ng sp
+SOMETHING	 s ah m th ih ng sil
+SOMETIMES	 s ah m t ay m z sp
+SOMETIMES	 s ah m t ay m z sil
+SOMEWHAT	 s ah m w aa t sp
+SOMEWHAT	 s ah m w aa t sil
+SOMEWHERE	 s ah m w ey r sp
+SOMEWHERE	 s ah m w ey r sil
+SORT	 s ow r t sp
+SORT	 s ow r t sil
+SORTS	 s ow r t s sp
+SORTS	 s ow r t s sil
+SOUNDS	 s aw n d z sp
+SOUNDS	 s aw n d z sil
+SOUTH	 s aw th sp
+SOUTH	 s aw th sil
+SPLASH	 s p l ae sh sp
+SPLASH	 s p l ae sh sil
+START	 s t aa r t sp
+START	 s t aa r t sil
+STARTED	 s t aa r t ih d sp
+STARTED	 s t aa r t ih d sil
+STARTING	 s t aa r t ih ng sp
+STARTING	 s t aa r t ih ng sil
+STATES	 s t ey t s sp
+STATES	 s t ey t s sil
+STATIC	 s t ae t ih k sp
+STATIC	 s t ae t ih k sil
+STILL	 s t ih l sp
+STILL	 s t ih l sil
+STOPPED	 s t aa p t sp
+STOPPED	 s t aa p t sil
+STORY	 s t ow r iy sp
+STORY	 s t ow r iy sil
+STRAIGHT	 s t r ey t sp
+STRAIGHT	 s t r ey t sil
+STRINGENT	 s t r ih n jh ih n t sp
+STRINGENT	 s t r ih n jh ih n t sil
+STUFF	 s t ah f sp
+STUFF	 s t ah f sil
+SUCH	 s ah ch sp
+SUCH	 s ah ch sil
+SUPPORTED	 s ax p ow r t ih d sp
+SUPPORTED	 s ax p ow r t ih d sil
+SUR	 s er sp
+SUR	 s er sil
+SURE	 sh uh r sp
+SURE	 sh uh r sil
+SUSPECT	 s ah s p eh k t sp
+SUSPECT	 s ah s p eh k t sil
+SUSPECT	 s ax s p eh k t sp
+SUSPECT	 s ax s p eh k t sil
+SWIM	 s w ih m sp
+SWIM	 s w ih m sil
+SWIMMER	 s w ih m er sp
+SWIMMER	 s w ih m er sil
+SWITCH	 s w ih ch sp
+SWITCH	 s w ih ch sil
+TAKE	 t ey k sp
+TAKE	 t ey k sil
+TAKEN	 t ey k ax n sp
+TAKEN	 t ey k ax n sil
+TALKED	 t ao k t sp
+TALKED	 t ao k t sil
+TAX	 t ae k s sp
+TAX	 t ae k s sil
+TEAMS	 t iy m z sp
+TEAMS	 t iy m z sil
+TECHNICALLY	 t eh k n ih k ax l iy sp
+TECHNICALLY	 t eh k n ih k ax l iy sil
+TECHNICALLY	 t eh k n ih k l iy sp
+TECHNICALLY	 t eh k n ih k l iy sil
+TELL	 t eh l sp
+TELL	 t eh l sil
+TEN	 t eh n sp
+TEN	 t eh n sil
+TEND	 t eh n d sp
+TEND	 t eh n d sil
+TERM	 t er m sp
+TERM	 t er m sil
+TERMS	 t er m z sp
+TERMS	 t er m z sil
+TEXAS	 t eh k s ih s sp
+TEXAS	 t eh k s ih s sil
+THAN	 dh ae n sp
+THAN	 dh ae n sil
+THANK	 th ae ng k sp
+THANK	 th ae ng k sil
+THAT	 dh ae t sp
+THAT	 dh ae t sil
+THE	 dh ah sp
+THE	 dh ah sil
+THE	 dh iy sp
+THE	 dh iy sil
+THE	 dh ax sp
+THE	 dh ax sil
+THEIR	 dh ey r sp
+THEIR	 dh ey r sil
+THEM	 dh eh m sp
+THEM	 dh eh m sil
+THEMSELVES	 dh eh m s eh l v z sp
+THEMSELVES	 dh eh m s eh l v z sil
+THEN	 dh eh n sp
+THEN	 dh eh n sil
+THERE	 dh ey r sp
+THERE	 dh ey r sil
+THESE	 dh iy z sp
+THESE	 dh iy z sil
+THEY	 dh ey sp
+THEY	 dh ey sil
+THEY'RE	 dh ey r sp
+THEY'RE	 dh ey r sil
+THING	 th ih ng sp
+THING	 th ih ng sil
+THINGS	 th ih ng z sp
+THINGS	 th ih ng z sil
+THINK	 th ih ng k sp
+THINK	 th ih ng k sil
+THIRTY	 th er t iy sp
+THIRTY	 th er t iy sil
+THIS	 dh ih s sp
+THIS	 dh ih s sil
+THOSE	 dh ow z sp
+THOSE	 dh ow z sil
+THOUSAND	 th aw z ih n d sp
+THOUSAND	 th aw z ih n d sil
+THREATENED	 th r eh t en d sp
+THREATENED	 th r eh t en d sil
+THREE	 th r iy sp
+THREE	 th r iy sil
+THROUGH	 th r uw sp
+THROUGH	 th r uw sil
+THURSDAYS	 th er z d ey z sp
+THURSDAYS	 th er z d ey z sil
+TICKET	 t ih k ih t sp
+TICKET	 t ih k ih t sil
+TIE	 t ay sp
+TIE	 t ay sil
+TIME	 t ay m sp
+TIME	 t ay m sil
+TIMES	 t ay m z sp
+TIMES	 t ay m z sil
+TIRES	 t ay r z sp
+TIRES	 t ay r z sil
+TITLES	 t ay t el z sp
+TITLES	 t ay t el z sil
+TO	 t uw sp
+TO	 t uw sil
+TO	 t ax sp
+TO	 t ax sil
+TOGETHER	 t ax g eh dh er sp
+TOGETHER	 t ax g eh dh er sil
+TOLD	 t ow l d sp
+TOLD	 t ow l d sil
+TOO	 t uw sp
+TOO	 t uw sil
+TOP	 t aa p sp
+TOP	 t aa p sil
+TOTAL	 t ow t ax l sp
+TOTAL	 t ow t ax l sil
+TRACK	 t r ae k sp
+TRACK	 t r ae k sil
+TRACKS	 t r ae k s sp
+TRACKS	 t r ae k s sil
+TRADITION	 t r ax d ih sh ih n sp
+TRADITION	 t r ax d ih sh ih n sil
+TRANSFERRED	 t r ae n s f er d sp
+TRANSFERRED	 t r ae n s f er d sil
+TRANSVERSE	 t r ae n z v er s sp
+TRANSVERSE	 t r ae n z v er s sil
+TRAVEL	 t r ae v ax l sp
+TRAVEL	 t r ae v ax l sil
+TREAT	 t r iy t sp
+TREAT	 t r iy t sil
+TREK	 t r eh k sp
+TREK	 t r eh k sil
+TRIED	 t r ay d sp
+TRIED	 t r ay d sil
+TROUT	 t r aw t sp
+TROUT	 t r aw t sil
+TRUE	 t r uw sp
+TRUE	 t r uw sil
+TRY	 t r ay sp
+TRY	 t r ay sil
+TRYING	 t r ay ih ng sp
+TRYING	 t r ay ih ng sil
+TWENTY	 t w eh n t iy sp
+TWENTY	 t w eh n t iy sil
+TWO	 t uw sp
+TWO	 t uw sil
+TYPE	 t ay p sp
+TYPE	 t ay p sil
+TYPICAL	 t ih p ih k ax l sp
+TYPICAL	 t ih p ih k ax l sil
+UH	 ah sp
+UH	 ah sil
+UHHUH	 ah hh ah sp
+UHHUH	 ah hh ah sil
+UM	 ah m sp
+UM	 ah m sil
+UNDERSTAND	 ah n d er s t ae n d sp
+UNDERSTAND	 ah n d er s t ae n d sil
+UNDERSTANDING	 ah n d er s t ae n d ih ng sp
+UNDERSTANDING	 ah n d er s t ae n d ih ng sil
+UNEMPLOYMENT	 ah n eh m p l oy m ih n t sp
+UNEMPLOYMENT	 ah n eh m p l oy m ih n t sil
+UNFORTUNATELY	 ax n f ow r ch ih n ih t l iy sp
+UNFORTUNATELY	 ax n f ow r ch ih n ih t l iy sil
+UNITED	 y uw n ay t ih d sp
+UNITED	 y uw n ay t ih d sil
+UNRELIABLE	 ah n r ih l ay ax b ax l sp
+UNRELIABLE	 ah n r ih l ay ax b ax l sil
+UNTIL	 ax n t ih l sp
+UNTIL	 ax n t ih l sil
+UNUSUAL	 ax n y uw zh ax l sp
+UNUSUAL	 ax n y uw zh ax l sil
+UNUSUAL	 ax n y uw zh uw ax l sp
+UNUSUAL	 ax n y uw zh uw ax l sil
+UNUSUAL	 ax n y uw zh w ax l sp
+UNUSUAL	 ax n y uw zh w ax l sil
+UNWIND	 ax n w ay n d sp
+UNWIND	 ax n w ay n d sil
+UP	 ah p sp
+UP	 ah p sil
+UPSTAIRS	 ax p s t ey r z sp
+UPSTAIRS	 ax p s t ey r z sil
+USED	 y uw z d sp
+USED	 y uw z d sil
+USUALLY	 y uw zh ax l iy sp
+USUALLY	 y uw zh ax l iy sil
+USUALLY	 y uw zh uw ax l iy sp
+USUALLY	 y uw zh uw ax l iy sil
+USUALLY	 y uw zh w ax l iy sp
+USUALLY	 y uw zh w ax l iy sil
+V	 v iy sp
+V	 v iy sil
+VERY	 v eh r iy sp
+VERY	 v eh r iy sil
+VIDEOS	 v ih d iy ow z sp
+VIDEOS	 v ih d iy ow z sil
+VIOLENCE	 v ay ax l ih n s sp
+VIOLENCE	 v ay ax l ih n s sil
+VIRTUE	 v er ch uw sp
+VIRTUE	 v er ch uw sil
+WAGES	 w ey jh ih z sp
+WAGES	 w ey jh ih z sil
+WAKE	 w ey k sp
+WAKE	 w ey k sil
+WALL	 w ao l sp
+WALL	 w ao l sil
+WANNA	 w aa n ax sp
+WANNA	 w aa n ax sil
+WANNA	 w ah n ax sp
+WANNA	 w ah n ax sil
+WANTED	 w aa n t ih d sp
+WANTED	 w aa n t ih d sil
+WANTED	 w ah n t ih d sp
+WANTED	 w ah n t ih d sil
+WARDROBE	 w ow r d r ow b sp
+WARDROBE	 w ow r d r ow b sil
+WAS	 w ah z sp
+WAS	 w ah z sil
+WATCH	 w aa ch sp
+WATCH	 w aa ch sil
+WATER	 w ao t er sp
+WATER	 w ao t er sil
+WAY	 w ey sp
+WAY	 w ey sil
+WE	 w iy sp
+WE	 w iy sil
+WE'RE	 w iy r sp
+WE'RE	 w iy r sil
+WEARS	 w ey r z sp
+WEARS	 w ey r z sil
+WEATHER	 w eh dh er sp
+WEATHER	 w eh dh er sil
+WEEK	 w iy k sp
+WEEK	 w iy k sil
+WEEKS	 w iy k s sp
+WEEKS	 w iy k s sil
+WELFARE	 w eh l f ey r sp
+WELFARE	 w eh l f ey r sil
+WELL	 w eh l sp
+WELL	 w eh l sil
+WENT	 w eh n t sp
+WENT	 w eh n t sil
+WERE	 w er sp
+WERE	 w er sil
+WHAT	 w aa t sp
+WHAT	 w aa t sil
+WHAT	 w ah t sp
+WHAT	 w ah t sil
+WHAT'S	 w aa t s sp
+WHAT'S	 w aa t s sil
+WHAT'S	 w ah t s sp
+WHAT'S	 w ah t s sil
+WHEEL	 w iy l sp
+WHEEL	 w iy l sil
+WHEN	 w eh n sp
+WHEN	 w eh n sil
+WHERE	 w ey r sp
+WHERE	 w ey r sil
+WHICH	 w ih ch sp
+WHICH	 w ih ch sil
+WHILE	 w ay l sp
+WHILE	 w ay l sil
+WHO	 hh uw sp
+WHO	 hh uw sil
+WHO'S	 hh uw z sp
+WHO'S	 hh uw z sil
+WHOLE	 hh ow l sp
+WHOLE	 hh ow l sil
+WHOM	 hh uw m sp
+WHOM	 hh uw m sil
+WHY	 w ay sp
+WHY	 w ay sil
+WIDE	 w ay d sp
+WIDE	 w ay d sil
+WILL	 w ih l sp
+WILL	 w ih l sil
+WILLIAMSBURG	 w ih l y ax m z b er g sp
+WILLIAMSBURG	 w ih l y ax m z b er g sil
+WIN	 w ih n sp
+WIN	 w ih n sil
+WINE	 w ay n sp
+WINE	 w ay n sil
+WITH	 w ih dh sp
+WITH	 w ih dh sil
+WITH	 w ih th sp
+WITH	 w ih th sil
+WITHIN	 w ih dh ih n sp
+WITHIN	 w ih dh ih n sil
+WITHIN	 w ih th ih n sp
+WITHIN	 w ih th ih n sil
+WITHOUT	 w ih dh aw t sp
+WITHOUT	 w ih dh aw t sil
+WITHOUT	 w ih th aw t sp
+WITHOUT	 w ih th aw t sil
+WOMEN	 w ih m ih n sp
+WOMEN	 w ih m ih n sil
+WORK	 w er k sp
+WORK	 w er k sil
+WORKING	 w er k ih ng sp
+WORKING	 w er k ih ng sil
+WORKS	 w er k s sp
+WORKS	 w er k s sil
+WORRYING	 w er r iy ih ng sp
+WORRYING	 w er r iy ih ng sil
+WOULD	 w uh d sp
+WOULD	 w uh d sil
+WRITING	 r ay t ih ng sp
+WRITING	 r ay t ih ng sil
+WRONG	 r ao ng sp
+WRONG	 r ao ng sil
+Y'ALL	 y ao l sp
+Y'ALL	 y ao l sil
+YEAH	 y ae sp
+YEAH	 y ae sil
+YEAR	 y iy r sp
+YEAR	 y iy r sil
+YEARS	 y iy r z sp
+YEARS	 y iy r z sil
+YES	 y eh s sp
+YES	 y eh s sil
+YET	 y eh t sp
+YET	 y eh t sil
+YOU	 y uw sp
+YOU	 y uw sil
+YOUR	 y ow r sp
+YOUR	 y ow r sil
+YOUR	 y uh r sp
+YOUR	 y uh r sil
+YOURSELF	 y ow r s eh l f sp
+YOURSELF	 y ow r s eh l f sil
+YOURSELF	 y uh r s eh l f sp
+YOURSELF	 y uh r s eh l f sil
+YOUTH	 y uw th sp
+YOUTH	 y uw th sil
+@

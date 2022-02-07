@@ -1,0 +1,29 @@
+signal 3506-B-0036
+type 0
+comment created using xlabel Tue Jun 10 16:21:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.321187  121 [static]
+    0.881796  121 AND
+    1.213735  121 UM
+    1.378476  121 h#
+    1.759591  121 WASH
+    1.900000  121 THEM
+    2.042355  121 AND
+    2.359542  121 COOL
+    2.598687  121 THEM
+    2.969967  121 [breath]
+    3.176508  121 AND
+    3.501071  121 THEN
+    3.682943  121 [breath]
+    3.971597  121 DUMP
+    4.100941  121 THEM
+    4.203404  121 IN
+    4.462386  121 THE
+    4.757444  121 UH
+    5.049877  121 h#
+    5.632615  121 SAUCE

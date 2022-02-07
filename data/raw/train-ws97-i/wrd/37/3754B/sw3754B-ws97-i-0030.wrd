@@ -1,0 +1,16 @@
+signal 3754-B-0030
+type 0
+comment created using xlabel Mon Jul  7 14:09:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.207190  121 [BREATH]
+    0.338032  121 MY
+    0.644356  121 SISTER
+    0.858320  121 LIVES
+    0.995320  121 IN
+    1.592570  121 PIEDMONT
+    1.627980  121 [BREATH]

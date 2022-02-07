@@ -1,0 +1,30 @@
+signal 2531-B-0021
+type 0
+comment created using xlabel Tue Jun  3 13:56:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.276793  121 [BREATH]
+    0.438448  121 AS
+    0.714608  121 FAR_AS
+    0.953723  121 HARD
+    1.256830  121 LINE
+    1.788320  121 LAWS
+    2.165510  121 DEALING
+    2.296850  121 WITH
+    2.849190  121 CRIMINALS
+    2.988950  121 WE
+    3.118610  121 "DON'T"
+    3.293740  121 HAVE
+    3.398140  121 THEM
+    3.467180  121 IN
+    3.578320  121 THIS
+    3.889840  121 COUNTRY
+    4.228320  121 ANYMORE
+    4.336080  121 WE
+    4.450590  121 HAVE
+    5.175690  121 SITUATION
+    5.758320  121 ETHICS

@@ -1,0 +1,13 @@
+signal 3457-A-0004
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.062261  121 h#
+    0.516482  121 SO
+    0.609268  121 h#
+    0.841673  121 AND
+    1.144406  121 h#

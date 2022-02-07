@@ -1,0 +1,14 @@
+signal 2709-A-0041
+type 0
+comment created using xlabel Wed Feb 12 12:30:25 1997
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 H#
+    0.450000  121 YOU
+    0.740000  121 KNOW
+    1.050000  121 THE
+    1.345650  121 ?

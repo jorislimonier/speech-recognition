@@ -1,0 +1,19 @@
+signal 3095-B-0107
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 h#
+    0.490000  121 WHICH
+    1.202840  121 h#
+    1.346225  121 OR
+    1.609117  121 SHOULD
+    1.905981  121 NEVER
+    2.108258  121 HAVE
+    2.475003  121 GONE
+    2.535194  121 TO
+    3.036228  121 COURT
+    3.244924  121 h#

@@ -1,0 +1,20 @@
+signal 4726-B-0016
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132015  121 h#
+    0.188320  121 I
+    0.363680  121 THINK
+    0.460000  121 THERE
+    0.609555  121 SHOULD
+    0.726678  121 BE
+    0.939688  121 MORE
+    1.448775  121 CONTROL
+    1.700745  121 AS
+    1.796352  121 h#
+    1.924377  121 LIKE
+    2.248929  121 h#

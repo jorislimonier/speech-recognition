@@ -1,0 +1,17 @@
+signal 2830-A-0144
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.780461  121 h#
+    0.876939  121 AND
+    1.090000  121 WHAT'S
+    1.238125  121 THAT
+    1.420436  121 OTHER
+    1.642466  121 ONE
+    1.800000  121 WHERE
+    1.865791  121 THEY
+    2.485850  121 h#

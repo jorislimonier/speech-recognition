@@ -1,0 +1,18 @@
+signal 2028-A-0011
+type 0
+comment created using xlabel Mon Jun 30 17:01:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.356453  121 [LAUGHTER]
+    0.676864  121 [BREATH]
+    0.768058  121 ?
+    0.880000  121 WE
+    1.081080  121 SET
+    1.174740  121 A
+    1.572800  121 RECORD
+    2.281390  121 YESTERDAY
+    2.606730  121 [BREATH]

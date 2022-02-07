@@ -1,0 +1,15 @@
+signal 4659-A-0020
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.162081  121 AND
+    0.314882  121 WE
+    0.639350  121 HAVE
+    1.049383  121 NO
+    1.512581  121 DOWN
+    1.940000  121 TIME
+    2.245581  121 h#

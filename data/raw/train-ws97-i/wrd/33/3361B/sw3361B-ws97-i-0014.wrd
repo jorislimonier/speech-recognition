@@ -1,0 +1,20 @@
+signal 3361-B-0014
+type 0
+comment created using xlabel Fri Mar 14 11:18:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 [BACKGROUNDNOISE]
+    0.239563  121 YOU
+    0.387739  121 KNOW
+    0.602405  121 WANT
+    0.698340  121 TO
+    0.973805  121 REALLY
+    1.276810  121 CHECK
+    1.595270  121 THINGS
+    1.906380  121 OUT
+    2.122940  121 AND
+    2.282520  121 [STATIC]

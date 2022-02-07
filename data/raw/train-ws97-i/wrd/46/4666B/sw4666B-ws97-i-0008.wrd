@@ -1,0 +1,23 @@
+signal 4666-B-0008
+type 0
+comment created using xlabel Tue Apr 22 16:45:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 SIL
+    0.300000  121 SO
+    0.400000  121 "I'M"
+    0.571559  121 NOT
+    1.030000  121 EXACTLY
+    1.108800  121 A
+    1.321010  121 REAL
+    1.780000  121 TWINS
+    2.150000  121 FAN
+    2.370000  121 FROM
+    2.675050  121 BIRTH
+    2.771050  121 OR
+    3.370000  121 ANYTHING
+    3.546650  121 BUT_#

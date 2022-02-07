@@ -1,0 +1,17 @@
+signal 2953-A-0117
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 h#
+    0.214696  121 I
+    0.325654  121 THINK
+    0.554364  121 ONE
+    0.669533  121 THAT
+    0.992163  121 WOULD
+    1.159976  121 h#
+    1.352548  121 BE
+    1.875237  121 h#

@@ -1,0 +1,19 @@
+signal 2575-A-0095
+type 0
+comment created using xlabel Thu Mar 20 14:24:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.233674  121 [STATIC]
+    0.281128  121 [MOUTHNOISE]
+    0.563950  121 COURSE
+    0.637977  121 ON
+    0.746170  121 THE
+    0.939780  121 OTHER
+    1.247280  121 HAND
+    1.418110  121 I
+    1.699030  121 CAN
+    2.008430  121 [BREATH]

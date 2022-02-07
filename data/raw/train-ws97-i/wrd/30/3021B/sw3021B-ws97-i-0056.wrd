@@ -1,0 +1,19 @@
+signal 3021-B-0056
+type 0
+comment created using xlabel Fri May 16 15:18:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 [BREATH]
+    0.402480  121 I
+    0.552647  121 "DON'T"
+    0.836746  121 REALLY
+    1.312890  121 NEED
+    1.526980  121 ONE
+    1.630720  121 IN
+    1.829620  121 THE
+    2.453870  121 ASPECTS
+    2.605060  121 IN_#

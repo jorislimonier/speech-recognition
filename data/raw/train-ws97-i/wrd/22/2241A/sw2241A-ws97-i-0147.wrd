@@ -1,0 +1,18 @@
+signal 2241-A-0147
+type 0
+comment created using xlabel Thu Jul  3 15:20:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.111443  121 [MOUTHNOISE]
+    0.297476  121 [STATIC]
+    0.577489  121 JUST
+    0.628646  121 A
+    1.185980  121 LEAFY
+    1.479460  121 THEY_DON'T
+    1.649080  121 DO
+    2.179490  121 ANYTHING
+    2.866060  121 [CROSSTALK]

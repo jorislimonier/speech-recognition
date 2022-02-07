@@ -1,0 +1,17 @@
+signal 2295-B-0028
+type 0
+comment created using xlabel Mon Mar 24 14:16:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.223742  121 [MOUTHNOISE]
+    0.650000  121 FAMILY
+    0.763318  121 AND
+    1.254030  121 FRIENDS
+    1.469680  121 ARE
+    1.857070  121 [STATIC]
+    2.401250  121 USUALLY
+    2.545380  121 WELL_#

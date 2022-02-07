@@ -1,0 +1,16 @@
+signal 4171-B-0007
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130187  121 h#
+    0.258848  121 OH
+    0.451839  121 THAT'S
+    0.534727  121 A
+    0.737968  121 PRETTY
+    0.893845  121 GOOD
+    1.163186  121 DEAL
+    1.306692  121 h#

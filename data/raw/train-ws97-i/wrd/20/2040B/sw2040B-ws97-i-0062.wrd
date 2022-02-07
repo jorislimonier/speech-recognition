@@ -1,0 +1,14 @@
+signal 2040-B-0062
+type 0
+comment created using xlabel Mon Mar  3 11:58:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.089220  121 [FALSESTART]
+    0.480000  121 AGAINST
+    0.603204  121 THAT
+    1.102540  121 DECISION
+    1.387490  121 [BREATH]

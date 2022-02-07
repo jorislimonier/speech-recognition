@@ -1,0 +1,13 @@
+signal 3083-A-0035
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.285416  121 h#
+    0.513228  121 WHERE
+    0.671601  125 you
+    0.956671  121 GOT
+    1.288035  125 h#

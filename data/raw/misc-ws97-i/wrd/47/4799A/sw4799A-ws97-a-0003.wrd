@@ -1,0 +1,17 @@
+signal 4799-A-0003
+type 0
+comment created using xlabel Tue Feb 25 16:47:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.128247  121 [BREATH]
+    0.210000  121 YOU
+    0.380000  121 KNOW
+    0.570484  121 MY
+    1.010610  121 [STATIC]
+    1.153810  121 MY
+    1.623430  121 PARENTS
+    1.979320  121 ARE

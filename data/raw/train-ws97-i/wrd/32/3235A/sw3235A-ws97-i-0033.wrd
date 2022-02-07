@@ -1,0 +1,16 @@
+signal 3235-A-0033
+type 0
+comment created using xlabel Mon May 12 18:40:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.079123  121 [CROSSTALK]
+    0.197921  121 IN
+    0.767456  121 RICHARDSON
+    0.928183  121 "WE'RE"
+    1.066200  121 IN
+    1.536150  121 PLANO
+    1.848870  121 HERE_#

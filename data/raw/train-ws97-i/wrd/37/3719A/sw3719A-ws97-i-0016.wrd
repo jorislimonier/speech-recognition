@@ -1,0 +1,18 @@
+signal 3719-A-0016
+type 0
+comment created using xlabel Sat Jul  5 19:54:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132062  121 [STATIC]
+    0.278162  121 WELL
+    0.765159  121 [BREATH]
+    0.876989  121 I
+    1.120000  121 THINK
+    1.262980  121 THEY
+    1.495660  121 NEED
+    1.587640  121 TO
+    1.905090  121 [BREATH]

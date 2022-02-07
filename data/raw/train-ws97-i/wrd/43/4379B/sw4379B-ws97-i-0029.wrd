@@ -1,0 +1,19 @@
+signal 4379-B-0029
+type 0
+comment created using xlabel Mon Apr 28 19:33:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 [MOUTHNOISE]
+    0.274447  121 THAT
+    0.384802  121 H#
+    0.650000  121 MONEY
+    0.790000  121 IS
+    0.960554  121 PUT
+    1.306390  121 INTO
+    1.541860  121 EACH
+    1.900000  121 MONTH
+    2.047590  121 H#

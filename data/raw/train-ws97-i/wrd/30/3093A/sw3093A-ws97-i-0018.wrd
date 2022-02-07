@@ -1,0 +1,20 @@
+signal 3093-A-0018
+type 0
+comment created using xlabel Fri May  2 15:36:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 [BREATH]
+    0.668837  121 INTO
+    1.301560  121 DURANGO
+    1.687780  121 AND
+    1.771290  121 H#
+    2.092460  121 NORTH
+    2.167940  121 OF
+    2.330000  121 THE
+    2.749090  121 AREA
+    3.073480  121 [CROSSTALK]
+    3.449260  121 THERE

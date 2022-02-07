@@ -1,0 +1,16 @@
+signal 2194-B-0016
+type 0
+comment created using xlabel Thu Jun 26 13:15:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090864  121 AND_#
+    0.142513  121 SIL
+    0.219986  121 WHAT
+    0.451232  121 HAVE
+    0.570000  121 YOU
+    0.739997  121 AND
+    1.004110  121 UH

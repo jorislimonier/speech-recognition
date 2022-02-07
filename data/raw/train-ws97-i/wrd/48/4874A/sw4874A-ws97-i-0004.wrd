@@ -1,0 +1,29 @@
+signal 4874-A-0004
+type 0
+comment created using xlabel Tue Apr 22 12:58:37 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.278406  121 SIL
+    0.514963  121 UH
+    0.622833  121 I
+    0.813971  121 THINK
+    0.969153  121 ONE
+    1.005110  121 OF
+    1.084590  121 THE
+    1.434700  121 BIGGEST
+    1.985400  121 THINGS
+    2.172210  121 WE_HAVE
+    2.265280  121 TO
+    2.399880  121 WORRY
+    2.668520  121 ABOUT
+    2.903020  121 IS
+    3.393640  121 THE
+    3.623590  121 UH
+    4.051600  121 CONTROL
+    4.180000  121 OF
+    4.660000  121 NUCLEAR
+    5.223100  121 ARMS

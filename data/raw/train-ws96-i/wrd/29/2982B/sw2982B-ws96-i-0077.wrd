@@ -1,0 +1,13 @@
+signal 2982-B-0077
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327348  121 h#
+    0.397780  121 IS
+    0.529063  121 THAT
+    0.993251  121 LOCALLY
+    1.125578  125 h#

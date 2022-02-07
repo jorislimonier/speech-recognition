@@ -1,0 +1,17 @@
+signal 2851-B-0026
+type 0
+comment created using xlabel Thu Oct 31 18:00:09 1996
+comment $Locker:  $
+color 121
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.046284  121 h#
+    0.121709  121 have
+    0.192563  121 YOU
+    0.419399  121 LIVED
+    0.490255  121 IN
+    0.696542  121 NORTH
+    1.170000  121 CAROLINA
+    1.209437  121 h#

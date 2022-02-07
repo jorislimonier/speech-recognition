@@ -1,0 +1,33 @@
+signal 2797-B-0001
+type 0
+comment created using xlabel Mon Mar 10 11:08:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 [BACKGROUNDNOISE
+    0.318509  121 WELL
+    0.448415  121 I
+    0.826737  121 THINK
+    1.063760  121 SIL
+    1.157200  121 [MOUTHNOISE]
+    1.264320  121 I
+    1.480000  121 "DON'T"
+    1.540000  121 KNOW
+    1.700000  121 HOW
+    1.850000  121 YOUR
+    2.238020  121 SCHOOLS
+    2.420000  121 WORK
+    2.652800  121 BACK
+    2.930000  121 THERE
+    3.150000  121 BUT
+    3.370000  121 WE
+    3.800000  121 SUPPORT
+    3.945020  121 OUR
+    4.327900  121 SCHOOLS
+    4.510000  121 HERE
+    4.699380  121 WITH
+    5.210000  121 PROPERTY
+    5.890000  121 TAXES

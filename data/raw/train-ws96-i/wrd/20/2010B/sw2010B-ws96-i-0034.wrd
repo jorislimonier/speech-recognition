@@ -1,0 +1,16 @@
+signal 2010-B-0034
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145078  121 H#
+    0.290000  121 HE
+    0.512592  121 REALLY
+    0.892330  121 WANTED
+    1.005290  121 IT
+    1.393950  121 WHETHER
+    1.550720  121 IT
+    1.867500  121 H#

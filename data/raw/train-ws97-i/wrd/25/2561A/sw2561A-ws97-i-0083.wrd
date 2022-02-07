@@ -1,0 +1,18 @@
+signal 2561-A-0083
+type 0
+comment created using xlabel Thu Apr  3 16:15:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.155568  121 H#
+    0.519813  121 ?
+    0.703649  121 SIL
+    1.020000  121 ALMOST
+    1.132010  121 LIKE
+    1.199830  121 H#
+    1.330000  121 "THEY'RE"
+    1.735270  121 MENTALLY
+    1.886980  121 ?_#

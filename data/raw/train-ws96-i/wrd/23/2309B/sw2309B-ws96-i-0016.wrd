@@ -1,0 +1,17 @@
+signal 2309-B-0016
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 H#
+    0.505742  121 AND
+    0.948057  121 FINES
+    1.030000  121 AND
+    1.252420  121 THINGS
+    1.312320  121 OF
+    1.475280  121 THAT
+    1.889080  121 NATURE
+    2.010500  121 H#

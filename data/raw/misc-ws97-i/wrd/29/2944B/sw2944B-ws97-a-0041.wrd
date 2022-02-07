@@ -1,0 +1,18 @@
+signal 2944-B-0041
+type 0
+comment created using xlabel Tue Feb 18 15:42:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100361  121 ?_#
+    0.203728  121 AND
+    0.369459  121 THEN
+    0.580000  121 NOW
+    0.734284  121 "I'M"
+    0.970767  121 IN
+    1.395720  121 CORPORATE
+    2.127520  121 COMMUNICATIONS
+    2.245620  121 ?_#

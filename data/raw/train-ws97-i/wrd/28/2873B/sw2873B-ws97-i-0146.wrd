@@ -1,0 +1,15 @@
+signal 2873-B-0146
+type 0
+comment created using xlabel Mon Jun 30 13:02:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 IF
+    0.489775  121 THAT'S
+    0.760000  121 REALLY
+    0.953203  121 THEIR
+    1.370038  121 DREAM
+    1.489282  121 [static]

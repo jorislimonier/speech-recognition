@@ -1,0 +1,16 @@
+signal 3642-A-0029
+type 0
+comment created using xlabel Thu Jun 12 17:48:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.313721  121 [static]
+    0.469769  121 UH
+    0.800000  121 MORE
+    1.520000  121 TAXES
+    1.730000  121 AND
+    2.276442  121 THE
+    2.343773  121 [static]

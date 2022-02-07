@@ -1,0 +1,23 @@
+signal 3095-B-0090
+type 0
+comment created using xlabel Wed Feb 19 11:12:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 SIL
+    0.662718  121 TO
+    0.926205  121 H#
+    1.311490  121 UH
+    1.470580  121 SIL
+    1.890000  121 PROTECT
+    2.660000  121 ?
+    2.920000  121 FROM
+    3.220000  121 BEING
+    3.460000  121 HAVING
+    3.590000  121 THEIR
+    3.940000  121 CIVIL
+    4.260000  121 RIGHTS
+    4.367770  121 ?_#

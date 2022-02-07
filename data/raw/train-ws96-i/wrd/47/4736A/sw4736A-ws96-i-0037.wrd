@@ -1,0 +1,20 @@
+signal 4736-A-0037
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080000  121 h#
+    0.150000  121 THE
+    0.385394  121 GUY
+    0.539036  121 WAS
+    0.581732  121 A
+    0.806414  121 LAW
+    1.223158  121 BREAKER
+    1.654193  121 h#
+    1.760000  121 AS
+    2.007423  121 BEING
+    2.590000  121 SUPPORTIVE
+    2.847129  121 h#

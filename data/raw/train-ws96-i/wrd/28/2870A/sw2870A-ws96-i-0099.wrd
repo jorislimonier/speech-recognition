@@ -1,0 +1,16 @@
+signal 2870-A-0099
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.156228  121 BUT_#
+    0.546934  121 BECAUSE
+    0.638265  121 IT
+    0.915972  121 WAS
+    1.086639  121 HE
+    1.327148  121 HAD
+    1.791972  121 AFFAIR
+    1.926845  121 h#

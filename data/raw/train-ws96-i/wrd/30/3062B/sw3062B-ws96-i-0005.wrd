@@ -1,0 +1,15 @@
+signal 3062-B-0005
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.409474  121 h#
+    0.585608  121 I
+    0.879164  121 THANK
+    1.086488  121 GOD
+    1.313993  121 EVERY
+    1.551722  121 DAY
+    1.924957  125 h#

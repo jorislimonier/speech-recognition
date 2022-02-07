@@ -1,0 +1,18 @@
+signal 2180-A-0046
+type 0
+comment created using xlabel Sun Jun 15 18:28:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.024629  121 H#
+    0.310000  121 HAVE
+    0.521661  121 THAT
+    0.582775  121 H#
+    0.876691  121 RATHER_THAN
+    1.350000  121 TRIAL
+    1.559390  121 BY
+    1.986400  121 JURY
+    2.167940  121 [BREATH]

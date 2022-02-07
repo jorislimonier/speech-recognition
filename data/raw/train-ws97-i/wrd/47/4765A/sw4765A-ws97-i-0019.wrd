@@ -1,0 +1,28 @@
+signal 4765-A-0019
+type 0
+comment created using xlabel Thu Jul 17 13:28:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140389  121 [BREATH]
+    0.304117  121 AND
+    0.720000  121 SO
+    0.978293  121 UH
+    1.323410  121 [BREATH]
+    1.600000  121 BUT
+    1.736080  121 BUT
+    1.999600  121 ?
+    2.229140  121 BUT
+    2.861580  121 SOMETIMES
+    3.020000  121 YOU
+    3.176490  121 KNOW_?
+    3.442950  121 DRUG
+    3.711020  121 USE
+    4.070000  121 CAN
+    4.244610  121 CAN
+    4.706580  121 ESCAPE
+    4.961370  121 THAT
+    5.306910  121 [BREATH]

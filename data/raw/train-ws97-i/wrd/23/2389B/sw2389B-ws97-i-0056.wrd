@@ -1,0 +1,21 @@
+signal 2389-B-0056
+type 0
+comment created using xlabel Fri Apr 18 13:54:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 [BREATH]
+    0.440000  121 AND
+    0.580676  121 WHEN
+    0.720772  121 THEY
+    0.855982  121 WERE
+    1.211110  121 COMING
+    1.722850  121 HOME
+    1.786380  121 H#
+    1.954170  121 I
+    2.107300  121 WAS
+    2.400530  121 GOING_TO
+    2.780000  121 WORK

@@ -1,0 +1,14 @@
+signal 2834-B-0155
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.105957  121 ?_#
+    0.170000  121 IN
+    0.731296  121 TEXAS
+    0.985440  121 SORT
+    1.038527  121 OF
+    1.430182  121 THING_#

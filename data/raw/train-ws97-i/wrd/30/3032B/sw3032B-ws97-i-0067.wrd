@@ -1,0 +1,13 @@
+signal 3032-B-0067
+type 0
+comment created using xlabel Thu May 29 12:10:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.343699  121 [breath]
+    0.703021  121 "IT'S"
+    1.046399  121 UM
+    1.286764  121 [mouth noise]

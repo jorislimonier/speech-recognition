@@ -1,0 +1,17 @@
+signal 2616-B-0079
+type 0
+comment created using xlabel Tue Apr 29 15:15:08 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.097942  121 SIL
+    0.219719  121 HE
+    0.440658  121 HAD
+    0.590270  121 THE
+    0.700000  121 A
+    0.981696  121 COUPLE[OF]
+    1.150000  121 THEM
+    1.708880  121 BOMBARDED

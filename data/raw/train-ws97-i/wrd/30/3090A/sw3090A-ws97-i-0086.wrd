@@ -1,0 +1,17 @@
+signal 3090-A-0086
+type 0
+comment created using xlabel Mon May  5 15:12:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.388649  121 OH_#
+    0.933790  121 WOW
+    1.020000  121 H#
+    1.330850  121 WELL
+    1.398500  121 H#
+    1.662440  121 MY
+    1.856100  121 MY
+    2.219520  121 HUSBAND_AND_I_#

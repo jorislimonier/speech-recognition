@@ -1,0 +1,20 @@
+signal 3684-A-0050
+type 0
+comment created using xlabel Fri Jun 27 11:56:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.051778  121 [crosstalk]
+    0.531150  121 MERGES
+    0.940447  121 [breath]
+    1.249411  121 IT'S_RIGHT
+    1.419819  121 THERE
+    1.610000  121 "IT'S"
+    1.785308  121 SORT
+    1.866530  121 OF
+    1.980000  121 A
+    2.430000  121 RESTAURANT
+    2.820042  121 ROW

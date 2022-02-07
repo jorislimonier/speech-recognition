@@ -1,0 +1,20 @@
+signal 3862-A-0039
+type 0
+comment created using xlabel Wed Mar 26 11:52:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300000  121 H#
+    0.454670  121 THE
+    0.883971  121 PEOPLE
+    1.092110  121 THAT
+    1.320920  121 ARE
+    1.410970  121 H#
+    1.661040  121 THAT
+    1.880880  121 ARE
+    1.971560  121 [FALSESTART]
+    2.250000  121 IN
+    2.702130  121 THERE

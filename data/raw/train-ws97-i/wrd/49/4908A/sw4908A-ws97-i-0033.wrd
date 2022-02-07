@@ -1,0 +1,30 @@
+signal 4908-A-0033
+type 0
+comment created using xlabel Wed Mar 26 11:25:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 SIL
+    0.310000  121 WELL
+    0.560807  121 "THAT'S"
+    1.025990  121 CERTAINLY
+    1.290290  121 UH
+    1.424210  121 YOU
+    1.561650  121 KNOW
+    1.758520  121 UH
+    2.140880  121 GETTING
+    2.430000  121 INTO
+    2.539110  121 THE
+    2.768170  121 SWIM
+    2.826310  121 OF
+    3.185770  121 THINGS
+    3.612190  121 [BREATH]
+    3.760220  121 WHY
+    4.010000  121 I
+    4.230000  121 THINK
+    4.339940  121 IT
+    4.533760  121 SHOULD
+    4.977800  121 BE_#

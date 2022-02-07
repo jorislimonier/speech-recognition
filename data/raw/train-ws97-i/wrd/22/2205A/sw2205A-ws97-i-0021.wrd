@@ -1,0 +1,21 @@
+signal 2205-A-0021
+type 0
+comment created using xlabel Mon Apr 28 15:37:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.117184  121 H#
+    0.186352  121 I
+    0.290105  121 MEAN
+    0.547942  121 YES
+    0.631879  121 I
+    0.784745  121 DID
+    1.037980  121 HEAR
+    1.380730  121 THAT
+    1.795470  121 [BREATH]
+    2.037410  121 AND
+    2.567360  121 SO
+    2.843860  121 UM

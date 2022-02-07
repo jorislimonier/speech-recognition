@@ -1,0 +1,18 @@
+signal 2830-A-0086
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.301298  121 h#
+    0.520242  121 MAYBE
+    0.700000  121 BECAUSE
+    0.776570  121 SHE
+    0.920000  121 GOT
+    1.239708  121 CHUBBY
+    1.486445  121 AGAIN
+    1.599702  121 OR
+    1.981942  121 SOMETHING
+    2.131602  121 h#

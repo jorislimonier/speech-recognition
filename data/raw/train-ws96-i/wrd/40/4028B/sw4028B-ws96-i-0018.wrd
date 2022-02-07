@@ -1,0 +1,11 @@
+signal 4028-B-0018
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123943  121 h#
+    0.570000  121 ALTHOUGH
+    0.864961  121 h#

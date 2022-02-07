@@ -1,0 +1,20 @@
+signal 4370-A-0034
+type 0
+comment created using xlabel Sat Feb 22 17:31:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123998  121 LIPSMACK
+    0.303995  121 OH
+    0.482088  121 IS
+    0.571610  121 IT
+    0.850000  121 OH
+    0.951407  121 I
+    1.123790  121 "DIDN'T"
+    1.469200  121 REALIZE
+    1.610000  121 THAT
+    1.850000  121 OKAY
+    1.961570  121 SMACK

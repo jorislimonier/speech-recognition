@@ -1,0 +1,16 @@
+signal 4940-A-0032
+type 0
+comment created using xlabel Thu Feb 27 14:46:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.156392  121 [STATIC]
+    0.527368  121 UHHUH
+    0.719782  121 YEAH
+    0.793669  121 "I'VE"
+    1.023030  121 SEEN
+    1.394000  121 THAT
+    1.626440  121 [STATIC]

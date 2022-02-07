@@ -1,0 +1,24 @@
+signal 3023-B-0030
+type 0
+comment created using xlabel Tue May 13 12:33:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 [BREATH]
+    0.840000  121 LAMENTING
+    1.177540  121 ABOUT
+    1.571030  121 THE
+    1.690110  121 UH
+    1.842650  121 [FALSESTART]
+    2.035070  121 THERE
+    2.190000  121 WAS
+    2.272550  121 A
+    2.851530  121 INTERVIEW
+    3.240000  121 DONE
+    3.490000  121 ON
+    3.846520  121 THE
+    4.088730  121 H#
+    4.679830  121 ASSISTANT

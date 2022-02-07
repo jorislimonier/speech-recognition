@@ -1,0 +1,18 @@
+signal 2725-B-0069
+type 0
+comment created using xlabel Tue Jun 10 12:04:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.142172  121 mean_#_?
+    0.212760  121 h#
+    0.840543  121 [false start]
+    1.179966  121 "THEY'RE"
+    1.543419  121 EVERYTHING
+    1.576460  121 A
+    2.033538  121 POLITICIAN
+    2.236291  121 SHOULD
+    2.455501  121 BE

@@ -1,0 +1,17 @@
+signal 2887-B-0071
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.101678  121 h#
+    0.203219  121 YOU
+    0.430000  121 KNOW
+    0.735284  121 FIFTY
+    1.054358  121 PERCENT
+    1.146598  121 OF
+    1.373432  121 FOUR
+    1.681943  121 PERCENT
+    1.824382  121 h#

@@ -1,0 +1,37 @@
+signal 2331-B-0066
+type 0
+comment created using xlabel Thu Mar 20 15:19:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.181174  121 UH_#
+    0.434577  121 I
+    0.617608  121 [MOUTHNOISE]
+    0.727426  121 I
+    0.900117  121 GO
+    1.260410  121 HOME
+    1.532490  121 UH
+    1.675990  121 [MOUTHNOISE]
+    1.830000  121 "I'VE"
+    2.049370  121 GONE
+    2.230940  121 HOME
+    2.480000  121 EVERY
+    2.640000  121 YEAR
+    3.003240  121 NOW
+    3.205260  121 SIL
+    3.423430  121 SINCE
+    3.507870  121 "I'VE"
+    3.685530  121 MOVED
+    3.782170  121 TO
+    4.246020  121 DALLAS
+    4.605320  121 TO
+    5.060700  121 SIL
+    5.315480  121 TO
+    5.460700  121 GO
+    5.800400  121 PHEASANT
+    6.197370  121 HUNTING
+    6.425790  121 AND
+    6.673240  121 UH

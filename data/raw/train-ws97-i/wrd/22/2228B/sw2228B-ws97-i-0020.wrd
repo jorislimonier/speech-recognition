@@ -1,0 +1,14 @@
+signal 2228-B-0020
+type 0
+comment created using xlabel Fri Jun 20 17:02:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [BREATH]
+    0.530000  121 WHERE
+    1.052930  121 GOBS
+    1.214950  121 OF
+    1.980000  121 LAND

@@ -1,0 +1,23 @@
+signal 3069-B-0077
+type 0
+comment created using xlabel Wed May  7 14:32:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 WITH_#
+    0.416796  121 THESE
+    0.620000  121 WITH
+    0.840000  121 THESE
+    1.087770  121 ALL
+    1.283530  121 H#
+    1.638420  121 PASSING
+    1.720700  121 IT
+    1.845530  121 H#
+    2.072490  121 FROM
+    2.326530  121 ONE
+    2.530000  121 TO
+    2.644280  121 THE
+    2.990000  121 OTHER

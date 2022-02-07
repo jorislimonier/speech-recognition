@@ -1,0 +1,20 @@
+signal 4166-B-0003
+type 0
+comment created using xlabel Thu May 29 12:35:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114488  121 h#
+    0.437451  121 "I'VE"
+    0.649795  121 HEARD
+    0.740000  121 THE
+    1.000513  121 NAME
+    1.034510  121 AND
+    1.204491  121 "THAT'S"
+    1.448838  121 ABOUT
+    1.655957  121 ALL
+    1.722933  121 IT
+    2.128762  121 GOES

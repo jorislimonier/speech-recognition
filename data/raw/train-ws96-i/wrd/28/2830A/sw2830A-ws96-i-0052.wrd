@@ -1,0 +1,18 @@
+signal 2830-A-0052
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.127060  121 h#
+    0.239010  121 IT'S
+    0.456929  121 JUST
+    0.597080  121 A
+    0.730000  121 YOU
+    0.934813  121 KNOW
+    0.995275  121 h#
+    1.205715  121 OVER
+    1.749890  121 PRICED
+    1.803728  121 h#

@@ -1,0 +1,29 @@
+signal 2620-B-0010
+type 0
+comment created using xlabel Tue Feb 11 16:21:34 1997
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150706  121 H#
+    0.254567  121 IT
+    0.427668  121 WAS
+    0.650000  121 REALLY
+    0.810000  121 MY
+    1.130000  121 EX
+    1.207180  121 WHO
+    1.475210  121 DID
+    1.671830  121 THE
+    2.034720  121 THE
+    2.246910  121 UH
+    2.530570  121 UH
+    2.630000  121 THE
+    3.059930  121 COOKING
+    3.305630  121 BACK
+    3.358110  121 WHEN
+    3.515580  121 WE
+    3.837890  121 FIRST
+    4.353840  121 STARTED
+    4.683300  121 H#

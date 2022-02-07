@@ -1,0 +1,14 @@
+signal 2431-A-0099
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.029140  121 H#
+    0.192548  121 WHEN
+    0.316067  121 WE
+    0.569325  121 WENT
+    1.101010  121 SOMEWHERE
+    1.200730  121 H#

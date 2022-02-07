@@ -1,0 +1,14 @@
+signal 4108-A-0010
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.412826  121 OF_#
+    0.702319  121 WHATEVER
+    0.765300  121 IT
+    0.975807  121 IS
+    1.121440  121 THEY'RE
+    1.167631  121 h#

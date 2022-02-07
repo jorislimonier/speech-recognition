@@ -1,0 +1,13 @@
+signal 2171-B-0070
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330417  121 H#
+    0.436748  121 IN
+    0.510092  121 THE
+    1.233390  121 COLLEGE
+    1.446160  121 H#

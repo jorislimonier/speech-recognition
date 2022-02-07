@@ -1,0 +1,14 @@
+signal 4723-A-0072
+type 0
+comment created using xlabel Tue Feb 25 15:20:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.046356  121 ?_#
+    0.192974  121 GET
+    0.405842  121 OUT
+    0.540000  121 OR
+    1.065080  121 ANYTHING

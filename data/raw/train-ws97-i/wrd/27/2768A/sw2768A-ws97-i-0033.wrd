@@ -1,0 +1,24 @@
+signal 2768-A-0033
+type 0
+comment created using xlabel Fri Apr 11 19:25:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140000  121 [BREATH]
+    0.265859  121 "I'D"
+    0.425147  121 LIKE
+    0.538162  121 TO
+    0.746393  121 KNOW_!
+    0.864747  121 THAT
+    0.948904  121 H#
+    1.016530  121 YOU
+    1.180270  121 KNOW
+    1.311870  121 THEY
+    1.580780  121 HAVE
+    2.039950  121 FRIENDS
+    2.095570  121 [MOUTHNOISE]
+    2.553090  121 THERE
+    2.684790  121 AND_#

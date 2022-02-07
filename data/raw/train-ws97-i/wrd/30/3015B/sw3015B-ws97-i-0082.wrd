@@ -1,0 +1,21 @@
+signal 3015-B-0082
+type 0
+comment created using xlabel Fri Jul  4 15:36:49 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.328877  121 [BREATH]
+    0.450000  121 YOU
+    0.592840  121 KNOW
+    0.660000  121 THE
+    1.421950  121 DOCTORS
+    1.469330  121 SIL
+    1.749100  121 UH
+    2.342440  121 TIME
+    2.670000  121 THE
+    2.775610  121 THE
+    3.445980  121 HOSPITAL
+    3.558470  121 ?_#

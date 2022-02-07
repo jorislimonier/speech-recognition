@@ -1,0 +1,18 @@
+signal 2629-A-0002
+type 0
+comment created using xlabel Mon Mar 24 16:07:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.334407  121 [MOUTHNOISE]
+    0.459910  121 "IT'S"
+    0.650000  121 FUNNY
+    0.750000  121 THAT
+    0.828198  121 I
+    1.000000  121 GOT
+    1.140000  121 YOU
+    1.339700  121 THOUGH
+    1.465000  121 [STATIC]

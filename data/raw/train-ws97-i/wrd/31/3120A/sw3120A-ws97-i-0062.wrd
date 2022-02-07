@@ -1,0 +1,29 @@
+signal 3120-A-0062
+type 0
+comment created using xlabel Wed Jul  9 17:53:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.177047  121 SIL
+    0.310103  121 UH
+    0.381238  121 SIL
+    0.748353  121 AND
+    0.996670  121 [MOUTHNOISE]
+    1.314880  121 WHEN
+    1.390000  121 YOU
+    1.750290  121 MENTIONED
+    1.879870  121 THAT
+    1.946940  121 [FALSESTART]
+    2.151730  121 WE
+    2.194160  121 SIL
+    2.360000  121 WE
+    2.553790  121 HAVE
+    2.976150  121 FRIENDS
+    3.070960  121 WHO
+    3.200110  121 HAVE
+    3.664630  121 CHILDREN
+    3.838030  121 THERE
+    4.208580  121 [BREATH]

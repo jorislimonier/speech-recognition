@@ -1,0 +1,18 @@
+signal 3184-A-0055
+type 0
+comment created using xlabel Sun Apr 27 16:52:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.303197  121 [BREATH]
+    0.413112  121 YOU
+    0.629278  121 KNOW
+    0.991167  121 SO
+    1.492540  121 [BACKGROUNDNOISE]
+    1.750000  121 SOONER
+    1.802230  121 OR
+    2.165340  121 LATER
+    2.268660  121 [STATIC]

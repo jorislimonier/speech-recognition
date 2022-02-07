@@ -1,0 +1,11 @@
+signal 4745-A-0038
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 h#
+    0.830000  121 AND
+    1.030000  125 h#

@@ -1,0 +1,29 @@
+signal 4709-B-0004
+type 0
+comment created using xlabel Mon Mar 31 16:47:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.067697  121 H#
+    0.233936  121 AS
+    0.431389  121 WELL
+    0.620426  121 AS
+    0.809464  121 GOOD
+    1.319510  121 LONGTERM
+    1.407860  121 AND
+    1.888740  121 SHORTTERM
+    2.450710  121 DISABILITY
+    3.068110  121 PLANS
+    3.228460  121 [STATIC]
+    3.475030  121 UH
+    3.724840  121 GOES
+    3.772100  121 A
+    4.062850  121 LONG
+    4.225170  121 WAY
+    4.493170  121 TOWARD
+    5.077140  121 SATISFYING
+    5.261920  121 MY
+    5.640120  121 NEEDS

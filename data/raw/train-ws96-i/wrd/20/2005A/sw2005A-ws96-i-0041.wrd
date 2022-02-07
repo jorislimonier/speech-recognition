@@ -1,0 +1,17 @@
+signal 2005-A-0041
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.054191  121 H#
+    0.312720  121 LIKE
+    0.787725  121 FINDING
+    0.918446  121 A
+    1.207500  121 H#
+    1.583020  121 PROPER
+    2.041930  121 NURSING
+    2.380150  121 HOME
+    2.464440  121 H#

@@ -1,0 +1,18 @@
+signal 4348-A-0013
+type 0
+comment created using xlabel Tue Apr 29 11:20:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.306334  121 RIGHT
+    0.460637  121 I
+    0.610000  121 I
+    0.840000  121 THINK
+    1.285850  121 ACTUALLY
+    1.624570  121 [BREATHE]
+    1.710000  121 YOU
+    1.996510  121 KNOW

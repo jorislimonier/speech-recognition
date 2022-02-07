@@ -1,0 +1,23 @@
+signal 2054-B-0007
+type 0
+comment created using xlabel Mon Jun  9 16:36:21 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120989  121 [MOUTHNOISE]
+    0.676086  121 UM
+    0.820743  121 [MOUTHNOISE]
+    1.051930  121 I
+    1.368300  121 GREW_UP
+    1.483070  121 IN
+    2.025800  121 WYOMING
+    2.393300  121 SO
+    2.720000  121 I
+    2.854930  121 YOU
+    3.090810  121 KNOW
+    3.190000  121 WE
+    3.491370  121 HAD
+    3.826400  121 [BREATH]

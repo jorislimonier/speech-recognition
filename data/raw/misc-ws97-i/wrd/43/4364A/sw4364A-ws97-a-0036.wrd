@@ -1,0 +1,26 @@
+signal 4364-A-0036
+type 0
+comment created using xlabel Sat Feb 22 17:19:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.004000  121 H#
+    0.099465  121 I
+    0.290396  121 I
+    0.446230  121 STATIC
+    0.814053  121 I
+    1.205740  121 BREATH
+    1.294190  121 I
+    1.522310  121 THINK
+    1.790450  121 I
+    1.905570  121 BREATH
+    2.244310  121 SENT
+    2.380000  121 IN
+    2.560010  121 IN
+    2.614760  121 SIL
+    3.103320  121 MONEY
+    3.440000  121 FOR
+    3.523090  121 BREATH

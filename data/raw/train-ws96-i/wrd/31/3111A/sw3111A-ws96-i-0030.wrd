@@ -1,0 +1,14 @@
+signal 3111-A-0030
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.348000  121 h#
+    0.715449  121 WHEREVER
+    0.876000  121 THERE
+    0.980000  121 ARE
+    1.258000  121 MORE
+    1.602000  125 h#

@@ -1,0 +1,15 @@
+signal 2847-A-0008
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.215045  121 H#
+    0.43942  121 THAT
+    0.741055  121 DOES
+    1.02294  121 CUT
+    1.30496  121 INTO
+    1.51396  121 YOUR
+    1.61893  121 ?_#

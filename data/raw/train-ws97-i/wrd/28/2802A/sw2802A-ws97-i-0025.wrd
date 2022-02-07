@@ -1,0 +1,30 @@
+signal 2802-A-0025
+type 0
+comment created using xlabel Fri Jul  4 18:57:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.129728  121 h#
+    0.208945  121 THE
+    0.364445  121 [FALSESTART]
+    0.443661  121 SIL
+    1.089810  121 MAJORITY
+    1.378810  121 OF
+    1.679540  121 SIL
+    1.997820  121 PEOPLE
+    2.090000  121 THAT
+    2.289750  121 LIVE
+    2.412730  121 IN
+    2.602220  121 THIS
+    3.053140  121 AREA
+    3.276120  121 GO
+    3.493230  121 INTO
+    3.960000  121 DALLAS
+    4.137280  121 TO
+    4.536270  121 WORK
+    4.719650  121 AND
+    5.029180  121 AND
+    5.168540  121 [MOUTHNOISE]

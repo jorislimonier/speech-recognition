@@ -1,0 +1,15 @@
+signal 2073-B-0070
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.113010  121 H#
+    0.380000  121 NO
+    0.499601  121 I
+    0.737848  121 CAN'T
+    0.987334  121 HEAR
+    1.060000  121 THEM
+    1.187370  121 H#

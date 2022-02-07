@@ -1,0 +1,16 @@
+signal 3133-A-0057
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.342877  121 h#
+    0.589609  121 THAT'S
+    0.850000  121 TRUE
+    1.150000  121 MAYBE
+    1.441873  121 THAT'S
+    1.520000  121 A
+    1.920137  121 WAY
+    2.245942  125 h#

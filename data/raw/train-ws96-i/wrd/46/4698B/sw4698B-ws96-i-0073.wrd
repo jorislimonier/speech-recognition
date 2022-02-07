@@ -1,0 +1,14 @@
+signal 4698-B-0073
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.326398  121 h#
+    0.447535  121 for
+    0.493320  121 a
+    0.640211  121 lot
+    0.707934  121 of
+    1.008393  121 kids_#

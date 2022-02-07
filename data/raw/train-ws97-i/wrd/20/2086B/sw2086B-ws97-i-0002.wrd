@@ -1,0 +1,13 @@
+signal 2086-B-0002
+type 0
+comment created using xlabel Thu May 29 17:38:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.270000  121 H#
+    0.730000  121 FRIED
+    0.890000  121 THE
+    1.490000  121 CHICKEN

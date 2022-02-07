@@ -1,0 +1,15 @@
+signal 2950-A-0086
+type 0
+comment created using xlabel Tue Apr 29 17:53:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.112376  121 [MOUTHNOISE]
+    0.370483  121 OH
+    0.447487  121 [MOUTHNOISE]
+    0.627163  121 GOOD
+    1.371540  121 HEAVENS
+    1.507010  121 [LAUGHTER]

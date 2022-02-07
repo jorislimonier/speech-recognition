@@ -1,0 +1,24 @@
+signal 4001-B-0012
+type 0
+comment created using xlabel Fri Jul  4 15:19:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 UH_#
+    0.510456  121 THE
+    0.605539  121 [FALSESTART]
+    0.702166  121 THE
+    1.079860  121 QUESTION
+    1.222930  121 THEY
+    1.391750  121 ASKED
+    1.523370  121 US
+    1.697910  121 WAS
+    1.806640  121 WHAT
+    1.986390  121 WOULD
+    2.135690  121 WE
+    2.430410  121 BUY
+    2.753740  121 NEXT
+    3.008400  121 THAT'S_#

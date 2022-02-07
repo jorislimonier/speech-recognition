@@ -1,0 +1,18 @@
+signal 3852-A-0049
+type 0
+comment created using xlabel Wed Jul  9 14:13:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.101320  121 ?
+    0.188263  121 AND
+    0.420000  121 GETTING
+    0.485898  121 IN
+    0.570000  121 AND
+    0.710000  121 OUT
+    0.786546  121 THE
+    1.179700  121 DOORS
+    1.268330  121 [HUM]

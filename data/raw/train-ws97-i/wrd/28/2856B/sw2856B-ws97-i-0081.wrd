@@ -1,0 +1,29 @@
+signal 2856-B-0081
+type 0
+comment created using xlabel Tue May 27 16:32:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.111798  121 [static]
+    0.260000  121 WELL
+    0.447676  121 "I'M"
+    0.546599  121 ON
+    0.723740  121 MY
+    1.066520  121 SECOND
+    1.464512  121 CAREER
+    2.000000  121 CURRENTLY
+    2.100000  121 AND
+    2.327901  121 "I'M"
+    2.562555  121 [static]
+    2.778805  121 "I'M"
+    2.820146  121 [click]
+    3.082476  121 JUST
+    3.272573  121 TOO
+    3.551709  121 OLD
+    3.689741  121 TO
+    3.995712  121 START
+    4.050925  121 A
+    4.504130  121 THIRD

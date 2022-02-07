@@ -1,0 +1,11 @@
+signal 2959-B-0052
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.309956  121 h#
+    1.230000  121 SCHOLARSHIPS
+    1.528299  125 h#

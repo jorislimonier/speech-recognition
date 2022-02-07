@@ -1,0 +1,36 @@
+signal 2382-A-0016
+type 0
+comment created using xlabel Fri May 16 15:20:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.468067  121 [BREATH]
+    0.880744  121 UH
+    1.215560  121 WELL
+    1.343250  121 H#
+    1.538590  121 THE
+    1.674070  121 THE
+    1.957490  121 REST_OF
+    2.158380  121 ME_IS
+    2.259610  121 IN
+    2.518110  121 PRETTY
+    2.660000  121 GOOD
+    2.971280  121 SHAPE
+    3.090000  121 "IT'S"
+    3.262490  121 JUST
+    3.410000  121 THAT
+    3.732790  121 LEFT
+    3.953920  121 KNEE
+    4.100000  121 THAT
+    4.372830  121 JUST
+    4.637570  121 SIL
+    5.059590  121 "DOESN'T"
+    5.341460  121 WANT_TO
+    5.470710  121 DO
+    5.832000  121 EVERYTHING
+    5.949990  121 IT
+    6.140000  121 USED
+    6.360000  121 TO

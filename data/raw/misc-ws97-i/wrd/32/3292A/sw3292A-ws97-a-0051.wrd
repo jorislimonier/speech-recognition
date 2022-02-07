@@ -1,0 +1,18 @@
+signal 3292-A-0051
+type 0
+comment created using xlabel Wed Feb 19 18:56:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123950  121 CROSSTALK
+    0.420000  121 WANTED
+    0.490000  121 A
+    0.775403  121 HUNDRED
+    0.845719  121 AND
+    1.348270  121 FIFTY_!
+    1.584030  121 PER
+    2.028670  121 TICKET
+    2.185850  121 BREATH

@@ -1,0 +1,18 @@
+signal 2780-A-0013
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.078992  121 H#
+    0.403641  121 COMPARED
+    0.458699  121 TO
+    0.562169  121 THE
+    1.070670  121 COUNTRY
+    1.749400  121 H#
+    1.820000  121 YOU
+    1.980000  121 KNOW
+    2.417410  121 VERY
+    2.928490  121 H#

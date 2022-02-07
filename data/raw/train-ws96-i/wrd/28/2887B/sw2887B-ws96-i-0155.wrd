@@ -1,0 +1,11 @@
+signal 2887-B-0155
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.210000  121 ME_#
+    0.645840  121 TOO
+    0.880070  121 h#

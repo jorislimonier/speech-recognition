@@ -1,0 +1,17 @@
+signal 2935-B-0046
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.137069  121 h#
+    0.209028  121 I
+    0.347904  121 MEAN
+    0.484519  121 IT'S
+    0.753388  121 JUST
+    1.140000  121 YOU
+    1.493367  121 REALLY
+    1.762346  121 REALLY
+    1.827212  121 h#

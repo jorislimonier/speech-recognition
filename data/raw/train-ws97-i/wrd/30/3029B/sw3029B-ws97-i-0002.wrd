@@ -1,0 +1,18 @@
+signal 3029-B-0002
+type 0
+comment created using xlabel Wed May 14 14:23:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140239  121 [BREATH]
+    0.400789  121 WELL
+    0.481152  121 SIL
+    0.665756  121 I
+    0.742979  121 [BACKGROUNDNOISE]
+    1.017560  121 THINK
+    1.059630  121 SIL
+    1.677650  121 THAT
+    1.803840  121 [BACKGROUNDNOISE]

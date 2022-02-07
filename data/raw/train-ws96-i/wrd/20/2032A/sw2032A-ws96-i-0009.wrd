@@ -1,0 +1,16 @@
+signal 2032-A-0009
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.537653  121 H#
+    0.644442  121 AND
+    0.782342  121 HOW
+    0.918496  121 ABOUT
+    0.998856  121 THE
+    1.244730  121 ROLLING
+    1.702740  121 STONES
+    1.830020  121 H#

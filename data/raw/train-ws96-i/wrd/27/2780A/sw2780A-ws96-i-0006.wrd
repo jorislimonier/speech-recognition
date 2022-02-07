@@ -1,0 +1,17 @@
+signal 2780-A-0006
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.345125  121 H#
+    0.470943  121 I
+    0.750216  121 GUESS
+    1.049670  121 LIKE
+    1.141080  121 H#
+    1.468480  121 LIKE
+    1.709620  121 AND
+    1.899740  121 THOUGH
+    2.340590  121 NOTHING_#

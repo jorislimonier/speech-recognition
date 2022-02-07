@@ -1,0 +1,14 @@
+signal 2962-B-0042
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 h#
+    0.430000  121 AFTER
+    0.512049  121 THE
+    0.830000  121 BARRY
+    1.293838  121 TRIAL
+    1.384868  121 h#

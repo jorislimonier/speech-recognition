@@ -1,0 +1,18 @@
+signal 4788-B-0028
+type 0
+comment created using xlabel Thu Jun 26 15:13:05 1997
+comment $Locker: candy $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.135320  125 h#
+    0.247772  125 A
+    1.010562  121 BATHROOM
+    1.105661  125 OR
+    1.203773  121 A
+    1.873701  121 SHOWER
+    2.014233  121 OR
+    2.630000  121 ANYTHING
+    2.664076  125 h#

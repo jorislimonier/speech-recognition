@@ -1,0 +1,17 @@
+signal 2929-B-0034
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325427  121 h#
+    0.441969  121 AND
+    0.940000  121 HOPEFULLY
+    1.090488  121 THAT
+    1.244918  121 THEY
+    1.380735  121 WOULD
+    1.818796  121 HAVE
+    2.227640  121 THEIR
+    2.910013  125 h#

@@ -1,0 +1,16 @@
+signal 3450-B-0001
+type 0
+comment created using xlabel Wed Apr 23 13:53:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.775680  121 WELL
+    1.201040  121 H#
+    2.190000  121 UNFORTUNATELY
+    2.597670  121 VERY
+    3.135200  121 LITTLE
+    3.427870  121 [BREATH]

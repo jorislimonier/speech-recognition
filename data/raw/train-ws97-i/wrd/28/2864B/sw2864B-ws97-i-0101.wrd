@@ -1,0 +1,13 @@
+signal 2864-B-0101
+type 0
+comment created using xlabel Mon Jun  9 16:54:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332036  121 [static]
+    0.411734  121 "I'VE"
+    0.939595  121 SEEN
+    1.221428  121 [static]

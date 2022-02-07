@@ -1,0 +1,17 @@
+signal 2622-A-0001
+type 0
+comment created using xlabel Fri Jun  6 16:58:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.126004  121 [breath]
+    0.244072  121 I
+    0.458563  121 THINK
+    0.629762  121 "WE'RE"
+    1.253556  121 OVERTAXED
+    1.390000  121 TO
+    1.520000  121 THE
+    2.066259  121 HILT_#

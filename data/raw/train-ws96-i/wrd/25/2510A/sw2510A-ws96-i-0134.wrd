@@ -1,0 +1,11 @@
+signal 2510-A-0134
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.321472  121 H#
+    0.714000  121 REASON
+    0.808773  121 H#

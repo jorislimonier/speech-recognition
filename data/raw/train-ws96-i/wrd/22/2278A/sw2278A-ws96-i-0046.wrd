@@ -1,0 +1,16 @@
+signal 2278-A-0046
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.362223  121 H#
+    1.207260  121 FACILITIES
+    1.438100  121 H#
+    1.561990  121 IN
+    1.590580  121 THE
+    1.894480  121 MAJOR
+    2.250000  121 LEAGUES
+    2.366950  121 H#

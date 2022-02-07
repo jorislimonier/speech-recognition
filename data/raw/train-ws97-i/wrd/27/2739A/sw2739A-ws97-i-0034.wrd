@@ -1,0 +1,27 @@
+signal 2739-A-0034
+type 0
+comment created using xlabel Sat Jun  7 18:31:50 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332183  121 [crosstalk]
+    0.593981  121 WITH
+    0.825496  121 A
+    1.072520  121 [crosstalk]
+    1.315757  121 WITH
+    1.477916  121 A
+    1.940239  121 PARENT
+    2.054532  121 IN
+    2.115097  121 THE
+    2.495497  121 HOME
+    2.912428  121 WHETHER_IT_IS
+    2.980473  121 THE
+    3.360833  121 sil
+    3.785560  121 FATHER
+    3.920000  121 OR
+    3.986793  121 THE
+    4.353233  121 MOTHER
+    4.487063  121 [background noise]

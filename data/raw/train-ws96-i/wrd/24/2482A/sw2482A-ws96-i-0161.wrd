@@ -1,0 +1,13 @@
+signal 2482-A-0161
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300000  121 H#
+    0.664365  121 JENNY'S
+    0.959827  121 SWEET
+    1.300670  121 KID
+    1.427360  121 H#

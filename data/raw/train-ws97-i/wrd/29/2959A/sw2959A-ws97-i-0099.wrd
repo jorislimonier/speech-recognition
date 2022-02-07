@@ -1,0 +1,26 @@
+signal 2959-A-0099
+type 0
+comment created using xlabel Sat Jul  5 19:05:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332577  121 [BACKGROUNDNOISE]
+    0.590231  121 THAT
+    0.676993  121 [BACKGROUNDNOISE]
+    1.012120  121 ANGER
+    1.350840  121 OUT
+    1.512610  121 AND
+    1.670160  121 THE
+    1.985300  121 [MOUTHNOISE]
+    2.128030  121 AND
+    2.276600  121 THE
+    2.930000  121 NIGHTMARES
+    3.040000  121 THAT
+    3.274070  121 COME
+    3.466350  121 ALONG
+    3.685770  121 WITH
+    3.843870  121 IT
+    4.067780  121 [CROSSTALK]

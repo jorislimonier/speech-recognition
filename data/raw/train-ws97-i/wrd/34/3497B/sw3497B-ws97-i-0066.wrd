@@ -1,0 +1,12 @@
+signal 3497-B-0066
+type 0
+comment created using xlabel Wed Mar 19 16:29:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.349330  121 "THAT'S"_#
+    0.970000  121 TRUE
+    1.068100  121 [MECHNOISE]

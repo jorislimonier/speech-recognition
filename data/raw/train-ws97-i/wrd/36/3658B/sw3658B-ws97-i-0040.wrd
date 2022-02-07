@@ -1,0 +1,27 @@
+signal 3658-B-0040
+type 0
+comment created using xlabel Tue Mar 11 17:54:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.143117  121 [STATIC]
+    0.448179  121 "IT'S"
+    0.683734  121 "IT'S"
+    0.720000  121 A
+    1.497000  121 SITUATION
+    1.700000  121 THAT
+    2.107280  121 BECAUSE
+    2.206390  121 I
+    2.398180  121 "DIDN'T"
+    2.620740  121 HAVE
+    2.790000  121 ANY
+    3.336420  121 INSURANCE
+    3.393860  121 AND
+    3.505850  121 I
+    3.666750  121 WAS
+    3.830000  121 ON
+    4.574170  121 UNEMPLOYMENT
+    4.902400  121 [STATIC]

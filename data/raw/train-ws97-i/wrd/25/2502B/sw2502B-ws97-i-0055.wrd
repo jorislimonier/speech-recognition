@@ -1,0 +1,17 @@
+signal 2502-B-0055
+type 0
+comment created using xlabel Tue May 20 13:32:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.151495  121 [BREATH]
+    0.327938  121 SORT
+    0.449243  121 OF
+    0.792479  121 LIKE
+    0.909649  121 [MOUTHNOISE]
+    0.970000  121 YOU
+    1.212910  121 KNOW
+    1.341110  121 [BREATH]

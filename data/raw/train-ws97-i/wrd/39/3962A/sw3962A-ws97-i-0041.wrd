@@ -1,0 +1,17 @@
+signal 3962-A-0041
+type 0
+comment created using xlabel Tue Jun 17 20:19:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.167891  121 [static]
+    0.768213  121 YES
+    0.845555  121 [static]
+    0.900799  121 [crosstalk]
+    1.101520  121 YEAH
+    1.291192  121 I
+    1.436669  121 THINK
+    1.946758  121 [crosstalk & breath]

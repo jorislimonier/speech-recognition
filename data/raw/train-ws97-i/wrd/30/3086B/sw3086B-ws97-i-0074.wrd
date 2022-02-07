@@ -1,0 +1,14 @@
+signal 3086-B-0074
+type 0
+comment created using xlabel Thu May 29 12:37:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060000  121 SIL
+    0.580000  121 MAINLY
+    1.080000  121 BUSINESS
+    1.350000  121 DATA
+    2.030000  121 PROCESSING

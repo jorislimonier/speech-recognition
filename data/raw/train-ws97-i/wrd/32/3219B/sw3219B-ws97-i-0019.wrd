@@ -1,0 +1,17 @@
+signal 3219-B-0019
+type 0
+comment created using xlabel Tue Jun  3 17:20:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.121765  121 h#
+    0.363492  121 NO
+    0.459564  121 "I'M"
+    0.696643  121 NOT
+    1.121216  121 STUCK
+    1.287016  121 WITH
+    1.514798  121 THAT
+    1.624815  121 [mouth noise]

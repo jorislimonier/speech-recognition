@@ -1,0 +1,30 @@
+signal 4000-B-0031
+type 0
+comment created using xlabel Tue Jul 15 19:39:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.118973  121 [MOUTHNOISE]
+    0.340000  121 AND
+    0.830000  121 SECONDLY
+    0.989110  121 IS
+    1.152660  121 IS
+    1.319510  121 THAT
+    1.427080  121 WE
+    1.658900  121 NEED
+    1.920140  121 MAKE
+    1.978320  121 OUR
+    2.237440  121 MONEY
+    2.442700  121 WORK
+    2.757200  121 FOR
+    2.941610  121 US
+    3.096380  121 SO
+    3.216030  121 WE
+    3.359390  121 "DON'T"
+    3.538310  121 HAVE
+    3.650000  121 TO
+    3.874940  121 WORK
+    4.237170  121 HARDER

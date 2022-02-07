@@ -1,0 +1,18 @@
+signal 2945-A-0007
+type 0
+comment created using xlabel Tue Feb 18 16:11:23 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335937  121 BREATH
+    0.596246  121 OH
+    0.751732  121 WHAT
+    0.938665  121 KIND
+    0.994571  121 OF
+    1.273990  121 THINGS
+    1.362400  121 DO_YOU
+    1.637370  121 DO
+    1.746480  121 AH

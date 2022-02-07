@@ -1,0 +1,13 @@
+signal 2832-A-0114
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.10622  121 H#
+    0.22  121 THE
+    0.409396  121 HOME
+    1.15514  121 IMPROVEMENTS
+    1.22832  121 h#

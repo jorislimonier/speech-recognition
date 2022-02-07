@@ -1,0 +1,23 @@
+signal 2085-B-0130
+type 0
+comment created using xlabel Fri Jun 20 14:26:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350000  121 H#
+    0.503339  121 BECAUSE
+    0.674123  121 "HE'S"
+    1.057980  121 SALARY
+    1.132800  121 AND
+    1.290000  121 "I'M"
+    1.578460  121 NOT
+    1.727360  121 I
+    1.890000  121 MAKE
+    1.990000  121 AS
+    2.220000  121 MUCH
+    2.291760  121 AS
+    2.377970  121 I
+    2.639840  121 EARN

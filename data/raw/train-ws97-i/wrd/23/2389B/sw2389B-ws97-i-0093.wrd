@@ -1,0 +1,15 @@
+signal 2389-B-0093
+type 0
+comment created using xlabel Fri Apr 25 17:14:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.274276  121 [STATIC]
+    0.535543  121 "IT'S"
+    0.890000  121 BECAUSE
+    1.019040  121 "YOU'VE"
+    1.235260  121 BEEN
+    1.480000  121 THERE

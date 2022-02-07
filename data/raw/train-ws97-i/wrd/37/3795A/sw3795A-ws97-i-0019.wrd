@@ -1,0 +1,13 @@
+signal 3795-A-0019
+type 0
+comment created using xlabel Tue Mar 25 18:55:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.091230  121 [CROSSTALK]
+    0.601697  121 PSYCHIATRIC
+    1.069350  121 PROFILE
+    1.207970  121 [BREATH]

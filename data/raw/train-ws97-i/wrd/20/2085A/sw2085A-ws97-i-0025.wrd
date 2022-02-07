@@ -1,0 +1,17 @@
+signal 2085-A-0025
+type 0
+comment created using xlabel Fri Jun  6 17:21:20 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290000  121 SIL
+    1.004000  121 LESS
+    1.278000  121 SIL
+    1.420000  121 THEN
+    1.500000  121 YOU
+    1.719450  121 LOSE
+    1.820000  121 THAT
+    2.084570  121 MONEY

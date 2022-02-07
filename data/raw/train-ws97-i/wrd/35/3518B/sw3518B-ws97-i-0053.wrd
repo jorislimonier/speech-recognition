@@ -1,0 +1,19 @@
+signal 3518-B-0053
+type 0
+comment created using xlabel Tue Jun 24 17:23:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 h#
+    0.554617  121 "THAT'S"
+    0.730000  121 UH
+    0.943875  121 "THAT'S"
+    1.507800  121 PROHIBITED
+    1.773287  121 WHERE
+    1.971243  121 WE
+    2.287307  121 WORK
+    2.683219  121 ALTHOUGH
+    2.970160  121 [breath]

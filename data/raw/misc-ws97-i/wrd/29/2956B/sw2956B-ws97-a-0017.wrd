@@ -1,0 +1,14 @@
+signal 2956-B-0017
+type 0
+comment created using xlabel Wed Apr 23 19:46:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.399679  121 "THAT'S"
+    0.472602  121 THE
+    0.883136  121 BIGGEST
+    1.426010  121 PROBLEM_#

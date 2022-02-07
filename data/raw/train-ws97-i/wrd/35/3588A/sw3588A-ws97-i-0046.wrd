@@ -1,0 +1,16 @@
+signal 3588-A-0046
+type 0
+comment created using xlabel Tue Jun 17 18:17:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 SIL
+    0.240016  121 OH
+    0.387941  121 I
+    0.735317  121 PROBABLY
+    1.012885  121 AVERAGE
+    1.080000  121 AT
+    1.469958  121 LEAST

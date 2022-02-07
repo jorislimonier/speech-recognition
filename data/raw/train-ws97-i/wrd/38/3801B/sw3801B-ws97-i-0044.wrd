@@ -1,0 +1,26 @@
+signal 3801-B-0044
+type 0
+comment created using xlabel Fri Apr 25 15:11:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.004000  121 H#
+    0.600341  121 WELL
+    0.882173  121 H#
+    1.570410  121 YES
+    1.688870  121 SIL
+    2.115780  121 AND
+    2.240360  121 [MOUTHNOISE]
+    2.403740  121 I
+    2.650850  121 WORK
+    2.760000  121 IN
+    3.057260  121 SOUTH
+    3.577170  121 DALLAS
+    3.830410  121 FOR
+    3.930480  121 THE
+    4.290000  121 DALLAS
+    4.569710  121 SCHOOL
+    5.133370  121 SYSTEM

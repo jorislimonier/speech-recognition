@@ -1,0 +1,11 @@
+signal 2713-A-0083
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.343892  121 H#
+    1.10773  121 FINANCIAL
+    1.28804  121 h#

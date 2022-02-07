@@ -1,0 +1,17 @@
+signal 3028-B-0106
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132593  121 H#
+    0.238213  121 AND
+    0.396128  121 THIS
+    0.516783  121 IS
+    0.94477  121 BEFORE
+    1.0629  121 I
+    1.2677  121 WAS
+    1.33818  121 h#
+    1.66618  121 BORN_#

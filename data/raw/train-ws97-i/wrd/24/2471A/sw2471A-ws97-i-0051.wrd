@@ -1,0 +1,18 @@
+signal 2471-A-0051
+type 0
+comment created using xlabel Fri Mar  7 13:58:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.119557  121 [HUM]
+    0.566154  121 YES
+    0.737046  121 "IT'S"
+    0.918192  121 REALLY
+    1.086810  121 KIND
+    1.250000  121 OF
+    1.656970  121 SAD
+    1.852160  121 AND
+    1.985980  121 [CROSSTALK]

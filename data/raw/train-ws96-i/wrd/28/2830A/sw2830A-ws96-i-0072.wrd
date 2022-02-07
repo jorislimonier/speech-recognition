@@ -1,0 +1,32 @@
+signal 2830-A-0072
+type 0
+comment created using xlabel Fri Nov  1 12:44:12 1996
+comment $Locker: joyh $
+color 121
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 h#
+    0.518106  121 REAL
+    0.976235  121 BIG
+    1.908988  121 AND
+    2.458133  121 UM
+    2.651106  121 I
+    2.850000  121 ALWAYS
+    3.105553  121 WATCH
+    3.407376  121 THEM
+    3.638313  121 SO
+    3.826868  121 WHAT_#
+    3.897576  121 NO
+    4.090000  121 MATTER
+    4.307832  121 WHO'S
+    4.478293  121 ON
+    4.532823  121 OF
+    4.750000  121 COURSE
+    4.850665  121 YOU
+    5.084149  121 LIKE
+    5.205678  121 THEM
+    5.407990  121 TOO
+    5.717263  121 RIGHT
+    6.235788  121 h#

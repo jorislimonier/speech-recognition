@@ -1,0 +1,16 @@
+signal 3008-A-0002
+type 0
+comment created using xlabel Thu Jun  5 12:52:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 SIL
+    0.627227  121 FRINGE
+    1.440790  121 BENEFITS
+    1.752739  121 ARE
+    2.079512  121 VERY
+    2.599990  121 IMPORTANT_!
+    2.918341  121 ?_#

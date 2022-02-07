@@ -1,0 +1,21 @@
+signal 2071-B-0036
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.323599  121 H#
+    0.522811  121 TO
+    0.612666  121 H#
+    0.847497  121 THINK
+    1.232860  121 ABOUT
+    1.392190  121 WHEN
+    1.489920  121 YOU'RE
+    1.711980  121 TRYING
+    1.743010  121 TO
+    2.015090  121 MAKE
+    2.150000  121 THAT
+    2.768100  121 DECISION
+    2.864900  121 H#

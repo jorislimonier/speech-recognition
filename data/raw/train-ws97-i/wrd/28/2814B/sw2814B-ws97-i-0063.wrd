@@ -1,0 +1,17 @@
+signal 2814-B-0063
+type 0
+comment created using xlabel Sat Jun 21 16:52:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.242341  121 [mothnoise]
+    0.416229  121 WELL
+    0.786202  121 THAT'S
+    0.950691  121 A
+    1.317469  121 REALLY
+    1.986962  121 INTERESTING
+    2.520401  121 TIP
+    2.662735  121 [static]

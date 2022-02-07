@@ -1,0 +1,13 @@
+signal 2711-B-0072
+type 0
+comment created using xlabel Mon May 12 19:13:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.118774  121 [STATIC]
+    0.299132  121 "THAT'S"
+    0.490000  121 REALLY
+    0.848406  121 NEAT

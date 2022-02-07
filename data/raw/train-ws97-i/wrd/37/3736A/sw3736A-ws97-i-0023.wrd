@@ -1,0 +1,12 @@
+signal 3736-A-0023
+type 0
+comment created using xlabel Thu Mar 20 17:55:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114785  121 [CROSSTALK]
+    0.505141  121 RIGHT
+    0.688263  121 [CROSSTALK]

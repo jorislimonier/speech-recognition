@@ -1,0 +1,15 @@
+signal 2896-A-0023
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.291628  121 H#
+    0.697814  121 I'VE
+    0.896253  121 h#
+    1.31924  121 PAINTED
+    1.75  121 SEVERAL
+    2.4472  121 HOUSES
+    2.66404  121 h#

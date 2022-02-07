@@ -1,0 +1,20 @@
+signal 4043-B-0005
+type 0
+comment created using xlabel Mon Jun 16 15:48:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.105689  121 h#
+    0.246741  121 I
+    0.402554  121 GREW
+    0.589530  121 UP
+    0.650000  121 IN
+    1.290000  121 NEBRASKA
+    1.571255  121 SO
+    1.790000  121 ?
+    1.999331  121 LIKE
+    2.504493  121 h#
+    3.051936  121 UM

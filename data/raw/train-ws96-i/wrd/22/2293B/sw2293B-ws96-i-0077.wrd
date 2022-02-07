@@ -1,0 +1,14 @@
+signal 2293-B-0077
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.079362  121 H#
+    0.295399  121 IT'S
+    0.545349  121 DOING
+    0.732498  121 SOME
+    1.190950  121 DAMAGE
+    1.330370  121 AND_#

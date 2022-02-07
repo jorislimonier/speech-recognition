@@ -1,0 +1,18 @@
+signal 3546-A-0002
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 h#
+    0.484981  121 BOY
+    0.586169  121 OH
+    1.038599  121 BOY
+    1.346184  121 h#
+    1.621255  121 THAT'S
+    1.952467  121 NICE
+    2.099909  121 AND
+    2.539307  121 WARM
+    2.642493  121 h#

@@ -1,0 +1,22 @@
+signal 3323-B-0012
+type 0
+comment created using xlabel Thu Jul  3 17:31:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.095034  121 [MOUTHNOISE]
+    0.459172  121 HEY
+    0.661723  121 [MECHNOISE]
+    0.733198  121 I
+    0.866868  121 MEAN
+    0.975791  121 WHAT
+    1.048470  121 ARE
+    1.135100  121 THE
+    1.553860  121 CHANCES
+    1.631810  121 OF
+    1.806480  121 THIS
+    2.277580  121 HAPPENING
+    2.406440  121 [MECHNOISE]

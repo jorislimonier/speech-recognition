@@ -1,0 +1,22 @@
+signal 4055-B-0032
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319148  121 h#
+    0.433586  121 THEY'RE
+    0.686665  121 VERY
+    0.935168  121 LIGHT
+    1.294172  121 WEIGHT
+    1.486688  121 AND
+    1.765780  121 WE
+    1.986276  121 USE
+    2.076801  121 THEM
+    2.200000  121 WHEN
+    2.310000  121 WE
+    2.478436  121 GO
+    3.263059  121 BACKPACKING
+    3.568359  125 h#

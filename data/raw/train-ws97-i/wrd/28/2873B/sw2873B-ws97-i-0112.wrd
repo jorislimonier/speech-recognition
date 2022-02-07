@@ -1,0 +1,14 @@
+signal 2873-B-0112
+type 0
+comment created using xlabel Tue May 20 13:21:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330230  121 [static]
+    0.405790  121 THE
+    0.944309  121 PLAYERS
+    0.967097  121 [mouth noise]
+    1.266941  121 [static]

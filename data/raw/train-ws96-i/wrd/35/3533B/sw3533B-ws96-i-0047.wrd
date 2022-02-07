@@ -1,0 +1,17 @@
+signal 3533-B-0047
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103124  121 h#
+    0.234873  121 WE
+    0.460000  121 OPEN
+    0.571262  121 OUR
+    1.009168  121 PRESENTS
+    1.120000  121 ON
+    1.515107  121 CHRISTMAS
+    1.780000  121 DAY
+    1.909994  121 h#

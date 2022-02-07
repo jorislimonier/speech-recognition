@@ -1,0 +1,20 @@
+signal 2417-A-0071
+type 0
+comment created using xlabel Sat Apr 12 21:08:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.339148  121 H#
+    0.435652  121 AND
+    0.616071  121 THEN
+    0.787051  121 YOU
+    1.035650  121 YOU
+    1.132160  121 I
+    1.436490  121 MEAN
+    1.599080  121 THEN
+    1.692430  121 YOU
+    1.826980  121 GET
+    2.048310  121 OUT

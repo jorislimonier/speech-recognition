@@ -1,0 +1,22 @@
+signal 2735-B-0112
+type 0
+comment created using xlabel Sat Jul  5 15:49:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.391415  121 TEN
+    0.690000  121 TEN
+    0.820000  121 WOULD
+    1.004590  121 BE
+    1.261380  121 NO
+    2.092800  121 REGULATIONS
+    2.167340  121 AT
+    2.644470  121 ALL
+    2.727840  121 [FALSESTART]
+    2.840000  121 LET'S
+    3.166530  121 SEE
+    3.384940  121 SIL

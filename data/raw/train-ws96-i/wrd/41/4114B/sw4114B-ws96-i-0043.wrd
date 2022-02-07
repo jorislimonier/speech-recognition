@@ -1,0 +1,19 @@
+signal 4114-B-0043
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130000  121 h#
+    0.389565  121 REST
+    0.450475  121 OF
+    1.009988  121 CALIFORNIA
+    1.201782  121 WHICH
+    1.288505  121 IS
+    1.576324  121 JUST
+    2.060999  121 TERRIBLE
+    2.169217  121 IT
+    2.542849  121 SOUNDS
+    2.667076  121 h#

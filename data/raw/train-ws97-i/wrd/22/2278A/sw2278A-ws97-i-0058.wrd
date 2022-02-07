@@ -1,0 +1,20 @@
+signal 2278-A-0058
+type 0
+comment created using xlabel Wed May  7 15:20:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.140997  121 H#
+    0.280440  121 NOW
+    0.554086  121 IS
+    1.335630  121 ROCHESTER
+    1.818000  121 [MECHNOISE]
+    2.009870  121 WHERE
+    2.181790  121 WHERE
+    2.335680  121 IS
+    2.776340  121 CORNELL
+    3.449530  121 UNIVERSITY
+    3.563330  121 [CROSSTALK]

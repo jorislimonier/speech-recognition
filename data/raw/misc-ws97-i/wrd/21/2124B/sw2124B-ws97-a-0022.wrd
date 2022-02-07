@@ -1,0 +1,16 @@
+signal 2124-B-0022
+type 0
+comment created using xlabel Wed May 28 18:43:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.289429  121 [CROSSTALK]
+    0.451479  121 DO
+    0.528821  121 YOU
+    0.800681  121 FIND
+    1.213850  121 YOURSELF
+    1.315130  121 [MOUTHNOISE]
+    1.661330  121 UM

@@ -1,0 +1,18 @@
+signal 2672-B-0106
+type 0
+comment created using xlabel Fri Apr 11 12:13:17 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.307514  121 [HUM]
+    0.462991  121 OH
+    0.563419  121 I
+    0.798329  121 "CAN'T"
+    0.893549  121 THINK
+    0.959757  121 OF
+    1.040840  121 IT
+    1.495250  121 NOW
+    1.745540  121 [BUZZ]

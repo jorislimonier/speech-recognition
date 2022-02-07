@@ -1,0 +1,17 @@
+signal 2888-B-0044
+type 0
+comment created using xlabel Thu Mar 27 16:05:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.292000  121 [MOUTHNOISE]
+    0.496000  121 I
+    0.728000  121 GUESS
+    0.814000  121 I
+    1.078000  121 GET
+    1.300000  121 SOME
+    1.630000  121 KINDS
+    1.980000  121 OF

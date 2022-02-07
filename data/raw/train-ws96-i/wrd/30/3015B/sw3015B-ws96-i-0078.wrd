@@ -1,0 +1,20 @@
+signal 3015-B-0078
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.106714  121 h#
+    0.336943  121 LIKE
+    0.370000  121 YOU
+    0.660000  121 SAY
+    0.929656  121 IT'S
+    1.401602  121 h#
+    1.661731  121 FIVE
+    2.048310  121 DOLLARS
+    2.110000  121 AN
+    2.530000  121 OFFICE
+    2.997481  121 VISIT
+    3.258595  121 h#

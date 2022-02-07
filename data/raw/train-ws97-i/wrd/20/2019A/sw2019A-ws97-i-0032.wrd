@@ -1,0 +1,13 @@
+signal 2019-A-0032
+type 0
+comment created using xlabel Thu May 29 11:00:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335720  121 H#
+    0.474305  121 LITTLE
+    1.019800  121 PREJUDICE_OF
+    1.456200  121 COURSE

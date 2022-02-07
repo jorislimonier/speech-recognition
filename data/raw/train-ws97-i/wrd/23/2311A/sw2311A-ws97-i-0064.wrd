@@ -1,0 +1,23 @@
+signal 2311-A-0064
+type 0
+comment created using xlabel Thu Apr 24 16:40:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 SIL
+    0.250000  121 SO
+    0.403694  121 "IT'S"
+    0.902883  121 USUALLY
+    1.375770  121 H#
+    1.801190  121 UM
+    1.904120  121 H#
+    1.979600  121 A
+    2.403300  121 TANK
+    2.861320  121 TOP
+    3.032860  121 H#
+    3.200000  121 IN
+    3.270000  121 THE
+    3.786620  121 SUMMER

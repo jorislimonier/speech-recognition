@@ -1,0 +1,15 @@
+signal 2945-B-0027
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.165042  121 h#
+    0.228439  121 YOU
+    0.377533  121 KNOW
+    0.490000  121 TO
+    0.690000  121 GO
+    0.955470  121 FROM
+    1.204524  121 h#

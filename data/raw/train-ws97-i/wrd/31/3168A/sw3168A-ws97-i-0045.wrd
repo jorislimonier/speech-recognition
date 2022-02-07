@@ -1,0 +1,35 @@
+signal 3168-A-0045
+type 0
+comment created using xlabel Tue Mar 18 12:58:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.112921  121 [STATIC]
+    0.440000  121 AND
+    0.560000  121 I
+    0.772939  121 THINK
+    0.980000  121 "THEY'VE"
+    1.140000  121 HAD
+    1.192110  121 IT
+    1.342650  121 FOR
+    1.679160  121 SEVERAL
+    2.229680  121 YEARS
+    2.340370  121 [MOUTHNOISE]
+    2.670000  121 AND
+    2.820000  121 THEIR
+    3.250000  121 PROGRAM
+    3.420000  121 THEY
+    3.770570  121 HAD
+    3.943250  121 H#
+    4.052480  121 I
+    4.157270  121 "DON'T"
+    4.343230  121 THINK
+    4.501150  121 HAD
+    4.589710  121 A
+    4.780000  121 LOT
+    4.966060  121 OF
+    5.090000  121 UH
+    5.347970  121 H#

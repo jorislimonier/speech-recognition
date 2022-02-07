@@ -1,0 +1,23 @@
+signal 2416-A-0074
+type 0
+comment created using xlabel Fri Mar 21 18:06:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.091082  121 ?_#
+    1.421070  121 [MOUTHNOISE]
+    1.485450  121 I
+    1.715570  121 SAT
+    1.927880  121 DOWN
+    2.006900  121 TO
+    2.090020  121 A
+    2.418050  121 [MOUTHNOISE]
+    2.774800  121 DOUBLE
+    3.070000  121 DOSE
+    3.130000  121 OF
+    3.680000  121 SPAGHETTI
+    4.052410  121 TONIGHT
+    4.250000  121 I

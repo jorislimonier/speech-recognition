@@ -1,0 +1,13 @@
+signal 3444-A-0030
+type 0
+comment created using xlabel Mon Mar 31 19:17:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145983  121 [BACKGROUNDNOISE]
+    0.358467  121 SIL
+    0.565076  121 DRUG
+    0.902897  121 PROBLEM

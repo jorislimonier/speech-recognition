@@ -1,0 +1,20 @@
+signal 3040-B-0018
+type 0
+comment created using xlabel Wed Jul  9 12:57:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.293922  121 [MOUTHNOISE]
+    0.352747  121 I
+    0.495607  121 KNOW
+    0.558633  121 "I'M"
+    0.663678  121 A
+    0.972507  121 REAL
+    1.186800  121 SIL
+    1.369570  121 A
+    1.728830  121 REAL
+    1.899000  121 UH
+    2.205730  121 [BREATH]

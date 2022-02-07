@@ -1,0 +1,28 @@
+signal 4822-B-0021
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.299827  121 AND_#
+    0.829290  121 h#
+    1.004097  121 KNOW
+    1.460000  121 PERHAPS
+    1.560000  121 WE
+    1.730000  121 CAN
+    2.070000  121 FIND
+    2.320000  121 BETTER
+    2.813715  121 TECHNIQUES
+    2.920000  121 FOR
+    3.190000  121 DOING
+    3.640000  121 THINGS
+    3.963404  121 THAT
+    4.374716  121 h#
+    4.581459  121 WE'D
+    4.966370  121 NORMALLY
+    5.121007  121 DO
+    5.340000  121 DOWN
+    5.520000  121 HERE
+    5.593322  121 h#

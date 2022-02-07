@@ -1,0 +1,13 @@
+signal 4372-A-0035
+type 0
+comment created using xlabel Sat Feb 22 17:43:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125872  121 SIL
+    0.490000  121 NO
+    1.132340  121 BUSINESSES
+    1.447290  121 UM

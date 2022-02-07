@@ -1,0 +1,18 @@
+signal 2065-B-0055
+type 0
+comment created using xlabel Fri May  9 20:27:59 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.197449  121 [MOUTHNOISE]
+    0.550000  121 YEAH
+    0.847855  121 REALLY
+    0.962826  121 THERE
+    1.120000  121 COULD
+    1.299760  121 BE
+    1.404490  121 A
+    1.844550  121 UM
+    1.989230  121 SIL

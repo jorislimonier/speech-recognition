@@ -1,0 +1,14 @@
+signal 4770-B-0030
+type 0
+comment created using xlabel Mon Apr 28 19:32:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.313876  121 H#
+    0.549619  121 UH
+    0.806119  121 CHECK
+    1.201990  121 KITING
+    1.566720  121 SCAM_#

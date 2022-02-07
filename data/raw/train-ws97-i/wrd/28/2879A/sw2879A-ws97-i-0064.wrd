@@ -1,0 +1,16 @@
+signal 2879-A-0064
+type 0
+comment created using xlabel Tue Jul  8 17:45:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120114  121 [CROSSTALK]
+    0.218787  121 AND
+    0.331340  121 THEY
+    0.732876  121 BURIED
+    0.861929  121 HER
+    1.492180  121 ALIVE
+    1.507850  121 SIL

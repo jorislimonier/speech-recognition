@@ -1,0 +1,21 @@
+signal 3804-B-0009
+type 0
+comment created using xlabel Thu Jun 19 16:12:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.278989  121 h#
+    0.344355  121 ?
+    0.707250  121 SOME
+    0.979984  121 h#
+    1.385705  121 UH
+    1.593074  121 h#
+    2.179614  121 SAUSAGE
+    2.353172  121 HORS
+    3.000071  121 "D'OEUVRES"
+    3.311124  121 h#
+    3.730000  121 AND
+    4.126708  121 UH

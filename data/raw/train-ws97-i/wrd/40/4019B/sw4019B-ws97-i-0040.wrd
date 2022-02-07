@@ -1,0 +1,25 @@
+signal 4019-B-0040
+type 0
+comment created using xlabel Fri Mar 14 16:42:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.291322  121 [BREATH]
+    0.540802  121 "IT'S"
+    0.760000  121 ON
+    0.962871  121 I
+    1.327280  121 THINK
+    1.872490  121 SIL
+    2.000000  121 TWO
+    2.155610  121 OR
+    2.420000  121 THREE
+    2.847970  121 NIGHTS
+    3.034380  121 FOR
+    3.420000  121 MAYBE
+    3.540860  121 AN
+    3.822570  121 HOUR
+    3.930000  121 OR
+    4.241840  121 TWO

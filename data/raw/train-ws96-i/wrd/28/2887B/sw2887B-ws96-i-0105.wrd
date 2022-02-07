@@ -1,0 +1,20 @@
+signal 2887-B-0105
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator \;
+nfields 1
+#
+    0.099333  121 H#
+    0.33  121 LIKE
+    0.49  121 AN
+    0.856393  121 AVERAGE
+    1.18214  121 HOUSE
+    1.33  121 IS
+    1.58  121 NOW
+    1.64199  121 A
+    1.91453  121 HUNDRED
+    2.23  121 THIRTY
+    2.78  121 THOUSAND
+    3.24165  121 h#

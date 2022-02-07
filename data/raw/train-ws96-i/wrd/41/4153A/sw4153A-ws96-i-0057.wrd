@@ -1,0 +1,17 @@
+signal 4153-A-0057
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.175623  121 h#
+    0.270000  121 YOU
+    0.659688  121 KNOW
+    0.985563  125 h#
+    1.280000  121 GOING
+    1.460000  121 THROUGH
+    1.698078  121 THIS
+    2.220000  121 ROUTINE
+    2.327511  125 h#

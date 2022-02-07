@@ -1,0 +1,24 @@
+signal 2061-A-0072
+type 0
+comment created using xlabel Thu May 15 17:33:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.208938  121 THEY
+    0.340000  121 GO
+    0.510000  121 WELL
+    0.601062  121 THEY
+    0.757590  121 GOT_A
+    0.950000  121 LOT
+    0.985119  121 OF
+    1.670150  121 BENEFITS
+    1.867020  121 H#
+    2.126830  121 THAT_WOULD
+    2.381790  121 GO
+    2.611710  121 WITH
+    2.810000  121 IT
+    3.270000  121 SO

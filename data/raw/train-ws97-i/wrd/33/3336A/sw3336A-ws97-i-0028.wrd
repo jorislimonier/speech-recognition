@@ -1,0 +1,18 @@
+signal 3336-A-0028
+type 0
+comment created using xlabel Fri May 16 17:17:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.122975  121 H#
+    0.577245  121 AUTOMATIC
+    1.025030  121 TELLER
+    1.094110  121 SIL
+    1.261120  121 I
+    1.500360  121 ONLY
+    1.705740  121 HAD
+    1.784730  121 THE
+    2.330920  121 CARD

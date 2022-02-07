@@ -1,0 +1,14 @@
+signal 4617-B-0005
+type 0
+comment created using xlabel Sat Jun 28 20:47:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145003  121 ?_#
+    0.274174  121 "THEY'RE"
+    0.695211  121 INNOCENT
+    0.945664  121 RIGHT
+    1.047225  121 [breath]

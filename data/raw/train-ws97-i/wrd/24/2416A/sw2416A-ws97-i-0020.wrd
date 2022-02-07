@@ -1,0 +1,27 @@
+signal 2416-A-0020
+type 0
+comment created using xlabel Sat May 10 12:54:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.470026  121 UM
+    0.874723  121 [STATIC/MOUTHNOISE]
+    1.062080  121 YEAH_I
+    1.218090  121 LIKE
+    1.620000  121 BOWLING
+    1.900110  121 TOO
+    2.020000  121 I
+    2.230000  121 HAVE_NOT
+    2.427210  121 BEEN
+    2.610820  121 FOR
+    2.677020  121 A
+    3.000000  121 WHILE
+    3.164150  121 JUST
+    3.324030  121 DO_NOT
+    3.532570  121 HAVE
+    3.627550  121 THE
+    4.200220  121 TIME
+    4.305140  121 [STATIC]

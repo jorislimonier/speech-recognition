@@ -1,0 +1,20 @@
+signal 2926-B-0053
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.033064  121 H#
+    0.18025  121 WOULD
+    0.61435  121 SAY
+    1.06115  121 h#
+    1.12635  121 YOU
+    1.22027  121 KNOW
+    1.36  121 WHAT
+    1.48648  121 DID
+    1.58  121 YOU
+    1.79257  121 DO
+    2.41214  121 TODAY
+    2.46776  121 h#

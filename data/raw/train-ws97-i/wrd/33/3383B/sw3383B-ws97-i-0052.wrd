@@ -1,0 +1,20 @@
+signal 3383-B-0052
+type 0
+comment created using xlabel Thu Mar 13 11:03:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.291159  121 [BREATH]
+    0.490000  121 AND
+    0.610211  121 I
+    0.716193  121 "DON'T"
+    0.930366  121 HAVE
+    0.980000  121 OF
+    1.300000  121 COURSE
+    1.853300  121 THE_EQUIPMENT
+    1.942720  121 TO
+    2.150000  121 DO
+    2.484140  121 THAT

@@ -1,0 +1,28 @@
+signal 4180-B-0001
+type 0
+comment created using xlabel Tue May 27 14:15:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.085203  121 h#
+    0.270705  121 IT
+    0.482152  121 "IT'S"
+    0.545716  121 THE
+    0.794782  121 TYPE
+    0.841482  121 OF
+    1.085359  121 THING
+    1.386972  121 OF
+    1.551710  121 h#
+    1.673649  121 WHAT
+    2.140000  121 EXACTLY
+    2.286215  121 AM
+    2.354968  121 I
+    2.597791  121 GETTING
+    2.757349  121 OUT
+    2.846507  121 OF
+    2.950000  121 THE
+    3.606894  121 TAXES
+    3.724941  121 ?_#

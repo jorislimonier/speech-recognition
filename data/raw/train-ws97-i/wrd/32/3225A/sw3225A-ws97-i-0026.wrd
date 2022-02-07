@@ -1,0 +1,16 @@
+signal 3225-A-0026
+type 0
+comment created using xlabel Mon Jun  2 15:35:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.070000  121 SIL
+    0.340000  121 TAKES
+    0.520257  121 ABOUT
+    0.760196  121 ANOTHER
+    1.057401  121 TWENTY
+    1.511830  121 MINUTES
+    1.623308  121 sil

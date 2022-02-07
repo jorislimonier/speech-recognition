@@ -1,0 +1,15 @@
+signal 2653-A-0029
+type 0
+comment created using xlabel Tue Feb 11 16:43:31 1997
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.298235  121 H#
+    0.430000  121 FOR
+    0.639903  121 SIX
+    0.812190  121 HUNDRED
+    1.240270  121 DOLLARS
+    1.383450  121 H#

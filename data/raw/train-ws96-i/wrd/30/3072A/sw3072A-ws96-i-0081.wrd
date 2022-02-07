@@ -1,0 +1,13 @@
+signal 3072-A-0081
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.339016  121 h#
+    0.496262  121 WAS
+    0.680000  121 REALLY
+    1.252007  121 INTERESTING
+    1.367960  125 h#

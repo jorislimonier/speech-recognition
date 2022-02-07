@@ -1,0 +1,11 @@
+signal 3075-B-0019
+type 0
+comment created using xlabel Wed Feb 19 10:05:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.470000  121 SEVERAL_#
+    0.920000  121 REASONS

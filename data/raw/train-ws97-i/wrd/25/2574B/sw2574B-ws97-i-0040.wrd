@@ -1,0 +1,22 @@
+signal 2574-B-0040
+type 0
+comment created using xlabel Tue Jul  8 19:22:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.334194  121 [MOUTHNOISE]
+    0.470000  121 "THEY'RE"
+    0.676148  121 KIND
+    0.750000  121 OF
+    0.899236  121 IN
+    1.278840  121 BETWEEN
+    1.410020  121 RIGHT
+    1.635230  121 NOW
+    2.012470  121 "THEY'RE"
+    2.269390  121 [MOUTHNOISE]
+    2.440000  121 "THEY'RE"
+    2.874860  121 NOT
+    3.186400  121 [BREATH]

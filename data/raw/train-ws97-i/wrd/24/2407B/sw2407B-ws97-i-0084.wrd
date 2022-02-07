@@ -1,0 +1,23 @@
+signal 2407-B-0084
+type 0
+comment created using xlabel Mon Apr 28 18:12:24 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123405  121 [STATIC]
+    0.368030  121 "THAT'S"
+    0.921936  121 INTERESTING
+    1.001540  121 THAT
+    1.102700  121 THE
+    1.760000  121 MILITARY
+    2.210000  121 SAW
+    2.444520  121 THAT
+    2.621960  121 AND
+    2.772880  121 DID
+    3.066420  121 SOMETHING
+    3.436240  121 ABOUT
+    3.559110  121 IT
+    3.686800  121 YOU_#

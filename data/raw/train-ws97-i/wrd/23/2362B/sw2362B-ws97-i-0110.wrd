@@ -1,0 +1,14 @@
+signal 2362-B-0110
+type 0
+comment created using xlabel Fri Mar 21 15:10:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.350000  121 [MECHNOISE]
+    1.030060  121 STATE
+    1.346160  121 SCHOOL
+    1.657190  121 BOARD
+    1.785660  121 [BREATH]

@@ -1,0 +1,19 @@
+signal 4094-B-0063
+type 0
+comment created using xlabel Wed Jul  2 15:59:03 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.129009  121 IS_#
+    0.673838  121 PARDONING
+    0.740363  121 SIL
+    0.823232  121 DO
+    0.860863  121 YOU
+    0.935095  121 KNOW
+    1.009750  121 WHAT
+    1.080380  121 I
+    1.318300  121 MEAN
+    1.428960  121 [STATIC]

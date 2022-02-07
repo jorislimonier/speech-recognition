@@ -1,0 +1,16 @@
+signal 2780-A-0021
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.397509  121 H#
+    0.450000  121 YOU
+    0.570000  121 KNOW
+    0.698449  121 AND
+    0.757949  121 IT
+    1.014230  121 WAS
+    1.288690  121 VERY
+    1.736760  121 DIFFERENT_#

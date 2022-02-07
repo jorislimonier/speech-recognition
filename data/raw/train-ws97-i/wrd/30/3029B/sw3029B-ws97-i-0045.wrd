@@ -1,0 +1,18 @@
+signal 3029-B-0045
+type 0
+comment created using xlabel Mon May 12 18:26:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.319842  121 UH_#
+    0.476744  121 H#
+    0.670000  121 WHO
+    0.870000  121 HAS
+    1.030000  121 BEEN
+    1.395740  121 HARMED
+    1.477250  121 [FALSESTART]
+    1.664720  121 YOU'RE
+    1.854220  121 YOU

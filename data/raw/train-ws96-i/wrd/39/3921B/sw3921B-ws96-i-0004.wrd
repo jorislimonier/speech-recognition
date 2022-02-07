@@ -1,0 +1,24 @@
+signal 3921-B-0004
+type 0
+comment created using xlabel Fri Jun  6 13:19:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125756  121 h#
+    0.430000  121 WELL
+    0.604021  121 WHAT
+    0.835052  121 KIND_OF
+    1.112533  121 FISH
+    1.220000  121 DO
+    1.340000  121 THEY
+    1.588649  121 HAVE
+    1.702129  121 IN
+    2.031954  121 YOUR
+    2.290000  121 NECK
+    2.338227  121 OF
+    2.470000  121 THE
+    2.930940  121 WOODS
+    3.207545  121 h#

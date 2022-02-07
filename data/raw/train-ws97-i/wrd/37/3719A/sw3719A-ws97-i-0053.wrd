@@ -1,0 +1,13 @@
+signal 3719-A-0053
+type 0
+comment created using xlabel Sun Jun 15 17:47:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.139669  121 [mech noise]
+    0.338757  121 SHE
+    0.713653  121 SIX
+    0.846913  121 [mech noise]

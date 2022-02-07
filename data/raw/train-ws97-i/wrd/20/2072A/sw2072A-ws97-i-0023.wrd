@@ -1,0 +1,13 @@
+signal 2072-A-0023
+type 0
+comment created using xlabel Mon Jun 30 16:03:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.089943  121 SIL
+    0.273862  121 [CROSSTALK]
+    0.624510  121 [MOUTHNOISE]
+    0.845384  121 "THAT'S"

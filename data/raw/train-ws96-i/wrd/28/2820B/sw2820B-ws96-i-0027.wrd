@@ -1,0 +1,13 @@
+signal 2820-B-0027
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.109092  121 H#
+    0.334432  121 NEVER
+    0.41  121 A
+    0.860901  121 PROBLEM
+    1.06805  121 h#

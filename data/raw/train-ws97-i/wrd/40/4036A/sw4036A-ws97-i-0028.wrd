@@ -1,0 +1,21 @@
+signal 4036-A-0028
+type 0
+comment created using xlabel Wed May 14 13:26:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330168  121 [STATIC]
+    0.447072  121 YOU
+    0.504556  121 KNOW
+    0.850010  121 MAYBE
+    1.028270  121 SIL
+    1.269550  121 IS
+    1.324450  121 A
+    1.999890  121 PROBLEM
+    2.080630  121 [STATIC]
+    2.384820  121 IS
+    2.592010  121 UH
+    2.918320  121 [MOUTHNOISE]

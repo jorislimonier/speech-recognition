@@ -1,0 +1,29 @@
+signal 2478-A-0081
+type 0
+comment created using xlabel Mon Mar 31 17:53:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.265860  121 SIL
+    0.750220  121 DOING
+    0.852456  121 SIL
+    1.523780  121 INSTALLATION
+    1.886000  121 WORK
+    2.000000  121 WELL
+    2.161830  121 "THERE'S"
+    2.359600  121 NOT
+    2.639490  121 ANY
+    2.778600  121 I
+    2.890890  121 MEAN
+    3.125820  121 THERE
+    3.603480  121 LITERALLY
+    3.764300  121 IS
+    4.133540  121 NO
+    4.790000  121 INSTALLATION
+    4.952180  121 WORK
+    5.171740  121 GOING
+    5.342690  121 ON
+    5.473420  121 [CROSSTALK]

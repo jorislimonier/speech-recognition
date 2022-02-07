@@ -1,0 +1,20 @@
+signal 2924-B-0019
+type 0
+comment created using xlabel Thu Mar 13 13:04:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.360000  121 [HUM]
+    0.491983  121 THE
+    0.780820  121 [HUM]
+    1.160870  121 ENTIRE
+    1.498410  121 TRIAL
+    1.670190  121 WAS
+    1.898220  121 LEFT
+    2.015280  121 TO
+    2.290430  121 ONE
+    2.794130  121 PERSON
+    2.861020  121 [BACKGROUNDNOISE]

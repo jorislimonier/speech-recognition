@@ -1,0 +1,34 @@
+signal 3019-A-0002
+type 0
+comment created using xlabel Sun Mar 30 17:23:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.118617  121 SIL
+    0.243018  121 I
+    0.804920  121 DO
+    0.944696  121 SIL
+    1.050930  121 A
+    1.443700  121 LITTLE
+    1.892080  121 SIL
+    2.036050  121 BIT
+    2.089160  121 SIL
+    2.375700  121 MORE
+    2.527080  121 THAN
+    2.627710  121 I
+    2.827050  121 THINK
+    2.929090  121 SIL
+    3.270590  121 USUAL
+    3.620000  121 PEOPLE
+    3.873030  121 DO
+    4.270060  121 BECAUSE
+    4.451770  121 I
+    4.451770  121 AM
+    4.880920  121 HERE
+    5.476030  121 ALONE
+    5.751540  121 DURING
+    5.808700  121 THE
+    6.260320  121 DAY

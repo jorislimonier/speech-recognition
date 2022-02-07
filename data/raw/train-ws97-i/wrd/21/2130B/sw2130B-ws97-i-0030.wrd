@@ -1,0 +1,21 @@
+signal 2130-B-0030
+type 0
+comment created using xlabel Sat Mar 29 17:14:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150199  121 SIL
+    0.279420  121 AND
+    0.422790  121 THEN
+    0.676516  121 I'D
+    0.742541  121 [MOUTHNOISE]
+    0.998565  121 I
+    1.085340  121 SIL
+    1.408830  121 GOSH
+    1.459120  121 SIL
+    1.681360  121 THIS
+    1.875080  121 UH
+    2.186350  121 [STATIC]

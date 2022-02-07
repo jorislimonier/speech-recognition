@@ -1,0 +1,14 @@
+signal 3121-B-0112
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124876  121 h#
+    0.240000  121 IT'S
+    0.407650  121 JUST
+    0.603630  121 NOT
+    0.760000  121 THAT
+    1.447248  121 PLEASANT_#

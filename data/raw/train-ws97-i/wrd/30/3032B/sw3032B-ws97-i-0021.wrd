@@ -1,0 +1,31 @@
+signal 3032-B-0021
+type 0
+comment created using xlabel Wed Jun 25 14:59:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.307949  121 SIL
+    0.490642  121 BUT
+    0.621599  121 I
+    0.839861  121 THINK
+    0.943333  121 WE
+    1.121175  121 JUST
+    1.347521  121 MAY
+    1.586800  121 NEED
+    1.695964  121 TO
+    2.138954  121 HAVE
+    2.550000  121 UH
+    2.785644  121 YOU
+    2.950553  121 KNOW
+    3.167198  121 GET
+    3.340190  121 h#
+    3.648980  121 SHARP
+    3.951312  121 PEOPLE
+    4.064485  121 FROM
+    4.213226  121 ALL
+    4.378135  121 OVER
+    4.436338  121 THE
+    4.866837  121 COUNTRY

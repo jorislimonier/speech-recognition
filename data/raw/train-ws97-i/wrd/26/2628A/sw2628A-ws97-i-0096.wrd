@@ -1,0 +1,18 @@
+signal 2628-A-0096
+type 0
+comment created using xlabel Thu Mar  6 19:19:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.331866  121 [STATIC]
+    0.705995  121 AND
+    0.957426  121 [STATIC]
+    1.060280  121 I
+    1.281270  121 "WASN'T"
+    1.514600  121 READY
+    1.655400  121 FOR
+    2.023460  121 KIDS
+    2.125930  121 [STATIC]

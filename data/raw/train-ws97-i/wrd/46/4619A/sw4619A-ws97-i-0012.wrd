@@ -1,0 +1,30 @@
+signal 4619-A-0012
+type 0
+comment created using xlabel Mon Jul 21 13:43:41 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.336998  121 SIL
+    0.894369  121 UM
+    1.043510  121 [MOUTHNOISE]
+    1.370000  121 I_MEAN
+    1.537500  121 THE
+    1.692830  121 THE
+    2.187020  121 ENVIRONMENT
+    2.320140  121 THERE
+    2.444090  121 I
+    2.582010  121 DON'T
+    2.719920  121 KNOW
+    2.902200  121 TOO
+    3.170180  121 MUCH
+    3.389710  121 ABOUT
+    3.542460  121 IT
+    3.660300  121 BUT
+    3.779880  121 IT
+    3.917860  121 SIL
+    4.040930  121 IT
+    4.743990  121 SEEMS
+    4.947370  121 [STATIC]

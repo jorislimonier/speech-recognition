@@ -1,0 +1,19 @@
+signal 3445-B-0036
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.346286  121 h#
+    0.541668  121 THAT'S
+    0.701463  121 OUT
+    0.845927  121 ON
+    1.159719  121 VIDEO
+    1.321968  121 I
+    1.566107  121 WANNA
+    1.832471  121 WATCH
+    1.869350  125 h#
+    2.210662  121 THAT
+    2.343197  125 h#

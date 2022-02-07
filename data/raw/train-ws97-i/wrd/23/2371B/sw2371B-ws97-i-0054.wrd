@@ -1,0 +1,16 @@
+signal 2371-B-0054
+type 0
+comment created using xlabel Wed Jul  2 19:45:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.291026  121 [CROSSTALK]
+    0.655329  121 YEAH
+    0.849308  121 THAT
+    0.966011  121 WOULD
+    1.150530  121 BE
+    1.562140  121 HORRIBLE
+    1.666230  121 [BREATH]

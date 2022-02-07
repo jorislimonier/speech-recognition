@@ -1,0 +1,11 @@
+signal 2690-A-0008
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300076  121 h#
+    0.761567  121 PEOPLE
+    1.068053  125 h#

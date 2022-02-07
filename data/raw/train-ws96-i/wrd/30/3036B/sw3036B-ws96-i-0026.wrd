@@ -1,0 +1,12 @@
+signal 3036-B-0026
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.362813  121 h#
+    0.570000  121 TOO
+    1.048443  121 COUNTRY
+    1.206138  125 h#

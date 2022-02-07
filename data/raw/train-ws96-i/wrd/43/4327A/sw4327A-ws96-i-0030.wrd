@@ -1,0 +1,18 @@
+signal 4327-A-0030
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.337342  121 h#
+    0.420000  121 YOU
+    0.527521  121 KNOW
+    0.729782  121 WHAT
+    1.111917  121 MIGHT
+    1.153315  125 h#
+    1.400000  121 VERY
+    1.694755  121 WELL
+    2.172986  121 DO
+    2.504571  125 h#

@@ -1,0 +1,17 @@
+signal 2768-A-0074
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.137260  121 h#
+    0.385666  121 THAT'S
+    0.600000  121 JUST
+    0.689413  121 THE
+    0.880000  121 END
+    0.934232  121 OF
+    1.234795  121 ME
+    1.363964  121 h#
+    1.369995  121 h#

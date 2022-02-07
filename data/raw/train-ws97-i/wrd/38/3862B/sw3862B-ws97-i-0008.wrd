@@ -1,0 +1,18 @@
+signal 3862-B-0008
+type 0
+comment created using xlabel Mon Jun 16 15:12:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.300105  121 [breath]
+    0.810000  121 UNDERSTAND
+    0.952487  121 WE'RE
+    1.433856  121 DOING
+    1.846304  121 CARE
+    1.990000  121 OF
+    2.140000  121 THE
+    2.750000  121 ELDERLY
+    3.177458  121 RIGHT

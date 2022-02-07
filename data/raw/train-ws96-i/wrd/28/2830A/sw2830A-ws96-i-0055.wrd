@@ -1,0 +1,15 @@
+signal 2830-A-0055
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.054989  121 h#
+    0.484711  121 DOWNTOWN
+    0.934309  121 BOSTON
+    1.350000  121 YUPPIE
+    1.475329  121 YOU
+    1.730058  121 KNOW
+    1.992555  121 h#

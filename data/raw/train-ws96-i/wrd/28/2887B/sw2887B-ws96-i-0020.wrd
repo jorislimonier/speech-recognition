@@ -1,0 +1,25 @@
+signal 2887-B-0020
+type 0
+comment created using xlabel Sun Jun 22 18:48:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator \
+nfields 1
+#
+    0.465677  121 H#
+    0.623872  121 HE
+    0.693983  121 [false start]
+    0.848731  121 h#
+    0.960000  121 HE
+    1.151290  121 WORKS
+    1.249970  121 FOR
+    1.787130  121 BRAMALEA
+    2.335460  121 COMPANY
+    2.519780  121 AND
+    2.645460  121 THEY
+    3.013190  121 PAY
+    3.370670  121 ONE
+    3.706740  121 HUNDRED
+    4.208920  121 PERCENT
+    4.279670  121 h#

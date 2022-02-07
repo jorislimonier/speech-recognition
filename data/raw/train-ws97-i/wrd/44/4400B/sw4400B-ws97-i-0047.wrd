@@ -1,0 +1,18 @@
+signal 4400-B-0047
+type 0
+comment created using xlabel Sat Jun  7 15:52:42 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.138395  121 SIL
+    0.547924  121 SOMEBODY
+    0.852688  121 TOLD
+    1.207754  121 ME
+    1.492277  121 UH
+    1.567279  121 sil
+    2.010000  121 ONCE
+    2.048403  121 sil
+    2.188967  121 THE_#

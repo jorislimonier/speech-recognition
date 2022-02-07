@@ -1,0 +1,31 @@
+signal 2736-A-0008
+type 0
+comment created using xlabel Wed Jul 16 15:09:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.128971  121 [MECHNOISE]
+    0.434457  121 UH
+    0.557692  121 "I'VE"
+    0.936078  121 GOT
+    1.352470  121 THREE
+    1.861250  121 [MECHNOISE]
+    1.869720  121 [MOUTHNOISE]
+    2.373500  121 CHILDREN
+    2.510620  121 AT
+    2.871650  121 HOME
+    3.196100  121 TWO
+    3.387020  121 ?
+    3.469580  121 [MECHNOISE]
+    3.912950  121 FOURTEEN
+    4.030000  121 YEAR
+    4.358390  121 OLDS
+    4.427820  121 AND
+    4.488570  121 A
+    4.866950  121 TWELVE
+    5.014960  121 YEAR
+    5.271370  121 OLD
+    5.528260  121 [BREATH]

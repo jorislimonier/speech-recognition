@@ -1,0 +1,26 @@
+signal 2005-A-0081
+type 0
+comment created using xlabel Mon Apr  7 12:04:57 1997
+comment $Locker: joyh $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.147596  121 [BREATH]
+    0.307326  121 WE
+    0.520000  121 WE
+    0.880096  121 "DON'T"
+    1.157610  121 SIL
+    1.272160  121 WE
+    1.381870  121 BREATH
+    1.590010  121 WE
+    1.937010  121 SIL
+    2.050000  121 WE
+    2.396840  121 CHOOSE
+    2.602710  121 NOT
+    2.707580  121 TO
+    3.122230  121 DEAL
+    3.304550  121 WITH
+    3.522370  121 THE
+    3.583680  121 ?_#

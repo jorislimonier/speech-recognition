@@ -1,0 +1,17 @@
+signal 3531-A-0039
+type 0
+comment created using xlabel Mon Mar 10 17:36:56 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.217779  121 SIL
+    0.526056  121 THAT
+    0.861298  121 CAME
+    1.051080  121 OUT
+    1.197240  121 AND
+    1.570260  121 SAID
+    1.678940  121 SIL
+    2.019630  121 THAT

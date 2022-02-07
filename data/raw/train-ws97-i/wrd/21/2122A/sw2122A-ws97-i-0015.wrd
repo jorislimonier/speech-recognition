@@ -1,0 +1,19 @@
+signal 2122-A-0015
+type 0
+comment created using xlabel Tue Mar  4 14:55:50 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.371895  121 [BREATH]
+    0.528000  121 BUT
+    0.718000  121 DOES
+    0.792000  121 IT
+    1.050620  121 HAVE
+    1.210000  121 UH
+    1.411730  121 LIKE
+    1.446000  121 A
+    1.656000  121 DISK
+    2.096000  121 DRIVE

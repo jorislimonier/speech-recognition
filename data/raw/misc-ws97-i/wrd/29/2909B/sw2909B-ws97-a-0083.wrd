@@ -1,0 +1,12 @@
+signal 2909-B-0083
+type 0
+comment created using xlabel Tue Feb 18 12:05:54 1997
+comment $Locker: coulston $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 SIL
+    0.420000  121 YOU
+    0.680000  121 KNOW

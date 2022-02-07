@@ -1,0 +1,18 @@
+signal 4100-A-0031
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.725846  121 h#
+    0.838686  121 AND
+    0.886115  121 A
+    1.121473  121 LOT
+    1.272488  121 OF
+    1.530420  121 THINGS
+    1.816479  121 LIKE
+    1.882416  125 h#
+    2.153343  121 THAT
+    2.442544  125 h#

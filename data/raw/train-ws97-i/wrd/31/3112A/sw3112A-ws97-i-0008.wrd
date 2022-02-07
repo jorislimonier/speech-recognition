@@ -1,0 +1,19 @@
+signal 3112-A-0008
+type 0
+comment created using xlabel Thu May 15 17:34:08 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320717  121 [MECHNOISE]
+    0.566510  121 EVEN
+    0.732586  121 AS
+    0.780195  121 A
+    1.218860  121 CHILD_?
+    1.378120  121 I_?
+    1.563020  121 GOT
+    1.741270  121 TO
+    2.038180  121 GO
+    2.425700  121 [BREATH]

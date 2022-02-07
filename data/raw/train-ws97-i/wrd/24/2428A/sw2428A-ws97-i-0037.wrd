@@ -1,0 +1,22 @@
+signal 2428-A-0037
+type 0
+comment created using xlabel Mon Jun 23 14:58:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.220000  121 ALL_THIS_#
+    0.439612  121 SORT_OF
+    0.652387  121 THING
+    0.790000  121 AND
+    0.990000  121 COME
+    1.220000  121 BACK
+    1.310000  121 AND
+    1.443420  121 LOAD
+    1.557000  121 IT
+    1.728080  121 ALL
+    1.920000  121 INTO
+    2.081750  121 MY
+    2.684020  121 COMPUTER

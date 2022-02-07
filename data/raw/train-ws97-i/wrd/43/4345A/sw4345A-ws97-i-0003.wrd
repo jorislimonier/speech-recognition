@@ -1,0 +1,37 @@
+signal 4345-A-0003
+type 0
+comment created using xlabel Fri Mar 14 16:15:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.198455  121 UH_#
+    0.351777  121 [MECHNOISE]
+    0.503875  121 OH
+    0.577036  121 THE
+    1.010230  121 COLLEGE
+    1.347160  121 TOWN
+    1.936300  121 NEARBY
+    2.025790  121 WHEN
+    2.143230  121 "I'M"
+    2.241420  121 IN
+    2.896020  121 STILLWATER
+    3.179350  121 WHICH
+    3.416160  121 IS
+    3.851280  121 [BREATH]
+    4.026190  121 ABOUT
+    4.120530  121 AN
+    4.433380  121 HOUR
+    4.835770  121 AWAY
+    5.114360  121 BUT
+    5.315360  121 THE
+    5.419320  121 [MECHNOISE]
+    5.613780  121 F
+    5.750470  121 M
+    6.143840  121 SIGNAL_!
+    6.382580  121 "DOESN'T"
+    6.717580  121 REACH
+    6.989040  121 THIS
+    7.264360  121 FAR_#

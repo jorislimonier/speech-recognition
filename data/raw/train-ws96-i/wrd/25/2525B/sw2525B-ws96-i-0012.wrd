@@ -1,0 +1,29 @@
+signal 2525-B-0012
+type 0
+comment created using xlabel Sat Jun 28 13:39:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.165749  121 H#
+    0.328057  121 AND
+    0.527727  121 H#
+    0.731253  121 WITH
+    0.804866  121 H#
+    1.088770  121 THE
+    1.468530  121 H#
+    1.836420  121 PEOPLE
+    1.970000  121 THAT
+    2.030980  121 ARE
+    2.351490  121 COMING
+    2.575170  121 INTO
+    2.663570  121 THE
+    3.121130  121 COUNTRY
+    3.162960  121 H#
+    3.378550  121 FROM
+    3.450040  121 H#
+    3.676790  121 OTHER
+    4.247500  121 COUNTRIES_!
+    4.596720  121 H#

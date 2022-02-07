@@ -1,0 +1,16 @@
+signal 3518-B-0054
+type 0
+comment created using xlabel Sat Apr 12 20:11:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.245934  121 [BREATH]
+    0.540847  121 DOWN
+    0.749229  121 HERE
+    0.850000  121 IN
+    1.595120  121 TEXAS
+    1.675090  121 [STATIC]
+    1.865300  121 UH_#

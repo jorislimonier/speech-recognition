@@ -1,0 +1,13 @@
+signal 3085-B-0054
+type 0
+comment created using xlabel Tue May 27 17:55:46 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.124409  121 [mouth noise]
+    0.243202  121 AND
+    0.565640  121 HOLD
+    0.734536  121 THEM

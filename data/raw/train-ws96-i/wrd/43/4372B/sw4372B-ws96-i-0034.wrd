@@ -1,0 +1,24 @@
+signal 4372-B-0034
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.283637  121 h#
+    0.558864  121 THEN
+    0.752659  121 I
+    1.063410  121 THINK
+    1.274717  121 SOME
+    1.488893  121 WELL
+    1.828327  121 DEFINED
+    2.406817  121 MECHANISMS
+    2.582271  121 NEED
+    2.624719  121 TO
+    2.750000  121 BE
+    2.870000  121 IN
+    3.219582  121 PLACE
+    3.432891  121 SO
+    3.713058  121 THAT
+    4.049035  125 h#

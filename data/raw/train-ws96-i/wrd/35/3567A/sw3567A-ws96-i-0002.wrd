@@ -1,0 +1,21 @@
+signal 3567-A-0002
+type 0
+comment created using xlabel Fri Jun 27 19:34:09 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.346798  121 h#
+    0.616173  121 WHERE
+    0.880000  121 THE
+    1.364596  121 CHILD
+    1.613341  121 IS
+    1.867556  121 GOING
+    1.918275  121 TO
+    2.122813  121 GO
+    2.280000  121 TO
+    2.332748  121 A
+    3.179954  121 UNIVERSITY
+    3.305857  125 h#

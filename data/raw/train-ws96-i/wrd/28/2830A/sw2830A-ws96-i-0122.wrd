@@ -1,0 +1,15 @@
+signal 2830-A-0122
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.279884  121 h#
+    0.421110  121 THEY
+    0.529493  121 HAVE
+    0.624738  121 BUT
+    0.905001  121 JUST
+    1.135999  121 OF
+    1.154610  121 h#

@@ -1,0 +1,18 @@
+signal 2692-A-0098
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.139371  121 when
+    0.230806  121 I
+    0.480000  121 TAKE
+    0.689263  121 THOSE
+    0.954078  121 HOSES
+    1.110196  121 I
+    1.366604  121 CUT
+    1.472289  121 THEM
+    1.800000  121 OFF
+    1.868837  121 h#

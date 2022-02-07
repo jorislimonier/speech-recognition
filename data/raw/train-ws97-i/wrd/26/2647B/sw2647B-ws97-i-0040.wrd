@@ -1,0 +1,17 @@
+signal 2647-B-0040
+type 0
+comment created using xlabel Wed Mar 26 16:26:01 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.263065  121 [MECHNOISE]
+    0.294248  121 [MOUTHNOISE]
+    0.586896  121 WITH_!
+    0.717627  121 UH
+    0.967097  121 [MECHNOISE]
+    1.132610  121 UH
+    1.188980  121 H#
+    1.264540  121 UH_#

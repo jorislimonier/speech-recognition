@@ -1,0 +1,21 @@
+signal 2717-A-0064
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324626  121 H#
+    0.397798  121 A
+    0.726406  121 JURY
+    1.06433  121 TRIAL
+    1.17875  121 HE
+    1.39079  121 WAS
+    1.52  121 HE
+    1.66884  121 WAS
+    1.98771  121 ACTUALLY
+    2.07594  121 ON
+    2.14113  121 THE
+    2.50646  121 JURY
+    2.64349  121 h#

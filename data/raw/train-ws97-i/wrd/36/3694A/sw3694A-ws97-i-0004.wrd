@@ -1,0 +1,18 @@
+signal 3694-A-0004
+type 0
+comment created using xlabel Tue Mar 25 18:09:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132459  121 [LAUGHTER]
+    0.456766  121 SPEAKING
+    0.627342  121 OF
+    0.764225  121 AIR
+    1.231730  121 POLLUTION
+    1.379140  121 "I'M"
+    1.492860  121 [FALSESTART]
+    2.082510  121 COUGHING
+    2.227700  121 ?_#

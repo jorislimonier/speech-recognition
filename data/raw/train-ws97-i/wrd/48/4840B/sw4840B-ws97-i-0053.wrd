@@ -1,0 +1,23 @@
+signal 4840-B-0053
+type 0
+comment created using xlabel Fri Jul  4 14:03:40 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.210461  121 [STATIC]
+    0.541690  121 TO
+    0.902363  121 GET
+    1.119880  121 h#
+    1.233230  121 YOU
+    1.330160  121 KNOW
+    1.487910  121 I_?
+    1.590000  121 LIKE
+    1.690000  121 TO
+    1.917750  121 KNOW
+    2.079060  121 WHERE
+    2.144460  121 "IT'S"
+    2.446240  121 GOING
+    2.625840  121 TO

@@ -1,0 +1,15 @@
+signal 4011-A-0020
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.889717  121 h#
+    0.962364  121 DO
+    1.110000  121 YOU
+    1.348521  121 THINK
+    1.726212  121 THAT
+    2.262007  121 THAT
+    2.903366  121 h#

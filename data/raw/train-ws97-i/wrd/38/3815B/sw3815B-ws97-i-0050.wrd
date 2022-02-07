@@ -1,0 +1,21 @@
+signal 3815-B-0050
+type 0
+comment created using xlabel Wed Apr 30 13:55:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 SIL
+    0.567065  121 "IT'S"
+    0.956313  121 FUN
+    1.370780  121 H#
+    1.704860  121 "IT'S"
+    2.030000  121 "IT'S"
+    2.130000  121 AN
+    2.760720  121 ENJOYABLE
+    3.030000  121 PART
+    3.061710  121 OF
+    3.780000  121 DRIVING
+    4.098590  121 [BREATH]

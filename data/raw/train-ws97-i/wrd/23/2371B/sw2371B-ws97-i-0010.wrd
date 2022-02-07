@@ -1,0 +1,30 @@
+signal 2371-B-0010
+type 0
+comment created using xlabel Wed May 28 14:32:48 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.510075  121 SIL
+    0.734999  121 SEEMS
+    0.899631  121 LIKE
+    0.990064  121 WE
+    1.152380  121 DO
+    1.257880  121 GET
+    1.305420  121 A
+    1.457880  121 LOT
+    1.503100  121 OF
+    1.848010  121 RAIN
+    2.049750  121 BUT
+    2.234090  121 I
+    2.482780  121 GUESS
+    2.796470  121 NOT
+    2.906500  121 I
+    3.081170  121 GUESS
+    3.118610  121 IT
+    3.369280  121 "DOESN'T"
+    4.001070  121 ACCUMULATE
+    4.180010  121 TOO
+    4.623510  121 MUCH

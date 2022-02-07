@@ -1,0 +1,13 @@
+signal 4175-B-0020
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114998  121 h#
+    0.200000  121 THEY
+    0.479706  121 JUST
+    1.198550  121 OVERFLOW
+    1.387510  121 h#

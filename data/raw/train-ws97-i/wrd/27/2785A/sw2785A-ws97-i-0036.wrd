@@ -1,0 +1,20 @@
+signal 2785-A-0036
+type 0
+comment created using xlabel Fri Jun 13 15:04:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.344084  121 h#
+    0.632190  121 IN
+    0.739116  121 h#
+    1.085141  121 NORTH
+    1.138604  121 h#
+    1.490569  121 UH
+    1.598189  121 h#
+    1.785309  121 IN
+    1.901146  121 uh
+    1.959064  121 sil
+    2.680422  121 OKLAHOMA

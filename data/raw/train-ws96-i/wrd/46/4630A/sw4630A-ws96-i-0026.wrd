@@ -1,0 +1,17 @@
+signal 4630-A-0026
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.256264  121 OR_#
+    0.406850  121 h#
+    0.635137  121 IF
+    0.950000  121 THEY
+    1.138705  121 h#
+    1.717917  121 CRITICIZED
+    1.951126  121 YOU
+    2.270000  121 OR
+    2.365170  121 h#

@@ -1,0 +1,23 @@
+signal 3681-A-0050
+type 0
+comment created using xlabel Tue Mar 25 18:01:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.094228  121 H#
+    0.231695  121 OH
+    0.480000  121 NO
+    0.670000  121 NO
+    0.879402  121 THIS
+    0.963616  121 IS
+    1.118420  121 A
+    1.290230  121 "IT'S"
+    1.330000  121 A
+    1.812610  121 CONCERT
+    2.182900  121 BAND
+    2.415730  121 AND
+    2.681210  121 UH
+    2.754280  121 [MOUTHNOISE]

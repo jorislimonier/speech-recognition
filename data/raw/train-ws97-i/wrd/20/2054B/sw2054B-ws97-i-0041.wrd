@@ -1,0 +1,27 @@
+signal 2054-B-0041
+type 0
+comment created using xlabel Wed Jul  9 12:50:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.326341  121 [BACKGROUNDNOISE]
+    0.502861  121 "WE'VE"
+    0.751363  121 HAD
+    1.011980  121 THEM
+    1.168550  121 YOU
+    1.396550  121 KNOW
+    1.732710  121 SAY_THAT
+    1.880830  121 THEY'RE
+    2.191860  121 GONNA
+    2.387570  121 BE
+    2.749470  121 [CROSSTALK]
+    2.969680  121 GET
+    3.261320  121 THIS
+    3.513930  121 REAL
+    3.730350  121 BAD
+    4.010960  121 ICE
+    4.509620  121 STORM
+    4.623970  121 [BREATH]

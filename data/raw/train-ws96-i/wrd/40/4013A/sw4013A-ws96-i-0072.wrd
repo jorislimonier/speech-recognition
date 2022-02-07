@@ -1,0 +1,18 @@
+signal 4013-A-0072
+type 0
+comment created using xlabel Fri Jun  6 14:02:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150334  121 h#
+    0.306918  121 IT
+    0.397451  121 h#
+    0.566546  121 IS
+    0.762417  121 THAT
+    1.080000  121 CLOSE
+    1.190000  121 TO
+    1.702167  121 DALLAS
+    1.788575  121 h#

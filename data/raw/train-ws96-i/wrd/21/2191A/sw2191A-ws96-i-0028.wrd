@@ -1,0 +1,14 @@
+signal 2191-A-0028
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310016  121 H#
+    0.460000  121 BUT
+    0.616752  121 I
+    1.018150  121 LIKE
+    1.567350  121 TO
+    2.145990  121 H#

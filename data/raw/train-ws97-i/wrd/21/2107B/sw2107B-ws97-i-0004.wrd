@@ -1,0 +1,19 @@
+signal 2107-B-0004
+type 0
+comment created using xlabel Fri May 16 12:57:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.206165  121 [CROSSTALK]
+    0.282503  121 [GLOTTALPULSE]
+    0.532752  121 OH
+    0.644190  121 YOU
+    0.842143  121 KNOW
+    1.000000  121 GET
+    1.152320  121 SO
+    1.669760  121 ATTACHED
+    1.871920  121 TO
+    2.076190  121 THEM

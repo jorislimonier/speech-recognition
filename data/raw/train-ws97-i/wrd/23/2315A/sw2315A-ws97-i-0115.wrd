@@ -1,0 +1,20 @@
+signal 2315-A-0115
+type 0
+comment created using xlabel Fri May  2 11:45:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.321452  121 H#
+    0.734878  121 AND
+    0.850046  121 AT
+    1.075950  121 THAT
+    1.300000  121 TIME
+    1.397840  121 I
+    1.544430  121 WAS
+    1.760000  121 GOING
+    1.820000  121 TO
+    2.414100  121 COLLEGE
+    2.597240  121 AND

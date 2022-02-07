@@ -1,0 +1,17 @@
+signal 2868-B-0045
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.166902  121 h#
+    0.488789  121 AND
+    0.653573  121 I
+    0.963271  121 LIVED
+    1.203874  121 THERE
+    1.300000  121 FOR
+    1.704649  121 SEVEN
+    2.100000  121 YEARS
+    2.248942  121 h#

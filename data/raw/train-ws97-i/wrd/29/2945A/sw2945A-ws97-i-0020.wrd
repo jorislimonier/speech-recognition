@@ -1,0 +1,15 @@
+signal 2945-A-0020
+type 0
+comment created using xlabel Thu May 29 16:21:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.060797  121 sil
+    0.113015  121 [static]
+    0.313638  121 "I'M"
+    0.360000  121 A
+    0.820235  121 NURSE
+    0.966809  121 [static]

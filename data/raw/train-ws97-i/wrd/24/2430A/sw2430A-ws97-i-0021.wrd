@@ -1,0 +1,22 @@
+signal 2430-A-0021
+type 0
+comment created using xlabel Wed Apr 30 12:03:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120665  121 [STATIC]
+    0.297935  121 NOW
+    0.472933  121 "I'M"
+    0.608537  121 NOT
+    0.765612  121 EVEN
+    1.020000  121 FAMILIAR
+    1.223050  121 WITH
+    1.435330  121 WHAT
+    1.669420  121 THAT
+    1.930830  121 WHERE
+    2.114160  121 THAT
+    2.515740  121 IS
+    2.624080  121 [STATIC]

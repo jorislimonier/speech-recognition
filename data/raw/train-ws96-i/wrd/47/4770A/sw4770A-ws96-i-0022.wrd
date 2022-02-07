@@ -1,0 +1,17 @@
+signal 4770-A-0022
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.285677  121 h#
+    0.420000  121 THE
+    0.754190  121 MONEY
+    0.972123  121 TO
+    1.760000  121 ADVERTISE
+    1.830000  121 THE
+    2.117920  121 MONEY
+    2.271562  121 TO
+    2.381577  121 h#

@@ -1,0 +1,18 @@
+signal 2938-A-0012
+type 0
+comment created using xlabel Mon Jun 16 21:39:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.210000  121 [crosstalk]
+    0.439013  121 "THAT'S"
+    0.783179  121 CAUSING
+    0.888001  121 THE
+    1.095899  121 HOLE
+    1.237409  121 IN
+    1.303796  121 THE
+    1.719592  121 OZONE
+    1.848872  121 [hum]

@@ -1,0 +1,17 @@
+signal 3235-B-0028
+type 0
+comment created using xlabel Thu May  1 15:10:14 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.304835  121 H#
+    0.450000  121 AS
+    0.529504  121 I
+    0.712580  121 SAID
+    0.870527  121 I
+    1.189110  121 TEACH
+    1.679110  121 SCHOOL
+    1.806540  121 [CROSSTALK]

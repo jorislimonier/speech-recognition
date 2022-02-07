@@ -1,0 +1,24 @@
+signal 4340-B-0021
+type 0
+comment created using xlabel Mon Jun  9 18:49:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.308533  121 h#
+    0.748048  121 SO
+    0.915952  121 I
+    1.129949  121 GUESS
+    1.264931  121 THAT
+    1.376867  121 WAS
+    1.439420  121 A
+    1.692115  121 CRIME
+    1.750350  121 I
+    1.851995  121 GOT
+    1.899641  121 A
+    2.090000  121 "YEAR'S"
+    2.560000  121 PROBATION
+    2.680000  121 FOR
+    3.040000  121 THAT

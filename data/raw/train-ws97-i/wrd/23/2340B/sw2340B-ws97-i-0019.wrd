@@ -1,0 +1,12 @@
+signal 2340-B-0019
+type 0
+comment created using xlabel Mon Mar 31 16:26:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.214561  121 "ISN'T"_#
+    0.385588  121 THAT
+    0.908122  121 NEAT_#@

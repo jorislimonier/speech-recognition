@@ -1,0 +1,22 @@
+signal 2589-B-0062
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.125695  121 H#
+    0.344250  121 HAVE
+    0.421241  121 H#
+    0.582777  121 HAVE
+    0.692946  121 THEM
+    0.882153  121 PICK
+    1.010210  121 UP
+    1.270740  121 AROUND
+    1.306400  121 THE
+    1.598290  121 SCHOOL
+    1.780000  121 YARD
+    2.014310  121 HAVE
+    2.354650  121 THEM
+    2.628860  121 H#

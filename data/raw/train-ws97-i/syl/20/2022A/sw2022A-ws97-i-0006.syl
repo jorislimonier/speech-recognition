@@ -1,0 +1,20 @@
+signal 2022-A-0006
+type 0
+comment created using xlabel Tue Mar  4 12:01:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.318000  121 h#
+    0.418790  121 b_epi w ax
+    0.529226  121 dx eh
+    0.649021  121 v er
+    0.795645  121 w ih v
+    0.959118  121 g_vl_fr ah t
+    1.101378  121 k ah
+    1.242387  121 m iy_n
+    1.518789  121 ih n
+    1.752000  121 ch eh k
+    2.050000  121 h#

@@ -1,0 +1,17 @@
+signal 2397-B-0016
+type 0
+comment created using xlabel Mon Mar 24 12:28:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.233613  121 [CROSSTALK]
+    0.473358  121 WELL
+    0.514071  121 SIL
+    0.737499  121 "IT'S"
+    0.830000  121 AN
+    1.691290  121 ITALIAN
+    1.770390  121 SIL
+    2.319380  121 UM

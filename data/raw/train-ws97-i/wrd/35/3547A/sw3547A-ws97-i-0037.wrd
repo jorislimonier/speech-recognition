@@ -1,0 +1,31 @@
+signal 3547-A-0037
+type 0
+comment created using xlabel Fri May 16 18:05:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.335827  121 SIL
+    0.425966  121 "I'VE"
+    0.680989  121 SOLD
+    0.983190  121 GUNS
+    1.095860  121 FOR
+    1.380620  121 TWENTY
+    1.722740  121 SEVEN
+    2.160770  121 YEARS
+    2.531570  121 H#
+    2.718000  121 WORKED
+    2.789710  121 FOR
+    2.951550  121 SOME
+    3.205580  121 MAJOR
+    3.875150  121 MANUFACTURERS
+    4.100490  121 LIKE
+    4.684350  121 WINCHESTER
+    4.727370  121 AND
+    4.995560  121 PEOPLE
+    5.240000  121 LIKE
+    5.538440  121 THAT
+    5.706430  121 AND
+    6.021910  121 [BREATH]

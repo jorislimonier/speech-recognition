@@ -1,0 +1,22 @@
+signal 2460-A-0076
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110155  121 H#
+    0.216310  121 AND
+    0.323207  121 I
+    0.531368  121 THINK
+    0.767870  121 THAT'S
+    1.027170  121 REALLY
+    1.330000  121 WHAT'S
+    1.507380  121 BEEN
+    1.891670  121 HURTING
+    2.703760  121 H#
+    2.998630  121 THE
+    3.257570  121 H#
+    3.750000  121 RANGERS
+    3.883120  121 H#

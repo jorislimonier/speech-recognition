@@ -1,0 +1,20 @@
+signal 4698-B-0034
+type 0
+comment created using xlabel Thu May 15 18:00:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 [MECHNOISE]
+    0.421195  121 I
+    0.562140  121 ?
+    0.770737  121 I
+    1.009400  121 UH
+    1.281900  121 [MECHNOISE]
+    1.394650  121 I
+    1.484860  121 HAVE
+    1.528080  121 A
+    1.939640  121 MODEM
+    1.984740  121 ?_#

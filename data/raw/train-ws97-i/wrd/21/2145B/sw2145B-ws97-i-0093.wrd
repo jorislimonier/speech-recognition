@@ -1,0 +1,18 @@
+signal 2145-B-0093
+type 0
+comment created using xlabel Tue Mar  4 15:19:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.098538  121 [BREATH]
+    0.287614  121 SIL
+    0.462610  121 "WE'RE"
+    0.671801  121 ABOUT
+    0.975529  121 DONE
+    1.118340  121 [STATIC]
+    1.325520  121 SIL
+    1.444200  121 [MOUTHNOISE]
+    1.969180  121 OKAY

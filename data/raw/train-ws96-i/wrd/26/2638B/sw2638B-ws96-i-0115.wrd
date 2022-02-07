@@ -1,0 +1,13 @@
+signal 2638-B-0115
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.068220  121 H#
+    0.410000  121 COMPANY'S
+    0.569581  121 MORE
+    1.212410  121 PROFITABLE
+    1.307930  121 H#

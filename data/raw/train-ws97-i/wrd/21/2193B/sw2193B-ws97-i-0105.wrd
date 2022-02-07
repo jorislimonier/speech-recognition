@@ -1,0 +1,20 @@
+signal 2193-B-0105
+type 0
+comment created using xlabel Tue May 27 14:00:07 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.312682  121 H#
+    0.597522  121 IN
+    0.858521  121 IN
+    1.133840  121 ROLES
+    1.313540  121 LIKE
+    1.523480  121 THAT
+    1.623710  121 YOU
+    1.755890  121 KNOW
+    1.925230  121 AS
+    2.073830  121 ROLE
+    2.540540  121 MODELS

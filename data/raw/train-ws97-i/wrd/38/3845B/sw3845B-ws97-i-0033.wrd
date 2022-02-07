@@ -1,0 +1,13 @@
+signal 3845-B-0033
+type 0
+comment created using xlabel Wed May  7 16:30:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 [FILLEDPAUSE]
+    0.390000  121 YEAH
+    0.666270  121 "THAT'S"
+    0.992800  121 RIGHT

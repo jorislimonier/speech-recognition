@@ -1,0 +1,22 @@
+signal 2465-A-0070
+type 0
+comment created using xlabel Mon Apr 28 15:03:16 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324751  121 [BREATH]
+    0.475465  121 UP
+    0.670620  121 UP
+    0.740000  121 AT
+    1.072520  121 WORK
+    1.418390  121 ANYWAY
+    1.545920  121 I
+    2.021130  121 USE
+    2.432690  121 UH
+    3.219110  121 WORDPERFECT
+    3.560000  121 AND
+    4.125340  121 LOTUS
+    4.561230  121 AND

@@ -1,0 +1,13 @@
+signal 4716-B-0036
+type 0
+comment created using xlabel Tue Jun  3 17:46:17 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.331616  121 [breath]
+    0.605875  121 "IT'S"
+    0.924954  121 UM
+    1.127713  121 [static]

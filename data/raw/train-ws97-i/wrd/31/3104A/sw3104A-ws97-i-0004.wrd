@@ -1,0 +1,11 @@
+signal 3104-A-0004
+type 0
+comment created using xlabel Wed Jun 25 15:19:33 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.225051  121 [breath]
+    0.760000  121 FIVE

@@ -1,0 +1,19 @@
+signal 3014-A-0008
+type 0
+comment created using xlabel Mon Jun 16 17:00:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080000  121 [crosstalk]
+    0.315486  121 "IT'S"
+    0.424301  121 AN
+    0.680000  121 EIGHTY
+    1.190000  121 NINE
+    1.280000  121 AND
+    1.387142  121 I
+    1.706789  121 BOUGHT
+    2.008753  121 IT
+    2.380000  121 UH

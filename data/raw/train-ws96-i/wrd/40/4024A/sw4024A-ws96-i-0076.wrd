@@ -1,0 +1,16 @@
+signal 4024-A-0076
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.148978  121 h#
+    0.474474  121 YEAH
+    0.860487  121 h#
+    1.030000  121 SHE'S
+    1.266658  121 NOT
+    1.500000  121 TOO
+    1.975462  121 WILD
+    2.027702  121 h#

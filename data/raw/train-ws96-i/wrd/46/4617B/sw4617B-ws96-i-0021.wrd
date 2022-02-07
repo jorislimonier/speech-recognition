@@ -1,0 +1,24 @@
+signal 4617-B-0021
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.322869  121 h#
+    0.384091  121 I
+    0.490000  121 MEAN
+    0.560000  121 HE
+    0.708912  121 COULD
+    0.967789  121 HAVE
+    1.114952  121 LIKE
+    1.150000  121 A
+    1.540225  121 PERSONAL
+    2.101046  121 PREJUDICE
+    2.190175  121 YOU
+    2.224885  121 KNOW
+    2.613242  121 JUDGES
+    2.670000  121 ARE
+    3.127852  121 PEOPLE
+    3.422870  125 h#

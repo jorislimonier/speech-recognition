@@ -1,0 +1,14 @@
+signal 4679-A-0021
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.318813  121 h#
+    0.579966  121 SORT
+    0.716696  121 OF
+    0.763077  121 A
+    1.139443  121 JURY
+    1.265966  125 h#

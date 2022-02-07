@@ -1,0 +1,36 @@
+signal 3388-A-0032
+type 0
+comment created using xlabel Wed May 28 13:59:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [breath]
+    0.827033  121 AND
+    0.986282  121 UH
+    1.093440  121 THE
+    1.580000  121 AMAZING
+    1.887620  121 THING
+    2.073658  121 IS
+    2.280000  121 "WE'VE"
+    2.469437  121 HAD
+    2.779005  121 THE
+    2.890628  121 sil
+    3.357956  121 SAME
+    3.817345  121 SANTA
+    4.448387  121 CLAUS
+    4.916978  121 [breath]
+    5.210174  121 AND
+    5.487349  121 HIS
+    6.018179  121 WIFE
+    6.200000  121 HAVE
+    6.460000  121 COME
+    6.620683  121 FOR
+    6.727841  121 THE
+    7.106795  121 LAST
+    7.499344  121 TWENTY
+    7.882692  121 SIX
+    8.298241  121 YEARS
+    8.422446  121 [static]

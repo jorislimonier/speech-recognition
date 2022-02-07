@@ -1,0 +1,15 @@
+signal 3698-A-0053
+type 0
+comment created using xlabel Thu Jun  5 18:51:11 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.891028  121 h#
+    1.074416  121 TO
+    1.341533  121 FIGHT
+    1.390000  121 A
+    1.815188  121 TICKET
+    2.163811  125 h#

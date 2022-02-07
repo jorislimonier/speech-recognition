@@ -1,0 +1,19 @@
+signal 4339-B-0048
+type 0
+comment created using xlabel Thu Jun 12 13:28:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114347  121 SIL
+    0.261477  121 YEAH
+    0.367952  121 I
+    0.575095  121 THINK
+    0.702866  121 THAT
+    0.853867  121 "WE'RE"
+    1.059070  121 GOING_TO
+    1.473360  121 BE
+    1.816020  121 UH
+    2.046390  121 [STATIC]

@@ -1,0 +1,27 @@
+signal 3403-A-0025
+type 0
+comment created using xlabel Tue Jul 22 11:34:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.324594  121 [STATIC]
+    0.358268  121 [MOUTHNOISE]
+    0.530000  121 DO
+    0.861449  121 BETTER
+    1.158690  121 THIS
+    1.355640  121 WHOLE_!
+    1.561000  121 THIS
+    1.846160  121 COMING
+    1.940000  121 YEAR
+    2.032090  121 I
+    2.108960  121 WAS
+    2.300000  121 SURE
+    2.953400  121 HOPEFUL_ANYWAY
+    3.095100  121 UH
+    3.276260  121 WHEN
+    3.403560  121 WE
+    3.626600  121 MOVED
+    4.096160  121 DOWN

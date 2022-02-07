@@ -1,0 +1,18 @@
+signal 3186-B-0026
+type 0
+comment created using xlabel Fri Jul  4 15:43:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.054668  121 h#
+    0.274880  121 SEE
+    0.434679  121 UH
+    1.038800  121 [BREATH]
+    1.073880  121 [MOUTHNOISE]
+    1.385680  121 YEAH
+    1.492860  121 h#
+    1.609790  121 I
+    2.050210  121 ACTUALLY_#

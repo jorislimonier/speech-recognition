@@ -1,0 +1,15 @@
+signal 3109-A-0060
+type 0
+comment created using xlabel Wed Mar 12 10:17:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290000  121 [BREATH]
+    0.605099  121 LOOKING
+    0.761968  121 AT
+    0.989637  121 THEM
+    1.059050  121 [MOUTHNOISE]
+    1.270000  121 TO

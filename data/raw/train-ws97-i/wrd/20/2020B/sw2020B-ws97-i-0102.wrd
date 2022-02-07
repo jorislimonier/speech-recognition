@@ -1,0 +1,30 @@
+signal 2020-B-0102
+type 0
+comment created using xlabel Tue Apr 22 16:12:22 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.151534  121 [MOUTHNOISE]
+    0.393276  121 AND
+    0.550000  121 THEN
+    0.686566  121 WHEN
+    0.850097  121 THEY
+    1.175380  121 HEAR
+    1.379800  121 IT
+    1.520300  121 IT
+    1.856250  121 [STATIC]
+    2.014450  121 IT
+    2.171320  121 [STATIC]
+    2.199760  121 [MOUTHNOISE]
+    2.258420  121 [STATIC]
+    2.417940  121 "IT'S"
+    2.514270  121 A
+    2.765610  121 REALLY
+    2.988870  121 "IT'S"
+    3.271490  121 ANOTHER
+    3.634460  121 FORM_OF
+    4.031530  121 MUSIC
+    4.339040  121 AND

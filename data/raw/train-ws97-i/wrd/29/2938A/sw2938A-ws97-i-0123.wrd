@@ -1,0 +1,17 @@
+signal 2938-A-0123
+type 0
+comment created using xlabel Mon May 26 18:17:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 h#
+    1.040000  121 but_i_ENJOY
+    1.218946  121 IT
+    1.504060  121 h#
+    1.610459  121 I
+    1.880000  121 TALKED(to)
+    2.270717  121 PEOPLE
+    2.570000  121 FROM

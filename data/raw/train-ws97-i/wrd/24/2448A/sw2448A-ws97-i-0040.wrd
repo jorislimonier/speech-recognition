@@ -1,0 +1,16 @@
+signal 2448-A-0040
+type 0
+comment created using xlabel Sat Mar  8 16:36:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.299144  121 SIL
+    0.622388  121 "DON'T"
+    0.860235  121 HAVE
+    0.944246  121 A
+    1.368920  121 WAITING
+    1.920780  121 PERIOD
+    1.974720  121 SIL

@@ -1,0 +1,16 @@
+signal 2767-B-0040
+type 0
+comment created using xlabel Thu Jun  5 18:54:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 [breath]
+    0.282894  121 BUT
+    0.510000  121 NOT
+    0.590000  121 AT
+    0.702786  121 THE
+    1.190851  121 COLLEGE
+    1.554963  121 LEVEL

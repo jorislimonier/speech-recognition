@@ -1,0 +1,19 @@
+signal 2661-B-0003
+type 0
+comment created using xlabel Tue Apr  1 16:17:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.158288  121 [MOUTHNOISE]
+    0.619916  121 UH
+    0.701380  121 SIL
+    0.996378  121 ONCE
+    1.065500  121 A
+    1.334300  121 WEEK
+    1.396890  121 SIL
+    1.815320  121 TWICE
+    2.341490  121 A
+    2.341490  121 WEEK

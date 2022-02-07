@@ -1,0 +1,14 @@
+signal 3864-B-0044
+type 0
+comment created using xlabel Thu Jul  3 17:05:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.237406  121 [MECHNOISE]
+    0.601708  121 FACE
+    1.101640  121 THE_SAME
+    1.499060  121 UH
+    1.666230  121 [MECHNOISE]

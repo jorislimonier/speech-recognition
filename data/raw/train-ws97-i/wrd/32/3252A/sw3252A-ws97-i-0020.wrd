@@ -1,0 +1,28 @@
+signal 3252-A-0020
+type 0
+comment created using xlabel Wed May 14 15:31:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.143132  121 H#
+    0.260473  121 WELL
+    0.406310  121 WE
+    0.587350  121 WENT
+    0.787861  121 TO
+    1.033780  121 A
+    1.281100  121 UH
+    1.657850  121 CAT
+    1.937790  121 SHOW
+    2.045080  121 AT
+    2.160000  121 THE
+    2.675360  121 PLANO
+    3.280000  121 CENTER
+    3.490000  121 HERE
+    3.630000  121 IN
+    4.052210  121 TOWN
+    4.320420  121 AND
+    4.553420  121 UH
+    4.835040  121 [BREATH]

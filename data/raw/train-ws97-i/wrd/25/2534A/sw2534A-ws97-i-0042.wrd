@@ -1,0 +1,13 @@
+signal 2534-A-0042
+type 0
+comment created using xlabel Thu Mar  6 14:08:27 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.383473  121 [MECHNOISE]
+    0.816964  121 ESPECIALLY
+    0.892589  121 THE
+    1.423310  121 CATNIP_#

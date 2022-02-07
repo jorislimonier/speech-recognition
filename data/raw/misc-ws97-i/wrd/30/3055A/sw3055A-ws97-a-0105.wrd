@@ -1,0 +1,19 @@
+signal 3055-A-0105
+type 0
+comment created using xlabel Tue Feb 18 19:27:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.115157  121 TO_#
+    0.435586  121 PLYMOUTH_!
+    0.862551  121 PLYMOUTH
+    1.235010  121 UM
+    1.482360  121 LIPSMACK
+    1.656230  121 OH
+    1.828790  121 WHAT_WAS
+    1.868540  121 IT
+    2.082780  121 CALLED
+    2.539700  121 CRIER

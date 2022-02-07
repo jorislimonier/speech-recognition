@@ -1,0 +1,13 @@
+signal 2867-A-0074
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080494  121 h#
+    0.253882  121 YOU
+    0.780000  121 WALKOUT
+    1.022650  121 THERE
+    1.349026  121 h#

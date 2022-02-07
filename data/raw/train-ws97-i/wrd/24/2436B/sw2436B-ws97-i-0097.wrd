@@ -1,0 +1,21 @@
+signal 2436-B-0097
+type 0
+comment created using xlabel Tue Mar 25 14:26:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.196370  121 [BACKGROUNDNOISE]
+    0.572366  121 YEAH
+    0.727965  121 [BACKGROUNDNOISE]
+    0.808411  121 YOU
+    0.915963  121 HAVE
+    1.051230  121 TO
+    1.301580  121 HUNT
+    1.558170  121 HARD
+    1.732180  121 FOR
+    1.884100  121 THEM
+    1.972410  121 I
+    2.026630  121 GUESS_#

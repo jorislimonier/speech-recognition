@@ -1,0 +1,20 @@
+signal 3561-B-0025
+type 0
+comment created using xlabel Thu Mar 13 13:43:36 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.290767  121 [BREATH]
+    0.582313  121 UH
+    0.694630  121 AND
+    0.787830  121 IF
+    0.900000  121 THEY
+    1.060000  121 HAVE
+    1.240000  121 MORE
+    1.460000  121 MONEY
+    1.556920  121 TO
+    2.132900  121 SPEND
+    2.388600  121 [BREATH]

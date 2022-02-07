@@ -1,0 +1,17 @@
+signal 2613-A-0001
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.104996  121 H#
+    0.300000  121 SO
+    0.390484  121 WHAT
+    0.408871  121 DO
+    0.475160  121 YOU
+    0.673087  121 THINK
+    0.913215  121 ABOUT
+    1.019470  121 IT
+    1.125020  121 H#

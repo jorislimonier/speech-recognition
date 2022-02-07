@@ -1,0 +1,19 @@
+signal 3427-B-0046
+type 0
+comment created using xlabel Wed Apr 23 15:54:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.085725  121 SIL
+    0.234837  121 "I'VE"
+    0.460000  121 GOT
+    0.650000  121 EIGHT
+    0.802608  121 MORE
+    1.260000  121 PAYMENTS
+    1.350000  121 AND
+    1.506680  121 "IT'S"
+    1.800000  121 PAID
+    2.110000  121 FOR

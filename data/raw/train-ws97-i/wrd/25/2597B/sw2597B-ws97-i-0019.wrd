@@ -1,0 +1,19 @@
+signal 2597-B-0019
+type 0
+comment created using xlabel Mon Apr 28 13:49:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.456912  121 [BACKGROUNDNOISE]
+    0.529206  121 I
+    0.640000  121 "DON'T"
+    0.734468  121 KNOW
+    0.855818  121 IF
+    1.000000  121 THAT
+    1.700100  121 CONTRIBUTES
+    1.830000  121 TO
+    1.910000  121 THE
+    2.610000  121 PROBLEM

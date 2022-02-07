@@ -1,0 +1,14 @@
+signal 3092-B-0069
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.114801  121 h#
+    0.413435  121 RIGHT
+    0.700462  121 h#
+    0.779605  121 NOW
+    0.960052  121 LIKE
+    1.107787  121 MY

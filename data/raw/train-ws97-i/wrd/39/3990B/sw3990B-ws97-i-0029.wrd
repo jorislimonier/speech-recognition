@@ -1,0 +1,27 @@
+signal 3990-B-0029
+type 0
+comment created using xlabel Sat Jul  5 16:58:30 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.210000  121 [BREATH]
+    0.548075  121 COSTS
+    0.602395  121 A
+    0.756080  121 LOT
+    1.101330  121 MORE
+    1.349860  121 OR
+    1.659100  121 JUST
+    1.791590  121 AS
+    2.028740  121 MUCH
+    2.085000  121 TO
+    2.230900  121 GO
+    2.309060  121 TO
+    2.637480  121 COMMUNITY
+    2.975560  121 COLLEGE
+    3.184890  121 AND_YOU_AREN'T
+    3.457810  121 GETTING
+    3.591270  121 AS
+    3.988260  121 MUCH

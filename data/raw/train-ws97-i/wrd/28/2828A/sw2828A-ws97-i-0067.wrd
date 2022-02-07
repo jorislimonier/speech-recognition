@@ -1,0 +1,15 @@
+signal 2828-A-0067
+type 0
+comment created using xlabel Tue Jun  3 11:33:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.128626  121 and_#
+    0.660511  121 STUDENTS
+    1.081124  121 COULD
+    1.660000  121 WATCH
+    2.035847  121 THAT
+    2.362990  121 AND_#

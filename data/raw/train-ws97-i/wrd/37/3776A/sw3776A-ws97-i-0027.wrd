@@ -1,0 +1,25 @@
+signal 3776-A-0027
+type 0
+comment created using xlabel Wed Jul 23 15:54:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.123836  121 SIL
+    0.258109  121 TO
+    0.333187  121 THE
+    0.897714  121 COOPERATIVE
+    1.544030  121 LEARNING
+    1.632110  121 SIL
+    1.865480  121 UH
+    2.020000  121 TO
+    2.080000  121 THE
+    2.350480  121 LEARNING
+    2.908720  121 COOPERATIVES
+    2.995340  121 I
+    3.190000  121 GUESS
+    3.291830  121 "THEY'RE"
+    3.645560  121 CALLED
+    3.927100  121 [BREATH]

@@ -1,0 +1,21 @@
+signal 2803-B-0125
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.095414  121 H#
+    0.223614  121 THEY
+    0.376331  121 DON'T
+    0.576383  121 EVEN
+    0.832859  121 HAVE
+    0.89591  121 A
+    1.40335  121 BONDING
+    1.60401  121 WITH
+    1.78012  121 THAT
+    2.21589  121 CHILD
+    2.35952  121 THEY
+    2.4869  121 don't
+    2.50827  121 h#

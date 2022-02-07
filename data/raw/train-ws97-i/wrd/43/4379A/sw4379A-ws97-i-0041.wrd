@@ -1,0 +1,13 @@
+signal 4379-A-0041
+type 0
+comment created using xlabel Wed Apr 30 15:38:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.082579  121 SIL
+    0.122482  121 [MOUTHNOISE]
+    0.540546  121 REALLY
+    0.648592  121 [BREATH]

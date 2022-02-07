@@ -1,0 +1,19 @@
+signal 2171-B-0080
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103609  121 H#
+    0.406681  121 PEOPLE
+    0.530000  121 GET
+    0.865801  121 OLDER
+    1.313980  121 H#
+    1.427660  121 THEY'LL
+    1.590000  121 DO
+    1.924880  121 SOMETHING
+    2.133210  121 LIKE
+    2.443630  121 THAT
+    2.525340  121 H#

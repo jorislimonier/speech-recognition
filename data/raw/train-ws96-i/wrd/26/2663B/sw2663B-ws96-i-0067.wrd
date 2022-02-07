@@ -1,0 +1,16 @@
+signal 2663-B-0067
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160000  121 h#
+    0.343986  121 HEY
+    0.570000  121 WELL
+    0.810000  121 THANKS
+    0.890000  121 FOR
+    0.980000  121 THE
+    1.261555  121 CALL
+    1.388886  121 h#

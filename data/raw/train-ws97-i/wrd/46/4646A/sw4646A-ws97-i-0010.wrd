@@ -1,0 +1,30 @@
+signal 4646-A-0010
+type 0
+comment created using xlabel Tue Mar 18 15:10:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.326421  121 [MOUTHNOISE]
+    0.571420  121 THEY
+    0.737228  121 WHEN
+    0.860965  121 THEY
+    1.024300  121 PUT
+    1.115480  121 HER
+    1.311870  121 IN
+    1.516040  121 SHE
+    1.710310  121 HAD
+    1.850130  121 ALL
+    2.257620  121 KINDS
+    2.356610  121 OF
+    2.721480  121 TROUBLE
+    2.850000  121 AND
+    3.038250  121 THE
+    3.415760  121 NURSING
+    3.632300  121 HOME
+    3.840170  121 MADE
+    3.997480  121 THEM
+    4.232570  121 COME
+    4.343940  121 AND_#

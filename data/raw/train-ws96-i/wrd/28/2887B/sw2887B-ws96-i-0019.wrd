@@ -1,0 +1,17 @@
+signal 2887-B-0019
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 h#
+    0.283343  121 MY
+    0.885940  121 HUSBAND'S
+    1.283366  121 YES
+    1.472003  121 WE
+    1.618682  121 USE
+    1.759755  121 MY
+    2.272662  121 HUSBAND'S
+    2.280136  121 h#

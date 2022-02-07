@@ -1,0 +1,26 @@
+signal 2470-B-0030
+type 0
+comment created using xlabel Tue Jul 22 17:22:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.323008  121 [BREATH]
+    0.491327  121 SO
+    0.615665  121 I
+    0.745658  121 GUESS
+    0.924001  121 I
+    1.013170  121 WOULD
+    1.137510  121 HAVE
+    1.245520  121 TO
+    1.505210  121 SAY
+    1.580560  121 ON
+    1.736300  121 A
+    2.147010  121 HOME
+    2.616430  121 SETTING
+    2.764630  121 "I'M"
+    3.346140  121 PROBABLY_!
+    3.967220  121 ON
+    4.033790  121 [BREATH]

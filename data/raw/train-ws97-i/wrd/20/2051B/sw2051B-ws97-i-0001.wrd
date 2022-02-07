@@ -1,0 +1,14 @@
+signal 2051-B-0001
+type 0
+comment created using xlabel Tue Mar  4 15:03:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.143012  121 SIL
+    0.418617  121 WHERE'S
+    0.683344  121 THAT
+    1.036310  121 SIL
+    1.276860  121 [CROSSTALK]

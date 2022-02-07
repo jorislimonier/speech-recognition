@@ -1,0 +1,18 @@
+signal 2368-A-0102
+type 0
+comment created using xlabel Thu Feb  6 17:42:25 1997
+comment $Locker:  $
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.244787  121 SIL
+    0.534916  121 AND
+    0.643468  121 UH
+    0.744125  121 "THEY'RE"
+    0.986886  121 TRYING_TO
+    1.290830  121 TO
+    1.373730  121 SIL
+    1.500040  121 TO
+    1.977670  121 UNWIND

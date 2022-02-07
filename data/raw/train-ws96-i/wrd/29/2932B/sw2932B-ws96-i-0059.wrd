@@ -1,0 +1,20 @@
+signal 2932-B-0059
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.395299  121 h#
+    0.569875  121 THERE'S
+    0.874967  121 LESS
+    1.319806  121 TIME
+    1.596209  121 SPENT
+    2.119492  121 OUTSIDE
+    2.400419  121 h#
+    2.753092  121 MAKING
+    2.864971  121 IT
+    3.081455  121 LOOK
+    3.442934  121 NICE
+    3.788279  121 h#

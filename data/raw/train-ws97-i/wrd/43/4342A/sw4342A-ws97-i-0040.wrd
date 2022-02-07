@@ -1,0 +1,28 @@
+signal 4342-A-0040
+type 0
+comment created using xlabel Sun Jul 20 16:06:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 [BREATH]
+    0.700000  121 THEY
+    1.093210  121 UH
+    1.337530  121 WE
+    1.486840  121 WE
+    1.740000  121 USED
+    1.854640  121 TO
+    2.088830  121 HAVE
+    2.264860  121 TWO
+    2.684990  121 PAPERS
+    2.865740  121 HERE
+    2.980000  121 IN
+    3.293260  121 TOWN
+    3.397000  121 AND
+    3.541600  121 THEN
+    3.624520  121 THE
+    3.917670  121 HERALD
+    4.481120  121 EXAMINER
+    4.788420  121 [BREAWTH]

@@ -1,0 +1,19 @@
+signal 4143-B-0011
+type 0
+comment created using xlabel Tue Jun  3 16:37:57 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.238574  121 SIL
+    0.310831  121 [false start]
+    0.818725  121 HAS
+    1.135820  121 HAD
+    1.380866  121 A
+    2.035737  121 UH
+    2.126997  121 A
+    2.547973  121 SIMILAR
+    3.358047  121 VOLUNTEER
+    3.661736  121 [static]

@@ -1,0 +1,24 @@
+signal 4021-B-0081
+type 0
+comment created using xlabel Mon Jun  2 13:37:10 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.311825  121 h#
+    0.418895  121 THE
+    0.830816  121 CUBIC
+    1.037520  121 FEET
+    1.207047  121 PER
+    1.473234  121 MINUTE
+    1.643227  121 OF
+    1.796396  121 AIR
+    2.172633  121 FLOW_is
+    2.321341  121 UP
+    2.897262  121 to_NINETY
+    3.035560  121 AND
+    3.199139  121 SO
+    3.462352  121 "THAT'S"
+    3.622957  121 WHAT

@@ -1,0 +1,25 @@
+signal 3675-B-0019
+type 0
+comment created using xlabel Mon Mar 17 14:53:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 [BREATH]
+    0.448106  121 WE
+    0.632823  121 "DON'T"
+    0.843086  121 EVER
+    1.070000  121 PUT
+    1.210000  121 IT
+    1.330420  121 AT
+    1.400000  121 A
+    1.629040  121 HIGH
+    2.110000  121 RISK
+    2.250000  121 "IT'S"
+    2.499570  121 JUST
+    2.930000  121 ALWAYS
+    3.130350  121 GOING_TO
+    3.330000  121 BE
+    3.643320  121 THERE

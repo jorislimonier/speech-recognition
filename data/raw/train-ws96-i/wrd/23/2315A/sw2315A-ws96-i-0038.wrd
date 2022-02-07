@@ -1,0 +1,14 @@
+signal 2315-A-0038
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.341052  121 H#
+    0.482499  121 THEY
+    0.714149  121 ONLY
+    0.976334  121 COME
+    1.614760  121 AROUND
+    1.867070  121 H#

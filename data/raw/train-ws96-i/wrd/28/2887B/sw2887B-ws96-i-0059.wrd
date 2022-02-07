@@ -1,0 +1,21 @@
+signal 2887-B-0059
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.226466  121 h#
+    0.428313  121 YEAH
+    0.571560  121 THEY
+    0.820000  121 ARE
+    0.980000  121 AS
+    1.260000  121 h#
+    1.510357  121 FAR
+    1.560000  121 AS
+    1.793594  121 THEIR
+    2.040000  121 LIKE
+    2.408046  121 PENSION
+    3.010000  121 PLANS
+    3.099319  121 ARE_#

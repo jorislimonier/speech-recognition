@@ -1,0 +1,15 @@
+signal 3045-A-0097
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.137069  121 h#
+    0.293472  121 MIGHT
+    0.383782  121 AS
+    0.550099  121 WELL
+    0.789205  121 START
+    1.076342  121 NOW
+    1.824429  121 h#

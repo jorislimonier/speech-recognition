@@ -1,0 +1,20 @@
+signal 3518-B-0060
+type 0
+comment created using xlabel Mon Jun 16 13:09:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.348116  121 [background noise]
+    0.561112  121 YEAH
+    0.746186  121 THAT
+    0.900952  121 YOU_ARE
+    1.252771  121 NOT
+    1.466953  121 A
+    1.865050  121 [breath]
+    1.961853  121 A
+    2.418868  121 MENACE
+    2.769395  121 OR
+    2.884496  121 [static]

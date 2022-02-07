@@ -1,0 +1,22 @@
+signal 3108-A-0013
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.074226  121 h#
+    0.248721  121 WE
+    0.656424  121 h#
+    0.811601  121 WE
+    1.186033  121 RENTED
+    1.454351  121 ONE
+    1.992759  121 RECENTLY
+    2.157746  121 THAT
+    2.454132  121 SEEMED
+    2.510000  121 TO
+    2.663763  121 GO
+    2.925413  121 ON
+    3.417934  121 FOREVER
+    3.638807  121 h#

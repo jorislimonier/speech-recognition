@@ -1,0 +1,16 @@
+signal 4709-B-0013
+type 0
+comment created using xlabel Tue Feb 25 14:58:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136077  121 [STATIC]
+    0.250305  121 I
+    0.700080  121 SUSPECT
+    0.851789  121 THAT
+    0.912473  121 IT
+    1.115940  121 JUST
+    1.801310  121 DISAPPEARED

@@ -1,0 +1,16 @@
+signal 2791-A-0106
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.066181  121 h#
+    0.158449  121 AND
+    0.380000  121 NOT
+    0.623687  121 GET
+    0.871833  121 THE
+    1.320000  121 CAREER
+    1.987572  121 POLITICIANS
+    2.110123  121 h#

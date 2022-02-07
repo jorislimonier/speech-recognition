@@ -1,0 +1,13 @@
+signal 2039-B-0082
+type 0
+comment created using xlabel Thu Jun  5 15:18:52 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 SIL
+    0.290373  121 IN
+    0.735508  121 MARYLAND
+    1.059060  121 YES

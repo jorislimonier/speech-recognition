@@ -1,0 +1,13 @@
+signal 3006-B-0040
+type 0
+comment created using xlabel Tue Jul  8 13:50:29 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.109237  121 [BREATH]
+    0.675206  121 CHIPS
+    0.789427  121 AND
+    1.296360  121 DIPPERS

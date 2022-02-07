@@ -1,0 +1,23 @@
+signal 4812-B-0038
+type 0
+comment created using xlabel Wed Jul  2 16:36:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.157491  121 [MECHNOISE]
+    0.389821  121 DID
+    0.739214  121 h#
+    0.856729  121 DO
+    0.964741  121 THEY
+    1.311520  121 TEST
+    1.439430  121 YOU
+    1.575860  121 AT
+    1.751450  121 h#
+    1.890000  121 RIGHT
+    2.150030  121 NOW
+    2.276550  121 AT
+    2.562190  121 WORK
+    2.894750  121 TOO

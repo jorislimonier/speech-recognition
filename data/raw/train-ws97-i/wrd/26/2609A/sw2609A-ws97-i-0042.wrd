@@ -1,0 +1,20 @@
+signal 2609-A-0042
+type 0
+comment created using xlabel Wed Apr 30 11:20:38 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [BREATH]
+    0.404331  121 YOU
+    0.652878  121 KNOW
+    0.820000  121 WE
+    0.991343  121 HAVE
+    1.210000  121 JUST
+    1.327170  121 AS
+    1.430100  121 WE
+    1.549640  121 HAVE
+    1.673910  121 A
+    1.894950  121 ?_#

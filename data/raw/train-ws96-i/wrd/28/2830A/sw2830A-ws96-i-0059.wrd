@@ -1,0 +1,27 @@
+signal 2830-A-0059
+type 0
+comment created using xlabel Sun Jun 22 15:17:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 h#
+    0.251100  121 NO
+    0.505308  121 NO
+    0.805781  121 NO
+    0.930727  121 I
+    1.154784  121 LIKE
+    1.200000  121 THE
+    1.548360  121 PRO
+    1.671810  121 I
+    1.894334  121 LIKE
+    2.231738  121 ACTUALLY
+    2.339905  121 I
+    2.570000  121 LIKE
+    2.837999  121 PRO
+    3.460000  121 BASKETBALL
+    3.519845  121 AS
+    3.916499  121 OPPOSED
+    4.395660  121 h#

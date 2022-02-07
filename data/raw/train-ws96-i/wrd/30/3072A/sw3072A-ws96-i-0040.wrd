@@ -1,0 +1,15 @@
+signal 3072-A-0040
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.260000  121 h#
+    0.696734  121 BOAT
+    1.000000  121 DOWN
+    1.088909  121 THE
+    1.513099  121 RIVER
+    1.728126  121 AND
+    2.064350  125 h#

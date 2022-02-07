@@ -1,0 +1,19 @@
+signal 3121-B-0107
+type 0
+comment created using xlabel Mon Jun  9 13:58:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.057271  121 [crosstalk
+    0.294674  121 NO
+    0.512390  121 I_WOULD
+    0.678184  121 CAN
+    0.945111  121 DRIVE
+    1.010000  121 IT
+    1.204284  121 ALL
+    1.364097  121 IT_IS
+    1.609507  121 JUST
+    1.883772  121 ME_#

@@ -1,0 +1,24 @@
+signal 4038-A-0010
+type 0
+comment created using xlabel Mon Mar 10 19:19:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.271178  121 SIL
+    0.593246  121 DID
+    0.910496  121 DID
+    1.002160  121 THE
+    1.599260  121 JUDGE
+    1.984840  121 UH
+    2.292440  121 HAND
+    2.487850  121 DOWN
+    3.105510  121 SENTENCES
+    3.248450  121 OR
+    3.391390  121 DID
+    3.523480  121 YOU
+    3.828740  121 FOLKS
+    3.997010  121 DO
+    4.139950  121 THAT

@@ -1,0 +1,36 @@
+signal 4095-B-0057
+type 0
+comment created using xlabel Sat Jul 12 14:49:31 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.074433  121 [BREATH]
+    0.280247  121 NOT
+    0.686831  121 REALLY
+    0.983234  121 MY
+    1.093840  121 SIL
+    1.436920  121 UH
+    1.716950  121 [STATIC]
+    1.901960  121 MY
+    2.323620  121 PARENTS
+    2.388590  121 ARE
+    2.771670  121 DIVORCED
+    2.873350  121 AND
+    3.040810  121 MY
+    3.559940  121 FATHER
+    3.834620  121 UH
+    4.016470  121 IS
+    4.354050  121 DATING
+    4.408610  121 A
+    4.768000  121 WOMAN
+    5.149550  121 WHO
+    5.430000  121 HAS
+    5.486220  121 A
+    5.600000  121 TWO
+    5.897230  121 YEAR
+    6.070000  121 OLD
+    6.521060  121 BOY
+    6.732360  121 [BREATH]

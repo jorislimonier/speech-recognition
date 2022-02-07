@@ -1,0 +1,16 @@
+signal 3421-B-0011
+type 0
+comment created using xlabel Wed May 21 18:19:54 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 h#
+    0.650000  121 NAKED
+    0.860000  121 GUN
+    0.996631  121 TWO
+    1.068875  121 AND
+    1.097772  121 A
+    1.490000  121 HALF

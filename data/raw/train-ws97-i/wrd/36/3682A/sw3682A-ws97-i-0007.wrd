@@ -1,0 +1,21 @@
+signal 3682-A-0007
+type 0
+comment created using xlabel Mon Jun 16 14:20:13 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.134723  121 [crosstalk]
+    0.454770  121 YEAH
+    0.730969  121 [static]
+    0.824402  121 AND
+    0.957301  121 SO
+    1.022741  121 I
+    1.160000  121 "DON'T"
+    1.300000  121 LIKE
+    1.490079  121 TO
+    1.901572  121 ARRIVE
+    2.167279  121 OR
+    2.487068  121 [breath]

@@ -1,0 +1,21 @@
+signal 4880-B-0012
+type 0
+comment created using xlabel Fri Jun 13 13:36:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120011  121 [static]
+    0.582870  121 UH
+    0.938004  121 sil
+    1.060000  121 IF
+    1.260000  121 SHOULD
+    1.570000  121 SOMEBODY
+    1.692624  121 BE
+    1.908807  121 UNDER
+    2.348743  121 THE_INFLUENCE
+    2.364262  121 OF
+    2.906510  121 DRUGS
+    3.228816  121 [breath]

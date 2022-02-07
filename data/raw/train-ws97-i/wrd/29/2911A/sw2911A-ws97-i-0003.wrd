@@ -1,0 +1,20 @@
+signal 2911-A-0003
+type 0
+comment created using xlabel Mon May 12 15:30:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.113327  121 [HUM]
+    0.450921  121 OH
+    0.597491  121 [HUM]
+    0.691351  121 WELL
+    0.840000  121 DO
+    0.949161  121 THEY
+    1.110000  121 HAVE
+    1.270000  121 GOOD
+    1.520000  121 JOB
+    2.027800  121 BENEFITS
+    2.218560  121 [CROSSTALK]

@@ -1,0 +1,19 @@
+signal 2424-A-0032
+type 0
+comment created using xlabel Tue Apr  1 19:26:28 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.240166  121 [STATIC]
+    0.310000  121 [MOUTHNOISE]
+    0.868954  121 AND
+    0.952905  121 [HESITATION]
+    1.115720  121 I
+    1.410380  121 THINK
+    1.781880  121 "THAT'S"
+    1.988860  121 [STATIC]
+    2.084380  121 A
+    2.803500  121 MISTAKE_#

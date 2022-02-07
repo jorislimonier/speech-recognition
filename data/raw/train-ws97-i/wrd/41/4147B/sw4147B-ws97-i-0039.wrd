@@ -1,0 +1,30 @@
+signal 4147-B-0039
+type 0
+comment created using xlabel Wed Apr 16 14:08:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.081259  121 SIL
+    0.501694  121 UH
+    0.658009  121 SIL
+    0.778390  121 WE
+    1.069460  121 LIVE
+    1.270690  121 RIGHT
+    1.511060  121 H#
+    1.911730  121 MIGHT
+    2.157880  121 SAY
+    2.310000  121 WE
+    2.490000  121 LIVE
+    2.696900  121 RIGHT
+    2.867590  121 IN
+    3.059850  121 UH
+    3.345530  121 H#
+    3.500050  121 IN
+    3.566520  121 THE
+    3.794710  121 MIDDLE
+    3.951030  121 OF
+    4.568590  121 [A]RESIDENTIAL
+    4.950000  121 AREA

@@ -1,0 +1,21 @@
+signal 2158-A-0013
+type 0
+comment created using xlabel Wed Jun 11 10:33:06 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.130216  121 [BACKGROUNDNOISE]
+    0.340000  121 AND
+    0.700440  121 SO
+    0.983956  121 HE
+    1.225590  121 SAW
+    1.340530  121 IT
+    1.574930  121 THERE
+    1.680000  121 AND
+    1.788350  121 HE
+    1.952080  121 JUST
+    2.193520  121 SAID
+    2.487200  121 [BREATH]

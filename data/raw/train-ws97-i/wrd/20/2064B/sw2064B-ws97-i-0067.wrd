@@ -1,0 +1,23 @@
+signal 2064-B-0067
+type 0
+comment created using xlabel Mon Jun  2 21:07:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.067001  121 SIL
+    0.399586  121 YES
+    0.795172  121 SIL
+    0.842057  121 [MOUTHNOISE]
+    0.943151  121 I
+    1.127760  121 WISH
+    1.196620  121 I
+    1.340000  121 HAD
+    1.432910  121 THE
+    1.714210  121 ANSWER
+    1.866590  121 FOR
+    2.048260  121 THAT
+    2.441790  121 EVERYBODY
+    2.780000  121 DOES

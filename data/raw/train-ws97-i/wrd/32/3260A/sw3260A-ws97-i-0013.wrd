@@ -1,0 +1,14 @@
+signal 3260-A-0013
+type 0
+comment created using xlabel Wed May 21 17:29:15 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.120000  121 SIL
+    0.299678  121 I
+    0.560000  121 KNOW
+    0.690000  121 THE
+    1.400000  121 INSURANCE

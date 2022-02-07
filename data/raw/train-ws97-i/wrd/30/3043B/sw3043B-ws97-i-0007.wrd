@@ -1,0 +1,29 @@
+signal 3043-B-0007
+type 0
+comment created using xlabel Thu Jun 12 14:31:39 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.080000  121 [static]
+    0.266946  121 THEY
+    0.417200  121 ARE
+    0.560000  121 AT
+    0.941458  121 HOME
+    1.343226  121 UM
+    1.496747  121 OUR
+    1.736103  121 OLDEST
+    1.984168  121 DAUGHTER
+    2.042357  121 h#
+    2.230000  121 IS
+    2.410000  121 GOING
+    2.470000  121 TO
+    2.570000  121 BE
+    2.620000  121 A
+    2.956089  121 SENIOR_AT
+    3.138000  121 S
+    3.243069  121 M
+    3.590000  121 U
+    3.669618  121 [background noise]

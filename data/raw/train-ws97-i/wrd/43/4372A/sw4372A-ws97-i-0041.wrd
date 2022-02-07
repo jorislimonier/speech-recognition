@@ -1,0 +1,18 @@
+signal 4372-A-0041
+type 0
+comment created using xlabel Tue Mar 18 11:45:51 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.132454  121 [MOUTHNOISE]
+    0.548692  121 ACCOUNTING
+    0.830302  121 DEPARTMENT
+    1.115620  121 WILL[AT]
+    1.180000  121 THE
+    1.319450  121 END
+    1.346620  121 OF
+    1.420000  121 THE
+    1.720000  121 MONTH

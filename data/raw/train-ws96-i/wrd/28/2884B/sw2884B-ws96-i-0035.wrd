@@ -1,0 +1,15 @@
+signal 2884-B-0035
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.314924  121 h#
+    0.423633  121 OUT
+    0.508776  121 OF
+    0.612924  121 HER
+    1.132147  121 PAYCHECK
+    1.313078  121 EACH
+    1.607515  121 WEEK_#

@@ -1,0 +1,30 @@
+signal 3115-A-0043
+type 0
+comment created using xlabel Mon Mar 31 17:25:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.340000  121 [BREATH]
+    0.429866  121 AND
+    0.530000  121 THERE
+    0.687262  121 CAN
+    0.780000  121 BE
+    0.910339  121 NO
+    1.110000  121 BLUE
+    1.467080  121 JEANS
+    1.890910  121 WORN
+    2.091110  121 [BREATH]
+    2.218850  121 [FALSESTART]
+    2.562050  121 AND
+    2.890670  121 BECAUSE
+    3.157010  121 SOME
+    3.210000  121 OF
+    3.290000  121 THE
+    3.658350  121 TEACHERS
+    3.740330  121 I
+    3.963410  121 KNOW
+    4.234150  121 WEAR
+    4.518240  121 [BREATH]

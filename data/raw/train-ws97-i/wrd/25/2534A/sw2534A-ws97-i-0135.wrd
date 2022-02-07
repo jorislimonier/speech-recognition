@@ -1,0 +1,17 @@
+signal 2534-A-0135
+type 0
+comment created using xlabel Mon Apr 14 16:35:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.330000  121 [MECHNOISE]
+    0.450000  121 BUT
+    0.660000  121 SHE
+    0.931570  121 HAS
+    1.637860  121 CHOCOLATE
+    1.919770  121 H#
+    2.322930  121 UH
+    3.202000  121 PAWS_#

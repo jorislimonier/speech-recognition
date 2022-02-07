@@ -1,0 +1,16 @@
+signal 3383-B-0023
+type 0
+comment created using xlabel Wed Jun 11 10:42:34 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.100000  121 [background noise]
+    0.354552  121 TOP
+    0.550000  121 YEAR
+    0.713321  121 FOR
+    0.799589  121 THE
+    1.317202  121 MUSTANG
+    1.448659  121 [breath]

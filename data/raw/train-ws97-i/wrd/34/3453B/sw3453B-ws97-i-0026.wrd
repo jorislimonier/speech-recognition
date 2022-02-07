@@ -1,0 +1,25 @@
+signal 3453-B-0026
+type 0
+comment created using xlabel Fri Mar 21 18:33:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.346584  121 [MOUTHNOISE]
+    0.625076  121 AND
+    0.835687  121 G
+    0.973621  121 M
+    1.206350  121 "DOESN'T"
+    1.433600  121 SEEM
+    1.503100  121 TO
+    1.663750  121 DO
+    1.882940  121 THAT
+    2.340100  121 [THROATNOISE]
+    2.461450  121 I
+    2.643970  121 KIND
+    2.731120  121 OF
+    2.902110  121 LIKE
+    3.060000  121 THAT
+    3.480420  121 FEATURE

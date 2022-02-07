@@ -1,0 +1,16 @@
+signal 2575-A-0036
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.236198  121 AND
+    0.489927  121 H#
+    0.605694  121 AND
+    0.910000  121 MOST
+    1.045900  121 OF
+    1.178650  121 THEM
+    1.652000  121 AREN'T
+    1.729200  121 H#

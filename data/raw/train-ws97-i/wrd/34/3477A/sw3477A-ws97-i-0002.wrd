@@ -1,0 +1,13 @@
+signal 3477-A-0002
+type 0
+comment created using xlabel Thu Jun 26 14:50:04 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.266439  121 [mouth noise]
+    0.520294  121 FROM
+    1.034136  121 TEXAS
+    1.286764  121 [crosstalk]

@@ -1,0 +1,15 @@
+signal 3302-A-0006
+type 0
+comment created using xlabel Thu Jul  3 14:32:26 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.141081  121 [MOUTHNOISE]
+    0.319647  121 OUR
+    0.370150  121 h#
+    1.237730  121 SITUATION
+    1.571410  121 WHERE
+    1.906900  121 [BREATH]

@@ -1,0 +1,17 @@
+signal 3691-A-0001
+type 0
+comment created using xlabel Mon Jun  9 17:36:50 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 [crosstalk]
+    0.270000  121 YOU
+    0.545131  121 BET
+    0.715935  121 THEY
+    0.906792  121 TELL
+    0.980000  121 YOU
+    1.093820  121 OUR
+    1.521586  121 TOPIC

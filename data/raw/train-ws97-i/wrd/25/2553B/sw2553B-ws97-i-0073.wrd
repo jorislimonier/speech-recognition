@@ -1,0 +1,19 @@
+signal 2553-B-0073
+type 0
+comment created using xlabel Mon Jul  7 17:48:35 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.099424  121 [BREATH]
+    0.637885  121 UHHUH
+    0.890076  121 [BREATH]
+    1.392190  121 OKAY
+    1.526230  121 [BREATH]
+    1.642100  121 I
+    1.857940  121 GUESS
+    1.937460  121 I
+    2.319160  121 "DON'T"
+    2.385050  121 [BREATH]

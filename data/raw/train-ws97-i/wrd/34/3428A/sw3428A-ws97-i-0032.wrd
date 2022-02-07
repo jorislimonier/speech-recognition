@@ -1,0 +1,26 @@
+signal 3428-A-0032
+type 0
+comment created using xlabel Tue Jul 22 16:40:56 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.090000  121 [CROSSTALK]
+    0.472099  121 BECAUSE
+    0.722941  121 EVEN
+    0.898292  121 IF
+    0.996361  121 YOU
+    1.219700  121 SAID
+    1.645730  121 OKAY
+    2.055480  121 [BREATH]
+    2.190000  121 YOU
+    2.424640  121 KNOW
+    2.730560  121 [HUM]
+    2.978820  121 ARMED
+    3.403340  121 FORCES
+    3.560000  121 COULD
+    3.811270  121 HAVE
+    3.949590  121 THEM
+    4.279990  121 [STATIC]

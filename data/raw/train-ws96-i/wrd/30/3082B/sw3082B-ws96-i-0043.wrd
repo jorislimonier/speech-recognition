@@ -1,0 +1,18 @@
+signal 3082-B-0043
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.037194  121 h#
+    0.330696  121 AND
+    0.693446  121 h#
+    0.823361  121 WE
+    0.855161  121 h#
+    1.057135  121 THOUGHT
+    1.185744  121 THAT
+    1.330636  121 WOULD
+    1.510000  121 BE
+    1.843502  121 h#

@@ -1,0 +1,18 @@
+signal 3306-A-0008
+type 0
+comment created using xlabel Sat Jun  7 17:22:11 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.098613  121 [mouth noise]
+    0.274636  121 MY
+    0.763102  121 CHILDREN
+    1.181158  121 ALL
+    1.324203  121 HAVE
+    1.539806  121 BEEN
+    1.861049  121 GROWN
+    1.990866  121 FOR
+    2.323111  121 (A)COUPLE_?_#

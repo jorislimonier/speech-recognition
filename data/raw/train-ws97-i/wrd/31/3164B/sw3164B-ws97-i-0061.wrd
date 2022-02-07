@@ -1,0 +1,30 @@
+signal 3164-B-0061
+type 0
+comment created using xlabel Thu Jul 17 14:28:53 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.299669  121 [BREATH]
+    0.345834  121 [MOUTHNOISE]
+    0.494405  121 SORT
+    0.601148  121 OF
+    0.997372  121 SLOWED
+    1.470510  121 DOWN
+    1.629180  121 AND
+    1.929140  121 NOBODY
+    2.307070  121 WAS_USED
+    2.436900  121 TO
+    2.568160  121 HIM
+    2.666670  121 HE
+    2.823900  121 HAD
+    3.227800  121 SERVANTS
+    3.335690  121 AT
+    3.830460  121 HOME
+    3.996340  121 AND
+    4.298840  121 VERY
+    4.603210  121 VERY
+    5.049180  121 RICH
+    5.314110  121 AND

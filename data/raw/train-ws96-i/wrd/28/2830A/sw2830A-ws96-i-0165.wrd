@@ -1,0 +1,24 @@
+signal 2830-A-0165
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.552361  121 h#
+    0.701187  121 YEAH
+    0.830388  121 I
+    0.955664  121 KNOW
+    1.111711  121 ABOUT
+    1.477651  121 THAT
+    1.850520  121 h#
+    1.943928  121 THEY
+    2.050523  121 DON'T
+    2.190086  121 HAVE
+    2.439438  121 SOUTHERN
+    2.870000  121 ACCENTS
+    3.030000  121 UP
+    3.190204  121 THERE
+    3.411087  121 THOUGH
+    3.637465  121 h#

@@ -1,0 +1,31 @@
+signal 3433-A-0011
+type 0
+comment created using xlabel Mon Jun 30 17:58:23 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136917  121 SIL
+    0.348719  121 YES
+    0.420704  121 IT
+    0.596513  121 IS
+    0.841538  121 I
+    1.104559  121 I
+    1.380039  121 AGREE
+    1.500000  121 WITH
+    1.650301  121 YOU
+    1.763929  121 THAT
+    1.912989  121 "THEY'RE"
+    2.384889  121 STARTING
+    2.756516  121 CHILDREN
+    3.173197  121 [breath]
+    3.290000  121 SO
+    3.545580  121 MUCH
+    3.622928  121 h#
+    3.978512  121 EARLIER
+    4.150000  121 ON
+    4.435526  121 THINGS
+    4.846482  121 BECAUSE
+    5.084585  121 [breath]

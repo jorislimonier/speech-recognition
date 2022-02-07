@@ -1,0 +1,12 @@
+signal 2792-B-0125
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.145971  121 h#
+    0.370000  121 OH
+    0.880000  121 WOW
+    0.949566  121 h#

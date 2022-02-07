@@ -1,0 +1,14 @@
+signal 3275-A-0065
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.325346  121 h#
+    0.588576  121 I'M
+    0.840000  121 FROM
+    1.232978  121 PLANO
+    1.721834  121 TEXAS
+    1.805589  125 h#

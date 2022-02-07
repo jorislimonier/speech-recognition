@@ -1,0 +1,14 @@
+signal 4152-B-0014
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050000  121 h#
+    0.459466  121 HOW
+    1.419269  121 INTERESTING
+    1.542421  121 h#
+    1.960746  121 ooh
+    2.068259  121 h#

@@ -1,0 +1,14 @@
+signal 3294-A-0059
+type 0
+comment created using xlabel Mon Mar 17 10:12:55 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.310000  121 SIL
+    0.479354  121 SHOULD
+    0.750000  121 REALLY
+    0.884486  121 BE
+    1.335530  121 OUTLAWED

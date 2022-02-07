@@ -1,0 +1,20 @@
+signal 2389-B-0103
+type 0
+comment created using xlabel Wed Mar  5 14:59:00 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.110000  121 SIL
+    0.361137  121 THEN
+    0.487411  121 I
+    0.685111  121 MEAN
+    0.895567  121 [FALSESTART]
+    1.158140  121 ALL
+    1.247430  121 OF
+    1.423450  121 US
+    1.471910  121 ARE
+    1.760000  121 GOING_TO
+    2.042060  121 SIL

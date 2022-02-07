@@ -1,0 +1,19 @@
+signal 2719-B-0095
+type 0
+comment created using xlabel Thu Feb 20 17:40:55 1997
+comment $Locker:  $
+color 125
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.314646  121 CROSSTALK
+    0.670000  121 AND
+    0.850000  121 THEY
+    1.062140  121 HAVE
+    1.100000  121 A
+    1.426180  121 QUARTER
+    1.673720  121 MILE
+    2.047470  121 TRACK
+    2.282880  121 THERE
+    2.561980  121 BREATH

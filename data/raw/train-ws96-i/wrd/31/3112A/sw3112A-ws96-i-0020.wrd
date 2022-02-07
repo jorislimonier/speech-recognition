@@ -1,0 +1,14 @@
+signal 3112-A-0020
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.467217  121 h#
+    0.760113  121 THAT'S
+    1.157799  121 SOMETHING
+    1.290158  121 THAT
+    1.496000  121 I
+    1.808000  125 h#

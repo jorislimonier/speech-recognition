@@ -1,0 +1,12 @@
+signal 3965-B-0051
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.274813  121 OH_#
+    0.447608  121 HOW
+    0.927594  121 NICE
+    1.069063  121 h#

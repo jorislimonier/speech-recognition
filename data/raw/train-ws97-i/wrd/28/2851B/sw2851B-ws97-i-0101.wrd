@@ -1,0 +1,18 @@
+signal 2851-B-0101
+type 0
+comment created using xlabel Thu Mar 13 13:03:05 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.179954  121 SIL
+    0.424479  121 HMM
+    0.688411  121 SIL
+    0.767331  121 [MOUTHNOISE]
+    0.868246  121 I
+    1.000000  121 KNOW
+    1.112770  121 "I'VE"
+    1.291310  121 SEEN
+    1.366350  121 ?_#

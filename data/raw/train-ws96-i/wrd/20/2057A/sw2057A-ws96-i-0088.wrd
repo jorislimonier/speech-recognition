@@ -1,0 +1,17 @@
+signal 2057-A-0088
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.320000  121 h#
+    0.519533  121 WE'D
+    0.727874  121 JUST
+    1.050000  121 PLAY
+    1.159030  121 UP
+    1.260000  121 THE
+    1.650371  121 FACT
+    1.960000  121 THAT
+    2.210443  125 h#

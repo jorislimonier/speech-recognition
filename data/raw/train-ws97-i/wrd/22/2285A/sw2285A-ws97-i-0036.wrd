@@ -1,0 +1,18 @@
+signal 2285-A-0036
+type 0
+comment created using xlabel Wed Apr 23 15:32:17 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160000  121 [BREATH]
+    0.263536  121 THEY
+    0.421514  121 HAVE
+    0.953483  121 BOTTLE
+    1.670000  121 DRIVES
+    1.779670  121 THEY
+    1.980000  121 HAVE
+    2.530000  121 CLEANUP
+    3.237050  121 OUTINGS

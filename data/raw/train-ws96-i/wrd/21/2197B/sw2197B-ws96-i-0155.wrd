@@ -1,0 +1,12 @@
+signal 2197-B-0155
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.315907  121 H#
+    0.515143  121 EVER
+    1.124110  121 CONSIDER
+    1.243440  121 H#

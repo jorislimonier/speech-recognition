@@ -1,0 +1,21 @@
+signal 4617-B-0025
+type 0
+comment created using xlabel Thu Jun 26 14:46:08 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.476403  121 h#
+    0.649985  121 WHETHER
+    0.886526  121 THEY
+    1.186978  121 h#
+    1.284047  121 THEY
+    1.688878  121 DECIDE
+    1.862886  121 WHETHER
+    1.907167  121 OR
+    2.093732  121 NOT
+    2.172286  121 h#
+    2.375727  121 THEY
+    2.744852  121 h#

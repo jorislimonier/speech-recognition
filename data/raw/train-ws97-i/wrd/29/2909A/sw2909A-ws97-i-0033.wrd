@@ -1,0 +1,20 @@
+signal 2909-A-0033
+type 0
+comment created using xlabel Tue Apr  1 17:13:02 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.334846  121 [BREATH]
+    0.429704  121 THEY
+    0.580000  121 HAVE
+    0.695769  121 TO
+    0.973402  121 WATCH
+    1.107590  121 OUT
+    1.285740  121 WHO
+    1.605020  121 COMES
+    1.954370  121 IN
+    2.148720  121 AND
+    2.442540  121 [MECHNOISE]

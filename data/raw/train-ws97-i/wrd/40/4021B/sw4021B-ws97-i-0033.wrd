@@ -1,0 +1,15 @@
+signal 4021-B-0033
+type 0
+comment created using xlabel Tue Jun 10 11:44:44 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.327299  121 [static]
+    0.500776  121 IT
+    0.713680  121 REALLY
+    1.254614  121 CHIPS_REALLY
+    1.536909  121 EASY
+    1.666229  121 [breath]

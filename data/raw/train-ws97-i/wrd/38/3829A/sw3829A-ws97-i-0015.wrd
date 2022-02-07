@@ -1,0 +1,28 @@
+signal 3829-A-0015
+type 0
+comment created using xlabel Tue Jul 22 12:42:09 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.111033  121 [MEHCNOISE]
+    0.496173  121 OH
+    0.726568  121 WELL
+    0.854174  121 RIGHT
+    1.087620  121 NOW
+    1.224500  121 "WE'RE"
+    1.480000  121 NOT
+    1.653060  121 "WE'RE"
+    1.955230  121 LIVING
+    2.034120  121 IN
+    2.138700  121 A
+    2.580000  121 TRAVEL
+    2.950360  121 TRAILER
+    3.196710  121 [BREATH]
+    3.323500  121 [MECHNOISE]
+    3.571760  121 BUT
+    3.706370  121 UH
+    4.030410  121 "WE'VE"
+    4.209230  121 [MOUTHNOISE]

@@ -1,0 +1,19 @@
+signal 3080-B-0092
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160000  121 HAVE_#
+    0.300000  121 TO
+    0.373279  121 AS
+    0.430000  121 YOU
+    0.550000  121 GET
+    0.763859  121 OLDER
+    0.829823  121 YOU
+    0.993909  121 HAVE
+    1.113386  121 TO
+    1.491639  121 REALLY
+    1.827176  121 h#

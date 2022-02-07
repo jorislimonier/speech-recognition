@@ -1,0 +1,13 @@
+signal 4081-A-0020
+type 0
+comment created using xlabel Thu Feb 20 18:36:43 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.309460  121 SIL
+    0.415708  121 I
+    0.624580  121 THINK
+    1.208940  121 DECALB

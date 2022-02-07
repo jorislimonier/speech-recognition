@@ -1,0 +1,22 @@
+signal 2122-A-0068
+type 0
+comment created using xlabel Thu May  8 18:58:18 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.056525  121 H#
+    0.203999  121 AND
+    0.375716  121 THEN
+    0.523190  121 GO
+    1.007000  121 BACK
+    1.361550  121 [BREATH]
+    1.463580  121 AND
+    1.661560  121 SEE
+    1.765350  121 IF
+    2.040500  121 THAT
+    2.352350  121 WORKED
+    2.444270  121 OR
+    2.783660  121 NOT

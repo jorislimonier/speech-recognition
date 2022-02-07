@@ -1,0 +1,19 @@
+signal 3791-A-0056
+type 0
+comment created using xlabel Thu Mar 20 15:38:12 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.121792  121 [STATIC]
+    0.392276  121 NO
+    0.618482  121 [STATIC]
+    0.695481  121 THE
+    1.011770  121 TIMES
+    1.142650  121 "I'VE"
+    1.262630  121 BEEN
+    1.428690  121 OUT
+    1.650000  121 DEER
+    2.118270  121 HUNTING

@@ -1,0 +1,16 @@
+signal 2469-A-0064
+type 0
+comment created using xlabel Sun Jun  8 15:46:58 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.351426  121 UM
+    0.528034  121 SIL
+    0.640224  121 OR
+    0.828389  121 THIS
+    0.999931  121 LITTLE
+    1.547320  121 BALCONY
+    1.867960  121 [BREATH]

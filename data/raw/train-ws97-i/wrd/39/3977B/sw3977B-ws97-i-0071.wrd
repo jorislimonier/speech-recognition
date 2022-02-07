@@ -1,0 +1,15 @@
+signal 3977-B-0071
+type 0
+comment created using xlabel Fri May 30 13:44:08 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.241481  121 SIL
+    0.352835  121 SO
+    0.520000  121 NOW
+    0.740304  121 "SHE'S"
+    0.900000  121 JUST
+    1.150000  121 LIKE

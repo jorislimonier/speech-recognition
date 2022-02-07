@@ -1,0 +1,15 @@
+signal 2887-B-0103
+type 0
+color 121
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.411076  121 h#
+    0.775514  121 PRICE
+    0.823753  121 OF
+    1.393478  121 HOMES
+    1.673384  121 HAS
+    1.828073  121 WENT
+    1.975268  121 UP_#

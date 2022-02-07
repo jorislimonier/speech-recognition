@@ -1,0 +1,27 @@
+signal 4679-A-0019
+type 0
+comment created using xlabel Wed Jul  2 13:21:19 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.150000  121 SIL
+    0.219472  121 I
+    0.417552  121 THINK
+    0.541916  121 "IT'S"
+    0.588297  121 A
+    0.780142  121 LOT
+    1.070000  121 HARDER
+    1.162310  121 TO
+    1.303930  121 GET
+    1.511940  121 OFF
+    1.609630  121 ON
+    2.342880  121 TECHNICALITIES
+    2.672140  121 ALSO
+    3.049110  121 BECAUSE
+    3.120870  121 SIL
+    3.340000  121 THEY
+    3.499620  121 UH
+    3.788840  121 [BREATH]

@@ -1,0 +1,18 @@
+signal 2482-A-0179
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.332582  121 H#
+    0.520360  121 I
+    0.753963  121 DON'T
+    0.950000  121 SEE
+    1.160000  121 HOW
+    1.424090  121 ANYONE
+    1.556420  121 CAN
+    1.855000  121 AFFORD
+    1.906990  121 IT
+    2.223520  121 H#

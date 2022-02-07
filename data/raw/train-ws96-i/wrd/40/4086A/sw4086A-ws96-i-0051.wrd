@@ -1,0 +1,19 @@
+signal 4086-A-0051
+type 0
+color 125
+comment $Locker:  $
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.667416  121 h#
+    0.734504  121 AND
+    0.870000  121 THAT
+    1.196485  121 OPENS
+    1.362729  121 UP
+    1.400000  121 A
+    1.581371  121 WHOLE
+    1.825277  121 ANOTHER
+    2.044914  121 CAN
+    2.111304  121 OF
+    2.564404  121 WORMS_#

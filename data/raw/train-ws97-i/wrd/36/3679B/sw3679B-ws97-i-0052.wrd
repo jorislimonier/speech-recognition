@@ -1,0 +1,22 @@
+signal 3679-B-0052
+type 0
+comment created using xlabel Wed Jun 25 20:32:45 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.136591  121 [static]
+    0.310873  121 UH
+    0.585887  121 NO
+    0.739383  121 IT
+    0.974425  121 WAS
+    1.406435  121 UH
+    1.558332  121 UH
+    2.032912  121 MINNESOTA
+    2.574946  121 TWINS
+    3.043145  121 VERSUS
+    3.172658  121 THE
+    3.501782  121 ATLANTA
+    4.163735  121 BRAVES_#

@@ -1,0 +1,14 @@
+signal 3776-B-0033
+type 0
+comment created using xlabel Mon Mar 24 17:33:32 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160548  121 HOT_#
+    0.681942  121 BREAKFAST
+    0.790619  121 FOR
+    0.870834  121 THE
+    1.310720  121 KIDS

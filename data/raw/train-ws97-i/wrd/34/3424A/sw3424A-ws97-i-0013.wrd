@@ -1,0 +1,24 @@
+signal 3424-A-0013
+type 0
+comment created using xlabel Sat Mar 29 17:52:25 1997
+comment $Locker:  $
+color 121
+font -misc-*-medium-*-*-*-20-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.305317  121 [BREATH]
+    0.628484  121 UH
+    0.857663  121 SIL
+    1.040490  121 WHILE
+    1.197570  121 WE
+    1.307010  121 WERE
+    1.589540  121 STILL
+    2.123150  121 DATING
+    2.210120  121 AND
+    2.364620  121 "IT'S"
+    2.570000  121 STILL
+    2.891430  121 GOING
+    3.179830  121 ON
+    3.482400  121 AND
+    3.824830  121 [BREATH]
