@@ -14,26 +14,34 @@ model = deepspeech.Model(model_file_path)
 filename = "data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0025.wav"
 # filename = "data/external/audio/2830-3980-0043.wav"
 
+
 def rewrite_wav():
     x, _ = librosa.load(filename, sr=16000)
     tmp = "data/interim/tmp.wav"
     sf.write(tmp, x, 16000)
     return tmp
 
+
 def batch_transcribe(filepath):
-    w = wave.open(filepath, "r")
+    # batch api
+    tmp = rewrite_wav()
+
+    w = wave.open(tmp, "r")
     rate = w.getframerate()
     frames = w.getnframes()
     buffer = w.readframes(frames)
     # print(rate)
     # print(model.sampleRate())
 
-
     data16 = np.frombuffer(buffer, dtype=np.int16)
 
     text = model.stt(data16)
     print(text)
-batch_transcribe()
+
+
+batch_transcribe(filename)
+
+
 def stream_transcribe():
     # stream api
     tmp = rewrite_wav()
@@ -55,3 +63,6 @@ def stream_transcribe():
         text = context.intermediateDecode()
         print(text)
         offset = end_offset
+
+
+stream_transcribe()
