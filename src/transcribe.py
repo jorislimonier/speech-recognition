@@ -1,5 +1,6 @@
 import os
 import wave
+from time import time
 
 import deepspeech
 import librosa
@@ -7,8 +8,6 @@ import numpy as np
 import pandas as pd
 import soundfile as sf
 from tqdm import tqdm
-
-from time import time
 
 from data_assembler import DataAssembler
 
@@ -84,7 +83,7 @@ class Transcribe:
             print(text)
             offset = end_offset
 
-    def predict(self, df, benchmark=False):
+    def predict(self, df, benchmark=False, save_file=False):
         """
         Predicts a column of the df, adds the prediction to a "pred" column and returns the df.
 
@@ -118,6 +117,9 @@ class Transcribe:
             except Exception as e:
                 print(f"EXCEPTION: {e}")
 
+        if save_file:
+            str_n_samples = str(n_samples).zfill(4)
+            df.to_csv(f"data/processed/results_{str_n_samples}_samples.csv", index=False)
         return df
 
 
@@ -126,9 +128,12 @@ BASE_FILES = ["train-ws96-i", "train-ws97-i"]
 base_file = BASE_FILES[1]
 da = DataAssembler()
 
-df = da.extract_labels(base_file)
-
+df = pd.concat(
+    objs=[da.extract_labels(base_file) for base_file in BASE_FILES],
+    ignore_index=True,
+)
+print(df)
 trsc = Transcribe()
 
-df_red = df.iloc[:3, :]  # work on reduced dataframe
-print(trsc.predict(df_red, benchmark=True))
+df_red = df.iloc[:, :]  # work on reduced dataframe
+print(trsc.predict(df_red, benchmark=True, save_file=True))

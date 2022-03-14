@@ -53,7 +53,6 @@ class DataAssembler:
 
         # construct full path of wav files
         start_digits = df["parent_folder"].apply(lambda x: x[:2])
-        print(start_digits)
         df["path"] = (
             f"""{self.RAW_PATH}{base_file}/wav/"""
             + start_digits

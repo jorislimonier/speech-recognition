@@ -1,0 +1,101 @@
+path,ground_truth,pred,time
+./data/raw/train-ws96-i/wav/20/2005A/sw2005A-ws96-i-0041.wav,H# LIKE FINDING A H# PROPER NURSING HOME H#,finding um a proper nursing home,2.8469128608703613
+./data/raw/train-ws96-i/wav/20/2005B/sw2005B-ws96-i-0015.wav,H# IN DOING IT WHEN IT GOT TO THE POINT THAT WE HAD DO IT H#,in doing it when it got to pought that we had to it,3.2397348880767822
+./data/raw/train-ws96-i/wav/20/2006A/sw2006A-ws96-i-0037.wav,H# EVERYBODY HAS THEIR HOME PHONE NUMBER TYPE[OF] JOB H#,uh evr oy has their home phone number tyme of job,3.174387216567993
+./data/raw/train-ws96-i/wav/20/2010B/sw2010B-ws96-i-0034.wav,H# HE REALLY WANTED IT WHETHER IT H#,he really wanted it whether it,1.5910453796386719
+./data/raw/train-ws96-i/wav/20/2012A/sw2012A-ws96-i-0012.wav,H# RIGHT IT TURNED OUT TO BE H# AN INVITATION H#,right  turnes out to be a uh an invirtation,2.02691912651062
+./data/raw/train-ws96-i/wav/20/2015A/sw2015A-ws96-i-0026.wav,H# PEDDLING PRODUCTS H# IF I WANTED THEIR PRODUCTS H# I WOULD HAVE H# EITHER GONE TO_THE STORE TO BOUGHT OR_I WOULD HAVE H# CALLED FOR THE H# SALESMAN TO COME OUT H#,hadling products if i wanted their products i would have edar gone ton the stort o abought i would ave called for the  sales when it come out,5.3895673751831055
+./data/raw/train-ws96-i/wav/20/2015B/sw2015B-ws96-i-0001.wav,h# YES YES h#,yes yes,0.9817464351654053
+./data/raw/train-ws96-i/wav/20/2019A/sw2019A-ws96-i-0071.wav,H# BUT H# SHE IS A GREAT COMFORT TO ME H#,but so uh she is a great comfort to me,2.0813839435577393
+./data/raw/train-ws96-i/wav/20/2019A/sw2019A-ws96-i-0088.wav,H# AW WHAT A SHAME H#,uh what a shame,0.8668124675750732
+./data/raw/train-ws96-i/wav/20/2020B/sw2020B-ws96-i-0029.wav,H# I I REALLY_# I HAVE I HAVE STRONG OBJECTIONS TO THAT H#,i i i have i have strong objections to that,2.4007568359375
+./data/raw/train-ws96-i/wav/20/2024B/sw2024B-ws96-i-0003.wav,H# HAVE A H# I HAVE A WIDE VARIETY OF OF HOBBIES THEREFORE MY H#,have a have a wine broty of of hobbies therefore my,3.16817569732666
+./data/raw/train-ws96-i/wav/20/2024B/sw2024B-ws96-i-0041.wav,H# FALLS IN LINE WITH_THE T I CULTURE HERE[AT] TEXAS INSTRUMENTS H#,falls a lot with the ti culture here in tekeas istruments,2.9061238765716553
+./data/raw/train-ws96-i/wav/20/2028B/sw2028B-ws96-i-0110.wav,h# GATHERED AND THE PROGRAM AND SO FORTH h#,gather in the program and so forth,1.625133991241455
+./data/raw/train-ws96-i/wav/20/2032A/sw2032A-ws96-i-0009.wav,H# AND HOW ABOUT THE ROLLING STONES H#,an have a the loling sone,1.4771270751953125
+./data/raw/train-ws96-i/wav/20/2035B/sw2035B-ws96-i-0016.wav,H# AND WE H#,and we um,0.8804945945739746
+./data/raw/train-ws96-i/wav/20/2038A/sw2038A-ws96-i-0023.wav,H# THE H# GOVERNMENT IN POWER THAT H#,the government in power that,1.7910046577453613
+./data/raw/train-ws96-i/wav/20/2039B/sw2039B-ws96-i-0035.wav,H# EVERY NIGHT THIS WEEK H# SO H#,every night this week so,1.6291565895080566
+./data/raw/train-ws96-i/wav/20/2039B/sw2039B-ws96-i-0075.wav,h# TWO OR THREE NOVELS A WEEK h#,two or three novels a week,1.3150534629821777
+./data/raw/train-ws96-i/wav/20/2040A/sw2040A-ws96-i-0011.wav,H# PART OF THIS I SUPPOSE H#,um part of this i suppose,1.7583324909210205
+./data/raw/train-ws96-i/wav/20/2040B/sw2040B-ws96-i-0023.wav,H# LARGE NUMBERS OF H# BAREFOOT H# NATIVES OR SOMETHING H# NOT IN A H#,large numbers of ver foot tatives or something uh not in a,3.2431509494781494
+./data/raw/train-ws96-i/wav/20/2041A/sw2041A-ws96-i-0027.wav,H# YEAH WOULD_THAT WE COULD H#,it wol the recon,0.8086826801300049
+./data/raw/train-ws96-i/wav/20/2041B/sw2041B-ws96-i-0015.wav,AND_# YOU KNOW h# ANYTHING DEALING WITH SPORTS h#,uh anything dealing with sports,1.8663887977600098
+./data/raw/train-ws96-i/wav/20/2051B/sw2051B-ws96-i-0024.wav,H# I'VE FORMULATED A PRETTY RADICAL H# THEORY H#,or formulated a pretty radical seory,2.255502462387085
+./data/raw/train-ws96-i/wav/20/2051B/sw2051B-ws96-i-0087.wav,H# THAT WILL H#,that will,1.1713593006134033
+./data/raw/train-ws96-i/wav/20/2051B/sw2051B-ws96-i-0118.wav,H# FOR ANY REASON H#,bor any reason ,1.3011727333068848
+./data/raw/train-ws96-i/wav/20/2053A/sw2053A-ws96-i-0055.wav,H# OH WOW H# NO I JUST STARTED ABOUT H#,oh wow that just storted about,1.9770493507385254
+./data/raw/train-ws96-i/wav/20/2053B/sw2053B-ws96-i-0085.wav,H# I LIKE THOSE THOSE ARE PRETTY H#, like hose is a pretty,1.0817301273345947
+./data/raw/train-ws96-i/wav/20/2055A/sw2055A-ws96-i-0010.wav,h# DO SOME GARDENING AND h#,du some gardening and,1.4268083572387695
+./data/raw/train-ws96-i/wav/20/2055A/sw2055A-ws96-i-0026.wav,H# CROSS STITCH H#,across titch,1.1868460178375244
+./data/raw/train-ws96-i/wav/20/2057A/sw2057A-ws96-i-0088.wav,h# WE'D JUST PLAY UP THE FACT THAT h#,we're just play up the fact that,1.7394583225250244
+./data/raw/train-ws96-i/wav/20/2062A/sw2062A-ws96-i-0001.wav,H# WELL H# WHAT ? H#,well what,0.9050700664520264
+./data/raw/train-ws96-i/wav/20/2062A/sw2062A-ws96-i-0018.wav,H# AND I SUPPOSE IF H#,and i suppose that,1.1445138454437256
+./data/raw/train-ws96-i/wav/20/2062A/sw2062A-ws96-i-0044.wav,h# WHAT h# THAT'S h# EXACTLY WHAT'S HAPPENING IN MY FAMILY_#,what that's it thactly was tha big can by family,2.3536601066589355
+./data/raw/train-ws96-i/wav/20/2064A/sw2064A-ws96-i-0020.wav,H# IT'S REALLY SAD H#,s really sad,1.2151308059692383
+./data/raw/train-ws96-i/wav/20/2064A/sw2064A-ws96-i-0023.wav,H# THAN H# EXPECTING H#,then um expecting,1.6032896041870117
+./data/raw/train-ws96-i/wav/20/2064A/sw2064A-ws96-i-0047.wav,h# DO h# GET KILLED h#,um do get killed,1.7701435089111328
+./data/raw/train-ws96-i/wav/20/2064A/sw2064A-ws96-i-0056.wav,h# WHICH SEEMS SO AWFUL h#,ch seems so awful,1.235630750656128
+./data/raw/train-ws96-i/wav/20/2064B/sw2064B-ws96-i-0060.wav,H# SOME OF THE CRIMES ARE JUST SO H# BRUTAL AND SO YOU KNOW USELESS H#,some of the crimes are just so brutal and so you know useless,2.7890474796295166
+./data/raw/train-ws96-i/wav/20/2065A/sw2065A-ws96-i-0043.wav,H# OR IT CAN BE H#,can be,0.8642754554748535
+./data/raw/train-ws96-i/wav/20/2065A/sw2065A-ws96-i-0053.wav,h# YEAH RIGHT h#,yeah i really,0.9889805316925049
+./data/raw/train-ws96-i/wav/20/2065A/sw2065A-ws96-i-0085.wav,H# YOU KNOW AND ONE H#,you know and one,0.9904003143310547
+./data/raw/train-ws96-i/wav/20/2065A/sw2065A-ws96-i-0095.wav,H# ELEPHANT FOOT SOUP YOU KNOW IT'S H# EASY TO DO ONCE YOU FIND A ELEPHANT FOOT H#,belephant foot sout you know it's seasy to do once you find the elphant foot,3.609861135482788
+./data/raw/train-ws96-i/wav/20/2071B/sw2071B-ws96-i-0036.wav,H# TO H# THINK ABOUT WHEN YOU'RE TRYING TO MAKE THAT DECISION H#,to think about when you're trying to make that decision,2.4239141941070557
+./data/raw/train-ws96-i/wav/20/2071B/sw2071B-ws96-i-0043.wav,H# MERCEDES AND H#,ercides and,1.3328585624694824
+./data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0025.wav,H# AND WHEN THINGS START H# WHEN WHEN ABORTION COMES ON THE ISSUES THEN PEOPLE JUST GO ALL ?_#,and when things start h when when abortion comes on the ssues and people just get all,4.289198875427246
+./data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0044.wav,H# THE PRESSURE THAT LOBBYISTS CAN PUT H#,the pressure that lobbyists can put,1.6759099960327148
+./data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0070.wav,H# NO I CAN'T HEAR THEM H#,no i can't hear him,0.9060525894165039
+./data/raw/train-ws96-i/wav/20/2078B/sw2078B-ws96-i-0055.wav,H# OH H# WHAT'S HE TEACH_#,oh whats he teach,1.3435719013214111
+./data/raw/train-ws96-i/wav/20/2078B/sw2078B-ws96-i-0059.wav,H# IS THAT A TOUGH SYSTEM TO BE IN H#,sthat a tough system to bein,1.3485522270202637
+./data/raw/train-ws96-i/wav/20/2079B/sw2079B-ws96-i-0002.wav,H# I'M PRESENTLY LIVING IN A HOUSE H# FIRST TIME H#,im present livitg in a house uh first time ah,2.6586568355560303
+./data/raw/train-ws96-i/wav/20/2085B/sw2085B-ws96-i-0013.wav,H# YOU KNOW THE MAIN THINGS THAT I LIKE ABOUT H# THE H#,you know the main things that i like about the,2.542771816253662
+./data/raw/train-ws96-i/wav/20/2085B/sw2085B-ws96-i-0044.wav,h# YOU KNOW DO A LITTLE BIT BETTER RESEARCH ON WHO GETS HIRED h#,you know do a little bit better research on who gets hired,2.2925679683685303
+./data/raw/train-ws96-i/wav/20/2085B/sw2085B-ws96-i-0079.wav,h# KIDS h# TWENTY YEARS OLD h#,tuts twenty years old,1.813983678817749
+./data/raw/train-ws96-i/wav/20/2086A/sw2086A-ws96-i-0023.wav,H# VEGETABLE_OIL BUT I WILL USE PEANUT H# PEANUT OIL OR THINGS H# AND THEN WE JUST_STIR FRY BROCCOLI_AND CARROTS AND H# GREEN PEPPERS AND H#,wll thet moil wen ow well yuse peanut youn on oil or things and then we just start fry a brocoly and carrots and num e green peppers and um,6.997078895568848
+./data/raw/train-ws96-i/wav/20/2089A/sw2089A-ws96-i-0069.wav,H# YEAH HE'S H# HE'S ABOUT MY FAVORITE H#,yeah he's he's about my favorite,1.3555567264556885
+./data/raw/train-ws96-i/wav/20/2092B/sw2092B-ws96-i-0013.wav,H# YEAH H# TALK TOO LONG H#,yeah talked to on,0.9392521381378174
+./data/raw/train-ws96-i/wav/20/2092B/sw2092B-ws96-i-0042.wav,H# SORT OF WE'RE PROBABLY LIKE MOST H#,sort of would probably like most,1.2648637294769287
+./data/raw/train-ws96-i/wav/20/2093A/sw2093A-ws96-i-0053.wav,H# LAST YEAR H#,last year,1.0517079830169678
+./data/raw/train-ws96-i/wav/20/2094A/sw2094A-ws96-i-0011.wav,H# MY WORD H#,my word,0.8140099048614502
+./data/raw/train-ws96-i/wav/20/2094B/sw2094B-ws96-i-0044.wav,H# HOW ABOUT INVESTING IN THE SUN WELL NOBODY WANTS TO PAY TWENTY FIVE CENTS A KILOWATT HOUR H#,how about investing in the sun well nobody wants to pay twenty five cents of killar whate hour,4.3750834465026855
+./data/raw/train-ws96-i/wav/20/2095B/sw2095B-ws96-i-0011.wav,H# IT WAS YOU_! KNOW IN THE SEVENTIES OUT HERE AND H#,it was an you know in the seventies houtut here ,2.158390998840332
+./data/raw/train-ws96-i/wav/21/2101A/sw2101A-ws96-i-0088.wav,H# MMHMM AND WE DON'T WANT OUR KIDS TO H#,mhm and we don't want our kids to,1.8200740814208984
+./data/raw/train-ws96-i/wav/21/2101B/sw2101B-ws96-i-0025.wav,H# I CAN'T THINK OF THE NAME OF THE ONE THAT HAS THE H# MILITARY H#,i can't think of the name of the one that has the uh military,3.307161569595337
+./data/raw/train-ws96-i/wav/21/2101B/sw2101B-ws96-i-0069.wav,RIGHT I AGREE H#,i agree,0.846604585647583
+./data/raw/train-ws96-i/wav/21/2102B/sw2102B-ws96-i-0030.wav,H# OH THAT WOULD BE A SHAME_#,el that would be a shae,0.8713674545288086
+./data/raw/train-ws96-i/wav/21/2105A/sw2105A-ws96-i-0010.wav,H# AND I THINK H#,and i think uh,1.0228803157806396
+./data/raw/train-ws96-i/wav/21/2110B/sw2110B-ws96-i-0056.wav,H# THAT H#,that um,0.940824031829834
+./data/raw/train-ws96-i/wav/21/2110B/sw2110B-ws96-i-0080.wav,H# HOW DID I GET INTO IT OH I'M A ELECTRICAL ENGINEER H#,ond i get into it oh i'm a lock longineer,2.1134674549102783
+./data/raw/train-ws96-i/wav/21/2110B/sw2110B-ws96-i-0083.wav,H# NO THEY I'M IN A TELECOMMUNICATIONS COMPANY AND THEY H# H# SENT IT OUT IN OUR H# BULK MAIL SO THAT IF ANY H#,no tha i'm  tele communications company and the uh send it out in our folk mail sod the finy,4.907104730606079
+./data/raw/train-ws96-i/wav/21/2113A/sw2113A-ws96-i-0067.wav,H# I MEAN LIKE KEVIN COSTNER DID ALL OF HIS OWN H#,i mean like kevin cosburg din all of his own,2.276463270187378
+./data/raw/train-ws96-i/wav/21/2122A/sw2122A-ws96-i-0068.wav,AND_# THEN GO BACK h# AND SEE IF THAT WORKED OR NOT_#,and then go back and see if that word tor not,2.294022798538208
+./data/raw/train-ws96-i/wav/21/2124B/sw2124B-ws96-i-0007.wav,h# AND SO h#,and so um,1.0560979843139648
+./data/raw/train-ws96-i/wav/21/2124B/sw2124B-ws96-i-0023.wav,H# WITH ALL THE H#,with all the um,1.2031958103179932
+./data/raw/train-ws96-i/wav/21/2130B/sw2130B-ws96-i-0096.wav,H# ONE GROUP OF THEM H#,one group of them,1.398691177368164
+./data/raw/train-ws96-i/wav/21/2130B/sw2130B-ws96-i-0106.wav,h# I MEAN THAT'S ABSOLUTELY UNPRECEDENTED h# THAT WAS h#,i mean that's absolutely unprecedented that was,2.3253867626190186
+./data/raw/train-ws96-i/wav/21/2137B/sw2137B-ws96-i-0025.wav,H# THE DRAFT H# THAT THEY SHOULD DRAFT WOMEN AS H# QUICKLY AS THEY DO THE MEN H#,the draft that they should drast women is corkoly is they do the man,3.5837836265563965
+./data/raw/train-ws96-i/wav/21/2139B/sw2139B-ws96-i-0031.wav,H# WHICH I THINK H# IS A H# IS H# AN INVASION OF PRIVACY H#,which i think is a is an invasion of privacy,3.0190091133117676
+./data/raw/train-ws96-i/wav/21/2139B/sw2139B-ws96-i-0072.wav,H# I GET H# MAIL_#,i get male,1.2776262760162354
+./data/raw/train-ws96-i/wav/21/2145A/sw2145A-ws96-i-0055.wav,H# YOU KNOW THEY'RE H#,you know the,0.9038913249969482
+./data/raw/train-ws96-i/wav/21/2145B/sw2145B-ws96-i-0001.wav,H# WELL I GUESS I WOULD H# FIRST IDENTIFY MYSELF AS H# MIDDLE AGED AND THEREFORE H#,well i guess i would first identify myself as middle aged ind thereforeha,4.155608654022217
+./data/raw/train-ws96-i/wav/21/2145B/sw2145B-ws96-i-0086.wav,H# SO ? I AM H# VERY AWARE OF H#,so i ive very aware of,1.7252264022827148
+./data/raw/train-ws96-i/wav/21/2149A/sw2149A-ws96-i-0088.wav,H# ORGANIZATION TO DO THERE WAS BIG BROTHER BIG SISTER H#,o thamizations to do there wauld beig brother beg sister the,1.910125732421875
+./data/raw/train-ws96-i/wav/21/2149B/sw2149B-ws96-i-0010.wav,H# YOU KNOW LIKE THE H# SHELTERS AND H#,you know like the uh shelters and,2.1876747608184814
+./data/raw/train-ws96-i/wav/21/2154B/sw2154B-ws96-i-0060.wav,H# FILL INS YOU KNOW H#,pill ons you know ,1.4369568824768066
+./data/raw/train-ws96-i/wav/21/2154B/sw2154B-ws96-i-0076.wav,H# HERE'S WHAT WENT ON IN ASIA H#,uh here's what went own and asia,2.0587048530578613
+./data/raw/train-ws96-i/wav/21/2157A/sw2157A-ws96-i-0014.wav,H# OKAY H# I THINK I DID KNOW THAT H#,okay i think i did know that,1.805079698562622
+./data/raw/train-ws96-i/wav/21/2157A/sw2157A-ws96-i-0096.wav,H# BACK WHEN THEY WERE IN SAINT LOUIS_#,tat then they were in shanto,1.1185016632080078
+./data/raw/train-ws96-i/wav/21/2158A/sw2158A-ws96-i-0042.wav,H# WELL I I GOT A STOPWATCH HERE H#,well i i got to tol watch here,1.3481476306915283
+./data/raw/train-ws96-i/wav/21/2160A/sw2160A-ws96-i-0042.wav,H# YEAH H# THERE'S H# UM THERE'S A A SONG THAT I KNOW WHICH SAYS YOU KNOW H#,yeah there's um there's a a song that i know which says you know,3.1629433631896973
+./data/raw/train-ws96-i/wav/21/2171B/sw2171B-ws96-i-0050.wav,H# WELL YOU KNOW H# I KNOW AMERICAN EXPRESS H# I'M NOT_#,weyou know uh i know american expretan i o,2.897838592529297
+./data/raw/train-ws96-i/wav/21/2171B/sw2171B-ws96-i-0070.wav,H# IN THE COLLEGE H#,in the college,1.121260643005371
+./data/raw/train-ws96-i/wav/21/2171B/sw2171B-ws96-i-0080.wav,H# PEOPLE GET OLDER H# THEY'LL DO SOMETHING LIKE THAT H#,people get older hiy'll do something like that,2.0007028579711914
+./data/raw/train-ws96-i/wav/21/2172A/sw2172A-ws96-i-0056.wav,YEAH,ah,0.41869282722473145
+./data/raw/train-ws96-i/wav/21/2181A/sw2181A-ws96-i-0117.wav,H# YEAH THEY LEAVE H# THEY LEAVE SOME SONGS WITH YOU THEY LEAVE,ah they lease they leve some songs tat who it,2.2015268802642822
+./data/raw/train-ws96-i/wav/21/2184A/sw2184A-ws96-i-0077.wav,H# I MEAN H# YOU KNOW THERE'S ALL KINDS OF H#,i mean you know there's all kinds of,1.8947234153747559
+./data/raw/train-ws96-i/wav/21/2184B/sw2184B-ws96-i-0075.wav,H# YOU KNOW H#,you know,0.7669093608856201
+./data/raw/train-ws96-i/wav/21/2185B/sw2185B-ws96-i-0021.wav,H# WE'VE LEARNED WE'RE WE UH,we've learned we're were uh,1.5868022441864014
+./data/raw/train-ws96-i/wav/21/2187A/sw2187A-ws96-i-0119.wav,H# THAT'S WHY I DO THAT,rigy do,0.9642598628997803
+./data/raw/train-ws96-i/wav/21/2190A/sw2190A-ws96-i-0017.wav,H# NO H# OKAY YEAH_#,no ookay yeah,1.0963943004608154
+./data/raw/train-ws96-i/wav/21/2190A/sw2190A-ws96-i-0051.wav,H# YEAH H#,yeah,0.4019143581390381
