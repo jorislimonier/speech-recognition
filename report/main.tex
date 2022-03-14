@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+
+% Importing settings from setup.sty
+\usepackage{setup}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{glossaries}
+% \makenoidxglossaries
+
+\newacronym{stt}{STT}{Speech-To-Text}
+% \pagenumbering{roman}
+\begin{document}
+
+% Inserting title page
+\import{./}{title}
+
+\pagenumbering{gobble}
+\tableofcontents
+% \listoffigures
+% \listoftables
+
+\newgeometry{
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm}
+\pagenumbering{arabic}
+
+\section{Introduction}
+\subsection{Objective}
+The objective of this project is to gain both a quantitative and a qualitative understanding of pre-trained voice recognition technologies. In particular, the first objective is to implement a \gls{stt} model using the DeepSpeech library and evaluate the complexity of its deployement. Then, we should measure the time performance, CPU usage and memory cost on a 
+
+
+\section{Solution}
+\section{Going further}
+
+
+% \clearpage
+% \printnoidxglossaries
+
+\end{document}
