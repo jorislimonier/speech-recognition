@@ -7,8 +7,10 @@ class DataAssembler:
     RAW_PATH = "./data/raw/"
     INTERIM_PATH = "./data/interim/"
 
-
     def list_wav_files(self):
+        """
+        List all ".wav" files in a subdirectory of the data/raw directory.
+        """
         path_pattern = f"{self.RAW_PATH}train-ws96-i/wav/**/**/*.wav"
         wav_files = glob.glob(path_pattern)
         wav_files.sort()
@@ -16,6 +18,9 @@ class DataAssembler:
 
     @staticmethod
     def extract_labels(trans_file):
+        """
+        Read data from `trans_file` and return a dataframe with wav file location and its label.
+        """
         # read data
         with open(trans_file, "r") as f:
             full_txt = "".join(f.readlines())
@@ -50,6 +55,3 @@ trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
 wav_files = assembler.list_wav_files()
 print(wav_files)
 print(assembler.extract_labels(trans_file))
-# get wrd counterparts
-# wrd_files = [f.replace("wav", "wrd") for f in wav_files]
-# wrd_file = wrd_files[3]

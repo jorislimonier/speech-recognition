@@ -1,6 +1,7 @@
 # ------ CUSTOM ------
 models
 .vscode
+notebooks/DeepSpeech_trial1.ipynb
 
 # ------ PYTHON ------
 # Byte-compiled / optimized / DLL files

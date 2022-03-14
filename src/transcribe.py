@@ -16,13 +16,18 @@ class Transcribe:
         self.model = deepspeech.Model(self.model_filepath)
 
     def rewrite_wav(self, filepath):
+        """
+        Read a wav file and rewrite it to a temporary wav file in order to avoid the RIFF id error (i.e. wav files previously couldn't be read)
+        """
         x, _ = librosa.load(filepath, sr=16000)
         tmp = "data/interim/tmp.wav"
         sf.write(tmp, x, 16000)
         return tmp
 
     def batch_transcribe(self, filepath):
-        # batch api
+        """
+        Use the batch api of DeepSpeech to perform Speech-to-text (STT).
+        """
         tmp = self.rewrite_wav(filepath)
 
         w = wave.open(tmp, "r")
@@ -34,7 +39,10 @@ class Transcribe:
         print(text)
 
     def stream_transcribe(self, filepath):
-        # stream api
+        """
+        Use the stream api of DeepSpeech to perform Speech-to-text (STT).
+        May get deprecated soon.
+        """
         tmp = self.rewrite_wav(filepath)
         w = wave.open(tmp, "r")
         frames = w.getnframes()
