@@ -1,10 +1,14 @@
+import os
 import wave
 
 import deepspeech
-import numpy as np
-
 import librosa
+import numpy as np
 import soundfile as sf
+
+from data_assembler import DataAssembler
+
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "1"  # remove message "This TensorFlow binary..."
 
 
 class Transcribe:
@@ -30,13 +34,15 @@ class Transcribe:
         """
         tmp = self.rewrite_wav(filepath)
 
+        # read wav file
         w = wave.open(tmp, "r")
         frames = w.getnframes()
         buffer = w.readframes(frames)
         data16 = np.frombuffer(buffer, dtype=np.int16)
 
+        # perform stt
         text = self.model.stt(data16)
-        print(text)
+        return text
 
     def stream_transcribe(self, filepath):
         """
@@ -67,7 +73,15 @@ class Transcribe:
 trsc = Transcribe()
 filepath = "data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0025.wav"
 # filename = "data/external/audio/2830-3980-0043.wav"
+trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
+da = DataAssembler()
+
+df = da.extract_labels(trans_file)
 
 
-trsc.batch_transcribe(filepath)
+wav_file = df.loc[0, "full_path"]
+print(trsc.batch_transcribe(wav_file))
+
+
+# trsc.batch_transcribe(filepath)
 # trsc.stream_transcribe(filepath)

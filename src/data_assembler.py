@@ -3,10 +3,8 @@ import os
 
 import pandas as pd
 
-print("IMPORTED FILE")
 
 class DataAssembler:
-    print("IMPORTED CLASS")
     RAW_PATH = "./data/raw/"
     INTERIM_PATH = "./data/interim/"
 
@@ -19,8 +17,7 @@ class DataAssembler:
         wav_files.sort()
         return wav_files
 
-    @staticmethod
-    def extract_labels(trans_file):
+    def extract_labels(self, trans_file):
         """
         Read data from `trans_file` and return a dataframe with wav file location and its label.
         """
@@ -46,15 +43,31 @@ class DataAssembler:
         # extract text
         df["text"] = df["text"].apply(lambda txt: txt.split(" (")[0])
 
+        # remove leading and trailing whitespace
+        df = df.apply(lambda x: x.str.strip())
         # write data
         # df.to_csv("data/interim/labels.csv")
-        return df[["parent_folder", "filename", "text"]]
+        df = df[["parent_folder", "filename", "text"]]
+        main_dir = "train-ws96-i/"
+
+        # construct full path of wav files
+        start_digits = df["parent_folder"].apply(lambda x: x[:2])
+        df["full_path"] = (
+            f"""{self.RAW_PATH}{main_dir}/wav/"""
+            + start_digits
+            + "/"
+            + df["parent_folder"]
+            + "/"
+            + df["filename"]
+            + ".wav"
+        )
+        return df
 
 
-assembler = DataAssembler()
-trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
+# assembler = DataAssembler()
+# trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
 
-# get sorted list of wav files
-wav_files = assembler.list_wav_files()
+# # get sorted list of wav files
+# wav_files = assembler.list_wav_files()
 
-print(assembler.extract_labels(trans_file))
+# print(assembler.extract_labels(trans_file))
