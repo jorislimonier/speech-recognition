@@ -1,9 +1,12 @@
-import os
 import glob
+import os
+
 import pandas as pd
 
+print("IMPORTED FILE")
 
 class DataAssembler:
+    print("IMPORTED CLASS")
     RAW_PATH = "./data/raw/"
     INTERIM_PATH = "./data/interim/"
 
@@ -53,5 +56,5 @@ trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
 
 # get sorted list of wav files
 wav_files = assembler.list_wav_files()
-print(wav_files)
+
 print(assembler.extract_labels(trans_file))
