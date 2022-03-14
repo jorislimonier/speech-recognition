@@ -12,27 +12,29 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "1"  # remove message "This TensorFlow bina
 
 
 class Transcribe:
+    BASE_FILES = ["train-ws96-i", "train-ws97-i"]
+
     def __init__(
         self,
-        model_filepath="models/deepspeech-0.9.3-models.pbmm",
+        model_path="models/deepspeech-0.9.3-models.pbmm",
     ):
-        self.model_filepath = model_filepath
-        self.model = deepspeech.Model(self.model_filepath)
+        self.model_path = model_path
+        self.model = deepspeech.Model(self.model_path)
 
-    def rewrite_wav(self, filepath):
+    def rewrite_wav(self, path):
         """
         Read a wav file and rewrite it to a temporary wav file in order to avoid the RIFF id error (i.e. wav files previously couldn't be read)
         """
-        x, _ = librosa.load(filepath, sr=16000)
+        x, _ = librosa.load(path, sr=16000)
         tmp = "data/interim/tmp.wav"
         sf.write(tmp, x, 16000)
         return tmp
 
-    def batch_transcribe(self, filepath):
+    def batch_transcribe(self, path):
         """
         Use the batch api of DeepSpeech to perform Speech-to-text (STT).
         """
-        tmp = self.rewrite_wav(filepath)
+        tmp = self.rewrite_wav(path)
 
         # read wav file
         w = wave.open(tmp, "r")
@@ -44,12 +46,12 @@ class Transcribe:
         text = self.model.stt(data16)
         return text
 
-    def stream_transcribe(self, filepath):
+    def stream_transcribe(self, path):
         """
         Use the stream api of DeepSpeech to perform Speech-to-text (STT).
         May get deprecated soon.
         """
-        tmp = self.rewrite_wav(filepath)
+        tmp = self.rewrite_wav(path)
         w = wave.open(tmp, "r")
         frames = w.getnframes()
         buffer = w.readframes(frames)
@@ -71,17 +73,19 @@ class Transcribe:
 
 
 trsc = Transcribe()
-filepath = "data/raw/train-ws96-i/wav/20/2073B/sw2073B-ws96-i-0025.wav"
-# filename = "data/external/audio/2830-3980-0043.wav"
-trans_file = "data/raw/train-ws96-i/trans/train-ws96-i-trans.text,v"
+BASE_FILES = ["train-ws96-i", "train-ws97-i"]
+
+base_file = BASE_FILES[1]
 da = DataAssembler()
 
-df = da.extract_labels(trans_file)
+df = da.extract_labels(base_file)
 
 
-wav_file = df.loc[0, "full_path"]
-print(trsc.batch_transcribe(wav_file))
+wav_file = df.loc[0, "path"]
+df_red = df.iloc[:5, :] # work on reduced dataframe
+df_red["pred"] = df_red["path"].apply(trsc.batch_transcribe)
+print(df_red)
 
 
-# trsc.batch_transcribe(filepath)
-# trsc.stream_transcribe(filepath)
+# trsc.batch_transcribe(path)
+# trsc.stream_transcribe(path)
