@@ -4,7 +4,11 @@ import wave
 import deepspeech
 import librosa
 import numpy as np
+import pandas as pd
 import soundfile as sf
+from tqdm import tqdm
+
+from time import time
 
 from data_assembler import DataAssembler
 
@@ -23,18 +27,22 @@ class Transcribe:
 
     def rewrite_wav(self, path):
         """
-        Read a wav file and rewrite it to a temporary wav file in order to avoid the RIFF id error (i.e. wav files previously couldn't be read)
+        Read a wav file and rewrite it to a temporary wav file in order to avoid the RIFF id error
+        (i.e. wav files previously couldn't be read)
         """
         x, _ = librosa.load(path, sr=16000)
         tmp = "data/interim/tmp.wav"
         sf.write(tmp, x, 16000)
         return tmp
 
-    def batch_transcribe(self, path):
+    def batch_transcribe(self, path, benchmark=False):
         """
         Use the batch api of DeepSpeech to perform Speech-to-text (STT).
         """
         tmp = self.rewrite_wav(path)
+
+        if benchmark:
+            start_time = time()
 
         # read wav file
         w = wave.open(tmp, "r")
@@ -44,6 +52,11 @@ class Transcribe:
 
         # perform stt
         text = self.model.stt(data16)
+
+        if benchmark:
+            end_time = time()
+            transcription_time = end_time - start_time
+            return text, transcription_time
         return text
 
     def stream_transcribe(self, path):
@@ -71,8 +84,43 @@ class Transcribe:
             print(text)
             offset = end_offset
 
+    def predict(self, df, benchmark=False):
+        """
+        Predicts a column of the df, adds the prediction to a "pred" column and returns the df.
 
-trsc = Transcribe()
+        If `benchmark=True`, also times the transcription and adds it to a "time" column.
+        """
+        df = df.copy()  # prevent SettingWithCopyWarning
+
+        n_samples = len(df)
+        df["pred"] = np.nan
+
+        if benchmark:
+            df["time"] = np.nan
+
+        for row_nb in tqdm(range(n_samples)):
+            wav_file = df.loc[row_nb, "path"]
+
+            try:
+                if benchmark:
+                    pred, time = self.batch_transcribe(
+                        path=wav_file,
+                        benchmark=benchmark,
+                    )
+                    df.loc[row_nb, "pred"] = pred
+                    df.loc[row_nb, "time"] = time
+
+                else:
+                    df.loc[row_nb, "pred"] = self.batch_transcribe(
+                        path=wav_file,
+                        benchmark=benchmark,
+                    )
+            except Exception as e:
+                print(f"EXCEPTION: {e}")
+
+        return df
+
+
 BASE_FILES = ["train-ws96-i", "train-ws97-i"]
 
 base_file = BASE_FILES[1]
@@ -80,12 +128,7 @@ da = DataAssembler()
 
 df = da.extract_labels(base_file)
 
+trsc = Transcribe()
 
-wav_file = df.loc[0, "path"]
-df_red = df.iloc[:5, :] # work on reduced dataframe
-df_red["pred"] = df_red["path"].apply(trsc.batch_transcribe)
-print(df_red)
-
-
-# trsc.batch_transcribe(path)
-# trsc.stream_transcribe(path)
+df_red = df.iloc[:3, :]  # work on reduced dataframe
+print(trsc.predict(df_red, benchmark=True))
