@@ -4,7 +4,7 @@ import jiwer
 import pandas as pd
 
 
-class Measure:
+class Analysis:
     def __init__(self, results_file) -> None:
         self.df_res = pd.read_csv(results_file)
 
@@ -24,8 +24,6 @@ class Measure:
         on `self.df_res` and adds a column for each metric.
         """
         df = self.df_res.copy()
-        # drop na
-        df = df.dropna().reset_index(drop=True)
 
         # clean
         df["ground_truth"] = df["ground_truth"].apply(self.clean_ground_truth)
@@ -45,6 +43,10 @@ class Measure:
             ground_truth = df.loc[row_nb, "ground_truth"]
             pred = df.loc[row_nb, "pred"]
 
+            # skip if isna
+            if pd.isna(pred):
+                continue
+
             # compute dictionary with all metrics
             measures = jiwer.compute_measures(
                 truth=ground_truth,
@@ -57,4 +59,15 @@ class Measure:
             for measure_name, measure_val in measures.items():
                 df.loc[row_nb, measure_name] = measure_val
 
-        return df
+        return df[list(measures.keys())]
+
+    def count_keywords(self):
+        """
+        Count the number of keywords in the pred column. \\
+        Keywords are between square brackets.
+        """
+        df = self.df_res.copy()
+
+        count_kw = lambda txt: len(re.findall(pattern="\[.*?\]", string=txt))
+
+        return pd.DataFrame({"n_keywords": df["ground_truth"].apply(count_kw)})
