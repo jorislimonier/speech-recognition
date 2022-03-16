@@ -3,6 +3,14 @@ models
 .vscode
 notebooks/DeepSpeech_trial1.ipynb
 
+data/raw/train-ws96-i/*
+!data/raw/train-ws96-i/trans
+!data/raw/train-ws96-i/wav
+
+data/raw/train-ws97-i/*
+!data/raw/train-ws97-i/trans
+!data/raw/train-ws97-i/wav
+
 # ------ PYTHON ------
 # Byte-compiled / optimized / DLL files
 __pycache__/
