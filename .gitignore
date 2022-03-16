@@ -13,6 +13,8 @@ data/raw/train-ws97-i/*
 !data/raw/train-ws97-i/trans
 !data/raw/train-ws97-i/wav
 
+data/raw/misc-ws97-i
+
 # ------ PYTHON ------
 # Byte-compiled / optimized / DLL files
 __pycache__/

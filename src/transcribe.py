@@ -58,31 +58,6 @@ class Transcribe:
             return text, transcription_time
         return text
 
-    def stream_transcribe(self, path):
-        """
-        Use the stream api of DeepSpeech to perform Speech-to-text (STT).
-        May get deprecated soon.
-        """
-        tmp = self.rewrite_wav(path)
-        w = wave.open(tmp, "r")
-        frames = w.getnframes()
-        buffer = w.readframes(frames)
-
-        context = self.model.createStream()
-
-        buffer_len = len(buffer)
-        offset = 0
-        batch_size = 16384
-        text = ""
-        while offset < buffer_len:
-            end_offset = offset + batch_size
-            chunk = buffer[offset:end_offset]
-            data16 = np.frombuffer(chunk, dtype=np.int16)
-            context.feedAudioContent(data16)
-            text = context.intermediateDecode()
-            print(text)
-            offset = end_offset
-
     def predict(self, df, benchmark=False, save_file=False):
         """
         Predicts a column of the df, adds the prediction to a "pred" column and returns the df.
@@ -119,7 +94,9 @@ class Transcribe:
 
         if save_file:
             str_n_samples = str(n_samples).zfill(4)
-            df.to_csv(f"data/processed/results_{str_n_samples}_samples.csv", index=False)
+            df.to_csv(
+                f"data/processed/results_{str_n_samples}_samples.csv", index=False
+            )
         return df
 
 

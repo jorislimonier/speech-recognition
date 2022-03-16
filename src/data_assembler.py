@@ -7,15 +7,6 @@ class DataAssembler:
     RAW_PATH = "./data/raw/"
     INTERIM_PATH = "./data/interim/"
 
-    def list_wav_files(self):
-        """
-        List all ".wav" files in a subdirectory of the data/raw directory.
-        """
-        path_pattern = f"{self.RAW_PATH}train-ws96-i/wav/**/**/*.wav"
-        wav_files = glob.glob(path_pattern)
-        wav_files.sort()
-        return wav_files
-
     def extract_labels(self, base_file):
         """
         Read data from `trans_file` and return a dataframe with wav file location and its label.
