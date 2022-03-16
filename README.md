@@ -13,7 +13,7 @@
 - [Official docs](https://deepspeech.readthedocs.io/en/r0.9/)
 
 
-##TO DO
+## TO DO
 Analyse the results and observe what affected to the wrong predictions. Some ideas:
 -  The length of the sentences and speech.
 - The length of the words (correctly predicted vs wrongly).
