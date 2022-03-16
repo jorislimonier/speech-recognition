@@ -3,6 +3,8 @@ models
 .vscode
 notebooks/DeepSpeech_trial1.ipynb
 
+data/raw/swb1_dialogact_annot
+
 data/raw/train-ws96-i/*
 !data/raw/train-ws96-i/trans
 !data/raw/train-ws96-i/wav
