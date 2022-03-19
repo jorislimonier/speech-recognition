@@ -37,7 +37,7 @@ Analyse the results and observe what affected to the wrong predictions. Some ide
     - Explain WER (denominator is total number of words in ground truth)
 - Joris:
     - Compute seconds of transcription per number of words
-    - Add hardware specs
+    - Add hardware specs: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz
     - Check report on sunday
 
 
@@ -70,7 +70,7 @@ deepspeech --model deepspeech-0.9.3-models.pbmm --scorer deepspeech-0.9.3-models
 Yes (add seconds of transcription per number of words).
 
 ### What is the hardware chosen?
-(Joris will add)
+`Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz`
 
 ### What is the CPU and memory cost of this recognition on the hardware they chose to use?
 Can probably be inferred from hardware and transciption time.
