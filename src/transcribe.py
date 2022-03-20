@@ -60,8 +60,7 @@ class Transcribe:
 
     def predict(self, df, benchmark=False, save_file=False):
         """
-        Predicts a column of the df, adds the prediction to a "pred" column and returns the df.
-
+        Predicts a column of the df, adds the prediction to a "pred" column and returns the df. \\
         If `benchmark=True`, also times the transcription and adds it to a "time" column.
         """
         df = df.copy()  # prevent SettingWithCopyWarning
@@ -100,17 +99,4 @@ class Transcribe:
         return df
 
 
-BASE_FILES = ["train-ws96-i", "train-ws97-i"]
 
-base_file = BASE_FILES[1]
-da = DataAssembler()
-
-df = pd.concat(
-    objs=[da.extract_labels(base_file) for base_file in BASE_FILES],
-    ignore_index=True,
-)
-print(df)
-trsc = Transcribe()
-
-df_red = df.iloc[:, :]  # work on reduced dataframe
-print(trsc.predict(df_red, benchmark=True, save_file=True))

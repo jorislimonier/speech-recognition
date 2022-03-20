@@ -26,6 +26,7 @@ class DataAssembler:
         # remove columns with unknown data and remove last row
         df = df.drop(columns=[1, 2], index=[len(df) - 1])
 
+        # rename columns
         df.columns = ["parent_folder", "ground_truth"]
 
         # extract filename
@@ -37,10 +38,9 @@ class DataAssembler:
 
         # remove leading and trailing whitespace
         df = df.apply(lambda x: x.str.strip())
+
         # write data
-        # df.to_csv("data/interim/labels.csv")
         df = df[["parent_folder", "filename", "ground_truth"]]
-        # main_dir = "train-ws96-i/"
 
         # construct full path of wav files
         start_digits = df["parent_folder"].apply(lambda x: x[:2])
