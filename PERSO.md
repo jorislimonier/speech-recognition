@@ -86,3 +86,25 @@ Metric: word error rate
 WER = float(S + D + I) / float(H + S + D)
 ```
 Based on substitutions, deletions, insertions and hits (explain each term)
+
+
+## Presentation
+
+Maybe add [this](https://serpwatch.io/blog/voice-search-statistics/) for intro? (some statistics about voice recognition)
+
+### Part 1. DeepSpeech paper
+- Quick explanation of the model (presented by Cem)
+  - architecture
+  - ideas behind the model
+  - what's innovative in this model?
+
+### Part 2. Our solution
+- Presentation of the way we solved the problem (presented by Joris)
+  - [Code architecture](https://github.com/jorislimonier/speech-recognition/blob/main/report/images/speech-recognition.drawio.png) (one slide per box)
+  - RIFF error (explanation + solution)
+
+### Part 3. Our results
+- Quantitative results (WER, ...etc) (Cem)
+- Qualitative results (Type of words that go right/wrong, ...etc) (Joris)
+
+### Conclusion & Opinion
